@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "Milago", 
+                "Earth-8009"
+            ], 
+            "content": "Such was the case when the Cradle had become damaged and could not produce any more female children to join the ranks of the Sisterhood. She commanded Milago's finest warrior \u2013 Lyra, daughter of Thundra and Hulk \u2013 to journey to the realm of men and seize a replacement part to repair the Cradle. Lyra did as she was told, but a bitter betrayal put her at odds with the Gynosure. While on the mission, one of Lyra's soldiers attacked her, saying Gynosure wanted the male element from the Sisterhood removed. Lyra defended herself and killed her attacker in the process, but she would soon have words with the Gynosure.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Glowing white\n", 
+            "fighting": 1, 
+            "firstappearance": "Savage She-Hulk #1 (2009)\n", 
+            "groupaffiliation": "The United Sisterhood Republic", 
+            "hair": "Bald\n", 
+            "id": "Gynosure", 
+            "identity": "Known to The United Sisterhood Republic", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Keeper of the knowledge of Milago", 
+                "and guardian of the Cradle"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Milago", 
+            "powers": "None", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Gave Lyra a mission to restore the Cradle of the Sisterhood (Savage She-Hulk #1, 2009)", 
+                "Forced Lyra to travel to the past to find Norman Osborn (Savage She-Hulk #3, 2009)", 
+                "Gave Lyra her blessing to stay in the past to find her place in the world (Savage She-Hulk #4, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

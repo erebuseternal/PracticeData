@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Son of Satan #5 (1976)\n", 
+            "groupaffiliation": "Ally of Anubis", 
+            "hair": "Black\n", 
+            "id": "Mindstar", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Servant of Anubis", 
+                "former Realtor"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Mindstar had vast powers of the mind, he was able to read the thoughts of others, control them to do his biding, create elaborate illusions, produce astral shields and projections. He could also open portals to other dimensions. He was protected from the powers of Anubis by the powers of the ankh that he wore, without the ankh he was dependent on Anubis for his powers.", 
+            "realname": "Silas Warden", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Netherspawn", 
+                "Overmaster", 
+                "Satan"
+            ], 
+            "citizenship": "Sominus", 
+            "content": "Soon after, Thog summoned the Man-Thing and Jennifer Kale's family to Sominus, restoring the Man-Thing to human form and offering to make it permanent if he would kill the Kales, but the Man-Thing disintegrated Thog instead. Recovering, Thog used the Tome of Zhered-Na and sent his demons to possess people on Earth, causing mass violence until Jennifer and the Man-Thing disrupted the spell with the aid of Dakimh the Enchanter. Thog then posed as the human Overmaster, joining forces with the Congress of Realities in an effort to merge all dimensions into a single realm; this disruption of the nexus of reality sent Howard of Duckworld and Korrek, warrior of Katharta, to Earth. Ultimately, Thog invaded Therea, but was petrified by immersion in its pure waters. Inspired by the Fear Lord Nox, Thog then used a number of Nightmare Boxes - filled with dark emotional energies - in a plot to plunge Earth into madness. However, the Man-Thing and writer Steve Gerber were pulled into a Box, and the presence of rational thought disrupted the delicate balance, foiling the scheme.", 
+            "durability": 1, 
+            "education": "Extensively self-taught", 
+            "energy": 1, 
+            "eyes": "Yellow (variable)\n", 
+            "fighting": 1, 
+            "firstappearance": "(Adventure into) Fear #11 (1972)\n", 
+            "groupaffiliation": [
+                "Hell-Lords", 
+                "Lords of the Splinter Realms"
+            ], 
+            "hair": "None (variable)\n", 
+            "height": 70, 
+            "id": "Thog", 
+            "identity": "Existence unknown to general public of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "Possible quasi-paternal relationship to Hellstorm and Satana", 
+            "occupation": [
+                "Ruler of Sominus", 
+                "would-be conqueror"
+            ], 
+            "placeofbirth": "Primeval Earth", 
+            "powers": "Thog can fire bolts of magical energy, has superhuman physical powers, and sometimes opens inter-dimensional portals; like most demons, he is much more powerful within his own realm where he can alter reality itself. However, even there he has proven susceptible to the fiery touch of the Man-Thing. He has re-formed following complete disintegration and is likely immortal.", 
+            "realname": "Thog", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 185
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Agent R-7", 
+                "the Ravager of Worlds"
+            ], 
+            "citizenship": [
+                "Citizen of Croatia", 
+                "former citizen of Yugoslavia"
+            ], 
+            "content": "Given his gamma-spawned origins, Blonsky blames his condition on Banner and his alter ego, the Hulk. The Abomination and the Hulk have clashed on numerous occasions, with Blonsky perpetually playing the role of the aggressor. Although Blonsky occasionally gains the upper hand in their battles, the Hulk manages to triumph in the end. But not always; the Abomination is one of the few who can lay claim to victory over the green-skinned goliath.In recent years, it was revealed that his hideous new visage had served to alienate Blonsky from his ex-wife, Nadia. Coupled with constant defeats at the hands of the Hulk, this has driven Blonsky nearly insane in his hatred for Banner. The Abomination also grew incensed upon learning that Banner had married Betty Ross, the daughter of General \"Thunderbolt\" Ross. With the loss of his wife, Blonsky figured it is only fair to him that Banner should lose Betty. Out of jealousy, he caused the apparent death of Bruce Banner's wife Betty. While she was recovering from radiation sickness caused by exposure to the gamma radiation within Banner, he poisoned her with his radioactive blood, causing Banner and his associates to believe that her close proximity to the Hulk had given her a fatal case of radiation poisoning. Banner later exposed the Abomination's role in Betty's seeming death, and defeated him in combat.Not only had his grand scheme failed, but Banner also forgave Blonsky. The Abomination could not comprehend and endure his enemy's absolution, and his moment of triumph was twisted into crushing defeat. Blonsky realized he had become what he abhorred the most - it was he who was the rampaging, inhuman monster; not the Hulk as he had religiously believed all these years.Months later, the still-grieving General Ross manipulated the Hulk into attacking and almost killing Blonsky. The Abomination was taken into custody by the military; as punishment, he was forced to watch a film loop of himself and his wife prior to his transformation, making his incarceration a constant reminder of what he has lost.", 
+            "durability": 6, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "(Abomination) Green; (Blonsky) Blue\n", 
+            "fighting": 2, 
+            "firstappearance": "Tales to Astonish #90 (1967)\n", 
+            "groupaffiliation": [
+                "Ally of the Abominations and the Forgotten", 
+                "Formerly partner of the Rhino", 
+                "crew of the starship Andromeda", 
+                "agent of the Galaxy Master", 
+                "and MODOK."
+            ], 
+            "hair": "(Abomination) None; (Blonsky) Blond\n", 
+            "height": 0, 
+            "id": "Abomination", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "Nadia Dornova Blonsky (wife, divorced)", 
+            "occupation": [
+                "Professional Criminal", 
+                "Former Spy"
+            ], 
+            "origin": "Tales to Astonish #90 (1967)", 
+            "placeofbirth": [
+                "Zagreb", 
+                "Yugoslavia"
+            ], 
+            "powers": "Blonsky's transformation into the Abomination substantially increased his strength and durability. Like the Hulk, the Abomination can use his superhumanly strong leg muscles to leap great distances, covering miles in a single bound. The Abomination has vast physical strength.\nUnlike the Hulk, the Abomination's transformation has proved stable: he cannot change back and forth between his human state and his superhuman state, despite his wishes to the contrary. Though the Abomination has proven able to regenerate lost eyes and recover from other forms of massive cellular damage, his ability to regenerate tissue is much slower than that of the Hulk. One possible explanation for this is that the Hulk's remarkable regenerative abilities increases in efficiency as he becomes enraged, much like his strength. The Abomination is resistant to extremes of temperature, and can hold his breath for extended periods of time; in the case of lack of air or heat, he may enter a coma-like state of suspended animation.", 
+            "realname": "Emil Blonsky", 
+            "speed": 2, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": 980
+        }
+    }
+}

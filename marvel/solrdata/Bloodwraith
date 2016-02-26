@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Black Wraith", 
+            "citizenship": [
+                "Ireland", 
+                "international criminal record"
+            ], 
+            "content": "Losing the Blade during the Atlantean chaos, Dolan stole an alternative Ebony Blade (formerly wielded by Whitman\u2019s mad alternative-reality counterpart Proctor), and was transformed into the rampaging Black Wraith. Aided by Valinor, the Avengers retrieved Dolan\u2019s original Ebony Blade, restoring him to a more human state. Later, while Dolan was doing voluntary humanitarian work in the destroyed country Slorenia, the Blade somehow drew power from the souls of the recently slaughtered Slorenian populace, and transformed Dolan into a savage, unstoppable giant.  The Avengers were unable to defeat him, and the Scarlet Witch was unable to severe Dolan\u2019 link to the Slorenian souls; so instead, she strengthened his bond, making it impossible for Bloodwraith to leave Slorenian territory.  The mad giant has been trapped in the deserted country ever since, monitored by SHIELD and the Avengers.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "(Dolan) Blue; (Bloodwraith)  red, later white\n", 
+            "fighting": 1, 
+            "firstappearance": "(Dolan) Black Knight #2 (1990); (Bloodwraith) Avengers Annual #22 (1993)\n", 
+            "groupaffiliation": "Formerly squire to Black Knight", 
+            "hair": "(Dolan) Reddish-blond; (Bloodwraith) none\n", 
+            "height": 0, 
+            "id": "Bloodwraith", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified parents (deceased)", 
+            "occupation": [
+                "Insane menace", 
+                "former aid worker", 
+                "squire"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Sean Dolan", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

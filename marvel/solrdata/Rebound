@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed, but he had an extensive knowledge in science", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Speedball #10 (1989)\n", 
+            "groupaffiliation": "Employed the \"Speedball Revenge Squad\"", 
+            "hair": "Brown\n", 
+            "id": "Rebound", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Professional criminal", 
+                "former lab assistant"
+            ], 
+            "origin": "New Warriors #66 (1995)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Clyde (last name unrevealed)", 
+            "significantissues": [
+                "Discovered a growth formula he thought would make him rich, but one of his creations nearly killed him (Speedball #10, 1989)", 
+                "Hired Speedball\u2019s old foes to capture Niels, the cat, so he could steal its kinetic powers for himself (New Warriors #66, 1995)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

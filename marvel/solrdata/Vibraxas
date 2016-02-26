@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Master of Vibration", 
+                "\"Nappy Fro Lad (NFL)\""
+            ], 
+            "citizenship": "Wakandan", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(Mentioned) Fantastic Four #390 (1994); (seen) Fantastic Four #391 (1994)\n", 
+            "groupaffiliation": "Formerly Force", 
+            "hair": "Black\n", 
+            "height": 70, 
+            "id": "Vibraxas", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "A\"Kane (mother,deceased), unidentified father (deceased), N\"Kano (grandfather)", 
+            "occupation": "Adventure", 
+            "origin": "Fantastic Force #14 (1995)", 
+            "placeofbirth": "Wakanda", 
+            "powers": "Vibraxas can generate intense vibrations which can manifest in a number of ways, including destructive shockwaves, subtle frequency matching, and phasing himself and others through solid substances. This energy must be regulated by a harness that helps Vibraxas control his powers, which can shatter his bones if unregulated.", 
+            "realname": "N'Kano", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 75
+        }
+    }
+}

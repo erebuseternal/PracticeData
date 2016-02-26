@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Jane Foster", 
+            "citizenship": "USA", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed College", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Journey into Mystery #84 (1962)\n", 
+            "groupaffiliation": "No known groups", 
+            "hair": "Brown\n", 
+            "id": "Foster-Kincaid,_Jane", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Keith Kincaid (Husband) and a son", 
+            "occupation": "Nurse", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "United States", 
+            "powers": "None", 
+            "realname": "Jane Foster-Kincaid", 
+            "significantissues": "Odin made her a goddess (Thor#136, 1967)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "The Norn Queen", 
+            "citizenship": [
+                "Nornheim (Asgard)", 
+                "Asgardian"
+            ], 
+            "content": "Karnilla lived opulently in the ancient fastness of Nornkeep, attended by her servant, the aged minor sorceress Haag, and troops of guardian demons. Although there were many demons among her subjects, Karnilla's realm was also populated by humanoid immortals, just as was Asgard proper. Karnilla's relationship to the goddesses of destiny was unknown, although they were clearly beyond her jurisdiction.In the past Karnilla often proved to be an enemy of Asgard, and acted in alliance with the Asgardian god of evil, Loki. However, Karnilla was long in love with Asgard's noblest warrior, Balder the Brave. On Balder's request (on behalf of Asgard's monarch Odin), Karnilla allied herself and her army with Asgard in the war with Surtur. After years of resisting Karnilla's advances, Balder finally became Karnilla's lover. Some of Balder's Asgardian friends disapproved of the relationship, regarding Karnilla as a figure of evil. Karnilla regarded herself, however, as a harsh but just ruler.Balder was called away from Nornkeep to join the Asgardian prince Thor in his mission to rescue souls of Earth human beings from Hel. During Balder's absence, Karnilla was taken prisoner by the Frost Giants of Jotunheim, who were preparing an invasion of Asgard and first intended to eliminate Asgard's allies. The Frost Giants also transformed Karnilla's subjects into stone. On his return, Balder set out to rescue Karnilla, and ultimately met with success.", 
+            "durability": 1, 
+            "education": "Unrevealed; although she was a highly adept sorceress", 
+            "energy": 1, 
+            "eyes": "Purple\n", 
+            "fighting": 1, 
+            "firstappearance": "Journey Into Mystery #107\n", 
+            "groupaffiliation": [
+                "None", 
+                "former partners of Balder", 
+                "Haag the Seeress", 
+                "Loki"
+            ], 
+            "hair": "Black\n", 
+            "height": 78, 
+            "id": "Karnilla", 
+            "identity": [
+                "Secret on Earth", 
+                "Public on Asgard"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Queen of Nornheim", 
+                "Sorceress"
+            ], 
+            "placeofbirth": [
+                "Realm of Nornheim", 
+                "dimension of Asgard"
+            ], 
+            "powers": "Karnilla possesses the conventional attributes of an Asgardian woman (\"goddess\") as well as mastery of the mystical arts of Asgard. Like all Asgardians she is extremely long-lived (though not immortal like the Olympians), superhumanly strong, immune to all diseases, and resistant to conventional injury (Asgardian flesh and bone is about 3 times denser than Earthly flesh and bone, accounting for Asgardians' greater strength and weight). Her Asgardian metabolism gives her far greater immunity than human endurance at all physical activities, though she seldom deigns to indulge in unnecessary exercise.\nKarnilla's magical powers derive from two major sources: her innate capacity to manipulate magical energy, which she has honed through long practice, and her acquired knowledge of spells and enchantments of Asgardian origin. Her ability to wield magical energy for personal use is only surpassed among inhabitants of the Asgardian dimension by Odin. Through sorcery she is afforded a host of abilities: the enhancement of physical and sensory abilities, the power to assume different forms and attributes, and the ability to deploy mystical energy for offensive and defensive purposes, in the form of magical power bolts and shields.\n\nKarnilla's vast knowledge of arcane lore enables her to cast spells with a variety of specific effects. The many spells she has utilized include illusion casting, temporary paralysis or sleep, deflection of oncoming matter and energy, inter-dimensional teleportation, and elemental conversion. These spells derive their potency from the ambient mystical energy of Asgard's dimension or power-objects found therein. (Of course, she can also use her magical abilities with full effectiveness when she is in Earth's dimension.) Karnilla is capable of casting inter-dimensional spells, and of casting spells that have permanent effects. For example, once while she was physically in Nornheim, she cast a spell upon Oswald Garth, the human criminal calling himself the Wrecker, which permanently gave him and his weapon extraordinary properties.", 
+            "realname": "Karnilla", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 475
+        }
+    }
+}

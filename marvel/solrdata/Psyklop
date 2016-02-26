@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Member of an underground insectoid civilization predating humanity", 
+            "content": "Psyklop searched for the Hulk, who had arrived on the microscopic planet K'ai. There the Hulk met a race of green skinned people, ruled by the beautiful Jarella, with Bruce Banner\u2019s brain controlling the Hulk\u2019s body thanks to Jarella\u2019s Pantheon of Sorcerers. After Bruce Banner protected Jarella\u2019s realm from a usurper, she agreed to marry him; but Psyklop located his prey, shrank down, captured and returned the Hulk to Earth. Although without the sorcerers spell to give Banner\u2019s personality reign over the Hulk\u2019s mind, Psyklop was brutally attacked by the behemoth, destroying Psyklop\u2019s lab. The Dark Gods seized Psyklop and, as punishment for his failure, he was banished to K\u2019ai, where he spent months crafting a castle out of a mountain peak, rebuilding his machines and creating a robot to pose as the God of the Mountain, frightening off Jarella\u2019s people insuring his privacy.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #88 (1971)\n", 
+            "groupaffiliation": "Servant of the Dark Gods", 
+            "hair": "None\n", 
+            "height": 96, 
+            "id": "Psyklop", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Would-be conqueror", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The insectoid Psyklop possessed superhuman strength, speed, durability and agility. His single red compound eye covered most of his face (allowing extensive peripheral vision), and he had razor sharp teeth, four-fingered clawed hands, and double jointed limbs. He could hypnotize subjects via an eye blast. Possessing mystic knowledge from the Dark Gods, Psyklop was mostly a master of science.", 
+            "realname": "Psyklop", 
+            "significantissues": [
+                "Psyklop kidnapped Hulk, Avengers interceded, Hulk shrunk to near nothingness (Avengers #88, 1971)", 
+                "Hulk arrived on K'ai and met Jarella, Psyklop snatched Hulk back to Earth, Psyklop seized by Dark Gods (Incredible Hulk #140, 1971)", 
+                "Psyklop exiled to K'ai, built Mountain God (Incredible Hulk #203, 1976)", 
+                "Hulk knocked K'ai out of orbit, causing earthquakes (Incredible Hulk #156, 1972)", 
+                "Psyklop created dreadnought drill to continue quakes & essence urn to contain life-forces (Incredible Hulk #203, 1976)", 
+                "Hulk defeated Mountain God (Incredible Hulk #202, 1976)", 
+                "essence urn cracked, life-forces apparently destroy Psyklop (Incredible Hulk #203, 1976)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 450
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Queen of the Werewolves", 
+                "Deadly Nightshade", 
+                "Dr. N", 
+                "Dr. Nightshade"
+            ], 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Extensively self-taught in multiple disciplines; she obtained a doctoral degree from an undisclosed university while in prison.", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America #164 (1973)\n", 
+            "groupaffiliation": [
+                "Former ally of Superia", 
+                "Yellow Claw"
+            ], 
+            "hair": "Black\n", 
+            "height": 64, 
+            "id": "Nightshade_(Tilda_Johnson)", 
+            "identity": "Known to the authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Scientist", 
+                "professional criminal"
+            ], 
+            "origin": "Power Man and Iron Fist #53 (1978)", 
+            "placeofbirth": [
+                "Harlem", 
+                "New York City"
+            ], 
+            "realname": "Tilda Johnson", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 115
+        }
+    }
+}

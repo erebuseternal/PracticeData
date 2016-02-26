@@ -1,0 +1,66 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Arachne", 
+                "Ariadne Hyde", 
+                "Dark Angel", 
+                "Dark Angel of San Francisco"
+            ], 
+            "citizenship": [
+                "British by birth", 
+                "naturalized U.S. Citizen"
+            ], 
+            "content": "Jessica returned to England where Modred the Mystic helped her shake off Hydra's brainwashing. She also allied with the sorcerer Magus, and earned the enmity of the powerful time-spanning sorceress Morgan Le Fay. Jessica eventually moved to Los Angeles where she worked as a bounty hunter alongside Scotty McDowell before Nick Fury helped her secure private investigator credentials. She lost her immunity power saving Giant-Man (Bill Foster) from radiation poisoning, and a battle with Morgan stranded Jessica on the astral plane until she was rescued by the Shroud, the Avengers and Doctor Strange. Later, Jessica and her friend, B-grade actress Lindsay McCabe, moved to Madripoor, where they often teamed with Wolverine.", 
+            "durability": 5, 
+            "education": "Education tapes during stasis; did not formally complete high school", 
+            "energy": 6, 
+            "eyes": "Green\n", 
+            "fighting": 6, 
+            "firstappearance": "Marvel Spotlight #32 (1977)\n", 
+            "groupaffiliation": [
+                "Avengers", 
+                "formerly S.H.I.E.L.D.", 
+                "Hydra", 
+                "Secret Avengers"
+            ], 
+            "hair": "Black (dyed)\n", 
+            "height": 70, 
+            "id": "Spider-Woman", 
+            "identity": "Known to S.H.I.E.L.D.", 
+            "intelligence": 6, 
+            "knownrelatives": "Jonathan (father, deceased), Merriem (mother, deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "former agent of S.H.I.E.L.D.", 
+                "private investigator", 
+                "bounty hunter", 
+                "Hydra agent", 
+                "student of Taskmaster"
+            ], 
+            "origin": [
+                "Marvel Spotlight #32 (1977)", 
+                "Spider-Woman #1 (1978)", 
+                "Spider-Woman #7 (1978)"
+            ], 
+            "placeofbirth": [
+                "London", 
+                "England"
+            ], 
+            "powers": "Jessica possesses superhuman strength (can lift at least up to 7 tons), endurance and speed. She can focus her bioelectric energy into \"venom blasts\" sufficient to stun or kill normal humans, and she can also adhere to almost any surface. Jessica rapidly forms an immunity to all poisons and drugs, and is totally immune to radiation. Her metabolism generates pheromones which attract human males while repulsing females, though she uses a chemical \"perfume\" that can nullify this effect. Jessica has lost and regained her powers more than once, but has recently emerged with her powers restored greater than ever.", 
+            "realname": "Jessica Drew", 
+            "significantissues": [
+                "Sacrificed immunity powers to save Giant-Man's life (Marvel Two-in-One #85, 1982)", 
+                "trapped in astral form (Spider-Woman #50, 1983)", 
+                "returned to her body (Avengers #241, 1984)", 
+                "moved to Madripoor (Wolverine #2, 1988)", 
+                "rescued from Void-Eater by Julia Carpenter Spider-Woman and Shadowoman (Sensational Spider-Man '96)", 
+                "aided Madame Web (Amazing Spider-Man #5, 1999)"
+            ], 
+            "speed": 6, 
+            "strength": 6, 
+            "universe": "Marvel Universe", 
+            "weight": 130
+        }
+    }
+}

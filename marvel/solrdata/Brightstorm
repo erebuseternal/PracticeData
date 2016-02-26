@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Citizen of Xarth Three", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Guardians of the Galaxy #5 (2008)\n", 
+            "groupaffiliation": "Luminals", 
+            "hair": "None\n", 
+            "id": "Brightstorm", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Protector of Xarth Three", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Xarth Three", 
+            "powers": "Brightstorm is an energy manipulator who can use his powers from long range. His high yield photonic blasts from the antennae sprouting from his head make him incredibly dangerous. Brightstorm is capable of flight and is also very durable, the levels of which are unknown \u2013 since a nerve punch from Drax didn't disable him immediately.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Fought with Drax on Knowhere and ended up in intensive care (Guardians of the Galaxy #5, 2008)", 
+                "Attacked Universal Church of Truth to save Cynosure (Guardians of the Galaxy #21, 2010)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

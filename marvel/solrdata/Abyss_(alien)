@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "(Prison only) Nova #8 (2008)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Unrevealed\n", 
+            "id": "Abyss_(alien)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Cosmic sorcerer", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Abyss is mystically empowered and is able of turning conscious life forms into what he calls \"meat puppets.\"", 
+            "realname": "Unrevealed, possibly Abyss", 
+            "significantissues": "Almost destroyed by his arch-rivals but thwarted their plans only to be defeated by Nova (Nova #8-9, 2008)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

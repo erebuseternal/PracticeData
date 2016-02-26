@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Cooper also wanted the United States government to be able to protect itself from superhuman mutants, and to fight back if necessary. She saw the United States as being in a mutant \u201carms race\u201d with other nations to develop an effective superhuman mutant corps of its own before they do. Selected to serve with the Presidential Commission on Superhuman Activities, Cooper recruited her old college friend Julia Carpenter for an experimental procedure to create superhuman powers, resulting in Carpenter becoming Spider-Woman, and employed the Brotherhood of Evil Mutants as the government-sanctioned Freedom Force. Cooper was also involved in the Commission\u2019s assertion of U.S. government control over the identity and property of \u201cCaptain America,\u201d supervising the recruitment and training of a new Captain America, John Walker, and his then-partner Battlestar, as well as employing the mutant technosmith Forge to devise means for the government to detect superhumanly-powered individuals. Following the death of Commission chairperson Douglas Rockwell, Cooper replaced him and, as her first act, reinstated Steve Rogers as Captain America.Freedom Force was abandoned by the government after being compromised during a mission in Kuwait; however, Cooper still believed that the concept of such a team was still viable, and soon after made a second attempt with X-Factor, recruiting mutant veterans of the X-Men and related teams. Cooper acted as government liaison to the team, but eventually she was forced to implement policy that she disagreed with, such as allowing the mutant terrorists Mystique and Sabretooth to join. During X-Factor\u2019s clash with the Acolytes of Magneto, Cooper became an unwilling servant of the Acolytes. Aware of her actions but unable to control them, Cooper kept from X-Factor the fact that the government was stockpiling mutant-hunting Sentinel robots. When X-Factor learned this, they left government service. Still, Cooper kept close ties with the team and often cooperated with them on their missions. However, as government-mutant relations deteriorated, Cooper ultimately sided with the government against her former allies. This was later evidenced by her taking X-Men founder Professor Xavier into protective custody after he unwittingly created the psionic creature Onslaught. Cooper later aided the X-Men after they broke into the Pentagon searching for scientist Doctor Peter Corbeau.When Baron Wolfgang von Strucker mind-controlled N.S.A. agent Henry Gyrich into conspiring to kill the world\u2019s superhumans, Cooper had the Commission join forces with the V-Battalion to create the Redeemers, a team composed primarily of ex-criminals, who were promised pardons in exchange for foiling Gyrich\u2019s plan. They succeeded with the aid of the Thunderbolts, another team of ex-criminals. Cooper granted the Thunderbolts Presidential pardons in exchange for their leader Hawkeye serving jail time.", 
+            "durability": 1, 
+            "education": "Ph. D. in Psychology", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #176 (1983)\n", 
+            "groupaffiliation": [
+                "Office of National Emergency (O*N*E)", 
+                "Commission on Superhuman Activities", 
+                "formerly X-Factor"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 69, 
+            "id": "Cooper,_Val", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "George Cooper (father, deceased), Martha Cooper (mother, deceased), Grant Cooper (brother), Edmund Atkinson (ex-husband)", 
+            "occupation": [
+                "Deputy National Security Advisor for Mutant Affairs", 
+                "Deputy Director of Sentinel Squad", 
+                "Office of National Emergency"
+            ], 
+            "placeofbirth": [
+                "Washington", 
+                "D.C."
+            ], 
+            "powers": "None", 
+            "realname": "Valerie \"Val\" Cooper", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 134
+        }
+    }
+}

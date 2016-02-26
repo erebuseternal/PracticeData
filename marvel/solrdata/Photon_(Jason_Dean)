@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Presumably USA", 
+            "content": "Richard accompanied the police detective and Dean back to his uncle's home only to find a bevy of suspects: Harry Daze \u2013 a man belonging to the criminal organization A.I.M., Franklin Risk \u2013 a ruthless businessman willing to do anything to get what he wanted, Michael Lincoln \u2013 Ralph Rider's disgruntled lab assistant who hated Rider for never recognizing his contributions, and finally, Peter Parker \u2013 mild mannered photographer for the Daily Bugle when he\u2019s not swinging around town as the amazing Spider-Man.Rider immediately switched into his alter-ego, as did Parker, but the two found themselves locked in combat when Nova remembered how the newspapers accused Spider-Man of being a criminal too. Both heroes finally decided they were on the same side and actively began looking for the actual killer. It wasn't long before Ralph Rider's butler came forward stating he had information leading to the murderer\u2019s identity, and while he was privately speaking with the detective, Photon appeared seeking to take the butler's life. Spider-Man and Nova did their best to stop the vile villain, but Photon got the better of them and was able to permanently silence the butler before making his escape. After that, Dean, Risk and Daze had all disappeared, leaving the heroes stumped.The terrible trio, still suspects of the pending investigation, were awaiting to be transported away by the forces of A.I.M. when Nova and Spider-Man confronted them, but a battle against overwhelming odds, and a timely appearance from Photon, left the do-gooders in dire peril. Chained to an anchor and dropped into the sea, it looked like it was the end for Nova and Spider-Man, but tenacity and super strength proved to be too much for their bonds. They broke free and renewed their pursuit of Photon. They traveled back to Ralph Rider\u2019s home and aided the local law enforcement in defeating A.I.M.'s soldiers, but they were almost behind the eight ball again when Photon took a hostage. The two heroes thought fast and acted even faster, and soon Photon was subdued before he could take the life of another.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Nova #12 (1977)\n", 
+            "groupaffiliation": "Maggia", 
+            "hair": "Gray\n", 
+            "id": "Photon_(Jason_Dean)", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Professional criminal", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Photon had enhanced strength", 
+            "realname": "Jason Dean", 
+            "significantissues": [
+                "Killed Ralph Rider and fought Nova and Spider-Man (Nova #12, 1977)", 
+                "Temporarily escaped until Nova and Spider-Man brought him to justice (Amazing Spider-Man #171, 1977)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

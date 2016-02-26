@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.", 
+            "content": "Quentin became addicted to the new designer drug \"Kick,\" which increased superhuman mutant powers but also altered the brain's metabolism. Quentin assembled a group of others that shared his beliefs about humans, calling them the Omega Gang, and set about attacking both innocent humans and members of the mutant-harvesting U-Men group alike. Creating a helmet patterned after that worn by Magneto which prevented the use of telepathic powers, Quentin and the Omega Gang captured Xavier during an Open Day at the Institute and fomented a student riot. While the X-Men easily defeated the Omega Gang, the identical telepathic quintet named the Stepford Cuckoos sought to oppose Quentin. One of the Cuckoos, Sophie, whom Quentin was besotted with (much to her chagrin), empowered her sisters by taking a dose of \"Kick\" and utilizing the X-Men's mutant-locating device Cerebra to magnify their telepathic powers to a level higher than Quentin's. Defeating him, the strain seemingly proved too much for Sophie and she died.", 
+            "durability": 1, 
+            "education": "Various courses undertaken at Xavier Institute for Higher Learning", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(Unidentified) New X-Men #122 (2002); (as Quentin) New X-Men #134 (2003); (as Kid Omega) New X-Men #135 (2003)\n", 
+            "groupaffiliation": [
+                "None", 
+                "formerly Omega Gang (leader)", 
+                "Xavier Institute Student Body"
+            ], 
+            "hair": "Brown, dyed purple\n", 
+            "height": 68, 
+            "id": "Kid_Omega", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified foster parents", 
+            "occupation": [
+                "Adventurer", 
+                "former student"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Quentin Quire is an Omega-level telepath who is able to form and organize thoughts at the rate of ten million per second. Among his array of mental talents, Quentin is able to communicate telepathically over long distances, read the minds of others, manipulate the thoughts and bodily functions of others, and shield his mind against telepathic probes.", 
+            "realname": "Quentin Quire", 
+            "significantissues": [
+                "Learned of adoption, formed Omega Gang, attacked humans (New X-Men #134-135, 2003)", 
+                "captured Xavier, incited riot (New X-Men #136, 2003)", 
+                "defeated by Cuckoos, Sophie killed (New X-Men #137, 2003)", 
+                "experienced secondary mutation, physical form discorporated (New X-Men #138, 2003)", 
+                "encountered Phoenix Force, reformed, sought to resurrect Sophie, rejected, returned to disembodied state (X-Men: Phoenix \u2013 Endsong #1-5, 2005)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 129
+        }
+    }
+}

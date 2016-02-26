@@ -1,0 +1,44 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Bad News Pete", 
+            "citizenship": "United States of America", 
+            "content": "The NSA assigned Gyrich to serve as the security liaison to the Avengers. Gyrich quickly made himself a nuisance by taking the Avengers to task for security violations he found on the premises of Avengers Mansion and finally revoking their government security clearance. In order to regain their security clearance, which allowed them to act unhindered throughout the US and abroad, the Avengers were forced to comply with Gyrich\u2018s demands that they submit to security screenings and limit their roster to seven approved members and that the roster had to follow affirmative action policies forcing the Avengers to accept an African-American teammate, which did not sit well with the Falcon who was said member.Gyrich\u2019s reign of terror ended when the Vision, attempting to bring about world peace through the Avengers, manipulated Gyrich into stepping down and making Raymond Sikorski (a much more reasonable man) his successor as liaison. Gyrich continued to give the Avengers trouble, however, as seated member on the council that prosecuted them for treason (charges that proved to be false) as well as serving with the Commission on Superhuman Activities, who stripped Captain America of his uniform and title.Gyrich's dislike of superhumans made him the perfect target for Baron Strucker, who had designed nanites that could place any person under his control. Under the nanite influence, Gyrich used CSA resources to remold the vigilante Nomad into the assassin Scourge (not to be confused with the Scourge of the Underworld organization) and devised a plot to destroy Earth's superhuman population. The Thunderbolts revealed Gyrich's involvement and ended his plot, freeing him from the nanites and humiliating him before the CSA.He was reassigned as liaison to the Black Panther, which allowed him to find a new opening to the Avengers when the Black Panther rejoined the team. The Avengers cautiously allowed Gyrich to resume his post as their security liaison, and proved himself to be an invaluable ally, helping the Falcon unmask Secretary of Defense Dell Rusk as the Red Skull. He lost his position as liaison after the Scarlet Witch went insane.", 
+            "durability": 1, 
+            "education": "University graduate", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #168 (1977)\n", 
+            "groupaffiliation": [
+                "S.W.O.R.D.", 
+                "Former liaison to the Avengers", 
+                "agent for the National Security Council (NSA)", 
+                "member of Project: Wideawake", 
+                "member of the Commission on Superhuman Activities (CSA)"
+            ], 
+            "hair": "Red\n", 
+            "height": 0, 
+            "id": "Gyrich,_Henry_Peter", 
+            "identity": "None", 
+            "intelligence": 1, 
+            "knownrelatives": "father (unnamed father)", 
+            "occupation": [
+                "Government agent", 
+                "(Formerly) liaison to the Avengers", 
+                "US Government attached to the Black Panther"
+            ], 
+            "origin": "Silver Surfer Annual #6 (1993)", 
+            "placeofbirth": [
+                "Pittsburgh", 
+                "Pennsylvania"
+            ], 
+            "powers": "None", 
+            "realname": "Henry Peter Gyrich", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 205
+        }
+    }
+}

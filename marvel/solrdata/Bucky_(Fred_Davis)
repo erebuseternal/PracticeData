@@ -1,0 +1,17 @@
+{
+    "add": {
+        "doc": {
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "fighting": 1, 
+            "id": "Bucky_(Fred_Davis)", 
+            "intelligence": 1, 
+            "realname": "Fred Davis", 
+            "significantissues": "All-Winners #19, Marvel Premiere #30, She-Hulk #22, Captain America #60", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

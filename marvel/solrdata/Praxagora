@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unknown", 
+            "citizenship": "Ataraxian", 
+            "content": "Praxagora is believed to be the last of her kind was taken captive, as a memento of genocide, and was delivered to the UX-73 prison planetoid. It was here that she was to be interrogated, tortured and experimented on by the sadistic scientist Hawal. She eventually escaped this prison, with the help of Preak and some other Negative Zone beings.Praxagora joined Kl'rt the Super Skrull in his mission to destroy the Harvester of Sorrows, and save his son and the rest of the Skrulls on the planet of Zaragz'na. They were betrayed by the short mechanic Skrull, R'kin. He secretly made an alliance with Annihilus' henchman Admiral Salo. Who captured Kl'rt and the others, and then had them watch as he destroyed the Skrull planet of Zaragz'na.She presented the casket to Nova and the United Front. They were not very receptive of the gift. Ronan the Accuser spat on the casket, and asked her to explain why she brought a Skrull to a Kree planet. She told the tale of the Super Skrull's heroics. Ravenous appeared, with several mind controlled minions and the Negative Zones super army known as the Centurions. She joined the United Front in battle against Ravenous and his forces. The Super Skrull managed to be restored to life through an unexplained occurrence. Praxagora then joined Ronan in his quest to overthrow the House of Fiyero.", 
+            "durability": 1, 
+            "education": "Accelerated Intelligence", 
+            "energy": 1, 
+            "eyes": "Light blue (robotic lens)\n", 
+            "fighting": 1, 
+            "firstappearance": "Annihilation: Super Skrull #2 (2006)\n", 
+            "groupaffiliation": [
+                "None", 
+                "Formerly Phalanx", 
+                "United Front", 
+                "UX-73's inmate army"
+            ], 
+            "hair": "None\n", 
+            "height": 64, 
+            "id": "Praxagora", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Freedom fighter", 
+                "adventurer", 
+                "former prisoner"
+            ], 
+            "placeofbirth": [
+                "Ataraxia", 
+                "Helicon Cluster", 
+                "Negative Zone"
+            ], 
+            "powers": "She is powered by an internal fusion core (it is actually a miniature star) located in her chest, providing her with limitless power, which she can discharge through her arms as superheated plasma streams, power enough to cut through most spaceships hulls. This energy also enables flight or the blocking of incoming attacks. As a fatal last resort, she can initiate a catastrophic reactor overload, building up to a powerful explosion of unspecified magnitude. She has transcendental strength.", 
+            "realname": "Praxagora", 
+            "significantissues": [
+                "Back story given (Annihilation: Nova Corps Files, 2006)", 
+                "She allows Kl\u2019rt to absorb the power from her to destroy the Harvester of Sorrows (Annihilation: Super Skrull #3, 2006)", 
+                "She presented the dead Super Skrull to the United Front (Annihilation: #3, 2006)", 
+                "Bio information courtesy of (Annihilation:Nova Corps Files vol.1, 2006.)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 1000
+        }
+    }
+}

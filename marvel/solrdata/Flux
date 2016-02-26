@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Benny", 
+                "Private Tibbets"
+            ], 
+            "citizenship": "USA", 
+            "content": "Tibbets was placed in the care of Doc Samson and Angela Lipscombe to diagnose his mental condition, and Samson determined Tibbets had an unresolved Oedipal Complex with the desire to please \u2013 not pleasure \u2013 his mother. Samson further theorized Tibbets felt more comfortable around men rather than women because of the lack of a mother/child bond. Even though some progress was made, Ryker soon resurfaced with General Thaddeus Ross and placed them all into military custody, including the Hulk.", 
+            "durability": 1, 
+            "education": "Tibbets was trained by the US Army", 
+            "energy": 1, 
+            "eyes": "(Tibbets) Blue; (Flux) Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #17 (2000)\n", 
+            "groupaffiliation": "None", 
+            "hair": "(Tibbets) Blonde; (Flux) Green\n", 
+            "height": 0, 
+            "id": "Flux", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified mother", 
+            "occupation": [
+                "Former Private", 
+                "First Class for the US Army"
+            ], 
+            "origin": "Incredible Hulk #17 (2000)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Flux possessed superhuman strength and a high resistance to injury. Flux's transformations were triggered by moments of extreme anxiety, possibly caused by conflicting feelings of arousal and inadequacy. Under normal conditions Flux could transform back and forth at will.", 
+            "realname": "Benjamin Tibbets", 
+            "significantissues": [
+                "Manipulated by General Ryker to fight the Hulk (Incredible Hulk #17, 2000)", 
+                "Doc Samson analyzed Benny\u2019s mental condition to a relationship with his mother (Incredible Hulk #18, 2000)", 
+                "brainwashed by Ryker again, Flux returned to oppose the Hulk but suffered a mental break down during the battle (Incredible Hulk #20, 2000)", 
+                "Flux was killed by Grey of the Gamma Corps at General Ryker's command (Gamma Corps #1, 2007)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 184
+        }
+    }
+}

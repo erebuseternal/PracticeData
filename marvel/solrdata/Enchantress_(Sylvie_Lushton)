@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Reign: Young Avengers #1 (2009)\n", 
+            "groupaffiliation": "Young Masters (formerly called Young Avengers)", 
+            "hair": "Blonde\n", 
+            "id": "Enchantress_(Sylvie_Lushton)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Adventurer", 
+            "origin": "Dark Reign: Young Avengers #4 (2009)", 
+            "placeofbirth": [
+                "Broxton", 
+                "Oklahoma"
+            ], 
+            "powers": "Though the full extent of her powers have yet to be revealed, Sylvie Lushton is extremely powerful in the ways of magic. The knowledge how to use her gifts was presumably implanted within her mind by Loki when he created her to be a tool for chaos.", 
+            "realname": "Sylvie Lushton", 
+            "significantissues": [
+                "First time in action and confronted by Young Avengers (Dark Reign: Young Avengers #1, 2009)", 
+                "potentially offered a place on Young Avengers (Dark Reign: Young Avengers #2, 2009) partnered with Wiccan and Hulkling as part of recruiting session (Dark Reign: Young Avengers #3, 2009)", 
+                "declined membership into Young Avengers because she is Loki's creation (Dark Reign: Young Avengers #4, 2009)", 
+                "helped banish Sentry and escaped with her teammates (Dark Reign: Young Avengers #5, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

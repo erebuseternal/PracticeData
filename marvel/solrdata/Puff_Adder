@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Gordo Fraley", 
+            "citizenship": "U.S.A.", 
+            "content": "Once, Puff Adder was recruited to be a member of Doctor Octopus's version of the Masters of Evil. The group attempted to storm the mansion headquarters of the Avengers when the team was away on a mission. Unknown to the villains, this feat was made easier due to the fact that many of Earth\u2019s super-powered individuals were being replaced by monstrous doppelgangers of themselves. The Masters of Evil were thwarted by the Guardians of the Galaxy who were visiting the mansion, but both teams were forced to band together to fight their doppelgangers. After defeating them all, Doctor Octopus hoped to continue the battle against the Guardians, but Puff Adder and the others refused to turn on the heroes who had helped them survive and disbanded after forcing Doctor Octopus to flee.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America #337 (1988)\n", 
+            "groupaffiliation": [
+                "Serpent Society", 
+                "(formerly) Masters of Evil", 
+                "Serpent Squad"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Puff_Adder", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Criminal", 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "Atlanta", 
+                "Georgia"
+            ], 
+            "powers": "Puff Adder has the mutant ability to swell his body to a more intimidating size, upwards of approximately 10 feet. He also possesses a slight degree of superhuman strength and stamina.", 
+            "realname": "Gordon Fraley", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 375
+        }
+    }
+}

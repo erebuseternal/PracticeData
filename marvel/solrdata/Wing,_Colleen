@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Colleen Wing shortly dated Cyclops, leader of the X-Men, when Jean Grey was assumed dead.Colleen went back to New York to visit her father and upon arrival she was caught in a gun battle by Manhattan police and thugs. She was then rescued by Misty Knight, who eventually became her best friend. Later on, Knight's right arm became severely injured and ultimately had to be amputated. Colleen encouraged Knight to overcome her depression and start living life again. Knight acknowledged Colleen's advice, and she then replaced her amputated arm with a bionic arm.Colleen Wing and Misty Knight created an association as private detectives and called it Knightwing Restorations, Ltd. Because of Wing and Knight's expertise in martial arts, Knightwing Restorations was renamed Daughters of the Dragon.When the Superhuman Registration Act became law, Misty Knight and Colleen were contacted by Iron Man to start up a new Heroes for Hire in order to capture superhumans that have not registered. They were backed by Stark and their roster included Black Cat, Shang-Chi, Orka, Humbug and the new Tarantula. Together, the group found themselves face-to-face with those they considered allies like Captain America as well as enemies such as the Headmen. Ultimately, the Heroes for Hire suffered more than they triumphed due to betrayals, death and losing themselves somewhere along the line, so the team disbanded. Misty told Colleen she didn't know what went wrong - that they were supposed to be Heroes for Hire. Colleen remarked they should have just been heroes.When Daredevil took over Hell's Kitchen, New York, Colleen was invited to lead a group of female assassins employed by the Hand called the Nail. Her mother led the Nail at one time, and Colleen was promised more information about her mother's mysterious past if she took her rightful place with them. She agreed, and led her team on several successful missions against various criminal organizations. However, when Colleen's naive friend, Tig, was taken prisoner for being employed by a corrupt councilman, she made a stand against the Hand. This betrayal resulted in a challenge for the Nail's leadership by fellow member Black Lotus. Colleen was captured by the Nail but escaped Daredevil's fortress with the help of another Nail member, Cherry Blossom. Colleen still had to return to save her friend, but first went to reconcile with Misty. Colleen infiltrated the stronghold, saved Tig and faced Lotus again, defeating her. The Hand allowed her to leave without further incident.", 
+            "durability": 1, 
+            "education": "College education", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Premiere #19\n", 
+            "groupaffiliation": [
+                "Daughters of the Dragon", 
+                "Knightwing Restorations Ltd.", 
+                "formerly the Nail", 
+                "Heroes for Hire"
+            ], 
+            "hair": "Brown\n", 
+            "height": 69, 
+            "id": "Wing,_Colleen", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "knownrelatives": "Lee Wing (father), Azumi Ozawa (mother, deceased), Kenji Ozawa (grandfather, deceased)", 
+            "occupation": "Detective", 
+            "placeofbirth": "Japan", 
+            "powers": "None", 
+            "realname": "Colleen Wing", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

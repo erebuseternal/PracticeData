@@ -1,0 +1,44 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Jim Hammond", 
+            "citizenship": "United States of America", 
+            "content": "He would join other heroes as war broke out in Europe, and later in the Pacific, to fight the Axis powers. During this time he acquired a young partner, Thomas \"Toro\" Raymond. Toro was the mutant son of two nuclear scientists whose exposure to radiation gave him the ability to control fire. The Human Torch also joined the police force as part of his \"human cover\" under the name Jim Hammond. He would later drop the human name and serve the police force outright as the Human Torch, fighting villains and his off-and-on foe, the Sub-Mariner. During World War II Jim helped allied forces and the Invaders fight the Axis powers. Near the end of the war, Jim came face-to-face with Adolf Hitler and killed him with his bare hands.After the war the Torch was placed in deactivation sleep in the Mojave Desert; an atomic bomb test awoke him. Learning that Toro had been captured by the Soviets and brainwashed, the Torch rescued his old partner and learned that the nuclear bomb's radiation had made his powers both much stronger and more unstable. Eventually, fearing he would become a danger to those around him, the Torch flew back out into the desert and went nova, using up his energy reserve and effectively deactivating himself.\nThe Mad Thinker later rebuilt the Torch, restraining his flame and editing his memory so he would forget having been a hero, then sent him after the Fantastic Four. Jim soon fought with the new Human Torch at the Thinker's behest, though he was loathe to actually murder him. But the rest of the four soon appeared, along with Wyatt Wingfoot, and captured him, transporting him back to the Thinker's lab with Lockjaw's help. There, the original Torch rebelled against the Thinker, refusing to be a party to murder, and the Thinker used his computer, Quasimodo, to fire a ray that shut off the invisible coating of protective nitrogen cells, which kept his flame in check, and he burned himself out. A duplicate of his body was later created by the time traveler Immortus; this copy was obtained by the villainous robot Ultron, who used it to create the Vision, an android who went on to join the AvengersThe Torch was revived again by the Scarlet Witch \u2014 who was searching for answers about her husband, the Vision \u2014 and Ann Raymond, widow of Tom \"Toro\" Raymond. He served the Avengers for a while before losing his powers to save the former superheroine Spitfire. His powers gone, he decided to settle down with Ann Raymond.\nHe became the CEO of Oracle, Inc., a company run by Prince Namor. From there, he served as \"boss\" to the mercenary group Heroes for Hire, while being secretly manipulated by the Master of the World. When the group disbanded, he went off on his own, before being asked to become the head of V-Battalion upon the retirement of Roger Aubrey, the Destroyer.Recently, while on leave from the V-Battalion and working with the new Invaders, he became attached to Tara, a recently-constructed female android based on him, whom he came to regard as a daughter of sorts. He also struck up a renewed acquaintance with Spitfire to the dismay of her beau, the current Union Jack, while beginning to show signs that his powers were regenerating.", 
+            "durability": 1, 
+            "education": "N/A", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Comics #1\n", 
+            "groupaffiliation": [
+                "Invaders", 
+                "Avengers West Coast", 
+                "V-Battalion", 
+                "Heroes for Hire", 
+                "Legion of the Unliving", 
+                "All-Winners Squad"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 75, 
+            "id": "Human_Torch_(Jim_Hammond)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Professor Phineas T. Horton (creator), Vision (rebuilt temporal copy), Pyronanos (Nanomachine robots based on his technology), Adam II, the Gremlins, Volton (\"brothers\" created by Prof. Horton)", 
+            "occupation": [
+                "Adventurer", 
+                "formerly Police officer"
+            ], 
+            "origin": [
+                "Fantastic Four Annual 4", 
+                "Avengers Vol.1 #133-134"
+            ], 
+            "powers": "Ability to generate and manipulate flame, able to survive without oxygen for long periods", 
+            "realname": "None", 
+            "significantissues": "The Fantastic Four Annual #4, Avengers West Coast #50", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 300
+        }
+    }
+}

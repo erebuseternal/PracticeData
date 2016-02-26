@@ -1,0 +1,21 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Cagliostro", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Marvel Premiere #13 (1973)\n", 
+            "groupaffiliation": "None", 
+            "id": "Sise-Neg", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": "Sorcerer", 
+            "realname": "Unknown", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

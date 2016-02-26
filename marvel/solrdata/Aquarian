@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Herald of the New Age", 
+            "citizenship": [
+                "Citizen of Dakkam", 
+                "illegal alien on Earth"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(as Wundarr) Fear #17 (1973), (as the Aquarian) Marvel Two-In-One #58 (1979)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "height": 70, 
+            "id": "Aquarian", 
+            "identity": "The fact that he is an alien is not widely known.", 
+            "intelligence": 1, 
+            "knownrelatives": "Hektu (father, deceased), Soja (mother, deceased)", 
+            "occupation": "Prophet", 
+            "origin": "Fear #17 (1973)", 
+            "placeofbirth": [
+                "Dakkam", 
+                "second planet in the R Aquarii system (Earth designation)"
+            ], 
+            "powers": "The Aquarian possesses certain superhuman physical and energy-manipulating powers due to magnetic changes wrought in his cellular structure by radiation. Prior to his exposure to the Cosmic Cube, the Aquarian's body absorbed various energies from the environment and transformed them into kinetic energy with which to augment his body's strength and endurance. The Aquarian could not only use his augmented strength to lift things, but also to propel himself through the air by jumping. The Aquarian could cover several miles in a single bound. The energy absorption process continued involuntarily and if the Aquarian had not expended it in some physical activity before it reached the threshold of his body's capacity to retain energy, the energy would explosively discharge in a sphere of concussive force. (Reed Richards designed him a containment suit, which enabled his body to expel small, non-concussive amounts of energy so it would not build up.) \nAfter the Cosmic Cube experiment, the Aquarian's former energy-dampening ability was transformed into something different and more powerful. The Aquarian's body is now surrounded by a field of entropy (\"null-force\"), which, at equilibrium, radiates to a distance of five feet from any point on his body. With concentration, the Aquarian can contact the null-field to about five inches in thickness, or expand it to a maximum distance of approximately 500 feet. He can never shut the field down completely. The null-field neutralizes most energies within the electromagnetic spectrum over a certain as yet unmeasured intensity. This includes light, electricity, magnetism, high-frequency energies, sound, and even gravity.\nThe Aquarian's entropic field also neutralizes kinetic energy. His body's null-field is of opposite polarity to that of the fields of normal atomic matter. Hence his field nullifies kinetic energy in direct ratio to the inertia (resistance of object in motion to changes of motion) of the moving object. Only objects with kinetic energy below a certain as yet unmeasured value are permitted trough his field without any cancellation of inertia. The net effect of any object of greater inertia entering his null-field is that it loses its kinetic energy. Hence, a speeding bullet, a thrown knife, or a hurled punch is unable to strike him. Because this kinetic energy-canceling property affects him as well as other objects in his field, the Aquarian cannot move faster than his null-field will allow. Therefore, his ability to leap is useless. However, since he can negate gravity's influence on him, he can walk on air. \n\nThe kinetic and electromagnetic energies possessed by most other superhumanly powered beings also canceled within his field. Hence, those who possess superhuman physical strength would be unable to exercise it within his field, and those with energy-manipulating powers would also be unable to use them. The field does not take these innate capacities away; it simply prevents their use in his presence.", 
+            "realname": "Wundarr", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

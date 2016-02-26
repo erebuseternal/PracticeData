@@ -1,0 +1,52 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "Kasady has been separated and re-attached to the symbiote multiple times. The Carnage symbiote has occasionally attached itself to other hosts, including the Silver Surfer, Ben Reilly (a clone of Spider-Man), and Doctor Octopus. Venom later decided to absorb the Carnage symbiote \"for good\", during which Kasady retained the Carnage persona by costuming himself in red paint and continuing his killing sprees (albeit as a powerless human). This was short lived, however, as Kasady coincidentally found an exact replica of the symbiote in the Negative Zone. As to whether or not the symbiote is a separate entity, \"permanently\" bonded, or his own blood mutated, has not been revealed. The symbiote once chose to leave Kasady and bond with Ben Reilly. Kasady, without the symbiote, rapidly aged and his body quickly deteriorated. In this state, Kasady was barely able to function, having a hard time operating a sink, let alone being a threat. The symbiote bonded with him again in time to save his life, regenerating his health. When the symbiote abandoned him yet again, this time to join with the Silver Surfer (transforming him into the Carnage Cosmic), Kasady was left dying from an accelerated form of stomach cancer (apparently a side-effect of the symbiosis, also suffered by Eddie Brock, the original Venom). However, when Venom ate the symbiote, he did not deteriorate, indicating that perhaps some fragments of the symbiote were left behind (enough to sustain him but not enough to form the costume). This may be backed up by the fact that Kasady seemed to retain at least some enhanced strength.Later, Venom and Spider-Man had to team up to stop Carnage. During this time it was revealed that the symbiote had become a part of Kasady's blood and was irremovable from him. Kasady only needed to be cut for the symbiote to flood out to become Carnage once again. Unlike Venom, Carnage had become less vulnerable to the high-pitched sounds which would normally stop Venom, however he was still vulnerable to intense heat.", 
+            "durability": 5, 
+            "education": "High school", 
+            "energy": 3, 
+            "eyes": "Green\n", 
+            "fighting": 4, 
+            "firstappearance": "(as Cletus Kasady) Amazing Spider-Man #344 (1991),(as Carnage) Amazing Spider-Man #360 (1992)\n", 
+            "groupaffiliation": [
+                "None", 
+                "Formerly Carnage Family"
+            ], 
+            "hair": "Red\n", 
+            "height": 73, 
+            "id": "Carnage_(Cletus_Kasady)", 
+            "identity": "Publicly known", 
+            "intelligence": 4, 
+            "knownrelatives": "Unnamed mother (deceased), unnamed father (deceased), unnamed grandmother (deceased), Venom (symbiote's \"father\"), Toxin (symbiote's \"son\"), Hybrid (symbiote's \"brother\"), Scream (symbiote's \"sister\"), unnamed symbiotes (Carl Mach, Ramon Hernandez, Trevor Cole and Leslie Gesneria, symbiote's \"siblings\")", 
+            "occupation": [
+                "Prisoner/patient of Ravencroft", 
+                "formerly a serial killer"
+            ], 
+            "origin": "Amazing Spider-Man #345 (1991)", 
+            "placeofbirth": [
+                "Brooklyn", 
+                "New York"
+            ], 
+            "powers": "As the symbiote offspring of the Venom symbiote, the Carnage symbiote possesses a variety of symbiote-based powers akin to Venom, which it generally bestows upon Cletus Kasady. Carnage possesses super-human strength, speed, stamina, healing and resistance to injury. He is orginally able to lift(press) 50 tons (currently 90 tons). \nCarnage can stick to walls, create \"swing lines\" or \"tendrils\" which he uses for traveling in a manner similar to how Spider-Man uses webbing, generate \"snares\" to trap or entangle foes. However, unlike Venom, he is able to create detachable weapons made entirely from his symbiotic. The symbiote can protect Kasady from bullets from small-arms weapons. The symbiote can mimic any type of clothing, but unlike Venom, it has not been seen capable of Venom's chameleon-like ability to act as camouflage. Carnage is able to deaden Spider-Man's spider-sense to a certain degree, and block the Venom symbiote's natural ability to track its own offspring.  \n\nIt is vulnerable to sonics (to a much lesser degree than Venom) and heat (to a much greater degree than Venom).", 
+            "realname": "Cletus Kasady", 
+            "significantissues": [
+                "acquired spawn of Venom's spawn (Amazing Spider-Man #345, 1991)", 
+                "became Carnage, went on a killing spree, battled Spider-Man & Venom (Amazing Spider-Man #361, 1992)", 
+                "Maximum Carnage starts (Spider-Man Unlimited #1, 1993)", 
+                "Planet of the Symbiotes (Amazing Spider-Man Annual, 1995)", 
+                "Web of Carnage (Sensational Spider-Man #3, 1996)", 
+                "secrets revealed about past (Carnage: It's A Wonderful Life #1, 1996)", 
+                "symbiote bonded with Silver Surfer (Amazing Spider-Man #430, 1997)", 
+                "Venom *absorbs* Carnage symbiote (Peter Parker: Spider-Man #13, 2000)", 
+                "gains new symbiote (Web-Spinners #14, 2000)", 
+                "apparently killed by Sentry (New Avengers #2, 2005)"
+            ], 
+            "speed": 3, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 190
+        }
+    }
+}

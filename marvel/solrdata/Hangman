@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Demon that Devoured Hollywood", 
+                "JR", 
+                "The Next Karloff"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Taking over the Night Shift criminal gang, Hangman tricked them into exchanging their souls for fame and power. He led them in sabotaging a Mammoth Studios production which was trying to complete Roland's long-abandoned Demon film with a new cast. Opposed by the heroic Avengers, Hangman challenged them to a televised showdown during which Satannish tried to steal the souls of the huge television audience; however, Satannish's scheme was thwarted by the combined efforts of the Avengers, Doctor Strange, and the Night Shift, who turned on their leader and reclaimed their souls. During the broadcast, Hangman was unmasked as Roland and violently spurned his old girlfriend, Stella Houston, when she tried to talk him out of his mad scheme, admitting that he had planned to buy back his own soul with the souls of the Night Shift and the viewing audience. For his failure, Satannish claimed Roland's soul and left him a mindless husk.", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Tower of Shadows #5 (1970)\n", 
+            "groupaffiliation": [
+                "Formerly Lethal Legion", 
+                "Night Shift", 
+                "Mammoth Studios"
+            ], 
+            "hair": "Brown\n", 
+            "height": 72, 
+            "id": "Hangman", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Agent of Satannish", 
+                "former film actor"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Hangman is superhumanly strong and is more physically youthful than is natural for a man of his age.", 
+            "realname": "Jason Roland", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 280
+        }
+    }
+}

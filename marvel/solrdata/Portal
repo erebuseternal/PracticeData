@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA", 
+            "content": "Later, after Little Sky adopted the identity of Portal, he went through a warp that returned him to New York City where he battled Darkhawk and was taken into custody by police officers wearing Guardsman Armor. They took his weapons and armor and held him under protective custody at a New York hospital until he was rescued by Darkhawk, Daredevil (Matt Murdock), and Captain America (Steve Rogers) from the U-Foes who were intent on acquiring Portal for their own purposes. Portal then revealed to Darkhawk that he had confiscated parts of his armor from an oponent resembling Darkhawk (actually a Mahari alien named Kistur). Portal subsequently escaped through a dimensional warp. A few weeks later he retrieved his armor and weapons from a research center, battling several men wearing Guardsman Armor in the process. He then met up with Darkhawk and Spider-Man (Peter Parker) and together they battled the Brotherhood of Evil Mutants who wanted Portal to join them. Portal was then captured by the Brotherhood, and mind-controlled by Sauron into attacking Spider-Man, Darkhawk, and Sleepwalker. After the assembled heroes rescued Portal from Sauron's mind control, Portal escaped through a dimensional warp.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #304 (1989)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "height": 68, 
+            "id": "Portal", 
+            "identity": "Secret (known to the authorities)", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Fugitive", 
+                "former construction worker"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "Native American reservation near Hartsdale", 
+                "New Mexico"
+            ], 
+            "powers": "Portal has the mutant power to create and/or access dimensional warps to transport himself and others across space and between dimensions and realities. These warps only last as long as he remains consciously aware of them.", 
+            "realname": "Charles Little Sky", 
+            "significantissues": [
+                "Accidentally released U-Foes, evaded Puma and the Avengers (Avengers #304, 1989)", 
+                "Darkhawk #5-6, 19-20, 43-50", 
+                "Sleepwalker #17"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

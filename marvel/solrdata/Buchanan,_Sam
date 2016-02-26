@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Bucky-Boy", 
+            "citizenship": "Canadian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(Seen in Prophecy) Ghost Rider #28 (1992); (Actual appearance) Darkhold #1 (1992)\n", 
+            "groupaffiliation": [
+                "Darkhold Redeemers", 
+                "Midnight Sons"
+            ], 
+            "hair": "Brown\n", 
+            "id": "Buchanan,_Sam", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": [
+                "Investigator of the occult", 
+                "Former agent of Interpol"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Sam did not appear to have any enhanced strength, reflexes or any other powers. He was very well trained in both armed and unarmed combat.", 
+            "realname": "Sam Buchanan", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

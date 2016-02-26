@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Killing Machine", 
+                "Sweet Prince", 
+                "Ransak the Reject", 
+                "Warhead"
+            ], 
+            "citizenship": "Deviant/Inhuman citizen of Olympia", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Dark blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Eternals #8 (1976)\n", 
+            "groupaffiliation": [
+                "Eternals", 
+                "New Breed"
+            ], 
+            "hair": "Black\n", 
+            "id": "Ransak", 
+            "identity": "The general populace of Earth was unaware of the Rejects existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "Maelstrom (father), Medula (mother), Phaedar (grandfather)", 
+            "occupation": "Gladiator", 
+            "placeofbirth": "Deviant Lemuria", 
+            "powers": "As a member of the Deviant and Inhuman races he possessed strength above that of a normal human being. His strength was increased to superhuman levels when he reached the berserker rage, which normally ended with the death of all those around him.", 
+            "realname": "Ransak", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

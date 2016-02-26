@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Nobel the Progenitor", 
+            "citizenship": "Dark Dimension", 
+            "content": "To aid Dr. Strange in an eventual rematch with Salom\u00e9, Strange traveled the world to gather earthbound magical items, clashing with Nathaniel Richards (disguised as Doctor Doom), Doctor Druid, Namor the Sub-Mariner and others in the process; singled minded in his search, he had no compunction about allowing or even causing deaths of others in the process. Meanwhile, Salom\u00e9, having determined Strange was not Dr. Stranger as she had first supposed, suspected Vincent Stevens of being her enemy in disguise. Although Stevens unlike Strange, had not been created with innate knowledge of his nature, Salom\u00e9's underlings absconded with him, pursued by Strange. In her Iraqi citadel, Salom\u00e9 revealed the Strangers' true nature despite Stevens desperate denials, and although Strange again defeated her, the conflict left both him and Stevens mystically depleted. Strange sought to merge with Stevens to become a whole and more powerful being, but Stevens refused, desperate to maintain his individuality.Weakening by the day, Strange sought alternate means of stabilizing his form, unsuccessfully attempting mergers with X-Factor's Polaris, and the adventurer Rick Jones; the latter attempt forced Strange to fight Jones' ally the Hulk, possessed by Stevens via new forms of magic he had developed. Shortly afterward, Strange, Modred the Mystic and the Scarlet Witch were abducted by the Clave, a scientific culture from the future seeking knowledge to pit against their enemies, the mystic super-race Kynd. The Clave tortured Strange in their experiments and learned that he was the Kynd's metaphysical ancestor, but Stevens and his fellow prisoners escaped via the intervention of Blade and Man-Thing.", 
+            "durability": 1, 
+            "education": "Inapplicable, innately possesses Dr. Strange's mystic knowledge", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "(As Strange) Doctor Strange: Sorcerer Supreme #61 (1994); (as Progenitor) Midnight Sons Unlimited #8 (1995); (as Nobel/Paradox) Doctor Strange: Sorcerer #75 (1995)\n", 
+            "groupaffiliation": [
+                "Dark Dimension Rebels", 
+                "Midnight Sons", 
+                "Strangers"
+            ], 
+            "hair": "None\n", 
+            "height": 74, 
+            "id": "Paradox", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Vincent Stevens (\"brother\"), Dr. Strange (\"father\"), the Kynd (alternate future \"descendants\")", 
+            "occupation": [
+                "Freedom fighter", 
+                "former operative of Doctor Strange"
+            ], 
+            "origin": [
+                "Doctor Strange: Sorcerer Supreme Annual #4 (1994)", 
+                "Doctor Strange: Sorcerer Supreme #75 (1995)"
+            ], 
+            "realname": "Strange", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

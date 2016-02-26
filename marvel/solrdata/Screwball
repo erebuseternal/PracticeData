@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Impersonated Spider-Man", 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Spider-Man #559 (2008)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Unrevealed; dyed purple\n", 
+            "height": 69, 
+            "id": "Screwball", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified cousin, James (first cousin once removed)", 
+            "occupation": "Thief", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Screwball possess the strength of a normal women of her weight and size, who exercises regularly.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 132
+        }
+    }
+}

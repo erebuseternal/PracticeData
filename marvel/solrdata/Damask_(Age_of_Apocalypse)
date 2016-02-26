@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Damask", 
+            "citizenship": "England", 
+            "content": "One of Apocalypse's spies found out about Avalon, which was a secret haven for the humans in the Antarctic. Apocalypse dispatched the Pale Riders to destroy it and all its inhabitants. On the way, Dani amused herself by torturing Wade, whose advanced healing factor makes him regenerate quickly. Moonstar\u2019s childish antics became annoying to Damask, who killed her and relished her death.Upon their arrival, Damask and Wade found and followed Nightcrawler, Mystique, Destiny, Switchback and Doug Ramsey, who was Destiny's son. Damask sees the beauty of Avalon and begins to doubt her mission. Wade, who hates everything that lives, attacked the group; however, he was quickly defeated by Damask and Nightcrawler. Damask explained how she never knew that life could be this way and wished to join Mystique in her mission. Damask, Mystique, Nightcrawler and Switchback form a group called X-Calibre. They chose name because it referred to the caliber of Mystique's bullets. The group wished to take Destiny back to the X-Men before the future she saw happened.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Calibre #1 (1995)\n", 
+            "groupaffiliation": [
+                "Pale Riders", 
+                "X-Calibre"
+            ], 
+            "hair": "Black\n", 
+            "id": "Damask_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Assassin", 
+            "origin": "Unknown", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Damask has the ability to create blades of psionic energy that can attack a person's mind or brain. These blades appear around her head and are visible, but not corporeal. They can destroy the physical parts of a brain and the mental parts, or psionic forms. This ability has been referred to as \"psychic skinning\". Her powers are also destructive to psionic and astral projections, making her immune to telepathy.", 
+            "realname": "Emma Steed", 
+            "significantissues": "X-Calibre #1", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse"
+        }
+    }
+}

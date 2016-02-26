@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unknown", 
+            "citizenship": "Rigellian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Equivalent of graduate school education on Rigel-3", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #129\n", 
+            "groupaffiliation": "Graces", 
+            "hair": "Black\n", 
+            "height": 60, 
+            "id": "Nile,_Tana", 
+            "identity": [
+                "Tana Nile adopts human form when on Earth", 
+                "and the general populace of Earth is unaware that she is an alien"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Colonizer", 
+            "origin": "Not yet revealed", 
+            "placeofbirth": "Rigel-3", 
+            "powers": "Alien attributes of the Rigellian race, she can increase her density at will, this also increases her strength and resistance to physical injury.", 
+            "realname": "Tana Nile", 
+            "significantissues": [
+                "She first appeared in human form as Jane Foster's roommate (Thor #129): She took control of Jane Foster's will, and first appeared in true Rigellian form (Thor #130): She attempted to take control of Earth, was ordered by Rigellians to cease attempt to colonize Earth (Thor #133): She left Earth to be given new assignment. She was told that the High Commissioner of Rigel had chosen her to be his wife (Thor #134): She encountered Thor during his second journey into the Black Galaxy (Thor #160): She encountered Sif, Hildegarde, and sailor Silas Grant on Blackworld planet while she fought Ego-Prime (Thor #198): She revealed that Ego-Prime was a slab that she had removed from Ego the Living Planet and had taken to Blackworld in order to transform it into a habitable world, but that Ego-Prime had proved to be uncontrollable", 
+                "Blackworld was destroyed in nuclear war. Tana Nile and allies arrive on Earth, pursued by Ego-Prime (Thor #201): She aided by Silas Grant in clashes with Ego-Prime's monsters (Thor #202-203): She assumed human form in order to live on Earth (Thor #204): aided Thor in battling trolls (Thor #211): She first visited Asgard (Thor #212): She was captured by Sssthgar, and later freed by Thor. He also released Odin, Hogun, and Fandral from captivity (Thor #213): She accompanied Thor to Dark Nebula to help rescue Sif and Karnilla (Thor #214): She returned to Asgard (Thor #217): Tana accompanied Thor to Rigel-3, witnessed destruction of Rigel-3 by Rhunians, reunited with Grand Commissioner (Thor #218): She accompanied Thor to Rhun (Thor #220): She bade farewell to Thor, Silas Grant announces he will stay with his \"good friend\" Tana (Thor #221): She appeared on the planet of Godthab Omega (Annihilation:Ronan #1 2006): She was killed by the Annihilation Wave (Annihilation: Ronan #4 2006)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

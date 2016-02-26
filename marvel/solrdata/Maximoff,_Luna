@@ -1,0 +1,25 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Inhumans", 
+            "content": "Luna longed to go to Earth and see the ocean. After M Day, her father was taken to the moon to heal after a suicide attempt. Quicksilver stole the Terrigen Mists and convinced Luna to flee with him to Earth. Luna agreed, and went with Quicksilver to the ocean. There, she was exposed to the Terrigen Mists, and granted powers. With Quicksilver, they laid low for a while. Traveling to Genosha, Quicksilver granted various mutants their powers with the Mists. When Callisto's powers returned, they went crazy and sent her comatose.", 
+            "durability": 1, 
+            "energy": 1, 
+            "fighting": 1, 
+            "groupaffiliation": "Inhumans", 
+            "hair": "Brown\n", 
+            "id": "Maximoff,_Luna", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "knownrelatives": "Pietro Maximoff (father), Magneto (grandfather), Crystal (mother), Scarlet Witch, (aunt) Polaris, (aunt)", 
+            "occupation": "None", 
+            "placeofbirth": "Moon", 
+            "powers": "Luna has the ability to see someone's feelings. She also seems to have demonstrated the ability to shut down sections of people's minds.", 
+            "realname": "Luna Maximoff", 
+            "significantissues": "Son of M #3 (goes with Quicksilver to Earth), Son of M #4 (subjected to the Terrigen Mists, gains powers)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

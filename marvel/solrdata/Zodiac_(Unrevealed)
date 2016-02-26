@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Reign: Zodiac (2009)\n", 
+            "groupaffiliation": "Zodiac's Gang", 
+            "hair": "Brown\n", 
+            "id": "Zodiac_(Unrevealed)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Professional criminal", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Zodiac stole the abilities of Manslaughter Marsdale via a blood transfusion so he no longer feels pain.", 
+            "realname": "Unrevealed", 
+            "significantissues": "Caused chaos to distract Norman Osborn so he could obtain the Zodiac Key (Dark Reign: Zodiac #1-3, 2009)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

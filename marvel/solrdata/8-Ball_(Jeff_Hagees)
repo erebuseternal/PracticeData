@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Advanced degree in engineering", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Sleepwalker #2 (1991)\n", 
+            "groupaffiliation": "Formerly led gang of henchmen", 
+            "hair": "Red\n", 
+            "height": 70, 
+            "id": "8-Ball_(Jeff_Hagees)", 
+            "identity": "Scret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified grandmother", 
+            "occupation": "Professional criminal", 
+            "placeofbirth": [
+                "Duluth", 
+                "Minnesota"
+            ], 
+            "powers": "None", 
+            "realname": "Jeff Hagees", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

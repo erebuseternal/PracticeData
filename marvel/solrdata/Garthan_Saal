@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Nova", 
+                "Centurion Prime", 
+                "Super-Nova", 
+                "Last Son of Xandar", 
+                "Garthan \u201cOrders are Orders\u201d Saal"
+            ], 
+            "citizenship": "Xandarian", 
+            "content": "His search fruitless, Saal watched with rage as the human Richard Rider regained his Nova-Power. Saal returned to Earth, and the coming together of all portions of the Nova-Force in the universe activated a failsafe in the World-Mind, cloning Xandar\u2019s Queen Adora. Saal defeated Nova (Rider) and forced him to surrender his power, then learned that Rider was also imbued with Xandar\u2019s spirit. He combined his power with Rider to restore Xandar, but Rider absorbed Saal\u2019s power instead. Saal fell comatose while Rider restored Xandar\u2019s World-Mind and was instated as Nova Centurion Prime. Recovering, Saal was made Centurion Sector Coordinator, but after Rider refused an order to assist the reformed Nova Corps (a.k.a. StarCorp), Adora \u2013 apparently pressured by Shi\u2019ar representatives \u2013 sent Saal, as Nova Omega, to strip Rider of rank and power. Rider fled to Adora to learn the truth, and she confirmed Saal\u2019s replacing him as Centurion Prime. Saal accompanied Rider to Earth, but their pilot revealed himself to be Volx the Dire Wraith Queen. The ship crashed on Earth, and Volx escaped when Rider spitefully shot Saal with a blaster. Volx captured the pursuing Saal and drained his energy to power a doomsday weapon, but Rider and the New Warriors freed Saal, who joined Rider in exploding Volx\u2019s base.", 
+            "durability": 3, 
+            "education": "Nova Academy", 
+            "energy": 4, 
+            "eyes": "Solid white; formerly brown\n", 
+            "fighting": 5, 
+            "firstappearance": "(As Super-Nova) Avengers #301 (1989); (as Nova Omega) Nova #17 (1995)\n", 
+            "groupaffiliation": "Formerly Nova Corps/StarCorp", 
+            "hair": "Black; formerly brown\n", 
+            "height": 0, 
+            "id": "Garthan_Saal", 
+            "identity": "Publicly known", 
+            "intelligence": 3, 
+            "knownrelatives": "None", 
+            "occupation": "Former Centurion Prime and Centurion Sector Coordinator", 
+            "origin": [
+                "Avengers #301 (1989)", 
+                "New Warriors #41 (1993)"
+            ], 
+            "placeofbirth": [
+                "Planet Xandar", 
+                "Tranta system", 
+                "Andromeda galaxy"
+            ], 
+            "powers": "As Nova, Saal possessed superhuman strength and durability, and enhanced stamina and agility. He could fly in air or space, unleash force blasts, and analyze and absorb certain energy types. As a Nova Centurion, he was trained in various forms of combat. As Super-Nova, he was 30' tall, possessed immeasurable strength, was virtually indestructible, and could generate near-limitless amounts of energy to fly at great speeds, project devastating force blasts, create gravimetric pulses, and open space warps. These energies warped his mind, making him irrational and violent.", 
+            "realname": "Garthan Saal", 
+            "significantissues": "See the Online Bibliography", 
+            "speed": 6, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

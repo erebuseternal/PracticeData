@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "\"Rat-King\"", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Variable\n", 
+            "fighting": 1, 
+            "firstappearance": "(Behind the Scenes) 137 (1984); (full) Defenders #138 (1984)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Variable\n", 
+            "height": 0, 
+            "id": "Dragon_of_the_Moon", 
+            "identity": "The general populace of Earth is unaware of the Dragon of the Moon's existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "Set (father), Damballah, Phorcys,Siapep, Sligguth, Yamato-no-Orichi (brothers), Ishiti, Tartessus, (sisters), Demiurge (\"grandfather\"), Chthon, Hyppus (uncles), Gaea, Oshtur (aunts), large extended family via Set and other Elder Gods", 
+            "occupation": "Demon", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

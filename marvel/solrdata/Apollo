@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Paul Belvedere", 
+                "Renee Andre", 
+                "impersonated Marvin Klee"
+            ], 
+            "citizenship": "Mount Olympus", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Tutored by minor goddesses", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Venus #1 (1948)\n", 
+            "groupaffiliation": [
+                "Olympians", 
+                "Olympus Group/Dodekatheon"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 72, 
+            "id": "Apollo", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Zeus (father), Leto (mother), Hera (step-mother), Artemis (sister), Poseidon, Hades (uncles), Heracles, Ares, Hephaestus, Hermes, Dionysus (half-brothers), Aphrodite, Pallas Athena, Eileithyia, Hebe, Discord, Helen, Pandia,  Persephone (half-sisters), Janus, Asclepius (sons)", 
+            "occupation": [
+                "God of light", 
+                "the sun", 
+                "music", 
+                "poetry", 
+                "medicine", 
+                "and the science", 
+                "former associate magazine editor"
+            ], 
+            "placeofbirth": [
+                "Mount Cynthus", 
+                "Isle of Delos", 
+                "Greece"
+            ], 
+            "powers": "Immortality, Superhuman strength, speed, durability, etc., healing factor, energy manipulation", 
+            "realname": "Phoebus Apollo", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 525
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": [
+                "Transia", 
+                "U.S.A. (naturalized)"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men Chronicles #1 (1995)\n", 
+            "groupaffiliation": "X-Men", 
+            "hair": "Auburn\n", 
+            "height": 67, 
+            "id": "Scarlet_Witch_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Eric Lehnsherr (Magneto, father), Pietro Maximoff (Quicksilver, brother), Magda (mother, presumed dead), Django Maximoff (adoptive father, deceased), Marya Maximoff (adoptive mother, deceased)", 
+            "occupation": "Adventurer", 
+            "placeofbirth": [
+                "Wundagore", 
+                "Transia", 
+                "Europe"
+            ], 
+            "powers": "The Scarlet Witch can tap into mystic energy for reality-altering effects; this power leads to the creation of \"hex-spheres\" which are reality-disrupting quasi-psionic forces that can cause molecular disturbances in a target's probability field, resulting in spontaneous combustion, deflection of objects in flight, and so on.", 
+            "realname": "Wanda Maximoff", 
+            "significantissues": "Killed by Nemesis (X-Men Chronicles #1, 1995)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 130
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Puerto Rico/USA", 
+            "content": "As the White Tiger, Ayala became a successful costumed hero. He soon met and teamed up with Spider-Man, and the two would often share adventures together, such as fighting the Masked Marauder and Carrion. In fact, Ayala and Spider-Man would become such close friends that they shared their secret identities with one another.Over time, however, Ayala grew uncomfortable as a crime-fighter, and after nearly dying in confrontation with the criminal Gideon Mace, Ayala gave his amulets to the police detective Blackbyrd, a friend of the Sons of the Tiger, with instructions to return the amulets to them. Ayala returned to a normal civilian life, eventually marrying his long-time girlfriend, Holly Gillis.More recently, Ayala somehow came into possession of the mystic pendants once again. After a fight with his wife, Ayala donned his White Tiger costume again, hoping to come out of retirement and begin fighting crime again. Unfortunately, in the first crime scene he came to, he arrived too late to help stop a robbery at a pawn shop, and an officer was shot. The two thugs managed to overpower Ayala and escape, leaving him holding a stolen TV and standing over the body of the policeman when his back-up arrived.", 
+            "durability": 1, 
+            "education": "Empire State University", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Deadly Hands of Kung-Fu #19 (1975)\n", 
+            "hair": "Black\n", 
+            "height": 72, 
+            "id": "White_Tiger_(Hector_Ayala)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Holly Gillis Ayala (wife); White Tiger (Angela del Toro, niece)", 
+            "occupation": [
+                "Adventurer", 
+                "full-time student"
+            ], 
+            "origin": "Spectacular Spider-Man #9 (1977)", 
+            "placeofbirth": [
+                "San Juan", 
+                "Puerto Rico"
+            ], 
+            "powers": "Enhanced strength, reflexes and martial arts abilities", 
+            "realname": "Hector Ayala", 
+            "significantissues": [
+                "Shot in action against Gideon Mace, retired (Spectacular Spider-Man #52, 1981)", 
+                "mistakenly apprehended by police, defended by Matt Murdock, killed (Daredevil #38-40, 2003)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 190
+        }
+    }
+}

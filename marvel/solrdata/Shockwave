@@ -1,0 +1,44 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.K.", 
+            "content": "On behalf of Fu Manchu, Shockwave guarded one of its front organizations, Oriental Expediters, where he first encountered Shang-Chi,  Fu Manchu\u2019s son and mortal enemy who was determined to bring his father to justice. Shockwave fled their battle when outnumbered, but traveled to Switzerland to assist Tarrant of the Oriental Expediters in kidnapping Leiko Wu and Ducharme. The plot was foiled by Shang-Chi and his allies in MI:6, and Shockwave was thrown into a pool, shorting out his armor and putting him in the hospital.He was interviewed in the hospital by Sir Denis Nayland Smith and Dr. Petrie, two of Fu Manchu\u2019s most persistent adversaries. Shockwave revealed that it was he and Dr. Petrie who planted a bomb in Smith\u2019s office before he left for Switzerland. Surprised by the revelation, Smith was shot by Petrie, who had become brainwashed by Fu Manchu. He left the gun in Shockwave\u2019s hand to frame him, but ultimately, Smith survived and Petrie was freed from Fu Manchu\u2019s influence thanks to Shang-Chi and the agents of MI:6.Shockwave was freed from custody and brainwashed by rogue administrator Ward Sarsfield to serve his own interests. Directed to fight Nayland Smith, he nearly beat him to death until Clive Reston, Leiko Wu, and Shang-Chi forced him to flee.He was then directed to serve Brynocki as the robot captured Black Jack Tarr and took him to Mordillo Island. As Shang-Chi and his allies came to the rescue, Shockwave was injured falling from a flying dragonfly transport, and Brynocki turned against him. Shockwave joined his former enemies in escaping from Mordillo Island and fighting Brynocki\u2019s Monstrobot. During the escape, the once-proud Shockwave was brought low. He was forced to allow Shang-Chi to disconnect his electrical systems so that they all could swim to safety. He was also hit hard by the Monstrobot, and his faceplate was removed. He revealed his past-- how he was, in fact, the nephew of Nayland Smith and suffered a lonely childhood at a boarding school away from friends and family. He loved Smith\u2019s visits and stories but resented him for leaving each time. He also revealed his subjugation under Sarsfield, and Leiko Wu promised MI:6 would help free him of his brainwashing. Shang-Chi also used a recording of Shockwave\u2019s confession to expose Sarsfield.What followed was a succession of mercenary endeavors. When the Avengers\u2019 West Coast branch inadvertently stumbled onto a conspiracy within S.H.I.E.L.D., the conspiracy hired Shockwave, alongside Razor-Fist and Zaran the Weapons Master, to fight them, and Shockwave nearly downed Iron Man before being forced to flee. He was later hired by a New York crime ring to kidnap the son of the Cat, who was setting himself up to be a rival gang lord, but the Cat and Spider-Man defeated them.Finally working on his own behalf, Shockwave joined Killer Shrike, Orka, and Whiplash in trying to take over the retired Intrepid aircraft carrier to extort money from the U.S. government, but they were foiled by the Heroes for Hire. He also joined the Crimson Cowl\u2019s Masters of Evil in their attempt to blackmail the world\u2019s governments with a weather-control device, but they were confronted by the Thunderbolts and defeated. Shockwave was among those remanded to custody.", 
+            "durability": 1, 
+            "education": "Unrevealed; trained by British military and intelligence", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Master of Kung Fu #42 (1976)\n", 
+            "groupaffiliation": [
+                "(formerly) Masters of Evil", 
+                "MI: 6", 
+                "(formerly) partner to Brynocki", 
+                "agent of Ward Sarsfield"
+            ], 
+            "hair": "Black\n", 
+            "height": 71, 
+            "id": "Shockwave", 
+            "identity": "Known to the authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Sir Denis Nayland Smith (uncle)", 
+            "occupation": [
+                "Criminal", 
+                "mercenary", 
+                "former performer", 
+                "espionage agent"
+            ], 
+            "origin": [
+                "Master of Kung Fu #42", 
+                "Master of Kung Fu #75"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Shockwave\u2019s cybernetics give him above-average strength, speed, and stamina. His armor is highly resistant to injury and is capable of delivering powerful electric shocks upon contact.", 
+            "realname": "Lancaster Sneed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 170
+        }
+    }
+}

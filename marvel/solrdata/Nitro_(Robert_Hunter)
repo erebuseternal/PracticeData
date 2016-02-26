@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "After months of effort, Nitro reintegrated himself and searched for Mar-Vell in order to gain retribution. While searching for Mar-Vell, Nitro mistook the alien Omega for his enemy, and attacked him, but was defeated by Omega when a titanium steel cylinder was placed around Nitro as he exploded, causing him to be rocketed into the stratosphere.Later, Nitro again reintegrated, and lured Mar-Vell into battle. Mar-Vell subdued him once again by capturing half of Nitro (while in his gaseous state) in a container, preventing him from physically reintegrating. This container, and a second filled with the other half of Nitro's gaseous substance, was taken to the government energy facility Project: Pegasus for study. He was later released when his daughter Virginia acquired a court order in order to permit him to stand trial. Once both of the substances were recombined, he escaped and wreaked havoc in Manhattan until Spider-Man trapped him in a container partly filled with a nausea gas. Nitro later escaped once again to resume his criminal career.Shortly after escaping, Nitro accepted a contract from the Mandarin to battle Iron Man, but was again defeated. During the battle Iron Man detected the emission of a certain frequency before each explosion, and quickly deduced that it was what caused Nitro to explode at will. He duplicated the signal, weakened Nitro by repeated explosions which in turn knocked him out. Iron Man gave him over to S.H.I.E.L.D.. who again placed Nitro into custody, eventually ending up at the super villain facility at Ryker's Island prison. He was among the many criminals to escape during a massive super villain breakout on  Ryker's Island.", 
+            "durability": 5, 
+            "education": "Degree in Electrical Engineering", 
+            "energy": 5, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Captain Marvel #34 (1974)\n", 
+            "groupaffiliation": "Agent of the Lunatic Legion", 
+            "hair": "White\n", 
+            "height": 75, 
+            "id": "Nitro_(Robert_Hunter)", 
+            "identity": "Known to legal authorities", 
+            "intelligence": 7, 
+            "knownrelatives": "Mary Hunter (wife, deceased), Virginia Hunter (daughter)", 
+            "occupation": "Former electrical engineer", 
+            "origin": "Captain Marvel #34 (1974)", 
+            "placeofbirth": [
+                "Scranton", 
+                "Pennsylvania"
+            ], 
+            "powers": "Nitro can transform his body into an explosion, transforming him to a gaseous\nstate. If channels his explosive power to his hands, he can punch with great force. While in his his gaseous state, he cannot reform if any fraction of his body is separated from the rest.", 
+            "realname": "Robert Hunter", 
+            "speed": 4, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 235
+        }
+    }
+}

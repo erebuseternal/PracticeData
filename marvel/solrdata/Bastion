@@ -1,0 +1,52 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Template", 
+                "Sebastion Gilberti", 
+                "Nimrod", 
+                "Master Mold"
+            ], 
+            "citizenship": "Inapplicable", 
+            "content": "Bastion survived and was recaptured by S.H.I.E.L.D. An attack by Apocalypse's Horseman Death (actually a brainwashed Wolverine), who was seeking to kill the Mannites, left only Bastion's head still intact; Bastion survived. Later, Bastion's head was recovered by the robotic Gatekeeper servants of the techno-organic being Mainspring. Bastion co-opted one of the Gatekeeper's bodies, and used it to attack the techno-organic hero Warlock and his allies. Defeated, Bastion's head was recovered by Mainspring, who stripped away the layers of his programming to reveal the original Master Mold's source code and, using the alien transmode virus he was infected with, rewrote Bastion's programming, transforming him into Template. The virus soon took complete control of Template and forced him to construct a Babel Spire on Earth to signal the alien Technarchy. To oppose them, Mainspring destroyed himself along with Template, while Warlock managed to destroy the Babel Spire.", 
+            "durability": 7, 
+            "education": "Inapplicable", 
+            "energy": 4, 
+            "eyes": "Hazel\n", 
+            "fighting": 4, 
+            "firstappearance": "(As Bastion, cameo) X-Men #52 (1996); (as Bastion, fully) Uncanny X-Men #333 (1996); (as Template) Warlock #7 (2000)\n", 
+            "groupaffiliation": [
+                "Purifiers", 
+                "formerly Operation: Zero Tolerance", 
+                "Friends of Humanity", 
+                "Humanity's Last Stand"
+            ], 
+            "hair": "White\n", 
+            "height": 75, 
+            "id": "Bastion", 
+            "identity": "Secret", 
+            "intelligence": 5, 
+            "knownrelatives": "Rose Gilberti (foster mother, deceased)", 
+            "occupation": "Former government operative", 
+            "origin": "Marvel Comics 1998 Annual Starring Machine Man & Bastion (1998)", 
+            "placeofbirth": "Inapplicable", 
+            "powers": "As a mystical fusion of the Master Mold and Nimrod, Bastion possessed many abilities including enhanced strength, speed, and endurance. Bastion could fly by means of boot jets, as well as fire concussive energy blasts from his hands. He also proved immune to telepathic probes. As a by-product of the Siege Perilous' magic, Bastion's essence is seemingly immortal.", 
+            "realname": "Inapplicable", 
+            "significantissues": [
+                "Master Mold merged with Nimrod, entered Siege Perilous (Uncanny X-Men #246-247, 1989)", 
+                "as Bastion, established OZT (Uncanny X-Men #333, 1996)", 
+                "imprisoned Professor X & Mannites (Onslaught: Epilogue, 1997)", 
+                "OZT attacked X-Men (X-Men #65-69/Cable #45-47/X-Man #30/Uncanny X-Men #346/Wolverine #115-118/Generation X #29-31/X-Force #68-69, 1997)", 
+                "OZT shut down by government (X-Men #69, 1997)", 
+                "opposed by Cable & Machine Man, seemingly destroyed (Marvel Comics 1998 Annual Starring Cable & Machine Man /Marvel Comics 1998 Annual Starring Machine Man & Bastion, 1998)", 
+                "survived, attacked by Death, head left intact (Astonishing X-Men #1, 1999)", 
+                "gained new body, opposed Warlock & allies, transformed into Template, seemingly destroyed (Warlock #6-8, 2000)", 
+                "head recovered by government, opposed X-Men (X-Men: Declassified #1, 2000), returned (X-Force #1, 2008)"
+            ], 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 375
+        }
+    }
+}

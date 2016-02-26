@@ -1,0 +1,62 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Madame MacEvil", 
+                "H.D. Steckley", 
+                "Priestess Selene"
+            ], 
+            "citizenship": [
+                "U.S.A.", 
+                "naturalized citizen of Titan"
+            ], 
+            "content": "Thanos's assaults on Titan drove Moondragon to Earth where she allied herself with various heroes and joined the Avengers. Her questionable ethics and massive ego gradually estranged her from most of her peers whom she sometimes mentally manipulated. This culminated in Moondragon telepathically forcing the Avengers to aid in her \"benevolent\" conquest of the war-torn planet Ba-Banis, but the Avengers ultimately subdued her and turned her over to the Asgardian Gods. They placed her in the custody of the Defenders, who helped her truly reform until the Dragon's growing influence turned her against them, resulting in the destruction of both Heather and the Dragon. Moondragon was resurrected by the Eternals and her cousin, Pam Douglas, who developed powers of her own and became Sundragon. Free of the Dragon's influence, Heather remains arrogant and self-righteous, but genuinely regrets her past misdeeds and wishes to be a force for good in the universe.Moondragon has been a mentor to Hellcat, a benefactor to Jack of Hearts and a would-be lover of Quasar (who did not share her feelings), though her machinations have estranged all of them to some extent. For a time, Heather wielded the cosmic Mind Gem as a member of Adam Warlock's Infinity Watch whose members also included Drax, Heather's late father reborn in superhuman form; however, the Watch soon broke up, relinquishing their Infinity Gems.", 
+            "durability": 4, 
+            "education": "Scientific, spiritual, psionic and physical training at Shao-Lom monastery on Titan", 
+            "energy": 7, 
+            "eyes": "Blue\n", 
+            "fighting": 5, 
+            "firstappearance": "Iron Man #54 (1973),  (as Madame MacEvil) Iron Man #54 (1973); (as Moondragon) Daredevil #105 (1985)\n", 
+            "groupaffiliation": [
+                "Guardians of the Galaxy", 
+                "formerly)Infinity Watch", 
+                "Defenders", 
+                "Avengers"
+            ], 
+            "hair": "Bald (shaves head)\n", 
+            "height": 72, 
+            "id": "Moondragon", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Arthur Douglas (Drax, father), Yvette Douglas (mother, deceased), Pamela Douglas (Sundragon, cousin)", 
+            "occupation": [
+                "Priestess", 
+                "adventurer"
+            ], 
+            "origin": [
+                "Daredevil #105 (1973)", 
+                "Avengers #135", 
+                "Giant-Size Avengers #4 (1975)", 
+                "Defenders #138 (1984)", 
+                "Defenders #143 (1985)"
+            ], 
+            "placeofbirth": [
+                "Los Angeles", 
+                "California"
+            ], 
+            "powers": "Moondragon's psionic powers include telepathy, mind control, personality alteration, memory modification, illusion casting, levitation and force blasts.", 
+            "realname": "Heather Douglas", 
+            "significantissues": [
+                "Rejected as potential Celestial Madonna in favor of Mantis (Avengers #133-135/Giant-Size Avengers #4, 1975)", 
+                "joined Avengers but opted for reserve status after long probationary stint, undermined Thor's ties to team, became mentor to Hellcat (Avengers #137-144 & 147-151, 1975-1976)", 
+                "conquered planet Ba-Banis, enslaved Avengers, seemingly slew Drax, defeated by Avengers and imprisoned by Asgardians (Avengers #219-220, 1982)", 
+                "joined Defenders, reformed, betrayed team under influence of Dragon of the Moon, seemingly killed (Defenders #125-145 & 151-152, 1983-1986)", 
+                "resurrected and redeemed thanks in part to cousin Pam Douglas, who became Sundragon in the process (Solo Avengers #16/18/20, 1986)"
+            ], 
+            "speed": 4, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 150
+        }
+    }
+}

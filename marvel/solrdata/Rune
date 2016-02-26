@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Dark Lord", 
+                "Prince of the Void", 
+                "Prince of Blood"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "Prince of Blood: his savagery in battle was but a prelude to his hedonistic rituals of eviscerating many of his victims and gorging on their flesh.Prince of the Void: so called for the utter desolation left in his wake; relentlessly razing entire cities to smoldering husks.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Sludge #3 (1993)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Long black and flowing\n", 
+            "height": 79, 
+            "id": "Rune", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Conqueror", 
+                "ruler"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Rune was vastly powerful. He was a cosmic vampire that absorb the souls and power of his victims, which were mostly Ultras or other very powerful beings.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Ultraverse Earth-93060", 
+            "weight": 200
+        }
+    }
+}

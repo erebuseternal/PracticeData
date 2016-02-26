@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "\"Max\"", 
+                "Michael Wyatt", 
+                "Master of Darkness"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "To begin his crime-fighting career spectacularly, the Shroud decided to hunt and kill the Latverian dictator Doctor Doom. Although at one point he came close to his goal, he eventually found himself siding with Doom against the Red Skull, who had launched a \"hypno-ray\" satellite designed to enslave the Earth's populace. In order to stop the hypno-ray, the Shroud intercepted and absorbed the full effects of the ray bombardment himself. Rescued from the oblivion of space by Captain America, the Shroud was taken back to Earth to recover.In the long months it took him to regain his sanity, the Shroud discovered that the blast had apparently triggered the emergence of a latent mystical power-- the ability to summon a volume of absolute darkness at will. He also decided to go undercover, build up his own reputation as a criminal, and destroy the underworld from within. Associating with the underworld of Los Angeles, the Shroud soon gained a reputation with both criminals and lawmen as a master criminal. At the same time, he often would work with various heroes, such as the original Spider-Woman, Tigra, and the Avengers. Invited to join the Avengers as they opened a West Coast branch, he declined, preferring not to compromise his autonomy.The Shroud went on to organize his own gang, the Night Shift. Still committed to subverting the underworld from within, he led the team only in combating other criminals and criminal organizations. Also, by keeping an eye on the other members of the Night Shift, the Shroud hoped to make certain that they did not victimize law-abiding individuals. One of their first such endeavors was against the Power Broker, in which they aided Captain America. Once, however, when the Shroud was absent, the Night Shift battled the West Coast Avengers in an attempt to obtain the release of their captured member, Digger. Dansen Macabre, the deputy leader, could not understand why the Night Shift had never battled the Avengers before. (In reality, the Shroud had previously made a deal with the Avengers not to interfere with his motives for leading the Night Shift.) However, the Avengers trounced the Night Shift, who escaped only with the help of the Shroud, straining his relationship with the Avengers. Eventually, in part because of the friction in the team over the way the Shroud handled the Avengers, the Night Shift mutinied against his leadership, forcing him out.", 
+            "durability": 2, 
+            "education": "College degree in law and criminology", 
+            "energy": 1, 
+            "eyes": "Pale blue\n", 
+            "fighting": 3, 
+            "firstappearance": "Super-Villain Team-Up #5 (1976)\n", 
+            "groupaffiliation": [
+                "None", 
+                "(Formerly) the Night Shift", 
+                "Cult of Kali"
+            ], 
+            "hair": "Reddish-blond\n", 
+            "height": 74, 
+            "id": "Shroud", 
+            "identity": "Known to S.H.I.E.L.D. authorities", 
+            "intelligence": 4, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Adventurer", 
+                "formerly Crime fighter masquerading as a gang leader"
+            ], 
+            "origin": "Super-Villain Team-Up #7 (1976)", 
+            "placeofbirth": "New York City", 
+            "powers": "Ability to create apertures into the Darkforce Dimension to project Darkforce in a gaseous form which he can manipulate. The Darkforce negates all light sources in the area, and the Shroud can manipulate the source into basic shadows and shapes to serve as decoys. Mystical extrasensory perception replacing his eye sight) that allows him to \"see\" through walls and through his own darkness.", 
+            "realname": "Maximilian Quincy Coleridge", 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 220
+        }
+    }
+}

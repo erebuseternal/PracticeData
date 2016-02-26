@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "unrevealed", 
+            "citizenship": "Presumably Germany", 
+            "content": "", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 3, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Spider-Man: Fear Itself (1992)\n", 
+            "groupaffiliation": [
+                "Formerly led the Kinder", 
+                "Nazi Party"
+            ], 
+            "hair": "Unrevealed (shaved bald)\n", 
+            "height": 69, 
+            "id": "Baroness", 
+            "identity": "No dual identity", 
+            "intelligence": 4, 
+            "knownrelatives": "Helmut Zemo (ex-husband)", 
+            "occupation": "Terrorist", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The Baroness is a master of armed and unarmed combat, and an expert tactician and manipulator. She has used a spear that fires energy blasts and transforms into various pointed objects. The Cassidy Crystals cause maddening fear.. Her red costume protects her from injury.", 
+            "realname": "Heike Zemo", 
+            "speed": 2, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Lilin", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Ghost Rider #42 (1993)\n", 
+            "groupaffiliation": [
+                "Lilin", 
+                "former agent of Centurious"
+            ], 
+            "hair": "Unrevealed\n", 
+            "id": "Carver_(unrevealed)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None Known", 
+            "occupation": "Servant of Centurious", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Carver possessed superhuman strength, durability and reflexes. He appeared to be immune to the effects to the demonic hellfire projected from the body of Johnny Blaze", 
+            "realname": "Unrevealed", 
+            "significantissues": "Carver tortured Johnny Blaze in an attempt to gain the Medallion of Power (Ghost Rider #42 1993)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

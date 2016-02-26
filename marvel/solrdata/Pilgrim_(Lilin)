@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Lilin", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "groupaffiliation": "Lilin", 
+            "hair": "Black\n", 
+            "id": "Pilgrim_(Lilin)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Demon", 
+                "servant of Lilith"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Pilgrim possesses the power of teleportation.", 
+            "realname": "Pilgrim", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

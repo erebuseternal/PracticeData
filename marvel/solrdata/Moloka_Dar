@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "Thanos #8 (2004)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "id": "Moloka_Dar", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Former prisoner", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Moloka Dar", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

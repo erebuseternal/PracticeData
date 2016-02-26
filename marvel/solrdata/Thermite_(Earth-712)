@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "United States of America (Earth-712)", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed; presumably self-educated", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Squadron Supreme #10 (1985)\n", 
+            "groupaffiliation": [
+                "(Formerly) Redeemers", 
+                "Squadron Supreme"
+            ], 
+            "hair": "Black\n", 
+            "height": 62, 
+            "id": "Thermite_(Earth-712)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "(At time of death) subversive", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Thermite was able to project intense heat from  the left side of his body and intense cold from the right side of his body. He had difficulty controlling and regulating the temperatures of his body, making it necessary for him to wear a regulator pack.", 
+            "realname": "Sam Yurimoto", 
+            "significantissues": "Accidentallly killed by Whizzer (Squadron Supreme #12)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-712", 
+            "weight": 135
+        }
+    }
+}

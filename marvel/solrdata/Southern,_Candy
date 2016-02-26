@@ -1,0 +1,48 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Southern Belle", 
+                "Marvel Girl", 
+                "0-39-01"
+            ], 
+            "citizenship": "USA", 
+            "content": "Candy moved to New York after convincing her parents to let her get an apartment there. Employed at the United Nations Building and taking courses  at Archer College, she had a chance encounter with Warren at the Monkee's Paw nightclub just after he had a finally abandoned his crush on Grey. Candy and Warren got reacquainted over soft drinks and compared notes on their years apart, piquing Candy's curiosity regarding Xavier's School. Warren tried to discourage her interest in the school, but he was immediately charmed by Candy and intent on seeing her again. Called away on urgent X-Men business, Warren quickly arranged a second date by inviting Candy to Bobby's birthday party at the Coffee A Go-Go cafe, where Candy met Bobby, Scott, Jean, Hank, Bobby's girlfriend Zelda Kurtzberg and Hank's girlfriend Vera Cantor while they all watched oddball performance artist Bernard the Poet. The party was literally and figuratively crashed by biker gang Satan's Saint, who rode into the cafe on their motorcycles pursuing a grudge against Zelda, but Warren and his classmates used their combat training and subtle applications of their powers to subdue the bikers without exposing themselves as the X-Men.", 
+            "durability": 1, 
+            "education": "Unspecified studies at Archer College, finishing school graduate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men #31 (1967)\n", 
+            "groupaffiliation": [
+                "Formerly Worthington Industries (chairman and vice president)", 
+                "Defenders", 
+                "Hellfire Club", 
+                "former longtime X-Men associate"
+            ], 
+            "hair": "Black\n", 
+            "height": 67, 
+            "id": "Southern,_Candy", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "David and Linda Southern", 
+            "occupation": [
+                "Former corporate executive", 
+                "super-hero team leader", 
+                "socialite", 
+                "UN employee"
+            ], 
+            "placeofbirth": [
+                "Glen Cove", 
+                "Long Island", 
+                "New York"
+            ], 
+            "powers": "Candace possessed no known superpowers or abilities. While she was assimilated by the Phalanx, her techno-organic body presumably had the enhanced strength, shape-shifting and matter assimilating abilities typical of the Phalanx.", 
+            "realname": "Candace \"Candy\" Southern", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 117
+        }
+    }
+}

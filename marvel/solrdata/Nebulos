@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Lord of the Planets Perilous", 
+            "citizenship": [
+                "Unknown", 
+                "possibly Perilous"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Left eye was green\n", 
+            "fighting": 1, 
+            "firstappearance": "Strange Tales #161 (1967)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 0, 
+            "id": "Nebulos", 
+            "identity": "Unknown to the general populace of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Power seeker", 
+            "placeofbirth": "Unknown", 
+            "powers": "The level of Nebulos' powers were never revealed.", 
+            "realname": "Unknown, possibly Nebulos", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Indeterminate\n"
+        }
+    }
+}

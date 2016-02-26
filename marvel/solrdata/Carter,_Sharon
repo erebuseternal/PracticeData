@@ -1,0 +1,58 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Agent 13", 
+                "Irma Kruhl", 
+                "Fraulein Rogers", 
+                "others"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "However, Sharon's death was a ruse by S.H.I.E.L.D., which sent her on a top-secret mission; at its end, S.H.I.E.L.D. and its director, Nick Fury, erroneously believed her dead.  Abandoned in enemy territory, Sharon spent months imprisoned in the dictatorship of Tap-Kwai.  Finally escaping, she spent the next few years as a mercenary, often forced into violent or degrading activity; Sharon's experiences cost her much of her idealism, making her hard and bitter. Infiltrating an organization known as the Kubekult, she learned that it planned to resurrect Adolf Hitler via the Cosmic Cube, and Sharon became the unlikely ally of the Red Skull, who opposed the cult for his own reasons. To aid them, the Skull revived the temporarily comatose Captain America, who was stunned to learn of Sharon's survival. Although Sharon, still scarred by her experiences, attempted to keep her former lover at a distance, she continued to work alongside Cap against such opponents as Nightmare and Count Nefaria. She also rescued Nick Fury, believed dead, from a pocket dimension he had been trapped in during a mission.Initially maintaining her freelance status, Sharon next served as S.H.I.E.L.D. Director while Fury was on assignment. Following his return, she resumed her position as S.H.I.E.L.D. agent, and she and Captain America fully reconciled and considered renewing their romance. However, their relationship again became strained when Cap learned of her reluctant involvement with S.H.I.E.L.D.'s anti-mutant Contingency, and the couple again parted ways.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Tales of Suspense #75 (1966)\n", 
+            "groupaffiliation": [
+                "Formerly S.H.I.E.L.D.", 
+                "Femme Force", 
+                "brainwashed into National Force", 
+                "infiltrated A.I.M.", 
+                "Kubekult", 
+                "others"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 68, 
+            "id": "Carter,_Sharon", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Harrison Carter (father), Amanda Carter (mother), Margaret (\"Peggy,\" aunt)", 
+            "occupation": [
+                "S.H.I.E.L.D. field agent", 
+                "formerly head of S.H.I.E.L.D.", 
+                "mercenary"
+            ], 
+            "origin": "Captain America #162 (1973)", 
+            "placeofbirth": [
+                "Richmond", 
+                "Virginia"
+            ], 
+            "powers": "None", 
+            "realname": "Sharon Carter", 
+            "significantissues": [
+                "Impersonated Irma Kruhl (Tales of Suspense #97-99, 1968)", 
+                "infiltrated National Force, seemingly killed (Captain America #231-233, 1979)", 
+                "revealed to be alive, worked with Captain America against the Kubekult and the Red Skull (Captain America #445-448, 1995-1996)", 
+                "rescued Nick Fury from pocket dimension (Fury/Agent 13 #1-2, 1998)", 
+                "reconciled with Captain America (Captain America #49, 2002)", 
+                "brainwashed by Dr. Faustus to kill Captain America (Captain America #25, 2007)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

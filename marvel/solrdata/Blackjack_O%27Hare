@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Halfworld", 
+            "content": "Whether it was that defeat or a higher payoff which led him to work for Lord Dyvyne was inconsequential. O'Hare was working against his former employer. Blackjack, and his Bunny Brigade, was again commissioned to kidnap Lylla for Dyvyne, so the reptilian toy mogul could obtain her fortune for himself. However, always looking for the big payday, Blackjack betrayed Dyvyne and decided to keep Lylla for himself. Outraged, Dyvyne sent his deadliest creation, the Red Breath, to destroy O'Hare as well as his other enemies. Meanwhile, Judson Jakes deployed a squad of Killer Clowns, flying on Vacuusleds, to do the same. O'Hare and his Black Bunny Brigade were caught in the middle of two warring factions, and the result was the annihilation of every Bunny Brigade member, save Blackjack himself. Fearing for his life, the sole surviving mercenary struck a deal with Rocket Raccoon, and the two became temporary allies.Rocket used O'Hare's knowledge of the seedier places on Halfworld, such as his familiarity with the Wild Worms of Halfworld, to escape persecution, but as soon as he got a chance, O'Hare double-crossed Rocket and his allies. After a chance meeting with Uncle Pyko in a robot bar, O'Hare assembled eight other miscreants to join his insane quest for redemption. He thought if he could recapture Lylla, and Gideon's Bible \u2013 now in Uncle Pyko's possession \u2013 and bring them back to Lord Dyvyne, he could get back in his employer's good graces. Rocket and the others weren't about to let that happen. They quickly defeated O'Hare's impromptu group, and escaped without a scratch. O'Hare was left empty handed once more.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed (helmet off); Red (helmet on)\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #271 (1982)\n", 
+            "groupaffiliation": [
+                "Ally of Rocket Raccoon", 
+                "formerly Blackjack O'Hare and his Awful Eight", 
+                "Black Bunny Brigade"
+            ], 
+            "hair": "Black fur\n", 
+            "id": "Blackjack_O%27Hare", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Adventurer", 
+                "former mercenary"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Halfworld", 
+            "powers": "None", 
+            "realname": "Blackjack O'Hare", 
+            "significantissues": [
+                "Stole Gideon's Bible and kidnapped Lylla for Judson Jakes (Incredible Hulk #271, 1982)", 
+                "Kidnapped Lylla for Lord Dyvyne then betrayed him (Rocket Raccoon #2, 1985)", 
+                "Formed a temporary alliance with Rocket Raccoon then betrayed him (Rocket Raccoon #3, 1985)", 
+                "Saved Rocket Raccoon's life and joined forces with him once again (Rocket Raccoon #4, 1985)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

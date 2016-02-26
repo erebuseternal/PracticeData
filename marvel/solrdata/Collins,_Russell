@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Rusty Collins", 
+                "Firefist"
+            ], 
+            "citizenship": "U.S. Citizen", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "groupaffiliation": [
+                "Formerly Acolytes", 
+                "Mutant Liberation Front", 
+                "New Mutants", 
+                "X-Factor/X-Terminators"
+            ], 
+            "hair": "Red\n", 
+            "height": 71, 
+            "id": "Collins,_Russell", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "occupation": [
+                "Adventurer", 
+                "former terrorist", 
+                "sailor"
+            ], 
+            "origin": "Mutant", 
+            "powers": "Pyrokinesis: Can create flames up to twenty feet away from his body while instinctively shielding himself with a psionic shield", 
+            "realname": "Russell Collins", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 160
+        }
+    }
+}

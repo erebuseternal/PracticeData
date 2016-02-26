@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Latveria", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Fantastic Four Annual #2 (1964)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Gray\n", 
+            "id": "Boris", 
+            "identity": "Publicly Known", 
+            "intelligence": 1, 
+            "knownrelatives": "Valeria (daughter)", 
+            "occupation": "Servant of Doctor Doom", 
+            "origin": "Fantastic Four Annual #2 (1964)", 
+            "placeofbirth": "Latveria", 
+            "powers": "None", 
+            "realname": "Boris", 
+            "significantissues": "Fantastic Four Annual #2 (1964) (intro/origin)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

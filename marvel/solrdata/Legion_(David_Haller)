@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Jack Wayne", 
+                "Cyndi"
+            ], 
+            "citizenship": "Israel (Deceased)", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "(left) Green, (right) Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "New Mutants #25 (1985)\n", 
+            "groupaffiliation": "Formerly Australian X-Men", 
+            "hair": "Black\n", 
+            "height": 60, 
+            "id": "Legion_(David_Haller)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Charles Xavier (Professor X, father), Gabrielle Haller (mother), Dr. Brian Xavier (paternal grandfather, deceased), Sharon Xavier (paternal grandmother, deceased), Cassandra Nova (paternal aunt), Cain Marko (Juggernaut, stepuncle)", 
+            "occupation": [
+                "Adventurer", 
+                "Student"
+            ], 
+            "placeofbirth": "Israel", 
+            "powers": "Telekinesis, Pyrokinesis, Telepathy, ability to absorb the consciousness of others.  In addition Legion demonstrated the psionic abilities of time-travel, shape-shifting, and formation of a psychic knife. \nNote: The manifestation of Legion's individual powers were generally associated with his different personalities. The Jack Wayne personality used telekinesis, Cyndi was a pyrokinetic, and Jemail Karami was a telepath.", 
+            "realname": "David Charles Haller", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 130
+        }
+    }
+}

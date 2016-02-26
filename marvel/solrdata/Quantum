@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Dakkamite", 
+            "content": "He went in search of his missing teammates and the search led him to the planet of Earth, where he met Graviton and eventually joined forces with him. Halflife, and Zzzax were in the company of Graviton at that time. Graviton promised Quantum that he would assist him in locating his lost friends. While in the presence of Graviton and the others Quantum fought the West Coast Avengers. Shortly after this battle Quantum fell out with Graviton and left to continue his search for his friends. His search led him to find another member of his race known as the Aquarian. Quantum quickly attacked the Aquarian for being a traitor to the Dakkamite race. Their battle was interrupted by Quasar, who saved the Aquarian.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "West Coast Avengers #12 (1986)\n", 
+            "groupaffiliation": [
+                "Former member of Graviton's unnamed group", 
+                "The Elect of Dakkam"
+            ], 
+            "hair": "Red\n", 
+            "id": "Quantum", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": "Adventurer", 
+            "placeofbirth": "Dakkam", 
+            "powers": "Quantum's received his powers when the scientist of his race discovered that the Earth sun amplified his peoples natural abilities. Although, his powers have yet to be completely defined, Hawkeye theorized that his powers were infused by radiation of the closes star, although he later confided in Quasar that this was not true at all.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

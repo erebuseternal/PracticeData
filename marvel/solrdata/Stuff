@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Formerly Kato", 
+            "citizenship": "Shi'ar", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Inapplicable\n", 
+            "fighting": 1, 
+            "firstappearance": "New X-Men #123 (2002)\n", 
+            "groupaffiliation": "Formerly Imperial Guard (Superguardians)", 
+            "hair": "Inapplicable\n", 
+            "height": 0, 
+            "id": "Stuff", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Peacekeeper", 
+            "placeofbirth": "Unrevealed planet in the Shi'ar Empire", 
+            "powers": "Stuff is an alien bio-computer who is able to transform its synthetic form into virtually any conceivable shape, thus allowing it to precisely replicate a member of any alien race. Thanks to its alien nature, Stuff is virtually undetectable whilst shape-changed, even by a telepath as powerful as the X-Men's Emma Frost.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Exalted One", 
+                "All-Knowing Genghis"
+            ], 
+            "citizenship": "Presumably Tibet", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Trained by the Vishanti; extensively self-taught", 
+            "energy": 2, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Strange Tales #136 (1965)\n", 
+            "groupaffiliation": [
+                "Unnamed order of mystics", 
+                "allegedly the Immortal Nine"
+            ], 
+            "hair": "Bald (white facial hair)\n", 
+            "height": 64, 
+            "id": "Aged_Genghis", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Hermit", 
+                "sorcerer"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Once an extremely powerful mystic, Genghis' abilities are virtually lost to senility. He sometimes maintains potent mystic defenses, but is often vulnerable to physical assault. For 24 hours every century, the Time of the Vishanti restores his power and clarity. He can teleport, restructure matter, transmit thoughts across global distances, etc. Hidden within his mind is a vast array of magical knowledge. Extremely frail, Genghis levitates almost constantly; he rarely stands or walks, and even has to be reminded to eat. Though he rarely has the focus to use them, he maintains numerous magical tomes and items. His diary is cursed, and corrupts those who hold it.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 84
+        }
+    }
+}

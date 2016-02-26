@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Adam Henderson", 
+                "Kyle Richmond", 
+                "Simple Joe", 
+                "Over-Mind"
+            ], 
+            "citizenship": "Inapplicable", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Inapplicable", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "Defenders #103 (1982)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 0, 
+            "id": "Null_the_Living_Darkness", 
+            "identity": "The general populace of Earth is unaware of Null's existences", 
+            "intelligence": 1, 
+            "knownrelatives": "Inapplicable", 
+            "occupation": [
+                "Nihilist", 
+                "destroyer"
+            ], 
+            "origin": "Defenders #103 (1982)", 
+            "placeofbirth": "Inapplicable", 
+            "powers": "Null is a mystic life form created from the existing members of the extinct S'Raphh race, as such has an almost unlimited ability to manipulate the forces of magic.", 
+            "realname": "Null The Living Darkness", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

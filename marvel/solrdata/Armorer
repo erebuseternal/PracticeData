@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Zahgurim's servant", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Hellstorm Prince of Lies #12 (1994)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "height": 77, 
+            "id": "Armorer", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Worshiper of Zahgurim", 
+            "origin": "Hellstorm: Prince of Lies #14 (1994)", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Unrevealed", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 285
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Gwen", 
+            "citizenship": [
+                "Night World", 
+                "Dream Dimension"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green (as Gwen) Gray\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #77 (2005)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Green; (as Gwen) Black\n", 
+            "height": 68, 
+            "id": "Daydream", 
+            "identity": "True identity unknown to the general public", 
+            "intelligence": 1, 
+            "knownrelatives": "Nightmare (father), unidentified mother, Dreamqueen (half-sister), Dweller-In-Darkness (first cousin, once removed), other distant relations", 
+            "occupation": "Former singer", 
+            "origin": "Incredible Hulk #81 (2005)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "It is unknown how much of Nightmare's powers the half-human Daydream inherited.", 
+            "realname": "Unrevealed", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 118
+        }
+    }
+}

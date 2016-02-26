@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S. Citizen", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "hair": "Blonde\n", 
+            "height": 67, 
+            "id": "Page,_Karen", 
+            "identity": "Deceased", 
+            "intelligence": 1, 
+            "knownrelatives": "Dr. Paxton Page (Death's Head, father, deceased)", 
+            "occupation": [
+                "Former secretary for Foggy Nelson and Matt Murdock", 
+                "former actress"
+            ], 
+            "powers": "None", 
+            "realname": "Karen Page", 
+            "speed": 1, 
+            "strength": 1, 
+            "weight": 125
+        }
+    }
+}

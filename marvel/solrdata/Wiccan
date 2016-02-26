@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Asgardian", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Young Avengers #1 (2005)\n", 
+            "groupaffiliation": [
+                "Young Avengers", 
+                "formerly Secret Avengers"
+            ], 
+            "hair": "Black\n", 
+            "id": "Wiccan", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Scarlet Witch (alleged mother), Speed (brother), Quicksilver (alleged uncle), Magneto (alleged grandfather)", 
+            "occupation": "Adventurer", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "William \"Billy\" Kaplan", 
+            "speed": 1, 
+            "strength": 1
+        }
+    }
+}

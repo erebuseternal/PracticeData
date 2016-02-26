@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Presumably Xarth Three", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Nova #8 (2008)\n", 
+            "groupaffiliation": "Formerly the Luminals", 
+            "hair": "None\n", 
+            "id": "Crater", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Former protector of Xarth Three", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Presumably Xarth Three", 
+            "powers": "Crater appeared to have superhuman strength and durability the limits of which are unknown", 
+            "realname": "Unrevealed", 
+            "significantissues": "Traveled to Knowhere with fellow Luminals, turned into a zombie, and defeated by Nova (Nova #8-9, 2008)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

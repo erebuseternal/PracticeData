@@ -1,0 +1,50 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Bug-Man of Alcatraz", 
+                "Red Baron"
+            ], 
+            "citizenship": "U.S.A. with criminal record", 
+            "content": "Mitty immediately resumed his inept criminal tendencies, targeting ESU directly by stealing rare paintings on loan to the Art Department. When the attempt failed, he shifted sights to expensive super conductive ceramics in the Physics Building. Spider-Man captured Humbug after threatening a cruel end to a jar full of roaches. Humbug returned once again to harass the ESU faculty; this time, the obnoxious mercenary Deadpool was hired to kill the troublesome professor. Humbug deafened Deadpool with a hemorrhage around his ear drum, but the mercenary retaliated, covering Humbug with honey and South American fire ants. Humbug was left for dead, apparently eaten alive. While the outer layer of skin was being consumed, Humbug communicated with the ants, brokering a deal to exchange his life for a few younger and tastier victims. After Humbug kept his part of the bargain, Rodney, the leader of the fire ants, decided to stay with Humbug. Teaming with villains 8-Ball, Freezer Burn, and Whirlwind, Humbug robbed the wealthy publisher Ricadonna, unaware that she was an emerging crime-lord and that they stole a microchip with a computer virus that could destabilize the world economy. Unable to sell the stolen goods and with each of his colleagues murdered, Humbug turned himself over to bounty hunter Misty Knight. Ricadonna attacked Misty, severing her bionic arm holding the chip. Humbug summoned a massive swarm of insects against Ricadonna, who fled with the chip. The fact Ricadonna had the chip back in her possession saved Humbug from the wrath of the Mad Juggler.", 
+            "durability": 2, 
+            "education": "Ph.D. in entomology", 
+            "energy": 4, 
+            "eyes": "Hazel\n", 
+            "fighting": 2, 
+            "firstappearance": "Web of Spider-Man #19 (1986)\n", 
+            "groupaffiliation": [
+                "Formerly Heroes for Hire", 
+                "Unnamed villain team", 
+                "Empire State University"
+            ], 
+            "hair": "Brown\n", 
+            "height": 66, 
+            "id": "Humbug", 
+            "identity": "Known to authorities", 
+            "intelligence": 4, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Hero for hire", 
+                "(formerly) criminal", 
+                "scientist", 
+                "entomology professor"
+            ], 
+            "origin": "Web of Spider-Man #19 (1986)", 
+            "placeofbirth": [
+                "Lodi", 
+                "New Jersey"
+            ], 
+            "powers": "None", 
+            "realname": "Buck Mitty", 
+            "significantissues": [
+                "Official Handbook Bibliography", 
+                "revealed to be a member of new Heroes for Hire group (Heroes for Hire #1, 2006)"
+            ], 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 130
+        }
+    }
+}

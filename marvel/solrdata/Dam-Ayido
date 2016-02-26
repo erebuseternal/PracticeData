@@ -1,0 +1,53 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "\"Bon Dieu\" (\"the Good God\")", 
+                "Agaou Wedo", 
+                "Anviewo", 
+                "Dam-Ayido", 
+                "Dan Houeza", 
+                "Dan Petro", 
+                "Dan Yi", 
+                "Dangbe", 
+                "Danger Mina", 
+                "Danh", 
+                "Dumballah", 
+                "Serpent God", 
+                "Snake-God", 
+                "others"
+            ], 
+            "citizenship": "Ala (realm of the Vodu Gods)", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Black (variable)\n", 
+            "fighting": 1, 
+            "firstappearance": "Dracula Lives #2 (1973)\n", 
+            "groupaffiliation": "Vodu Gods (Gods of Africa)", 
+            "hair": "None (variable)\n", 
+            "height": 144, 
+            "id": "Dam-Ayido", 
+            "identity": [
+                "Damballah is publicly known", 
+                "generally as a mythological character or a fictional being from the Voodoo religion."
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Ayida Wede (wife), Lusa (father), Mahu (mother), Buluku (grandmother), Nana (Gaea, grandmother), Sagbatta (Baron)Samedi, twin brother), Age, Eschu, Legba, Ogun, Shanggo/Xevioso(brothers), Avlekete, Ezili/Erzulie, Oya (sisters), Maman Brigitte (sister-in-law), others", 
+            "occupation": [
+                "God of the dead and the grave", 
+                "god of Serphents"
+            ], 
+            "origin": "Doctor Strange: Sorcerer Supreme #17 (1990)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Like all Vodu, Damballah has superhuman physical abilities and is highly resistant to disease, injury and aging. Damballah manipulate certain unidentified energies associated with curses and the underworld, granting him powers over life and death.", 
+            "realname": "Dan-Ayido-Hwedo", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 300
+        }
+    }
+}

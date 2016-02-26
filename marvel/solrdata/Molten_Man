@@ -1,0 +1,55 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "After graduating high school, Elizabeth Allan worked as a nurse to aid Raxton, her step-brother. It was only after Molten Man made an attempt to attack her, he realized that his step-sister was the only member of his family who had not abandoned him. After desperate attempts to cure himself involving criminal activities, Raxton ended up in the Vault, the superhuman prison in the Colorado Rockies.Years later, reconciling with Raxton, Liz and her husband Harry Osborn gave Raxton a job as head of security at Osborn Industries. Raxton supported Liz when Harry went back his villainous ways and later helped Spider-Man to capture him. Molten Man and Spider-Man have since become friends, but when Ben Reilly assumed the role of Spider-Man they have minor disagreement until they allied themselves against Gaunt.Raxton also crossed paths with Daredevil when he was affected by a gas made by Mister Fear. Daredevil managed to dispose the gas before he managed to hurt anyone and revealed that Raxton was betrayed by one of his own people.Some time after that, Molten Man was abducted by Norman Osborn, the original Green Goblin, and was brainwashed. Under mind control, Molten Man attacked and killed Osborn's henchwoman Alison Mongrain, who happened to be one of the few people who knew the true cause Mary Jane's miscarriage. While Molten Man has since recovered from the mind control, he still bears a heavy burden of guilt over the incident.", 
+            "durability": 6, 
+            "education": "College graduate", 
+            "energy": 5, 
+            "eyes": "Gold\n", 
+            "fighting": 4, 
+            "firstappearance": "Amazing Spider-Man #28 (1965)\n", 
+            "groupaffiliation": "Exterminators", 
+            "hair": "Gold\n", 
+            "height": 0, 
+            "id": "Molten_Man", 
+            "identity": "Publicly known", 
+            "intelligence": 3, 
+            "knownrelatives": "Doris Raxton (mother), Liz Allan Osborn (step-sister), Harry Osborn (step-brother-in-law, deceased), Norman Osborn Jr. (step-nephew)", 
+            "occupation": [
+                "Security guard for Osborn industries", 
+                "former criminal", 
+                "lab assistant"
+            ], 
+            "origin": "Amazing Spider-Man #28 (1965)", 
+            "placeofbirth": [
+                "New York City", 
+                "New York"
+            ], 
+            "powers": "Molten Man possesses superhuman strength enabling him to lift 40 tons under optimal conditions, and is highly resistant to injury, including resistance to high caliber bullets, and external temperatures up to 500\u00b0 Fahrenheit for sustained periods of time.  Since his skin is coated with a frictionless alloy, Raxton can slip away from any grasp or snares including Spider-Man\u2019s webbing.  In his molten stage, the Molten Man can also radiate heat up to 300\u00b0 Fahrenheit and emit harmful radiation from his molten form. The Molten Man's metallic fingers are sensitive to the sound of the metal tumblers in many safe locks making him an expert safe-cracker.", 
+            "realname": "Mark Raxton", 
+            "significantissues": [
+                "freed from prison, made a series of robberies disguised, captured by Spider-Man (Amazing Spider-Man #35, 1966)", 
+                "learned how to increase and later lost control of his temperature (Amazing Spider-Man #132-133, 1974)", 
+                "sought the cure his condition, but the cure didn\u2019t work (Amazing Spider-Man #172-173, 1977)", 
+                "attacked Spider-Man knocked to a pool and reverted back to his golden form (Spectacular Spider-Man #63, 1982)", 
+                "fought Spider-Man and was hired by Osborn Industries (Web of Spider-Man #61-62, 1990)", 
+                "helped Spider-Man defeat Tombstone (Web of Spider-Man #66-67, 1990)", 
+                "had a conversation with Spider-Man about Green Goblin (Spectacular Spider-Man #184, 1992)", 
+                "kidnapped by Green Goblin and helped Spider-Man capture him (Spectacular Spider-Man #189, 1992)", 
+                "defended Spider-Man in argument with Liz (Spectacular Spider-Man #190, 1992)", 
+                "helped Spider-Man to save Norman Osborn Jr. (Spider-Man: Legacy of Evil, 1996)", 
+                "Liz told him that someone was reverting money from Osborn Industries (Spectacular Spider-Man #234, 1996)", 
+                "fought with Ben Reilly found Gaunt\u2019s regenerator (Sensational Spider-Man #5, 1996)", 
+                "fought Gaunt and his henchmen (Amazing Spider-Man #412, 1996)", 
+                "hypnotized by Norman Osborn to kill Alison Mongrain (Amazing Spider-Man #440-441, 1998)", 
+                "joined Exterminators defeated by Spider-Man (Sensational Spider-Man #29-31, 2006)"
+            ], 
+            "speed": 2, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 550
+        }
+    }
+}

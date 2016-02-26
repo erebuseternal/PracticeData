@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "None", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Extensively self-educated", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #155 (1972)\n", 
+            "groupaffiliation": "Mentor to Glorian and Kubik", 
+            "hair": "None\n", 
+            "height": 216, 
+            "id": "Shaper_of_Worlds", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Kubik, Maker, and other Cosmic Cubes", 
+            "occupation": "Reality manipulator", 
+            "origin": "Skrull Cosmic Cube", 
+            "placeofbirth": "Ancient Skrullian throneworld (now destroyed)", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 5
+        }
+    }
+}

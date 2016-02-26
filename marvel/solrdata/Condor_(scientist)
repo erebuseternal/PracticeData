@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "\"Condy\"", 
+            "citizenship": [
+                "Sky Island", 
+                "with criminal record there and in the USA"
+            ], 
+            "content": "The Condor was recently sited patronizing the super-villain sanctuary, known as the \"Bar With No Name\", where he placed a bet on a fight between Spider-Man (impersonated by Screwball), and neophyte villain Basher. However, while watching the monitor, a second Spider-Man appeared, and he quickly realized that he had been scammed by the Bookie. The Bookie was swiftly taken from the Bar, by the angry Enforcers. The real Spider-Man arrived at the Bar seeking to talk to the Bookie and was fought by Condor and the other villains in the Bar. This fight was broken up by the bartender.", 
+            "durability": 1, 
+            "education": "Condor was a scientific genius although the level of his genius or education are unknown.", 
+            "energy": 1, 
+            "eyes": "Red (formerly brown)\n", 
+            "fighting": 1, 
+            "firstappearance": "Nova #2 (1976)\n", 
+            "groupaffiliation": [
+                "Avians", 
+                "formerly the Terrible Trio partners (Diamondhead and Powerhouse)"
+            ], 
+            "hair": "Bald (formerly black)\n", 
+            "height": 74, 
+            "id": "Condor_(scientist)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Sky Island", 
+            "occupation": [
+                "Mercenary", 
+                "former scientist", 
+                "criminal"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Condor has enhanced superhuman strength, stamina and durability.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 213
+        }
+    }
+}

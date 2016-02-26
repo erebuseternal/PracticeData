@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Brazil", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Gambit and the X-Ternals #1 (1995)\n", 
+            "groupaffiliation": "X-Ternals", 
+            "hair": "Black\n", 
+            "height": 68, 
+            "id": "Sunspot_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Adventurer", 
+            "placeofbirth": [
+                "Rio de Janeiro", 
+                "Brazil"
+            ], 
+            "powers": "Sunspot is able to absorb solar energy and channel it to increase his strength and the ability to fly. While doing so, Sunspot\u2019s features melt away into a black mass of crackling energy.", 
+            "realname": "Roberto DaCosta", 
+            "significantissues": [
+                "Fought the Imperial Guard (Gambit and the X-Ternals #2, 1995)", 
+                "killed (Gambit and the X-Ternals #3, 1995)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 170
+        }
+    }
+}

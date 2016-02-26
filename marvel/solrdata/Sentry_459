@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Sentry", 
+            "citizenship": "Unrevealed", 
+            "content": "The Fantastic Four soon traveled to the island, which Ben picked at random, using a dart and a map, and intended to vacation there. They flew using their Pogo Plane as the airlines were all booked up, and Mister Fantastic\u2019s sensors detected the screen in time for the Invisible Girl to save them with one of her force shields. The Sentry saw them descending and ducked their plane before grabbing it by the fuselage. The four jumped from their plane and fought with the Sentry. He used an instrument panel on his chest to fire a blast ray, but the Thing swiftly smashed his panel, and he was forced to fight using only his own strength and ingenuity.The Sentry created a tidal wave by pounding the ground with his fist, nearly destroying the Fantastic Four, until the Human Torch and Lockjaw appeared to save them. During a fight with the Sentry, Johnny missed him with a fire blast and set off the alien power source underneath the island, causing it to build to an explosion. The Fantastic Four scrambled to Lockjaw, though Ben fell through the ground and saved the two humans the Sentry had imprisoned earlier, and the group surrounded the Inhuman canine, who teleported them to safety. Left alone, the Sentry made his final report, remaining behind with the self-destructing spaceport as the price for his failure.After some time the Sentry was somehow recreated and landed in a small town in the panhandle of Texas where he was reprogrammed by the Super-Adaptoid and joined his team of robots known as Heavy Metal. Heavy Metal eventually clashed with the Avengers and the Sentry was taken down alongside his other robotic cohorts. He was then placed in a stasis field alongside the other Heavy Metal members. A short time later they were then reactivated by Machinesmith and battled several female Avengers. They later escaped from the Avengers compound after a battle between Doctor Doom and the Avengers.", 
+            "durability": 1, 
+            "education": "Kree training", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 6, 
+            "firstappearance": "Fantastic Four #64 (1967)\n", 
+            "groupaffiliation": [
+                "Formerly Heavy Metal", 
+                "Underground Legion", 
+                "former minion of the Super-Adaptoid", 
+                "Ultron", 
+                "and Ronan"
+            ], 
+            "hair": "None\n", 
+            "height": 180, 
+            "id": "Sentry_459", 
+            "identity": "Secret", 
+            "intelligence": 5, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Kree Sentry", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The Sentry is capable of increasing his strength to unknown levels in order to fight any foe and is equipped with an instrument panel that gives him the use of many Kree weapons, including a blast ray.", 
+            "realname": "Kree Inter-Galactic Sentry 459", 
+            "significantissues": [
+                "Intro/death (Fantastic Four #64, 1967)", 
+                "Activated to investigate Kree experiments on humanity, the Inhumans (Thor #147, 1967)"
+            ], 
+            "speed": 6, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unrevealed", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Purple\n", 
+            "fighting": 1, 
+            "firstappearance": "Heroes for Hire #1 (2006)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Purple\n", 
+            "id": "Grindhouse", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Professional criminal", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Unrevealed, if any", 
+            "realname": "Unrevealed", 
+            "significantissues": "Tried to get a new identity but was captured by Heroes for Hire (Heroes for Hire #1, 2006)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

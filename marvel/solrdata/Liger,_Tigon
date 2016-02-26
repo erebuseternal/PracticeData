@@ -1,0 +1,48 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Colonel Liger", 
+                "formerly Ephesus"
+            ], 
+            "citizenship": "UK", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Degree in engineering gained in the British Army", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Overkill #1 (1992)\n", 
+            "groupaffiliation": [
+                "Dark Guard", 
+                "formerly Warheads Kether Troop", 
+                "formerly British Army", 
+                "British Intelligence Shadow Section", 
+                "Mys-Tech"
+            ], 
+            "hair": "Blond\n", 
+            "height": 74, 
+            "id": "Liger,_Tigon", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Lynx Liger (brother)", 
+            "occupation": [
+                "Warheads Strike Troop leader", 
+                "formerly British Army colonel", 
+                "Mys-Tech adviser"
+            ], 
+            "placeofbirth": [
+                "Horsham", 
+                "Sussex", 
+                "Britain"
+            ], 
+            "powers": "Liger possessed a enhanced strength, stamina, and reflexes. He also had a cybernetic eye, it is possible that he had other cybernetic body parts.", 
+            "realname": "Tigon Liger", 
+            "significantissues": "Joined the Dark Guard (Dark Guard #1, 1993)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 182
+        }
+    }
+}

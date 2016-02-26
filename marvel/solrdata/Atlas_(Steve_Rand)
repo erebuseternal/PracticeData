@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "U.S.A.", 
+                "deceased"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Werewolf By Night #22 (1974)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Bald; (formerly) black\n", 
+            "id": "Atlas_(Steve_Rand)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Former mass murderer", 
+                "actor"
+            ], 
+            "origin": "Werewolf By Night #23 (1974)", 
+            "placeofbirth": [
+                "Hollywood", 
+                "California"
+            ], 
+            "powers": "None", 
+            "realname": "Steve Rand", 
+            "significantissues": "murdered those he thought to be responsible for his disfigurement, fought Werewolf by Night, killed by Buck Cowan (Werewolf By Night #22-23, 1974)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

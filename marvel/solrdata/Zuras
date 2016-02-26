@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "First citizen of Olympia", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Eternals #5\n", 
+            "groupaffiliation": "Eternals", 
+            "hair": "Red\n", 
+            "height": 74, 
+            "id": "Zuras", 
+            "identity": "Zuras' identity as an Eternal is publicly known to the people of Earth but generally disbelieved", 
+            "intelligence": 1, 
+            "knownrelatives": "Mentor (alias Alars, brother), Thena (daughter), Eros (alias Starfox, nephew)", 
+            "occupation": "Former leader of the Eternals of Earth", 
+            "origin": "Eternals #5", 
+            "placeofbirth": [
+                "Titanos", 
+                "first city of the Eternals", 
+                "located in Asia"
+            ], 
+            "realname": "Zuras", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 300
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unrevealed", 
+            "citizenship": "The Living Universe", 
+            "content": "These Gods helped to shape the Living Universe. Each of them had a task that they preformed to perfection. As they continued to preform their task their necessity to the Living Universe diminished, and the Proemial Gods started to fade from existence. Diableri  became opposed to being erased from the Living Universe. He devised a plan to remake the Universe in his own image, with the hopes of preserving his existence. He created a race of small winged warriors who served as his eyes and ears. They were the Chaos Sprites.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Annihilation: Heralds of Galactus #2 (2007)\n", 
+            "groupaffiliation": "Proemial Gods", 
+            "hair": "Blue\n", 
+            "height": 0, 
+            "id": "Diableri", 
+            "identity": [
+                "Inapplicable", 
+                "the general populace of Earth is unaware of Diableri's existence."
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": "Tasked with sowing chaos into order.", 
+            "origin": "Unknown", 
+            "placeofbirth": "The Living Universe", 
+            "powers": "Diableri is believed to possess the Power Cosmic, which enables him to gather, channel and manipulate large quantities of cosmic energy. The full extent of Tenebrous' power is unknown.", 
+            "realname": "Diableri", 
+            "significantissues": "Annihilation:Heralds of Galactus #2 (2007)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

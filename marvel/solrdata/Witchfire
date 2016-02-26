@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Witchfire", 
+            "citizenship": "Canadian (naturalized)", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Alpha Flight #76 (1989)\n", 
+            "groupaffiliation": [
+                "Formerly Beta Flight", 
+                "Gamma Flight"
+            ], 
+            "hair": "Red\n", 
+            "height": 62, 
+            "id": "Witchfire", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Belasco (father)", 
+            "occupation": [
+                "Hero", 
+                "sorceress"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Ananym (last name unknown)", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

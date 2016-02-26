@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Akihiro", 
+                "\"Mongrel\" (English translation of name)", 
+                "Wolverine"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 4, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 7, 
+            "firstappearance": "(Partial) Wolverine: Origins #5 (2006); (shadowed) Wolverine: Origins #10 (2007); (full, identified) Wolverine: Origins #11 (2007)\n", 
+            "groupaffiliation": [
+                "Formerly Avengers (Osborn's team)", 
+                "X-Men (Osborn's team)", 
+                "hired by Sebastian Shaw"
+            ], 
+            "hair": "Black\n", 
+            "height": 69, 
+            "id": "Daken", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "James Howlett (Wolverine, father), Itsu [mother, deceased]", 
+            "occupation": [
+                "Assassin", 
+                "Hitman-for-hire"
+            ], 
+            "placeofbirth": [
+                "Unrevealed", 
+                "possibly Japan"
+            ], 
+            "powers": "Daken has superhuman strength, reflexes, endurance, longevity and sensory acuity, and an advance healing factor (the extent of which is yet to be determined). He possesses three retractable bone claws housed within each hand: two dorsal and one palmar below the wrist.", 
+            "realname": "Unrevealed", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 167
+        }
+    }
+}

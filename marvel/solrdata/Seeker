@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "The Seeker", 
+            "citizenship": "Attilan", 
+            "content": "Though when the Fantastic Four tracked him down, he offered the Dragon Man to them; but the beast awoke in shackles and broke his way out of his restraints, shattered the water globe that held Triton, and rampaged his way out into the city. The four heroes saved Triton using the Invisible Girl\u2019s powers, but the Seeker soon claimed him under Inhuman law. Reluctantly, Mister Fantastic let him go, but placed a homing device on the Seeker\u2019s ship and later followed them to Attilan.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Fantastic Four #46\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "id": "Seeker", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Servant of the Inhuman crown", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Unrevealed", 
+            "significantissues": "Fantastic Four #46 (intro)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

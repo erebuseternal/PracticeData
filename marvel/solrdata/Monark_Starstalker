@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Starstalker Series Nanotool", 
+                "\"Jackal", 
+                "\" \"vulture", 
+                "\" \"viper\""
+            ], 
+            "citizenship": [
+                "Unrevealed", 
+                "if applicable"
+            ], 
+            "content": "After the Shi'ar and Kree war had resulted in the creation of The Fault, a long lost Nova Corps starship, the Resolute Duty, suddenly reappeared. Upon further investigation of the ship, it was found to hold a Nova Centurion, several droids and one dangerous captive. Zan Philo had been missing for thirty-five years, but still held the Corps values above all, bringing justice to whatever universe he found himself in. Even though he already had a live prisoner in tow, there was one who escaped his notice. Monark Starstalker, known to Philo, had stowed away with every intention of bringing Zan's prisoner to the proper authorities himself because of the high price on his head. Using his Nano-swarm to disguise himself as Nova Centurion Fraktur, Starstalker ambushed Nova and Philo, proving to be more than a match for both of them. Even the added firepower of Morrow and Irani Rael couldn't turn the tide in their favor. To make matters worse, Starstalker's arrogance coupled with the immense damage done to Worldmind by his Nano-swarm allowed Ego to regain control of the Corps temporary base of Nu-Xandar as a group of Mindless Ones, following Philo through The Fault, attacked the starship, attempting to free their imprisoned leader.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Premiere #32 (1976)\n", 
+            "groupaffiliation": "Former unwitting servant of unidentified being(s)", 
+            "hair": "Black\n", 
+            "height": 73, 
+            "id": "Monark_Starstalker", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Bounty hunter", 
+                "adventurer", 
+                "former rigger"
+            ], 
+            "origin": [
+                "Marvel Premiere #32 (1976)", 
+                "Nova #30 (2009)"
+            ], 
+            "placeofbirth": "Unrevealed (Reality-7642)", 
+            "powers": "Starstalker is in possession of microscopic sentient robotic creatures he calls his Nano-swarm. These ingenious creations give Starstalker a wide array of abilities, making him a formidable foe for one or numerous enemies. \nStarstalker can extend a Nanocloud around his body to go into stealth mode, completely camouflaging him from prying eyes. It can make him seem invisible, or he can disguise himself in the appearance of another. The Nanocloud also makes it hard for an opponent to target and strike him, even with the use of visor-mounted optics. The Nano-swarm prevents anyone from sneaking up on Starstalker, and it makes fighting him similar to fighting a ghost.\nStarstalker can use his Nano-swarm to travel back to the source of a scanning beam and compromise the operating system on the other end. The limit of how far his Nanoencoding can travel is undetermined at this time, but once inside a computer system, the amount of harm it can cause is catastrophic. The Nano-swarm can shut down both offensive and defensive capabilities in technological devices, and it can haze or confuse an individual's mind.\nStarstalker can even use the Nano-swarm to damage a starship\u2019s engines so badly it will cause them to explode.\n\nStarstalker is actually a Nanite Construct, not a living being, and as such he has self-repair systems to mend damage done to his body even though it appears as if he has to temporarily shut down while doing so. Ulysses, his android companion, watches over him while in this state. It has yet to be determined what level of injury would prove too much for his systems to repair, but it is entirely possible, because he is not truly alive, Monark Starstalker is immortal.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Hunted down a serial killer on a far off planet (Marvel Premiers #32, 1976)", 
+                "Returned through The Fault and confronted the Nova Corps over a bounty (Nova #29, 2009)", 
+                "Discovered a truth previously hidden about himself, and aided Nova before venturing out into the universe (Nova #30, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

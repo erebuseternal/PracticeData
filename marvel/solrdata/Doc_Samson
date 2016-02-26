@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Samson", 
+            "citizenship": "U.S.A.", 
+            "content": "However, most of the psionic energy drained from Banner as well as a considerable amount of his excess gamma radiation remained within the cathexis ray projector. Motivated by scientific curiosity, and probably by a desire to gain superhuman powers for himself, Samson irradiated himself with the energies remaining within the projector. The result was that the slight, brown-haired psychiatrist was transformed into a massively muscled, green-haired superhuman with gamma-boosted strength. Banner himself seemed permanently cured, but he emotionally broke under the strain of seeing Betty, the woman he loved, being romanced by Samson, and exposed himself to gamma radiation, thereby undoing the cure.Samson later lost his superhuman physique and power when he took a blast of concentrated gamma radiation intended for the Hulk. However, months later Samson regained his gamma-mutated form and superhuman strength when he was bombarded by intensive radiation from an exploding gammatron, an experimental gamma-ray generator. He has remained in this form ever since. Doc Samson, as he has been nicknamed, has long sought to capture and permanently cure the Hulk. Samson worked as a university teacher during the recent time that the Hulk was traveling through different dimension, unable to return to Earth. But Samson returned to his pursuit of the Hulk once the monster reappeared on Earth.The Hulk hasn't been Samson's only focus although Banner is his primary center of attention. Samson was integral in the capture of the first known gamma-powered serial killer, Patchwork, as well aiding others who have been affected by gamma radiation such as the Initiative recruit, Geiger. Doc Samson had also been trying to help Penance of the Thunderbolts cope with his participation in the tragedy in Stamford as well as delay, if not destroy, the rise of Norman Osborn.At an undisclosed time, Samson was kidnapped by A.I.M. and was used as an experiment by M.O.D.O.K. which resulted in him developing a split personality. For a time, Samson switched back and forth between his good and evil self, but his corrupted side eventually won the struggle for dominance and claimed the part of him that was Leonard is dead. He has joined a group of villainous masterminds known as the Intelligencia, and his greatest desire seemed to be the need to kill his former ally, the Red Hulk, thereby proving his superiority. He maintained contact with the superhero community as they were not aware, as of yet, of his shift in personality.", 
+            "durability": 5, 
+            "education": "Ph.D. in psychiatry", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #141 (1971)\n", 
+            "groupaffiliation": [
+                "Gamma Base staff", 
+                "Hulkbusters", 
+                "Intelligencia"
+            ], 
+            "hair": "Green (formerly brown)\n", 
+            "height": 72, 
+            "id": "Doc_Samson", 
+            "identity": "Publicly known", 
+            "intelligence": 4, 
+            "knownrelatives": "Ricky Myers (son)", 
+            "occupation": [
+                "Psychiatrist", 
+                "former college professor", 
+                "special consultant to the U.S. Army", 
+                "Air Force", 
+                "and Gamma Base in New Mexico"
+            ], 
+            "placeofbirth": [
+                "Tulsa", 
+                "Oklahoma"
+            ], 
+            "powers": "Doc Samson possesses superhuman strength, endurance, and durability. His skin and muscles have been fortified by gamma radiation, and is resistant to injury from gunfire. However, his strength is proportionate to the length of his hair.", 
+            "realname": "Leonard Samson", 
+            "speed": 2, 
+            "strength": 6, 
+            "universe": "Marvel Universe", 
+            "weight": 380
+        }
+    }
+}

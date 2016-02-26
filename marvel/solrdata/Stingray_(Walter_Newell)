@@ -1,0 +1,52 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Sir Devilfish", 
+            "citizenship": "USA", 
+            "content": "Stingray continued his friendship with the Sub-Mariner on many occasions. He helped Namor clear the Atlanteans\u2019 name over the sinking of an ocean cruiser and exposed Attuma as the culprit, he spoke on Namor\u2019s behalf in his attempts to gain official amnesty from the UN for past transgressions, and he later helped Namor locate his human father, Leonard McKenzie. However, McKenzie became the pawn of Tiger Shark and Llyra, and although Stingray helped Namor defeat his enemies, McKenzie was killed.Newell is best known for his work as the chief caretaker of Hydrobase. Shortly after moving to Hydrobase, he married Diane Arliss, the sister of Tiger Shark. His oceanographical research consumed most of his time, although he had been known to don the Stingray costume occasionally, such as the time he helped the Thing, Triton, and Scarlet Witch defeat Roxxon Oil\u2019s designs for the mystic Serpent Crown.Stingray\u2019s first association with the Avengers came when the team needed to use part of Hydrobase as an airbase for their Quinjets. Later, the Avengers needed to move their headquarters to Hydrobase at a time when their Park Avenue mansion was destroyed. During this time, Newell became part of the Avengers\u2019 Ground Crew and, as Stingray, he even became an unofficial member of the group by participating in several missions, such as helping the team recover a nuclear sub from the eco-terrorist Peace Corpse. When Hydrobase was destroyed by the Lava Men, Newell was forced to continue his research privately.More recently, Stingray joined the Avengers in helping re-organize their team after a long hiatus when most of their number were believed dead. He has also remained on hand to aid the Avengers on an as-needed basis, such as helping them against renegade Atlanteans and the Master of the World during the time the time-travelling Kang tried to conquer the Earth.", 
+            "durability": 1, 
+            "education": "Doctorate in oceanography", 
+            "energy": 1, 
+            "eyes": "Hazel\n", 
+            "fighting": 1, 
+            "firstappearance": "(Walter Newell) Tales to Astonish #95 (1967); (Stingray) Sub-Mariner #19 (1969)\n", 
+            "groupaffiliation": [
+                "Initiative Instructors", 
+                "formerly Secret Avengers", 
+                "Avengers", 
+                "Deep Six"
+            ], 
+            "hair": "Brown\n", 
+            "height": 0, 
+            "id": "Stingray_(Walter_Newell)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Diane Arliss Newell (wife); Todd Arliss (Tiger Shark, brother-in-law)", 
+            "occupation": [
+                "Oceanographer", 
+                "occasional adventurer"
+            ], 
+            "origin": "Sub-Mariner #19 (1969)", 
+            "placeofbirth": [
+                "Gloucester", 
+                "Massachusetts"
+            ], 
+            "powers": "None", 
+            "realname": "Walter Newell", 
+            "significantissues": [
+                "With Namor vs. Tiger Shark and Llyra (Sub-Mariner 46, 1972)", 
+                "attempts to join the Defenders during their recruitment drive (Defenders #62-64, 1978)", 
+                "with the Thing, Triton, and Scarlet Witch vs. the Serpent Society for control of the Serpent Crown (Marvel Two-In-One #64-66, 1980)", 
+                "attacked and incapacitated by Iron Man, who thinks he has stolen his technology (Iron Man #226, 1988)", 
+                "allows the Avengers to use Hydrobase (Avengers #262, 1985)", 
+                "with the Avengers, stops eco-terrorists Peace Corpse from utilizing a stolen British nuclear submarine (Avengers #319-324, 1990)", 
+                "with the Avengers, was caught in a warped medieval reality, became a member of the Queen's Vengeance (Avengers #1-3, 1998)", 
+                "with Avengers vs. Kang (Avengers #44-55, 2001)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

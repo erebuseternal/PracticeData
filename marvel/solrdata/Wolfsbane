@@ -1,0 +1,70 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Grimfang", 
+                "Mutate 490", 
+                "Queen Rain of Geshem"
+            ], 
+            "citizenship": "United Kingdom", 
+            "content": "", 
+            "durability": 3, 
+            "education": "High School equivalent", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 3, 
+            "firstappearance": "(Sinclair) Marvel Graphic Novel #4 (1982); (Wolfsbane) New Mutants #1 (1983)\n", 
+            "groupaffiliation": [
+                "Formerly X-Force", 
+                "X-Factor Investigations", 
+                "Xavier Institute", 
+                "Excalibur", 
+                "X-Factor", 
+                "Hellions", 
+                "New Mutants"
+            ], 
+            "hair": "(Human) red; (transitional/lupine) red-brown\n", 
+            "height": 0, 
+            "id": "Wolfsbane", 
+            "identity": "Known to the authorities", 
+            "intelligence": 2, 
+            "knownrelatives": "Reverend Craig (father), unidentified mother (deceased), Moira MacTaggert (foster mother, deceased)", 
+            "occupation": [
+                "Private investigator", 
+                "former teaching assistant", 
+                "goverment agent", 
+                "adventurer", 
+                "student"
+            ], 
+            "origin": [
+                "New Mutants #11 (2004)", 
+                "Cable #-1 (1997)", 
+                "Marvel Graphic Novel #4 (1982)"
+            ], 
+            "placeofbirth": [
+                "Ullapool", 
+                "Ross and Cromarty", 
+                "Scotland"
+            ], 
+            "powers": "Able to shape change into various lupine states; in lupine form, has enhanced senses, strength and speed, claws and fangs. She also possesses accelerated healing, even in human form.", 
+            "realname": "Rahne Sinclar", 
+            "significantissues": [
+                "detailed Official Handbook Bibliography", 
+                "joined New Mutants (Marvel Graphic Novel #4, 1982)", 
+                "joined governmental X-Factor (X-Factor #74, 1992)", 
+                "joined Excalibur (Excalibur #90, 1995)", 
+                "faced Reverend Craig (Excalibur #93, 1996)", 
+                "losing powers (Bishop: The Last X-Man #16, 2001)", 
+                "returned to Xavier Institute (New Mutants #9, 2004)", 
+                "powers restored (New Mutants #10, 2004)", 
+                "joined XXX Investigations (Madrox #1, 2004)", 
+                "became member of X-Factor Investigations when the XXX Investigations changed their name to that (Madrox #5, 2005)", 
+                "joined X-Force (Uncanny X-Men #493, 2007)"
+            ], 
+            "speed": 3, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "unknown", 
+            "content": "", 
+            "durability": 1, 
+            "education": "unknown", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Force #129\n", 
+            "groupaffiliation": [
+                "Weapon X", 
+                "X-Force"
+            ], 
+            "hair": "Black\n", 
+            "id": "Washout", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "unknown", 
+            "occupation": "Weapon X", 
+            "origin": "X-Force", 
+            "placeofbirth": "unknown", 
+            "powers": "transform his body into water and manipulate water in all forms", 
+            "realname": "John Lopez", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel"
+        }
+    }
+}

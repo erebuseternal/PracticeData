@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "United States Citizen", 
+                "deceased"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Daredevil #1 (1964)\n", 
+            "groupaffiliation": "Mob", 
+            "height": 0, 
+            "id": "Fixer_(Roscoe_Sweeny)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Mob boss", 
+            "placeofbirth": "Unknown", 
+            "powers": "None", 
+            "realname": "Roscoe Sweeny", 
+            "significantissues": "Had Jack Murdock killed, scared to death by Daredevil (Daredevil #1, 1964)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Clown", 
+                "Crafty Clown", 
+                "Funny Man"
+            ], 
+            "citizenship": [
+                "USA", 
+                "with a criminal record"
+            ], 
+            "content": "While incarcerated he was visited by General John Ryker, who wanted to recruit the former Clown into a group powerful enough to settle Ryker's personal vendetta against the Hulk, the Gamma Corps. Eager for his own revenge, Franklin agreed to subject himself to Ryker's Harpy experiments and became Griffin. The Corps' initial assault on the Hulk resulted in their field leader, Grey, snapping the Hulk's neck, but this came at a time when Hulk was angrier than he had ever been; waging war against Earth's heroes who he blamed for his wife Caiera's death. Hulk recovered and found the Corps' base, hidden within the Staten Island dump. Griffin attacked Hulk, but once Hulk got a firm grasp on him, he broke several of Griffin's bones. Franklin healed and stayed with the Corps who, after hearing the truth behind their creation, decided Hulk was not the real enemy. Abandoning Ryker, the Corps found new targets in the members of the Illuminati.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown (as Clown); Green (as Griffin)\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #3 (as Clown, 1962); Gamma Corps #1 (as Griffin, 2007)\n", 
+            "groupaffiliation": [
+                "Gamma Corps", 
+                "formerly Circus of Crime", 
+                "Masters of Menace"
+            ], 
+            "hair": "Various (as Clown); Green (as Griffin)\n", 
+            "height": 68, 
+            "id": "Griffin_(Eliot_Franklin)", 
+            "identity": [
+                "(Griffin) Known to authorities", 
+                "(Clown) publicly known"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Corky Franklin (father), Clown (Unrevealed) (half-brother)", 
+            "occupation": [
+                "Bounty hunter", 
+                "government agent", 
+                "former assassin", 
+                "professional criminal", 
+                "carnival employee", 
+                "circus performer"
+            ], 
+            "origin": [
+                "Gamma Corps #1 (as Griffin", 
+                "2007)"
+            ], 
+            "placeofbirth": [
+                "Orlando", 
+                "Florida"
+            ], 
+            "powers": "None (as Clown); Franklin was subjected to the Harpy experiments which gave him a level of superhuman strength, speed, agility and endurance. He can transform at will from human to a winged being with razor sharp talons for feet, claws and fangs. He can spit deadly acid at his foes. (as Griffin)", 
+            "realname": "Eliot Franklin", 
+            "significantissues": [
+                "Agreed to become Griffin, fought Hulk, injured but stayed with Corps(Gamma Corps #1-4, 2007)", 
+                "became bounty hunter for Norman Osborn (Dark Reign: Made Men #1, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Daredevil #126 (1975)\n", 
+            "groupaffiliation": "Defenders", 
+            "hair": "Blonde\n", 
+            "height": 72, 
+            "id": "Torpedo_(Brock_Jones)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "occupation": [
+                "Former football player", 
+                "adventurer"
+            ], 
+            "placeofbirth": [
+                "New York City", 
+                "New York"
+            ], 
+            "powers": "Brock possessed no superhuman powers or strength, although when he donned the Torpedo armor he was impervious to gunfire and had the ability of fly at mach speeds.", 
+            "realname": "Brock Jones", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

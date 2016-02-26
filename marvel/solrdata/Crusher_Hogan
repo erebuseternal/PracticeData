@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "High-school dropout", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Fantasy Vol. 1 #15 (1962)\n", 
+            "groupaffiliation": "Formerly Championship Wrestling", 
+            "hair": "None\n", 
+            "height": 70, 
+            "id": "Crusher_Hogan", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Marie Hogan (wife)", 
+            "occupation": [
+                "Custodian", 
+                "former professional wrestler"
+            ], 
+            "origin": "Spider-Man's Tangled Web #14 (2002)", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Joseph Hogan", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 210
+        }
+    }
+}

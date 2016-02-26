@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Soulless Man", 
+                "the man without a soul"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Trained sorcerer", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Ghost Rider #74 (1982)\n", 
+            "groupaffiliation": [
+                "The Firm", 
+                "Co-led Lilin"
+            ], 
+            "hair": "White\n", 
+            "height": 72, 
+            "id": "Centurious", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unnamed princess (first wife, deceased), Tara (wife, deceased), Adam (brother-in-law, deceased), married and widowed many times", 
+            "occupation": [
+                "= Formerly a Louisiana plantation owner", 
+                "formerly leader of the Firm Power Broker for known criminals such as (Carver and Reverend Styge)."
+            ], 
+            "origin": "Ghost Rider #77 (1983)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Centurious was bestowed with immortality upon selling his soul to Mephisto.", 
+            "realname": "Unrevealed", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 215
+        }
+    }
+}

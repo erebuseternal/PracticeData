@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "The scientists Morlak, Zota, and Shinski of the Enclave, along with the mysterious Mr. Smith, were determined to use their unparalleled geniuses to create a savior who would usher in the utopia they had long sought to bring into the world. That savior was to be Adan Warlock.", 
+            "durability": 5, 
+            "education": "College student", 
+            "energy": 7, 
+            "eyes": "Brown\n", 
+            "fighting": 2, 
+            "firstappearance": "Warlock #1 (2005)\n", 
+            "groupaffiliation": "Enclave", 
+            "hair": "Black\n", 
+            "id": "Warlock_(Janie_Chin)", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Character designer", 
+                "savior of the world"
+            ], 
+            "origin": "Warlock #4 (2005)", 
+            "placeofbirth": "The jungles of Costa Perdita", 
+            "powers": "She has identical abilities of Adam Warlock", 
+            "realname": "Janie Chin", 
+            "significantissues": [
+                "Dreamed that there were another Warlock, got advice from the real Adam Warlock (Warlock #1-3, 2005)", 
+                "revealed to be the new Warlock herself (Warlock #4, 2005)"
+            ], 
+            "speed": 4, 
+            "strength": 5, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

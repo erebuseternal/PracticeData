@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Graduate studies in Biology", 
+            "energy": 1, 
+            "eyes": "Yellow\n", 
+            "fighting": 1, 
+            "firstappearance": "Spectacular Spider-Man #149 (1989)\n", 
+            "groupaffiliation": [
+                "None", 
+                "Former Carnage Family"
+            ], 
+            "hair": "None\n", 
+            "height": 70, 
+            "id": "Carrion_(Malcolm_McBride)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Beatrice Martha McBride (mother)", 
+            "occupation": "Former graduate student", 
+            "origin": "Spectacular Spider-Man #149 (1989)", 
+            "placeofbirth": [
+                "Astoria", 
+                "New York"
+            ], 
+            "powers": "Carrion can teleport over short distances leaving behind a cloud of brimstone, telekinetically control and decay organic matter (including Spider-Man's webbing), ignite fires and induce death with a touch, levitate, generate repelling energy, become intangible, and regenerate rapidly. He has low-level telepathy (stronger in Allen than the others) and is immune to certain forms of detection including Spider-Man's spider-sense. The Carrion virus is strangely non-communicable. Once it has a host, it becomes dormant and cannot be transmitted to others. Separated from a host body, however, it is extremely contagious. Despite the appearance of being \"undead\", the virus does not kill its host.", 
+            "realname": "Malcolm McBride", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

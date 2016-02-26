@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "College educated", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Slingers #0 (1998)\n", 
+            "groupaffiliation": [
+                "The Loners", 
+                "formerly Slingers"
+            ], 
+            "hair": "White\n", 
+            "height": 71, 
+            "id": "Ricochet_(Johnny_Gallo)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified father and mother", 
+            "occupation": "Adventurer", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Superhuman agility, leaping, and aim; danger-sense", 
+            "realname": "Johnathon \"Johnny\" Gallo", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 162
+        }
+    }
+}

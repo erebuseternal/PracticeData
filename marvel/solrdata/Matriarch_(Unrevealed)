@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Slink", 
+            "content": "However, the mischievous Pip the Troll often referred to her as Slink, the nature of their relationship remains undefined. Together with the Magus, she proved to be an expert strategist and efficient leader. Together they led the fanatical Universal Church of Truth to dominion over thousands of planets throughout the Milky Way Galaxy. When they encountered a planet, whose inhabitants chose to oppose their religious ways, the entire planet went under the process of purification. This purification process met that the majority of the inhabitants of the planet were destroyed.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Strange Tales #178 (1975)\n", 
+            "groupaffiliation": "The Universal Church of Truth", 
+            "hair": "Light brown\n", 
+            "id": "Matriarch_(Unrevealed)", 
+            "identity": "Unknown to the general populace of Earth is unaware of her existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Formerly madam of a brothel on Sirus X", 
+            "placeofbirth": [
+                "Unrevealed", 
+                "possibly the planet of Sirus X"
+            ], 
+            "powers": "None known", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

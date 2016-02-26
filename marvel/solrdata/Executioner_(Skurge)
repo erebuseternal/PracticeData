@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Hans Grubervelt", 
+                "the Evil One"
+            ], 
+            "citizenship": "Asgard", 
+            "content": "", 
+            "durability": 6, 
+            "education": "Skurge was educated in the art of warfare", 
+            "energy": 5, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Journey Into Mystery #103 (1964)\n", 
+            "groupaffiliation": [
+                "Former partner of Enchantress", 
+                "Masters Of Evil", 
+                "Einherjar"
+            ], 
+            "hair": "Black, partially bald\n", 
+            "height": 84, 
+            "id": "Executioner_(Skurge)", 
+            "identity": [
+                "Secret on Earth", 
+                "Public on Asgard"
+            ], 
+            "intelligence": 4, 
+            "knownrelatives": "None", 
+            "occupation": "Warrior", 
+            "placeofbirth": "Jotunheim (Asgard)", 
+            "powers": "Asgardian hybrid physiology (son of a Frost Giant father and Skornheimian mother)", 
+            "realname": "Skurge", 
+            "speed": 4, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": 1100
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Toad", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "groupaffiliation": "Enrico's Brotherhood", 
+            "hair": "Brown\n", 
+            "id": "Toad_(1602)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Servant", 
+            "origin": "1602 #5", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Toad can move at superhuman speeds. He has incredibly strong legs enabling him to leap several yards at once. Toad alos has a prehensile tongue which he cna use as a weapon.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel 1602 (Earth-311)"
+        }
+    }
+}

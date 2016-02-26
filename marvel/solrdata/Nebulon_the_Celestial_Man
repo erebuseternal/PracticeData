@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Mr. Nebul", 
+                "Dorma"
+            ], 
+            "citizenship": "Planet Ul'lula", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "(as humanoid) white\n", 
+            "fighting": 1, 
+            "firstappearance": "Defenders #13 (1974)\n", 
+            "groupaffiliation": "The Celestial Mind Control Movement", 
+            "hair": "(as humanoid) silver\n", 
+            "height": 0, 
+            "id": "Nebulon_the_Celestial_Man", 
+            "identity": "The general populace of Earth is unaware that Nebulon is an extraterrestrial.", 
+            "intelligence": 1, 
+            "knownrelatives": "Supernalia (wife)", 
+            "occupation": [
+                "Formerly prospector", 
+                "guru", 
+                "At the time of his death aspiring conqueror of Earth."
+            ], 
+            "origin": "Defenders #14 (1974)", 
+            "placeofbirth": [
+                "Planet Ul'lula", 
+                "Ul system", 
+                "of the Milky Way"
+            ], 
+            "powers": "Nebulon had the power to manipulate the biospheric energy, it is was undefined if his energy manipulating powers were psionic in origin. His powers were dependent on the biospheric energy of planets. If he were deprived of contact of a planetary biosphere long enough, his powers would be reduced to that of a normal human being.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 1150
+        }
+    }
+}

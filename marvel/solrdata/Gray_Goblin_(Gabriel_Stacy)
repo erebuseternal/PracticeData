@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "France", 
+            "content": "The tests revealed text stating that Gwen had been pregnant and had twins. He collected DNA from the grave of Gwen Stacy and prooved that the twins, Sarah and Gabriel (who had been threatning and attacking him and his family) were her children.Mary Jane then revealed that she had known for years that the father of Gwen's children was Norman Osborn, the Green Goblin. He got so enraged that he broke everything within reach.", 
+            "durability": 4, 
+            "education": "Privately educated", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 3, 
+            "firstappearance": "Amazing Spider-Man #509\n", 
+            "groupaffiliation": "None", 
+            "hair": "Reddish-brown\n", 
+            "height": 72, 
+            "id": "Gray_Goblin_(Gabriel_Stacy)", 
+            "identity": [
+                "Secret", 
+                "known to Spider-Man", 
+                "Mary Jane Watson", 
+                "Sarah Stacy", 
+                "and Norman Osborn."
+            ], 
+            "intelligence": 4, 
+            "knownrelatives": "Norman Osborn (father), Gwen Stacy (mother, deceased), Sarah Stacy (sister), Harry Osborn (half-brother), Norman \"Normie\" Osborn Jr. (nephew), Ambrose Osborn (grandfather, deceased), Alton Osborn (great-grandfather, deceased), George Stacy (grandfather, deceased), Helen Stacy (grandmother), Arthur Stacy (uncle once removed), Nancy Stacy (aunt once removed, deceased), Paul Stacy (cousin once removed), Jill Stacy (cousin once removed)", 
+            "occupation": "None", 
+            "origin": "Amazing Spider-Man #512", 
+            "placeofbirth": [
+                "Paris", 
+                "France"
+            ], 
+            "powers": "Gabriel was born with enhanced strength, durability, and healing rate. Injection of the Goblin serum further increased his strength to be able to lift 15 tons under optimal conditions. His skin's toughness has also increased to be nearly bulletproof. However, the serum has rendered him mentally unstable with bouts of amnesia. Whether the serum will have the intended effect of reducing his aging to normal levels remains to be seen.", 
+            "realname": "Gabriel \"Gabe\" Stacy", 
+            "significantissues": "Amazing Spider-Man #514", 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

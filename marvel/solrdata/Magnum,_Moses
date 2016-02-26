@@ -1,0 +1,58 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Formerly Magnum Force", 
+                "\"Arms Dealer to the World\""
+            ], 
+            "citizenship": [
+                "U.S.A. (naturalized)", 
+                "formerly Canaan", 
+                "Ethiopia"
+            ], 
+            "content": "Supplied with additional technology by They Who Wield Power, Magnum subsequently threatened to sink Japan if he was not proclaimed its ruler, destroying the port city of Agarashima to prove his intentions. Opposed by the visiting X-Men and national hero Sunfire, Magnum ultimately unleashed his power but was countered by Banshee, who burned out his own power to block Magnum\u2019s seismic energy. The resultant explosion destroyed Magnum\u2019s base, but Magnum survived. Re-establishing his company as Magnum Munitions, Magnum purchased the classified Deathlok cyborg technology from Cybertek. After the criminal High-Tech stole the technology, Magnum sent one of his agents in a massive \u201cTerrordome\u201d weapons platform to retrieve it, but was thwarted by Deathlok (Michael Collins). Magnum subsequently bid against rival weapons manufacturers A.I.M. (Advanced Idea Mechanics) for a defense contract, destroying their world headquarters after they refused to withdraw their bid. Magnum used the subsequent profits to outfit a new army, conquering the African nation Canaan and seeking to restructure it into a homeland for African-Americans. Magnum then sought to ensure Canaan\u2019s economic independence by invading neighboring Wakanda, but Wakanda\u2019s king, the Black Panther (T'Challa), foiled the invasion with Deathlok\u2019s aid.", 
+            "durability": 3, 
+            "education": "Unrevealed", 
+            "energy": 6, 
+            "eyes": "Brown\n", 
+            "fighting": 3, 
+            "firstappearance": "Giant-Size Spider-Man #4 (1975)\n", 
+            "groupaffiliation": [
+                "Magnum Force (leader)", 
+                "agent of Apocalypse", 
+                "former agent of They Who Wield Power"
+            ], 
+            "hair": "Black\n", 
+            "height": 69, 
+            "id": "Magnum,_Moses", 
+            "identity": "No dual identity", 
+            "intelligence": 4, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Terrorist", 
+                "president of Magnum Munitions", 
+                "former ruler of Canaan"
+            ], 
+            "origin": "Giant-Size Spider-Man #4 (1975)", 
+            "placeofbirth": [
+                "Addis Ababa", 
+                "Ethiopia"
+            ], 
+            "powers": "Moses Magnum\u2019s body generates seismic force which amplifies his natural strength and attunes him to seismic vibrations. Magnum can unleash this energy to cause minor tremors or devastating earthquakes, though currently he is unable to control it.", 
+            "realname": "Moses Magnum", 
+            "significantissues": [
+                "As head of DRC, hired to test biochemical gas, opposed by Punisher & Spider-Man, seemingly died after exposure to gas (Giant-Size Spider-Man #4, 1975)", 
+                "revealed to have survived thanks to anti-gas body suit, as Magnum Force, began mining Katsyu Shima, threatened stability of entire Pacific Rim region, opposed by Power Man/Luke Cage, seemingly fell to death (Power Man Annual #1, 1976)", 
+                "rescued by Apocalypse, swore fealty to him, given superhuman powers (Classic X-Men #25, 1988)", 
+                "attacked Japan, opposed by X-Men & Sunfire, defeated by Banshee (X-Men #118-119, 1979)", 
+                "sought to recover corporate information stolen by High-Tech, agent opposed by Deathlok (Deathlok #11, 1992)", 
+                "destroyed A.I.M. headquarters to ensure his company won defense contract, used profits to outfit new army, overthrew ruler of Canaan, invaded Wakanda to seize Vibranium, opposed by Black Panther & Deathlok, defeated by Deathlok (Deathlok #22-25, 1993)", 
+                "powers destabilized as punishment by Apocalypse, stole experimental seismic cannon to regain control, opposed by Avengers, Triathlon & Silverclaw, seemingly fell to death (Avengers #8-9, 1998)"
+            ], 
+            "speed": 2, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 159
+        }
+    }
+}

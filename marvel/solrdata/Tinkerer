@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "Years later, Spider-Man learns that the Tinkerer is an ordinary man who has an extraordinary talent for anything mechanical, and his \"aliens\" were really movie stuntmen in costumes, doing his dirty work.The Tinkerer has in recent years been inventing armor and weapons for various super-criminals, including the Beetle, the Big Wheel, Hobgoblin (Jason Macendale), and the Constrictor.", 
+            "durability": 1, 
+            "education": "Mechanical Engineering", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Spider-Man #2 (1963)\n", 
+            "groupaffiliation": "None", 
+            "hair": "White (Balding)\n", 
+            "height": 64, 
+            "id": "Tinkerer", 
+            "identity": "Secret", 
+            "intelligence": 6, 
+            "knownrelatives": "Richard \"Rick\" Mason (son)", 
+            "occupation": "Inventor and technician serving the underworld", 
+            "placeofbirth": [
+                "Unrevealed", 
+                "presumable New York City"
+            ], 
+            "powers": "No known superhuman powers.", 
+            "realname": "Phineas Mason", 
+            "speed": 2, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

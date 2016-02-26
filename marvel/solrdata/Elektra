@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Expatriated Greek citizen", 
+            "content": "She eventually studied martial arts with a sensei in Japan.  She left to join the secret organization of martial artists headed by Stick, who was also Murdock's sensei.  She spent a year in Stick's order and greatly developed her martial arts skills.  But, Stick asked her to leave the group because she was still filled with pain over her father's death and hatred for the world she blamed for it.Elektra returned to her previous sensei.  Determined to prove herself to Stick, she infiltrated the Hand, a secret order of ninjas devoted to assassination and domination through fear.  She intended to subvert their activities, but the Hand instead tricked her into killing her sensei.  She served the Hand for a time, but eventually resisted their corruption and fled Japan.Elektra spent years as a bounty hunter and assassin for hire.  While working in New York City, she crossed paths with Daredevil, whom she discovered was Matt Murdock, her old love.  Daredevil vehemently opposed her activities, but the two still cared deeply for one another.  They fought the Hand together, but then Elektra was hired by Wilson Fisk, the alleged Kingpin-of-Crime, as his chief assassin.  In this role she fought Daredevil and was ordered to kill Matt's best friend and law partner, Franklin \"Foggy\" Nelson.  However, she could not go through with the assassination when Foggy recognized her as \"Matt's girl, Elektra.\"  Soon afterward, she fought and was killed byBullseye who sought to reclaim his former position with the Kingpin.  Elektra died in Matt Murdock's arms, seemingly lost forever.", 
+            "durability": 2, 
+            "education": "Columbia University (did not graduate)", 
+            "energy": 3, 
+            "eyes": "Blue\n", 
+            "fighting": 7, 
+            "firstappearance": "Daredevil #168 (1981)\n", 
+            "groupaffiliation": [
+                "Formerly Code Red", 
+                "the Hand"
+            ], 
+            "hair": "Black\n", 
+            "height": 60, 
+            "id": "Elektra", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Ambassador Hugo Natchios (father, deceased)", 
+            "occupation": "Assassin", 
+            "origin": [
+                "Daredevil #168 (1981)", 
+                "Daredevil #190"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Elektra Natchios", 
+            "speed": 6, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 130
+        }
+    }
+}

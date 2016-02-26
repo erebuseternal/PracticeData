@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Citizen of the United States", 
+            "content": "Captain America was taken to the Chicago Reserve where he met Herod, the new, secret head of America.  Herod announced that Captain America would be the new President, but that he was only needed as a puppet leader.  At first, Captain America disagreed with the notion and the lack of democracy it represented, but after being electrocuted by Herod, along with a promise that there would be killing to be done, he agreed.  He then began his reign as President, appearing as a shining beacon of illusionary democracy on the television screens, but behind the cameras he suffered with the abuses and injuries Herod caused him, questioning his place in the new America.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Doom (2099) #33\n", 
+            "groupaffiliation": "None", 
+            "hair": "Blonde\n", 
+            "height": 74, 
+            "id": "Captain_America_(2099)", 
+            "identity": [
+                "Publicly Known (as Steve Rogers)", 
+                "Secret (as clone)"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "One time President of the United States", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Captain America represents the pinnacle of human physical perfection.  Captain America has a very high intelligence as well as agility, strength, speed, endurance, and reaction time superior to any Olympic athlete who ever competed.  The Super-Soldier formula that he has metabolized has enhanced all of his bodily functions to the peak of human efficiency.  Most notably, his body eliminates the excessive build-up of fatigue-producing poisons in his muscles, granting him phenomenal endurance.", 
+            "realname": "Steve Rogers", 
+            "significantissues": "Doom (2099) #33 (intro), Doom (2099) #38 (death)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel 2099 (Earth-928)", 
+            "weight": 240
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Weapon X", 
+            "citizenship": "Canada", 
+            "content": "Cable then sent Kane back to the past where he had his missing limbs replaced with cybernetic parts by the original Weapon X program. For a while Kane blamed Cable for his pain. This blame was later redirected at Stryfe. After months of rehabilitation and work Cable reappeared to Kane and took him into the future again and joined Cable's fight against Apocalypse.Kane eventually returned to the present where he retired and decided to settle down with his girlfriend Vanessa. However Kane was later employed by A.I.M. who at the time had captured Guardian of Alpha Flight. Wolverine, seeking his former teammate severly beat Kane and other A.I.M. lackeys before finally freeing his friend.Kane then wandered America searching for ways to become stronger, faster, and better. The Director of the new Weapon X program learned of Kanes search and offered to make him more powerful than he ever dreamed. Kane agreed to the Directors proposal and underwent further bionic augmentation. To make sure that he was loyal the Director made Kane's first mission to kill his ex-girlfriend Copycat who had also joined the program and had her powers augmented. Kane agreed to perform the task and as he was about to kill Copycat, Deadpool managed to save her and planted a bomb on Kane. When the bomb detonated Kane was blown into tiny pieces. However Weapon X managed to reconfigure and reconstruct Kane perfectly.", 
+            "durability": 5, 
+            "education": "High school dropout", 
+            "energy": 6, 
+            "eyes": "(Natural/cybernetic left eye) Blue, (cybernetic, right eye) Red\n", 
+            "fighting": 6, 
+            "firstappearance": "X-Force #2 (1991)\n", 
+            "groupaffiliation": [
+                "Weapon X", 
+                "formerly Clan Chosen", 
+                "Weapon: P.R.I.M.E.", 
+                "Department K", 
+                "Six Pack"
+            ], 
+            "hair": "Black\n", 
+            "height": 74, 
+            "id": "Kane,_Garrison", 
+            "identity": "Known to Canadian & U.S. governments", 
+            "intelligence": 2, 
+            "knownrelatives": "Unidentified parents (deceased)", 
+            "occupation": [
+                "Former U.S. government operative", 
+                "mercenary", 
+                "actor", 
+                "adventurer", 
+                "Canadian government operative", 
+                "freedom fighter"
+            ], 
+            "origin": [
+                "Cable: Blood & Metal #1-2 (1992)", 
+                "Deadpool #2 (1993)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Before he was given upgrades by the newest incarnation of Weapon X, Kane had a pair of cybernetic arms with superhuman strength.\nAfter he was sent to the future he gained new cybernetic apendages which were made out of liquid metal and could transform into shields, knives, or create detatchable remote controlled hands. His arms were also capable of repairing themselves. \n\nDue to the enhancements that the newest incarnation of Weapon X has given him, Kane now has numerous bionic appendages which houses various weapons. He now has the ability to see in various spectrums of light, project holograms, and he has a computerized targeting system. His strength was also upgraded and he is now more resistant to damage. He could download super powers such as toxic emissions, metal control, and various other abilities. It has been shown that when Kane was blown up by Deadpool, Weapon X was able to reconstruct him perfectly. It is unknown if he can always be rebuilt or if it was just that one incident.", 
+            "realname": "Garrison \"Gar\" Kane", 
+            "significantissues": [
+                "With Six Pack, carried out mission for A.I.M. (X-Force #8, 1992)", 
+                "with Six Pack, carried out various missions, severely injured by Stryfe (Cable: Blood and Metal #1-2, 1992)", 
+                "joined Weapon X alongside Wade Wilson (Deadpool #2, 1993)", 
+                "sent to stop hijacking of Japanese/NATO software, approached by Bridge (X-Force, 1991)", 
+                "vs Mutant Liberation Front, became convinced Stryfe was Cable, accepted Bridge's offer (X-Force #7-10, 1992)", 
+                "led Weapon: P.R.I.M.E. vs X-Force (X-Force #11-14, 1992)", 
+                "pursued Weapon Omega, aided Alpha Flight (Alpha Flight #115-117, 1992-1993)", 
+                "hunted Cable, joined him against Stryfe, brought to 40th century (Cable: Blood and Metal #1-2, 1992)", 
+                "active with Clan Chosen, returned to present with Cable, rejoined Six Pack (Cable #1-4, 1993)", 
+                "vs Deadpool & Slayback (Deadpool #1-4, 1993)", 
+                "alongside Wolverine, vs Deadpool (Wolverine #88, 1994)", 
+                "alongside Cable & Microns, vs Psycho-Man (Cable #37-39, 1996-1997)", 
+                "on behalf of A.I.M., vs Wolverine & Alpha Flight (Wolverine #142-143, 1999)", 
+                "eradicated Colombian drug cartel on behalf of Weapon X (Deadpool #57, 2001)", 
+                "killed mutant child, prevented from killing Copycat by Deadpool (Deadpool #58-59, 2001)", 
+                "assisted Director in tracking Sabretooth & Wolverine (Wolverine #174-175, 2002)", 
+                "underwent cybernetic enhancement (Weapon X #\u00bd, 2002)", 
+                "alongside Agent Jackson, pursued Rapture (Weapon X: The Draft - Kane #1, 2002)", 
+                "worked alongside fellow Weapon X members (Weapon X: The Draft - Sauron #1/Weapon X: The Draft - Marrow #1/Weapon X: The Draft - Agent Zero #1, 2002)", 
+                "led Weapon X vs Zodiac to capture Madison Jeffries, received promotion (Weapon X #1, 2002)", 
+                "led Weapon X to question mutant criminals about Sabretooth (Weapon X #4, 2003)", 
+                "led Weapon X to capture Taylor family (Weapon X #5, 2003)", 
+                "accompanied disguised Mesmero to press conference (Weapon X #7, 2003)", 
+                "demonstrated enhanced abilities, grew distant from teammates (Weapon X #9, 2003)", 
+                "downloaded new powers (Weapon X #11, 2003)", 
+                "turned on Weapon X, sacrificed self for Cable's Underground (Weapon X #12, 2003)"
+            ], 
+            "speed": 3, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 480
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "The Untamed", 
+            "citizenship": "Unknown", 
+            "content": "Due to a prank pulled by the Impossible Man, Talos attended a civil ceremony on Earth where he briefly battled a Kree warrior. After the ceremony, Talos came in contact with the Hulk, an incredibly strong Earthling, who is famed as one of the Earth's most unstable heroes. Talos instigated a fight hoping his honor would be restored, if his death was by the hands of a worthy foe. The battle was being watched by a group of Skrulls on Talos' ship orbiting the Earth; they cheered for the defeat of their lowly Skrull brother. Talos battled the Hulk using his enhanced strength and a very powerful battle axe. Hulk however refused to participate in Talos' suicide attempt. The battle ended with the Hulk begging for his life as part of a plan to avoid succumbing to violence. The disgusted Talos returned to the ship with his fellow Skrulls newly loyal to him.", 
+            "durability": 1, 
+            "education": "Military trained", 
+            "energy": 1, 
+            "eyes": "One green the other cybernetic\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #418 (1994)\n", 
+            "groupaffiliation": [
+                "Currently with the United Front", 
+                "former warrior of the Skrull Empire."
+            ], 
+            "hair": "Bald\n", 
+            "id": "Talos", 
+            "identity": "Unknown to most the inhabitants of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "Empress R\u2019Kll", 
+            "occupation": "Warrior", 
+            "origin": "Unknown", 
+            "placeofbirth": "Andromeda Galaxy", 
+            "powers": "As a cyborg he has enhanced strength and resilience. He has battled the Hulk into a stalemate.", 
+            "realname": "Talos", 
+            "significantissues": [
+                "Talos was defeated in battle by Devos on the planet of Godthab  Omega (Annihilation: Ronan #2 2006)", 
+                "Talos came to, and he found that he and Devos were both being held prisoner by the apprentice Shaper of Worlds, Glorian (Annihilation #3 2006)", 
+                "The planet was invaded by the Annihilation Wave, Talos and Devos managed to escape the distracted Glorian. They ran into Ronan who ordered them to gather any survivors and lead them to the spaceport. (Annihilation #4 2006)", 
+                "Talos was later seen on the planet of Daedalus 5 battling the forces of Annihilus alongside the United Front led by Nova (Annihilation #1 2007)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

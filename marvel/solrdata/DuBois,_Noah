@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "LL&L training; otherwise unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #299 (1993)\n", 
+            "groupaffiliation": [
+                "Landau", 
+                "Luckman & Lake"
+            ], 
+            "hair": "Black (shaved)\n", 
+            "height": 72, 
+            "id": "DuBois,_Noah", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Operative of Landau", 
+                "Luckman & Lake", 
+                "former Landau", 
+                "Luckman", 
+                "Lake & LeQuare operative", 
+                "senatorial aide"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Noah DuBois", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

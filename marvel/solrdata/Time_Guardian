@@ -1,0 +1,24 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Dark Guard #1 (1993)\n", 
+            "groupaffiliation": "Dark Guard", 
+            "hair": "White\n", 
+            "id": "Time_Guardian", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

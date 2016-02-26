@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Sub-Mariner", 
+                "Avenging Daughter", 
+                "the Sea Beauty"
+            ], 
+            "citizenship": "Atlantis", 
+            "content": "In 1946, Namora's skin, formerly the typical Atlantean blue, faded to a Caucasian tone, and her father revealed her half-human heritage. Shortly afterward, she and her father returned to Antarctic Atlantis, where, in early 1947, the Brockton Gang, surface criminals led by Stoop Richards, invaded Atlantis in search of treasure, killing Namora's father. Namor and Namora took vengeance on Richards and his underlings. Namora continued to accompany Namor on adventures, fighting the schemes of their cousin Byrrah and such surface criminals as the mesmeric Doctor Macabre and the weapon-wielding Viking; on her own, she clashed with the Mummy Men of Tut-Ak-Mun and other threats.In 1955, Namora married an Atlantean man named Talan. At some point following the formation of the adventurous Monster Hunters in 1956, Namora joined the team on some of their adventures; however, her marriage with Talan became strained when, due to her hybrid nature, she was unable to bear children. In late 1957, Namora persuaded the exiled Atlantean scientist Vyrra to implant her with an altered cloned embryo, enabling her to become pregnant. In 1958, Namora accompanied the Monster Hunters on a mission alongside other heroes, which brought her to the attention of FBI agent Jimmy Woo. Although she declined to join his group of super-powered agents, she pointed him in the direction of the Human Robot, laying dormant in the ocean. Soon after, Namora gave birth to her daughter, Namorita.About this time, Namor went missing after a clash with the madman Destiny; Namora searched for him to no avail. In 1961, Namora and her family left Atlantis for the colony of Maritanis. Soon afterward, Talan was killed in an atomic bomb test, and Namora took their child to live in Lemuria. After several years, she became attracted to Lemuria's Prince Merro, leading her rival, the power-seeking Llyra, to poison her. Namora was believed to have died while Namorita was a pre-adolescent.Recently, an aging Jimmy Woo was nearly killed in tracking down the Atlas Foundation, prompting his rescue and rejuvenation by his former allies in the 50s. Jimmy Woo and his allies began the search for the Atlas Foundation anew, and the Human Robot calculated that Namora was likely still alive, frozen in a cavern under the North Sea. Their investigation triggered a defense system of genetically engineered crustaceans, and they were saved by the Robot, who managed to thaw Namora from her icy coffin. (As a surface dweller/Atlantean hybrid, Namora's body had overcome the poison and only needed to be revived. Grateful, Namora pledged her loyalty to their cause, and they eventually uncovered the truth of the Foundation, which was led by Woo's archenemy, the Yellow Claw.", 
+            "durability": 1, 
+            "education": "Graduate of Atlantean education system", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Mystery Comics #82 (1947)\n", 
+            "groupaffiliation": [
+                "Agents of Atlas", 
+                "(formerly) Monster Hunters", 
+                "partner to Namor"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 71, 
+            "id": "Namora", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Father (name unrevealed, deceased); mother (name unrevealed, deceased); Talan (husband, deceased); Namorita (clone-daughter); Fen (aunt, deceased); Thakorr (grandfather, deceased); Korra (grandmother, presumed deceased); Immanu (great-grandfather, deceased); Namor, Byrrah, Dara, Arkus, Beemer, Bobo, Byrrahna, Daro, Namita (cousins); Daka (uncle); Zarina (aunt); uncle (name unrevealed); Thallo, Kalen, Kamuu (ancestors, deceased)", 
+            "occupation": "Adventurer", 
+            "origin": "Saga of the Sub-Mariner #6 (1989)", 
+            "placeofbirth": "Unnamed Atlantean outpost", 
+            "powers": "Superhuman strength (even beyond normal Atlanteans), enhanced durability and speed, prolonged lifespan, adaptation to underwater life, ability to survive indefinitely on land or underwater. (For a brief time in the late 1940s, Namora had ankle wings which enabled her to fly; however, they soon withered and ceased to function.)", 
+            "realname": "Aquaria Nautica Neptunia", 
+            "significantissues": [
+                "Fought Tut-Ak-Mun and his Mummy Men (Namora #2, 1948)", 
+                "consulted Vyrra, impregnated with own clone (Namor the Sub-Mariner #20, 1991)", 
+                "with the Monster Hunters, joined Yankee Clipper and others in fighting mutated scientist (Marvel: The Lost Generation #2, 2001)", 
+                "searched for missing Namor (What If #9, 1978)", 
+                "circumstances of death recounted (Sub-Mariner #51, 1972)", 
+                "Revived by the Human Robot/Jimmy Woo, helped Woo uncover the truth of the Atlas Foundation (Agents of Atlas #4-6, 2006-7)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 189
+        }
+    }
+}

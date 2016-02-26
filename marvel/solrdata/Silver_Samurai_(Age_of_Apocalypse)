@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Japan", 
+            "content": "After Apocalypse was destroyed by Magneto, Samurai discovered that Sunfire was actually alive. Samurai made his way to America and reunited with Sunfire by joining Magneto's cause. Unknown to the X-Men, he also delivered a top-secret weapon to Magneto. Samurai also has a long-standing feud with Wolverine. What caused this has yet to be revealed.", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "unknown\n", 
+            "groupaffiliation": [
+                "X-Men", 
+                "Clan Yoshida"
+            ], 
+            "hair": "Black\n", 
+            "height": 73, 
+            "id": "Silver_Samurai_(Age_of_Apocalypse)", 
+            "identity": "Publicly Known", 
+            "intelligence": 1, 
+            "knownrelatives": "Viper (wife, deceased), Shiro Yashida (Sunfire, cousin), Mariko Yashida (half-sister, missing), Shingen (father, missing)", 
+            "occupation": [
+                "Adventurer", 
+                "freedom fighter"
+            ], 
+            "placeofbirth": [
+                "Tokyo", 
+                "Japan"
+            ], 
+            "powers": "Silver Samurai can create an extremely powerful energy field that he focuses around his samurai sword. This sword, when combined with his energy field, is capable of slicing through almost anything.", 
+            "realname": "Kenuichio Harada", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 210
+        }
+    }
+}

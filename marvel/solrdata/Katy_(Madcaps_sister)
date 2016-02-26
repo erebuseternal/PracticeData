@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unknown", 
+            "citizenship": "USA", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America #307 (1985)\n", 
+            "groupaffiliation": "none", 
+            "hair": "Unrevealed\n", 
+            "id": "Katy_(Madcaps_sister)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Mother (deceased), Madcap", 
+            "occupation": "Unrevealed", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "USA", 
+            "powers": "None", 
+            "realname": "Unrevealed", 
+            "significantissues": "First appearance and death (Captain America #307, 1985)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

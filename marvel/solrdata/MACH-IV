@@ -1,0 +1,65 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Beetle", 
+                "MACH-I", 
+                "MACH-II", 
+                "Matthew \"Matt\" Davis", 
+                "MACH-III", 
+                "Aaron Jeffries", 
+                "Mach-IV"
+            ], 
+            "citizenship": [
+                "U.S.A. with a criminal record", 
+                "pardoned"
+            ], 
+            "content": "When Baron Zemo formed the Thunderbolts, Jenkins made a new armor, the Mobile Armored Cyber-Harness, and took on the name of MACH-I. Zemo's plan was to gain the favor of the citizens of New York, which was in need of heroes after the disappearance of the Avengers and Fantastic Four after Onslaught's attack, only to gain access to classified S.H.I.E.L.D. files and eventually control the world. Jenkins and several of his teammates began to like the hero life, and decided to leave their villainous pasts behind. Zemo instead revealed that the Thunderbolts were actually ex-Masters of Evil members to the public, leaving the new heroes with a public unwilling to trust them.The murder he committed eventually came back to haunt Abe. When Hawkeye took over leadership of the team, he convinced Jenkins to serve out his prison sentence as a gesture of good will to the public. While in prison, someone used the Beetle armor to frame Jenkins, so he broke out. Abe was given a new face and appearance by Fixer along with the alias of Matthew Davis.Eventually Jenkins returned his features to normal and returned to prison to finish his sentence. Spending time as a hero seemed to change his outlook on life. After being released from prison, Jenkins reformed the Thunderbolts with the funding of Baron Strucker. With Songbird now in charge of the team, Abe is working with Fixer once again.", 
+            "durability": 6, 
+            "education": "High school graduate", 
+            "energy": 6, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005)\n", 
+            "groupaffiliation": [
+                "Thunderbolts", 
+                "formerly Masters of Evil", 
+                "Sinister Syndicate", 
+                "Justin Hammer's Hit Squad", 
+                "Maggia", 
+                "Sinister Seven", 
+                "Commission on Superhuman Activities", 
+                "Defenders impersonators", 
+                "Burton Canyon Police Department"
+            ], 
+            "hair": "Brown\n", 
+            "height": 71, 
+            "id": "MACH-IV", 
+            "identity": "Publicly Known", 
+            "intelligence": 4, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Adventurer", 
+                "former master mechanic", 
+                "professional criminal", 
+                "mercenary"
+            ], 
+            "origin": [
+                "Thunderbolts: Distant Rumblings #-1 (1997)", 
+                "Strange Tales #123 (1964)", 
+                "Daredevil #34 (1967)"
+            ], 
+            "placeofbirth": [
+                "Baltimore", 
+                "Maryland"
+            ], 
+            "powers": "No known powers.", 
+            "realname": "Abner Ronald \"Abe\" Jenkins", 
+            "significantissues": "Official Handbook Bibiliography", 
+            "speed": 5, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

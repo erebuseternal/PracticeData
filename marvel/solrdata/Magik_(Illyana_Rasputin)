@@ -1,0 +1,52 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Darkchilde Archimage", 
+                "Red Flag #133"
+            ], 
+            "citizenship": "Russia (legally deceased)", 
+            "content": "Belasco\u2019s spell gave Illyana considerable magical power, and she nearly killed him, but decided not to give in to her demonic side and drove him from Otherplace, becoming its new leader. Illyana returned to Earth at a point only seconds after the X-Men\u2019s escape from Otherplace. However, whereas only seconds had passed for the X-Men, Illyana had aged seven years in Otherplace and was now 13 years old. She then joined the team of superhuman mutant trainees the New Mutants as Magik.", 
+            "durability": 2, 
+            "education": "High-school level courses at Xavier\u2019s School", 
+            "energy": 7, 
+            "eyes": "Blue\n", 
+            "fighting": 4, 
+            "firstappearance": "(As Illyana) Giant-Size X-Men #1 (1975), (as Magik) New Mutants #14 (1984)\n", 
+            "groupaffiliation": [
+                "New Mutants", 
+                "formerly Hellions"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 65, 
+            "id": "Magik_(Illyana_Rasputin)", 
+            "identity": "Secret", 
+            "intelligence": 7, 
+            "knownrelatives": "Nikolai Rasputin (father, deceased), Alexandra Rasputina (mother, deceased), Piotr Rasputin (Colossus, brother), Mikhail Rasputin (brother), Peter Jr (nephew)", 
+            "occupation": [
+                "Former adventurer", 
+                "sorceress", 
+                "student"
+            ], 
+            "origin": "Magik: Storm & Illyana #1-4 (1983)", 
+            "placeofbirth": [
+                "Ust-Ordynski Collective", 
+                "Lake Baikal", 
+                "Siberia"
+            ], 
+            "powers": "Magik had the mutant power to teleport through time and space by creating portals into the pocket dimension Otherplace. The greater the distance over which she teleported, the greater the possible margin of error in both space and time.\nMagik was also a powerful sorceress whose powers were at their peak whilst in Limbo. Whilst in Earth\u2019s dimension, her magical abilities were more limited, to astral projection, sensing mystical presences, and summoning her Soulsword.", 
+            "realname": "Illyana Nikolievna Rasputin(a)", 
+            "significantissues": [
+                "Captured by Arcade, rescued by X-Men, stayed in America (Uncanny X-Men #145-148, 1981)", 
+                "kidnapped by Belasco to Limbo, trained as sorceress, defeated Belasco, returned as adolescent (Uncanny X-Men #160/Magik: Storm & Illyana #1-4, 1982)", 
+                "joined New Mutants as Magik (New Mutants #14-17, 1984)", 
+                "transformed into Darkchilde, sacrificed magic nature to prevent demonic invasion, deaged (New Mutants #72-73, 1989)", 
+                "revealed to have Legacy Virus, died (Uncanny X-Men #300-303, 1993)"
+            ], 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Kathulos of the Eternal Lives", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Marvel Premieres #8 (1973)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Unrevealed\n", 
+            "id": "Kathulos", 
+            "identity": "The general populace of Earth is unaware of Kathulos' existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Angent of Shuma-Gorath", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The full extent of Kathulos' powers remain a mystery. It was virtually impervious to magical attack by those that were on his surface. He controlled every molecule on his surface and atmosphere which made him omnipotent. He could drag his victims through dimensions by using radiation rays.", 
+            "realname": "Kathulos", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Spider-Man #550 (2008)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Blonde\n", 
+            "id": "Parfrey,_Lisa", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Councilwoman", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Lisa had no known superhuman powers or abilities.", 
+            "realname": "Lisa Parfrey", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

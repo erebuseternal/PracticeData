@@ -1,0 +1,48 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Pixie", 
+                "Doctor Spectrum"
+            ], 
+            "citizenship": "United States of America", 
+            "content": "Soon afterward, the superhero team, which Janet herself dubbed the Avengers, formed, and the pair were among its founding members. Although they took occasional leaves of absence, the two have almost always remained members; during the course, Janet grew as a person and several years later would be elected leader of the team.The relationship between Janet and Pym had always been one of loving squabbling, but her wealth and his research had always stopped him from proposing. One day a cocky new costumed crimefighter called Yellowjacket broke into Avengers HQ. He claimed to have disposed of Pym and even kidnapped Janet. To the outrage of her colleagues, Janet then married Yellowjacket. A tension-filled wedding was made even more edgy by an attack by the Circus of Crime. During the fight it was discovered that Yellowjacket was Pym. He had had an accident with some chemicals causing him a severe case of schizophrenia. Janet had realized this from very early on and had taken advantage to finally tie the knot.However, her relationship with Pym became rocky, as he suffered a further series of mental problems. A few years later, Pym had a complete breakdown, and became completely paranoid. During the course of this breakdown, he became overbearing and verbally abusive. At the nadir of his degeneration, he struck Janet, and then proceeded to concoct a plan to make himself look good in front of his teammates by staging an attack upon them which only he could stop. This plan backfired and Pym was exposed, disgraced, and expelled from the Avengers, and the couple divorced. She remained with the team despite these hardships, and after Pym's mental state returned to normal, the two became friends again and, some years later, resumed a romantic relationship.During the mental breakdown of one of their long-time teammates, Scarlet Witch, Janet was knocked into a coma by an attack on Avengers Mansion. Hank watched over her as she lay in the hospital, and when she recovered, they reconciled. The two have retired from the Avengers in order to pursue a new life together in Oxford.", 
+            "durability": 3, 
+            "education": "College Degree", 
+            "energy": 2, 
+            "eyes": "Blue\n", 
+            "fighting": 3, 
+            "firstappearance": "Tales to Astonish #44\n", 
+            "groupaffiliation": [
+                "Formerly Avengers", 
+                "West Coast Avengers"
+            ], 
+            "hair": "Auburn\n", 
+            "height": 60, 
+            "id": "Wasp", 
+            "identity": "Known", 
+            "intelligence": 4, 
+            "knownrelatives": "Vernon Van Dyne (father, deceased), unidentified mother (deceased), Henry \"Hank\" Pym (ex-husband)", 
+            "occupation": [
+                "Adventurer", 
+                "former fashion designer", 
+                "owner of Van Dyne Industries"
+            ], 
+            "placeofbirth": [
+                "Cresskill", 
+                "New Jersey"
+            ], 
+            "powers": "Flight (approx 40 mph), size Reduction (with gain in strength), bio-electric blasts.", 
+            "realname": "Janet Van Dyne", 
+            "significantissues": [
+                "Becomes Doctor Spectrum (Avengers Annual #8, 1978)", 
+                "apparently dies (Secret Invasion #8, 2008)", 
+                "transformed into a celestial entity (Mighty Avengers #35, 2010)"
+            ], 
+            "speed": 5, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

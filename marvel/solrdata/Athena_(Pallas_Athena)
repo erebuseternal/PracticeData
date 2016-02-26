@@ -1,0 +1,50 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Athena Parthenos", 
+                "the Virgin Goddess", 
+                "Minerva (Roman name)", 
+                "Agent Sexton", 
+                "Miranda Minerva", 
+                "Pallas Athena"
+            ], 
+            "citizenship": "Olympus", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Tutored by Olympian scholars; extensively self-educated", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #164 (1969)\n", 
+            "groupaffiliation": [
+                "Olympians (Greek gods)", 
+                "Olympus Group/Dodekatheon (Olympians' ruling body)", 
+                "Council of Godheads", 
+                "formerly the Atlas Foundation"
+            ], 
+            "hair": "Blond (sometimes black)\n", 
+            "height": 70, 
+            "id": "Athena_(Pallas_Athena)", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Zeus (father), Metis (mother), Apollo, Ares, Dionysus, Hephaestus, Hercules, Hermes, Perseus, Porus (half-brothers), Artemis, Hebe, Persephone (half-sisters), Pluto/Hades, Poseidon (uncles), Demeter, Hera, Vesta/Hestia (aunts), Cronus & Rhea (paternal grandparents), Oceanus & Tethys (maternal grandparents), Ouranos & Gaea (great grandparents)", 
+            "occupation": [
+                "Goddess of Wisdom", 
+                "tactical warfare", 
+                "justice & heroic endeavors", 
+                "Olympian ruler", 
+                "former security consultant"
+            ], 
+            "placeofbirth": [
+                "River Triton", 
+                "Olympus"
+            ], 
+            "realname": "Athena Panhellenios", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 440
+        }
+    }
+}

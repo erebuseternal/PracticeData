@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "The events of \"M-Day\" left only 27 of the Xavier Institute's students with their powers, including Kincaid, although she would have preferred to lose them. The depowered students and staff were sent back to their homes; however, their bus was bombed by anti-mutant religious zealot Reverend William Stryker.  Kincaid's former teammate and friend Tag was among those killed. All of the remaining students were placed by Emma Frost into an all-out brawl, and the ones deemed to be the best were assigned to become a group of trainee X-Men. Kincaid was among those students who made the grade.After the death of Icarus, the New X-Men thought it would be best to destroy Nimrod once and for all. During the battle, X-23 was forced to cut a piece of Kincaid's hand to separate her from Nimrod, but she regenerated it. The team successfully defeated the robot through their group effort and Nimrod was sent back in time.", 
+            "durability": 1, 
+            "education": "Currently in high school", 
+            "energy": 1, 
+            "eyes": "Silver with no pupils\n", 
+            "fighting": 1, 
+            "firstappearance": "(As Kincaid) New Mutants #2 (2003); (as Mercury) New Mutants #10 (2004)\n", 
+            "groupaffiliation": [
+                "X-Men trainee", 
+                "formerly New X-Men", 
+                "Xavier Institute student body", 
+                "Hellions (squad)"
+            ], 
+            "hair": "Red\n", 
+            "height": 64, 
+            "id": "Mercury_(Cessily_Kincaid)", 
+            "identity": "Known to certain government officials", 
+            "intelligence": 1, 
+            "knownrelatives": "Mark (father), Jill (mother)", 
+            "occupation": "Student", 
+            "origin": "New X-Men #34", 
+            "placeofbirth": [
+                "Portland", 
+                "Oregon"
+            ], 
+            "powers": "Body made of non-toxic, malleable bio-mercury; shapeshifting", 
+            "realname": "Cessily Kincaid", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 114
+        }
+    }
+}

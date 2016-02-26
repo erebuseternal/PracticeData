@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unrevealed", 
+            "citizenship": "Egolix-7", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Warlock Chronicles #1 (1993)\n", 
+            "groupaffiliation": "Partnered with Darklore", 
+            "hair": "Green\n", 
+            "id": "Meer%27lyn", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "origin": "Unknown", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "It is unclear what her true powers are, she acts as a magical buffer to the vast magical abilities to her master Darklore. Her presence keeps his powers in check.", 
+            "realname": "Unrevealed", 
+            "significantissues": "Meer'lyn accompanies Darklore when they happened upon Adam Warlock (Warlock Chronicles #1, 1993): Meer'lyn is squished by Count Abyss. She recovers from her injuries and frees the others and Abyss is defeated (Warlock and the Infinity Watch #32-34 1994).", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

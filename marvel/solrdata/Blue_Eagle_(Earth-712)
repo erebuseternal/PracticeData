@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "American Eagle", 
+                "Cap'n Hawk", 
+                "Condor"
+            ], 
+            "citizenship": "United States of America of Earth-712", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #85, 1971 (as American Eagle); Avengers #148, 1976 (as Cap'n Hawk); Squadron Supreme #2, 1985 (as Blue Eagle)\n", 
+            "groupaffiliation": "(At time of death) Squadron Supreme", 
+            "hair": "Brown\n", 
+            "height": 74, 
+            "id": "Blue_Eagle_(Earth-712)", 
+            "identity": "Publicly known to the people of Earth-712", 
+            "intelligence": 1, 
+            "knownrelatives": "James Dore, Sr. (American Eagle, father, deceased), Adrian Dore (mother)", 
+            "occupation": [
+                "(At time of death) Adventurer", 
+                "public champion", 
+                "(Formerly) agent of the government", 
+                "airplane mechanic"
+            ], 
+            "origin": "Squadron Supreme #2 (1985)", 
+            "placeofbirth": [
+                "Mayflower", 
+                "Freedonia", 
+                "United States of America", 
+                "Earth-712"
+            ], 
+            "powers": "None", 
+            "realname": "James Dore, Jr.", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-712", 
+            "weight": 195
+        }
+    }
+}

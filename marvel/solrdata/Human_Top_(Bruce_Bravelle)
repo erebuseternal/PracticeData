@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Red Raven Comics #1 (1940)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Unrevealed\n", 
+            "id": "Human_Top_(Bruce_Bravelle)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Crime-fighter", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Bravelle could spin at superhuman speeds.", 
+            "realname": "Bruce Bravelle", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

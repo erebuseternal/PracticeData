@@ -1,0 +1,60 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Mam'selle Hepzibah", 
+                "Zee"
+            ], 
+            "citizenship": [
+                "Tryl'sart", 
+                "former Shi'ar criminal record"
+            ], 
+            "content": "Centuries later, imprisoned in the Slave Pits of Alsibar, Hepzibah encountered the human Christopher Summers. Her torture at the hands of her jailers caused Summers to rebel alongside Hepzibah, Ch\u2019od, Cr+eee, and Raza. The quintet escaped the Pits, stole a starship, and went on to form the Starjammers, a team of interstellar pirates led by Summers - as the swashbuckling Corsair - who operate mostly within the Shi'ar Galaxy. Hepzibah was given her alias by Corsair named after a beautiful female skunk in an Earth comic strip.", 
+            "durability": 3, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 4, 
+            "firstappearance": "X-Men #107 (1977)\n", 
+            "groupaffiliation": [
+                "Formerly X-Men", 
+                "X-Force", 
+                "Starjammers"
+            ], 
+            "hair": "Black-and-white\n", 
+            "height": 66, 
+            "id": "Hepzibah", 
+            "identity": "Known in the Shi'ar Empire", 
+            "intelligence": 2, 
+            "knownrelatives": "Christopher Summers (Corsair, mate)", 
+            "occupation": [
+                "Space pirate", 
+                "adventurer"
+            ], 
+            "origin": [
+                "Classic X-Men #15 (1987)", 
+                "Uncanny X-Men #391 (2001)"
+            ], 
+            "placeofbirth": [
+                "Planet Tryl'sart", 
+                "Cyrane Om'ir", 
+                "Shi'ar Empire"
+            ], 
+            "powers": "Hepzibah possesses enhanced agility, speed, and reflexes, retractable claws, hyper-keen senses, and night vision. Mephitisoids also possess the ability to generate mind-altering pheromones.", 
+            "realname": "A combination of odors unintelligible to humans", 
+            "significantissues": [
+                "With Starjammers, alongside X-Men, opposed Shi'ar Emperor D'ken (X-Men #107-108/Classic X-Men #14-15, 1977/1987)", 
+                "with Starjammers, alongside X-Men, vs Brood (Uncanny X-Men #156-157, 1982)", 
+                "with Starjammers, embarked on Phalkon Quest, vs Excalibur & Imperial Guard (X-Men Spotlight on... Starjammers #1-2, 1990)", 
+                "with Starjammers, joined Hulk & Silver Surfer vs Troyjans (Incredible Hulk #415-416, 1994)", 
+                "with Starjammers, vs Uncreated, retired with Corsair (Starjammers #1-4, 1995-1996)", 
+                "joined X-Men (Uncanny X-Men #486, 2007)", 
+                "briefly joined X-Force (Uncanny X-Men #493, 2007)"
+            ], 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Mark Milton", 
+            "citizenship": "United States of America", 
+            "content": "", 
+            "durability": 7, 
+            "education": "High school Graduate", 
+            "energy": 3, 
+            "eyes": "Blue\n", 
+            "fighting": 4, 
+            "firstappearance": "Avengers #86 (1971)\n", 
+            "groupaffiliation": [
+                "Squadron Supreme", 
+                "(Formerly) Star Masters", 
+                "ally of Exiles"
+            ], 
+            "hair": "Red\n", 
+            "height": 72, 
+            "id": "Hyperion_(Earth-712)", 
+            "identity": "Publicly known to the people of Earth-712", 
+            "intelligence": 2, 
+            "knownrelatives": "Mr. and Mrs. Hamilton (foster parents)", 
+            "occupation": [
+                "Adventurer", 
+                "(Formerly) Cartoonist", 
+                "government agent"
+            ], 
+            "origin": "Squadron Supreme #1 (1985)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Hyperion possesses immeasurable strength and supersonic flight. He also possesses an amazing durability and have highly enhanced senses. Hyperion can also shoot atomic beams from his eyes. However Hyperion is weakened when he is near argonite.", 
+            "realname": "Unrevealed", 
+            "speed": 5, 
+            "strength": 6, 
+            "universe": "Earth-712", 
+            "weight": 460
+        }
+    }
+}

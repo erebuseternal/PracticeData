@@ -1,0 +1,52 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Captain America", 
+                "formerly Bucky", 
+                "Winter Soldier"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "When Bucky awoke, he had no memory of his identity, which gave Karpov an opportunity to reprogram Bucky as a Soviet assassin called the Winter Soldier. He was sent all across the globe, committing political assassinations with huge effects on the Cold War.  However, his memory implantation caused mental instability, and he was kept in stasis between missions to prevent rebellion.Recently, the Winter Soldier killed the Red Skull, and stole his Cosmic Cube for Karpov's successor, former General Aleksander Lukin. In order to mess with Cap's mind, Lukin also commanded the Winter Soldier to kill Jack Monroe and launch a major terrorist attack on the city of Philadelphia, fueling the Cosmic Cube's power in the process. However, when the Winter Soldier kidnapped S.H.I.E.L.D. agent Sharon Carter, she told Captain America upon her rescue that she believed her captor to be Bucky. Later, Nick Fury confirmed to Cap that the Winter Soldier was indeed his former partner.When Lukin ordered the Winter Soldier to bury the Cosmic Cube in an underground bunker, Cap, with help from the Falcon and Iron Man, tracked him down and defeated him. After the battle, Cap used the Cosmic Cube to restore Bucky's memories, but he then destroyed the Cube and disappeared.  All but Captain America believed him to be dead.It was recently revealed that the Winter Soldier was involved in helping Wolverine escape from Weapon X, and was responsible for the loss of his wife and baby.", 
+            "durability": 3, 
+            "education": "High school dropout", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 7, 
+            "firstappearance": "(Bucky) Captain America Comics #1 (1941); (Winter Soldier) Captain America #1 (2005); (Captain America) Captain America #34 (2008)\n", 
+            "groupaffiliation": [
+                "Avengers", 
+                "formerly Kid Commandos", 
+                "Liberty Legion", 
+                "Invaders (wartime)", 
+                "Young Allies", 
+                "former partner of Captain America"
+            ], 
+            "hair": "Brown\n", 
+            "height": 69, 
+            "id": "Captain_America_(James_Barnes)", 
+            "identity": "Known to top-level K.G.B. and S.H.I.E.L.D. authorities", 
+            "intelligence": 3, 
+            "knownrelatives": "George M. Barnes (father, deceased); Winnifred C. Barnes (mother, deceased); Ida (aunt, presumed deceased); Rebecca P. Barnes Proctor (sister); Proctor (first name unrevealed, brother-in-law); unidentified niece and nephew; Scott Proctor (grandnephew); Kimberly Proctor (grandniece)", 
+            "occupation": [
+                "Adventurer", 
+                "formerly S.H.I.E.L.D. opertive", 
+                "Soviet assassin", 
+                "freelance assassin", 
+                "sidekick to Captain America", 
+                "army mascot"
+            ], 
+            "origin": "Captain America #11", 
+            "placeofbirth": [
+                "Shelbyville", 
+                "Indiana"
+            ], 
+            "powers": "None", 
+            "realname": "James Buchanan Barnes", 
+            "speed": 2, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 260
+        }
+    }
+}

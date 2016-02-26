@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Gwnn", 
+                "Hand of Fate", 
+                "Sir Black Knight"
+            ], 
+            "citizenship": "Camelot circa 6th century", 
+            "content": "As the Black Knight, Sir Percy's greatest foe was King Artur\u2019s nephew Mordred. For years, Percy tried to gather evidence of Mordred's treachery, to no avail. Soon after the fall of Camelot, the wounded Mordred dispatched his men to ambush the Black Knight using a dagger constructed of the same meteoric ore as the Ebony Blade. Sir Percy was slain, but Merlin, however, cast a spell upon Percy's spirit, enabling it to return to the earthly plane when the spirit of Mordred threatened the world again.", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "(Golden Age) Black Knight #1 (1955), (Modern) Marvel Super-Heroes #17\n", 
+            "groupaffiliation": "Knights of the Round Table", 
+            "hair": "Blond\n", 
+            "height": 0, 
+            "id": "Black_Knight_(Sir_Percy_of_Scandia)", 
+            "identity": "Publicly known after death", 
+            "intelligence": 2, 
+            "knownrelatives": "Lady Rosamund (wife, deceased), Edward (son, deceased), Geoffrey (son, deceased), Sir Raston (nephew), King Arthur Pendragon (distant cousin), Nathan Garrett (Black Knight, descendant, deceased), Dane Whitman (Black Knight, descendant)", 
+            "occupation": [
+                "Knight", 
+                "warrior"
+            ], 
+            "placeofbirth": [
+                "Camelot Castle", 
+                "England"
+            ], 
+            "powers": "None. As a spirit, Sir Percy could be summoned by his descendant lighting a fire within the Brazier of Truth, after which often possessed some oracular insight.", 
+            "realname": "Sir Percy of Scandia", 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Technarchy", 
+            "content": "However, Warlock, was pursued through space by the Magus himself. He landed in New York state, battling the X-Men who, like the New Mutants, were based at Xavier's school. Despite the Magus's vast power, the three X-Men managed to cause him pain. The Magus called off the battle and departed, warning the X-Men to turn Warlock over to him or else he would wreak destruction upon the Earth.The Magus decided to avoid conflict on Earth, considering that many high-powered entities were interested in it (such as the planet devouring Galactus). Instead, Magus chose the extradimensional Limbo as his battleground, and infected S'ym, the demonic henchman of New Mutant Magik, with the techno-organic virus. Magik defeated S'ym's revolt, and the New Mutants battled Magus alongside the space pirates Starjammers. In this battle, Cypher managed to decode Magus's genetic structure, and devolved him into a Technarchy youth. The Magus was then sent back to the Technarchy homeworld to be reared once again.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "New Mutants #18 (1984)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 0, 
+            "id": "Magus_(Technarchy)", 
+            "identity": "The general populace of Earth is unaware of Magus\u2019 existence", 
+            "intelligence": 1, 
+            "knownrelatives": "Warlock (son, deceased)", 
+            "occupation": "Ruler of the Technarchy", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Kvch (Technarchy\u2019s home planet)", 
+            "powers": "As a member of the Technarchy, Magus is a metamorph, able to alter his shape into any form, height, or extension he desires. He can extend any portion of his body, including optical sensors, modify any part of his body to form plugs, supports, and vehicles, including spaceships. He can alter his entire body to form anything that is organic or mechanical. If portions of his body are destroyed, he can re-grow that part.  Magus can project convincing holographic images of any object in his memory banks. He also has a cloak against all forms of electronic tracking, psionics, or physical tracking powers or talents. He may learn new languages almost instantaneously, due to a type of telepathy.  Magus can heal himself by touching his victims, which alters their DNA structure with the \"techno-organic\" virus, or \u201ctransmode virus,\u201d converting it into an organism like himself. He may then drain the energy of these converted organisms for sustenance.", 
+            "realname": "Magus", 
+            "significantissues": [
+                "Pursued Warlock for fleeing traditional rites of succession (New Mutants #18)", 
+                "battled X-Men upon landing on Earth (Uncanny X-Men #192, 1985)", 
+                "battled New Mutants with S\u2019ym, defeated by being regressed to infancy (New Mutants #47-50, 1987)", 
+                "returned to battle Warlock again (Warlock #7-9, 2000)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

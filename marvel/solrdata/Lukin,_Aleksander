@@ -1,0 +1,21 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "German", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Captain America #5 (2004)\n", 
+            "groupaffiliation": "Kronas Corporation", 
+            "id": "Lukin,_Aleksander", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "occupation": "Military general of the KGB", 
+            "realname": "Aleksander Lukin", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

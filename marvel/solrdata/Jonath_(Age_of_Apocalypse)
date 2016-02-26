@@ -1,0 +1,26 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Shi\u2019ar galaxy", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Gambit and the X-Ternals # 2 (1995)\n", 
+            "groupaffiliation": "Former member of the Jath\u2019che", 
+            "hair": "Blue\n", 
+            "id": "Jonath_(Age_of_Apocalypse)", 
+            "identity": "Known amongst citizens of the Shi\u2019ar", 
+            "intelligence": 1, 
+            "knownrelatives": "Unnamed parents", 
+            "occupation": "Former Shi\u2019ar soldier", 
+            "realname": "Jonath", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse"
+        }
+    }
+}

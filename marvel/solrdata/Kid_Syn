@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Yellow\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers: Celestial Quest #2 (2002)\n", 
+            "groupaffiliation": "Pirates of Cap'n Reptyl", 
+            "hair": "None\n", 
+            "id": "Kid_Syn", 
+            "identity": "Unknown to the general populace of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Space pirate", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "It is unknown if Kid Syn had any special powers.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Appears for the first time (Avengers: Celestial Quest #1, 2002)", 
+                "Lost his life (Avengers: Celestial Quest #3, 2002)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

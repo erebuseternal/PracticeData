@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Su", 
+            "citizenship": "People's Republic of China", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Tutored by the Yellow Claw, possesses Fan-le-tamen's knowledge", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Yellow Claw #1 (1956), (Jade Claw) Agents of Atlas #8 (2009)\n", 
+            "groupaffiliation": [
+                "Society of the Great Wall", 
+                "Atlas Foundation"
+            ], 
+            "hair": "Black\n", 
+            "height": 61, 
+            "id": "Jade_Claw", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "occupation": [
+                "Empress of the Great Wall", 
+                "would-be-conqueror", 
+                "former curio shop owner"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Suwan (full name unrevealed)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 101
+        }
+    }
+}

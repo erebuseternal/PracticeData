@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Mutant", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men: Phoenix #1 (1999)\n", 
+            "hair": "Brown\n", 
+            "id": "Nero,_Diamanda", 
+            "identity": "Publicly known on Earth-4935", 
+            "intelligence": 1, 
+            "knownrelatives": "Apocalypse (Earth-4935)", 
+            "occupation": [
+                "Adviser", 
+                "counselor", 
+                "prelate"
+            ], 
+            "placeofbirth": "Unrevealed location Earth-4935", 
+            "powers": "Nero was born with the mutant gene to absorb the powers and abilities of others which she used to continually amplify and augment her powers, and she could also secret a lethal toxin from the base of her finger nails.", 
+            "realname": "Diamanda Nero", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-4935"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "High Priestess of the Cult of Khonshu", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Marc Spector: Moon Knight #35 (1992)\n", 
+            "groupaffiliation": [
+                "Formerly Knights of the Moon", 
+                "the Company"
+            ], 
+            "hair": "Black\n", 
+            "id": "Nepthys_(Sandahl_Swarn)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Former chemist", 
+                "would-be terrorist leader"
+            ], 
+            "origin": "Marc Spector: Moon Knight #36 (1992)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Sandahl Swarn", 
+            "significantissues": [
+                "allied with Randall Spector against Moon Knight (Marc Spector: Moon Knight #35, 1992)", 
+                "gave Randall powers to become the next avatar of Khonshu (Marc Spector: Moon Knight #36, 1992)", 
+                "attempted to kill Moon Knight but was killed by Punisher instead (Marc Spector: Moon Knight #37, 1992)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

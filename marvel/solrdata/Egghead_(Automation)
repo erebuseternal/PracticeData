@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Reign: Young Avengers #1 (2009)\n", 
+            "groupaffiliation": "Young Masters (formerly called Young Avengers)", 
+            "hair": "None\n", 
+            "id": "Egghead_(Automation)", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Adventurer", 
+                "soldier"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "a fascist microscopic universe", 
+            "powers": "Egghead is a synthetic being and can shift his density at will, either becoming completely intangible or partially materializing within another individual, causing them immense pain. He can also download data into a human or computer brain merely by touch.", 
+            "realname": "Egghead", 
+            "significantissues": [
+                "First time in action and confronted by Young Avengers (Dark Reign: Young Avengers #1, 2009)", 
+                "potentially offered a place on Young Avengers (Dark Reign: Young Avengers #2, 2009) partnered with Vision as part of recruiting session (Dark Reign: Young Avengers #3, 2009)", 
+                "declined membership into Young Avengers and told them the Enchantress' secret (Dark Reign: Young Avengers #4, 2009)", 
+                "rematch with Young Avengers and escaped with teammates (Dark Reign: Young Avengers #5, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

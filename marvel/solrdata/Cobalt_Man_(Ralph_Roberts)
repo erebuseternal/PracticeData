@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "United States of America", 
+            "content": "", 
+            "durability": 7, 
+            "education": "Masters degree at Metro College", 
+            "energy": 5, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 3, 
+            "firstappearance": "Uncanny X-Men #31\n", 
+            "groupaffiliation": "Emissaries Of Evil", 
+            "hair": "Unrevealed\n", 
+            "id": "Cobalt_Man_(Ralph_Roberts)", 
+            "identity": "Secret", 
+            "intelligence": 7, 
+            "knownrelatives": "Theodore \"Ted\" Roberts (younger brother)", 
+            "occupation": [
+                "Inventor", 
+                "Nuclear physicist", 
+                "Roberts Research INC Owner", 
+                "Stark Industries employee."
+            ], 
+            "placeofbirth": "Unknown", 
+            "powers": "Superhuman strength and durability (after mutation)", 
+            "realname": "Ralph Roberts", 
+            "significantissues": "Defenders #43, Civil War #1", 
+            "speed": 7, 
+            "strength": 7, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

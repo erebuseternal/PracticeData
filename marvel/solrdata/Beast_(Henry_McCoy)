@@ -1,0 +1,65 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Formerly Kreature", 
+                "Mutate #666"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "In his senior year, Hank's superhuman agility and athletic prowess earned him recognition as a star football player. During one game, Hank easily stopped a trio of robbers who were attempting to escape across the football field. His efforts were noticed by the villain named the Conquistador who kidnapped Hank's parents in an effort to coerce the young mutant into working for him. The X-Men soon arrived and defeated the villain, and Hank was invited by Professor Charles Xavier to join the team of teenage mutant heroes and enroll in the Xavier School for Gifted Youngsters. Unable to resist the temptation of a private institution that could offer him limitless academic opportunities, Hank accepted. Hank's days were rich with differential equations, Proust and workouts in the Danger Room.After receiving his doctorate in genetics and being considered one of the world's experts on mutations and evolutionary human biology, despite never having earned a Nobel Prize or been invited to join the National Academy of Sciences, Hank left Brand and applied to join the ranks of Earth's Mightiest Heroes, the Avengers. Initially accepted as a probationary member, Hank soon proved his worth and was granted full membership. During his time with the team he revealed his identity to the public in the hope that his status as an Avenger would help ease human/mutant tensions.Following a restructuring of the Avengers, Hank left and became involved with the team of adventurers known as the Defenders which he soon reorganized into a more formal and cohesive unit, bringing in his former X-Men teammates Iceman and Angel. Following the apparent death of several of the Defenders, Hank reunited with the other four original X-Men to form X-Factor, an organization that intended to seek out and aid other mutants under the pretense of hunting them down. Shortly after the formation of X-Factor, Hank was captured by Maddicks who sought to experiment on Hank in an attempt to find a \"cure\" for his son's own mutancy. However, the serum Hank was given caused him to revert to his original human appearance. Soon after, Hank first met television anchorwoman Trish Tilby, who was investigating X-Factor.During an attack on New York by the eternal mutant Apocalypse and his Four Horsemen, Hank was stricken with a virus that sapped his intellect and increased his strength every time he exerted himself physically. The more Hank used his strength, the stronger he got, but the less intelligent he became. Finally, to save his friend Iceman from the deadly kiss of the mutant named Infectia, Hank intervened and was himself affected, the result of which returned him to his blue-furred form and restored his intellect. Soon after, Hank and Trish began seeing each other romantically, however her work often intruded on their relationship and the pair ultimately called it off.Hank eventually took an extended leave of absence from the X-Men to work on a cure for the Legacy Virus, which he ultimately found thanks to his implementing the work of his former colleague, the late Moira MacTaggert. Soon after, Hank joined Storm's team of X-Treme X-Men in their quest for the diaries of the late mutant seer Destiny. Almost killed in the team's first battle with the villainous Vargas, Hank's life was saved by his teammate Tessa who used a heretofore-unseen power to accelerate the Beast's mutation to a new level. Hank returned to Xavier's mansion to recuperate and mutated further, becoming bulkier, heavier, and taking on a more leonine appearance. Forced to relearn fine motor control over his body, Hank once again served as the team's resident genius, as well as an active teacher of dozens of young mutants at the renamed Xavier Institute of Higher Learning.", 
+            "durability": 4, 
+            "education": "Ph. D. Biochemistry", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 4, 
+            "firstappearance": "(In human form) X-Men #1 (1963); (in furry form) Amazing Adventures #11 (1972); (in mutated form) New X-Men #114 (2001)\n", 
+            "groupaffiliation": [
+                "S.W.O.R.D.", 
+                "formerly X-Club", 
+                "X-Men", 
+                "X-Factor/X-Terminators", 
+                "Defenders", 
+                "Avengers", 
+                "Rejects"
+            ], 
+            "hair": "(Originally) Brown; (currently) Bluish-black\n", 
+            "height": 71, 
+            "id": "Beast_(Henry_McCoy)", 
+            "identity": "Publicly known", 
+            "intelligence": 6, 
+            "knownrelatives": "Sadie McCoy (grandmother), Edna McCoy (mother), Norton McCoy (father), Robert McCoy (uncle)", 
+            "occupation": [
+                "Adventurer", 
+                "geneticist", 
+                "former biochemist", 
+                "college lecturer"
+            ], 
+            "origin": "X-Men #49-53 (1968-1969)", 
+            "placeofbirth": [
+                "Dundee", 
+                "Illinois"
+            ], 
+            "powers": "The Beast possesses superhuman strength, agility, endurance, and speed, despite his bulk. He possesses the agility of a great ape and the acrobatic prowess of an accomplished circus aerialist. His physiology is durable enough to allow him to survive a three story fall by landing on his feet without suffering any broken bones or sprains. The Beast's legs are powerful enough to enable him to leap approximately 15 feet high in a standing high jump, and around 25 feet in a standing broad jump. He can also run on all fours at approximately 40 miles per hour for short sprints.\nThe Beast can crawl up brick walls by wedging his fingers and toes into the smallest cracks and applying a vice-like grip on them, as well as walk a tightrope with minimal effort. He is adept in performing complicated sequences of gymnastics such as flips, rolls, and springs, and can also walk on his hands for many hours. Further, his manual and pedial dexterity are so great that he can perform multiple tasks such as writing with both hands at once or tie knots in rope with his toes.\n\nThe Beast possesses enhanced senses, the ability to secrete pheromones to attract members of the opposite sex, as well as a slight healing factor that allows him to regenerate minor wounds and recover quickly from minor ailments such as colds. The Beast also possesses cat-like night vision as well as razor-sharp claws on his hands and feet.", 
+            "realname": "Henry \"Hank\" P. McCoy", 
+            "significantissues": [
+                "First joined X-Men (X-Men #1, 1963)", 
+                "left X-Men to join Brand, mutated into furry form (Amazing Adventures #11, 1972)", 
+                "became provisional Avengers member (Avengers #137, 1975)", 
+                "granted full Avengers membership (Avengers #151, 1976)", 
+                "joined Defenders (Defenders #104, 1982)", 
+                "founded X-Factor (X-Factor #1, 1986)", 
+                "returned to human form (X-Factor #3, 1986)", 
+                "returned to furry form (X-Factor #33, 1988)", 
+                "rejoined X-Men (X-Factor #70/X-Men #1, 1991)", 
+                "joined X-Treme X-Men (X-Men #109, 2001)", 
+                "cured Legacy Virus (Uncanny X-Men #390, 2001)", 
+                "mutated into secondary form (X-Treme X-Men #3, 2001)", 
+                "left the X-Men (Uncanny X-Men #519, 2009)"
+            ], 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 402
+        }
+    }
+}

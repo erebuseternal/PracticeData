@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Thermodynamic Man", 
+                "Noxie"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(Cameo) Size Spider-Man #1 (1974); (fully) Marvel Team-Up #23 (1974)\n", 
+            "groupaffiliation": "Vil-Anon", 
+            "hair": "Bald\n", 
+            "height": 72, 
+            "id": "Equinox", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "David Sorenson (father, deceased), Margay Sorenson (mother), unidentified Wife (deceased), Janet Sorenson (daughter)", 
+            "occupation": "Former criminal", 
+            "origin": "Marvel Team-Up #60 (1977)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Equinox can place himself in a state of Thermodynamic flux, generating intense heat and cold within his own body simultaneously. When his powers is active, waves of heat and cold coruscate across his skin, covering him in alternating sheets of flame and ice. These Thermic shifts increase his physical strength and durability to superhuman levels.", 
+            "realname": "Terrance \"Terry\" Sorenson", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

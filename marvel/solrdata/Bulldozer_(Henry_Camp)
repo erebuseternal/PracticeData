@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "After their first foray against the Defenders, Bulldozer and the Wrecking Crew were inseparable, appearing with them in all their endeavors, including their abduction to Battleworld by the Beyonder and joining with Doctor Doom's army of super-villains. The Crew also joined Baron Zemo's Masters of Evil and Bulldozer was instrumental in helping bring down Hercules. After this, Thor used his hammer to draw the Wrecker\u2019s away from the others who divided it, and Bulldozer was left powerless.Months later, the Wrecker freed his Crew and restored their power once more. As before, wherever the Wrecking Crew was to be found, Bulldozer was among their number. They performed many other acts of villainy, although they had to deal often with the treachery of Thunderball, who craved the Wrecker\u2019s power all for himself. Eventually, the Crew reconciled, seeking out Hercules once more. But battling them helped Hercules overcome the fear of combat he had suffered since the  beating at their hands, and they were defeated.Once, their powers began fading when many of Asgard's links to Earth were separated. The entire Crew received a power boost when hired by Arnim Zola to battle the Thunderbolts (unaware that the Thunderbolts included many of their former allies in the Masters of Evil).", 
+            "durability": 1, 
+            "education": "Unrevealed, military training", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Defenders #17\n", 
+            "groupaffiliation": [
+                "Wrecking Crew", 
+                "(formerly) Masters of Evil"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Bulldozer_(Henry_Camp)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Criminal", 
+                "former U.S. Army master sergeant"
+            ], 
+            "origin": "Defenders #18", 
+            "placeofbirth": [
+                "Topeka", 
+                "Kansas"
+            ], 
+            "powers": "Bulldozer shares the Asgardian enchantment originally given to the Wrecker, becoming transformed into a being of superhuman power, slightly less than an Asgardian god. He possesses vast superhuman strength and a high degree of invulnerability with some resistance to cold, heat, fire, corrosives and toxins. (When the Wrecking Crew believed their enchantment was fading, they sought augmentation by geneticist Arnim Zola, who used scientific means to restore their power.)", 
+            "realname": "Henry Camp", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 325
+        }
+    }
+}

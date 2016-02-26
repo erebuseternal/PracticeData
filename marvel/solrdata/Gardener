@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Gardener", 
+            "citizenship": "Unrevealed", 
+            "content": "In recent millennia, the Gardener acquired a Soul-Gem, an alien artifact the enabled its possessor the ability to transform cosmic energy for personal use. The Gardener employed it to stimulate the growth of his seeds beyond their normal rate and to traverse space without a starship. Recently, the Gardener used his Soul-Gem's power to combat the Stranger, another powerful extraterrestrial possessing a Soul-Gem. Believing that he \"corrupted\" the gem by its use as a weapon, the Gardener abandoned it. Later, the Garden replaced his Soul-Gem with the gem that was once worn by the golden Earth-being Adam Warlock. Warlock's frequent employment of the gem as a weapon did not matter to the Gardener as long as he himself does not use it in that way.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Purple\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Team-Up #55\n", 
+            "groupaffiliation": "Elders of the Universe", 
+            "hair": "Grey\n", 
+            "height": 85, 
+            "id": "Gardener", 
+            "identity": [
+                "Secret", 
+                "the general populace of Earth were unaware of his existence."
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Botanist", 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "Unrevealed", 
+                "possibly Seyfert galaxy M-77"
+            ], 
+            "powers": "While in possession of soul gem, he is able to accelerate the rate of growth to plant life. As an Elder of the Universe, the Gardener possesses immortality. He is immune to the cellular deterioration, aging, and impervious to conventional harm (disease, penetration wounds, etc.). Only the dispersion of a major portion of his body's molecules could prevent his regenerative powers from functioning. In his preoccupation with the art and science of cultivating plants, the Gardener has not devoted much of his energies to the development of potential physical and mental powers, unlike several of his kinsmen. Eschewing violence, the Gardener has little experience in combat techniques. While he is able to survive in space and go for prolonged periods of time without nourishment, he is unable to traverse interstellar distances without some means of propulsion.", 
+            "realname": "Ord Zyonz", 
+            "significantissues": "Thanos Quest #1", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 390
+        }
+    }
+}

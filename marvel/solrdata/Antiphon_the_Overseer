@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Overseer", 
+            "citizenship": "Inapplicable", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Annihilation: Heralds of Galactus #2 (2007)\n", 
+            "groupaffiliation": "Proemial Gods", 
+            "hair": "Bald\n", 
+            "height": 0, 
+            "id": "Antiphon_the_Overseer", 
+            "identity": [
+                "Inapplicable", 
+                "the general populace of Earth was unaware of Antiphon's existence."
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Aegis, Brio, Diableri, Tenebrous and several other unnamed siblings", 
+            "occupation": "He was tasked with overseeing the living universe.", 
+            "origin": "Annihilation: Heralds of Galactus #2 (2007)", 
+            "placeofbirth": "The Living Universe", 
+            "powers": "He possessed massive cosmic powers, the full extent of these powers was never explained.", 
+            "realname": "Antiphon", 
+            "significantissues": "Heralds of Galactus #2 (2007)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

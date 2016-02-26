@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Think Tank", 
+            "citizenship": "U.S.A. (criminal record)", 
+            "content": "Flumm later allied himself with fellow criminal Norbert Ebersol, a.k.a. Fixer, and they nearly succeeded in raiding S.H.I.E.L.D.\u2019s New York headquarters before being forced to escape. The two began to work for the terrorist organization Hydra. One of their most involved missions for Hydra involved the pair tapping into S.H.I.E.L.D. computer systems, but this plot was prompted by Hydra\u2019s usurper, Baron Karza, archenemy of the Microns. The Microns battled Mentallo and the Fixer, and the Micron\u2019s Commander forced Mentello\u2019s helmet off, bombarding him with telepathic information that overloaded his mind and rendered him comatose.S.H.I.E.L.D. took custody of Mentallo, but Professor Power arranged for Mentallo\u2019s body to be placed in his care. Power hoped to use Professor X\u2019s telepathic power to revive Mentallo and, in turn, force Mentallo to use his power to restore Power's son's mind, which was in a severe state of shock. Linked by a process created by the Fixer, Mentallo psychically battled Professor X on the astral plane, but Professor X proved too worthy an opponent and Mentallo\u2019s condition was unchanged.Somehow recovering, Flumm appeared among the mutants calling themselves the Resistants, publicly opposing the proposed Mutant Registration Act, , an act of Congress that was proposed in order to force mutants to register their abilities with the federal government. Their public protests were opposed by Captain America (John Walker, the U.S.Agent) his partner Battlestar, and Freedom Force. Several of the Resistants were badly injured, and the team was remanded to custody.Later, Mentallo tried to resume his partnership with the Fixer. Unfortunately, the being he contacted was not the Fixer at all, but the Super-Adaptoid who was posing as the Fixer to escape the Avengers. After attempting to read his former partner\u2019s mind, Mentallo\u2019s own mind shut down, rendering him insensible. On the trail of the Fixer, the Avengers discovered Mentallo and remanded him to custody once more.With his body being held in a stasis field in Seagate Federal Penitentiary, the authorities believed Mentallo\u2019s threat to be over. In fact, his mind was still actively involved in criminal activities. In this manner he discovered clues regarding a weapon of great power left behind by the death of the criminal industrialist Justin Hammer. The weapon had come to the attention of Mentallo by Hammer himself before he died, as Hammer awakened Mentallo's powers while he was in the stasis field.Mentallo psychically sought out Hawkeye, who was also a prisoner there at the time. He secretly aided Hawkeye in surviving an attack by his more villainous inmates, finally convincing him to aid him in escape. Mentallo then organized for Hawkeye and three others (one of which was a Mentallo-possessed Headlok) to join a rotation of transferring prisoners. The rotation occurred during an attack by Graviton on the Earth, and his attempts to reshape the world allowed the prisoners to escape. Hawkeye, remotely \"chained\" to his inmates, escaped with the so-called Chain Gang.Hawkeye's Chain Gang reluctantly agreed to work together to search for a way to survive, deactivate their security manacles, and to find Hammer\u2019s weapon. Unknown to his associates, Hawkeye was actually working undercover on behalf of S.H.I.E.L.D., and they were using Hawkeye as a mole to track Mentallo's criminal activities. The Chain Gang's escape briefly made S.H.I.E.L.D. lose track of them, and S.H.I.E.L.D. hired Songbird to track Hawkeye and his allies. When Songbird finally caught up with the Chain Gang, she helped Hawkeye defeat the villains.", 
+            "durability": 1, 
+            "education": "Unrevealed; S.H.I.E.L.D. training", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Strange Tales #141 (1966)\n", 
+            "groupaffiliation": [
+                "Former partner of Fixer", 
+                "formerly S.H.I.E.L.D.", 
+                "Hydra", 
+                "Resistants"
+            ], 
+            "hair": "Brown\n", 
+            "height": 70, 
+            "id": "Mentallo", 
+            "identity": "Known to the authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "unrevealed", 
+            "occupation": [
+                "Criminal", 
+                "(formerly) secret agent", 
+                "shoe salesman"
+            ], 
+            "placeofbirth": [
+                "Watford City", 
+                "North Dakota"
+            ], 
+            "powers": "Marvin Flumm has the mutant ability to read minds as well as induce psychic hallucinations directly into his victims. Using his psychic abilities, Flumm can perform a type of radar sense to detect the presence and shape of intangible or out-of-reach objects. It is difficult for him to focus on moving targets, and he is susceptible to telepathic feedback, especially in the presence of other telepaths or psychics (his helmet mitigates these weaknesses.)", 
+            "realname": "Marvin Flumm", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

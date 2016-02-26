@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Doc Ock", 
+                "formerly Master Planner", 
+                "Bowrey Bum", 
+                "Master Programmer", 
+                "Prisoner #4756689"
+            ], 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "During an accidental radiation leak that ended in an explosion, the apparatus became fused to Octavius' body. It was later revealed that the radiation (or possibly his own latent mutation) had mutated his brain so that he could control the movement of the arms using his thoughts alone. The tentacles have since been surgically removed from his body, although Octavius retains the power to control them telepathically from a great distance. The accident also seemingly damaged his brain (although it was later suggested that what was interpreted as brain damage was in fact his mind rewiring itself to accommodate four extra limbs), and the scientist turned to a life of crime.Though Doctor Octopus himself tends to be portly, and in poor physical shape, he has recently been able to improve upon his physique. He was also near-sighted to the extent that he was legally blind without the aid of his extremely thick eyeglasses, but he no longer appears to suffer from that problem, presumably through the use of laser surgery. With his harness attached he is physically far more than a match for Spider-Man; in his first appearance he beat Spider-Man so badly that the wall-crawler considered giving up his heroic career until he was inspired to continue by the Human Torch at the time when the Fantastic Four was called in to fight Doctor Octopus.Over the years, Dr. Octopus has become one of most recognizable members of Spider-Man's rogues' gallery. He remains one of Spider-Man's most dangerous foes, having many legendary battles with him over the years. His crowning achievement was the near-fatal stabbing of Spider-Man's then-partner/lover, the Black Cat, who was placed in critical condition. This led to Spider-Man beating Dr. Octopus within an inch of his life. The trauma of the beating he received from Spider-Man left Octavius severely  phobic of Spider-Man and spiders in general for years. This lasted until Spider-Man was forced to let his nemesis beat him in combat so as to allow him to break free of his fears and recruit him to save New York City from an exploding nuclear reactor.Doctor Octopus has worked with other supervillains on several occasions, most notably as the leader of the original incarnation of the Sinister Six. He has been a member of several versions of the team, and founded his own short-lived version of the Masters of Evil when his teammates from the Sinister Six proved too difficult to manipulate. Certain members of the Six have since attempted to murder him, to no avail.At one point, a boy named Ollie Osnick ran away from home, having stolen his father's Octopus-like equipment. He intended to become Doctor Octopus' sidekick, which was to be very much ill-fated. After a brief skirmish with Spider-Man, Osnick was returned home, sans tentacles.After his resurrection, Octavius attempted to create his own personal assassin in the form of a villainous mutated entity he dubbed \"Spider-Woman\", and was involved in a plot involving using prosthetic limbs as mind-control devices, to create an army of minions. He also had to contend with a usurper, an arrogant, yet brilliant scientist named Carlyle. Envious of Octavius's power, Carlyle created his own version of Octavius's harness and then tried to kill him. At the moment, none of the other people who assumed the mantle of Dr. Octopus are currently active, either due to retirement, imprisonment, or, in Ollie Osnick's case, a decision to emulate Spider-Man instead.Most recently, Octavius resurfaced in the attempt to kidnap a Palestinian ambassador, in hopes of causing chaos for reasons unknown. His plot was thwarted by Spider-Man and his temporary sidekick the Kiwi Kid. Octavius is currently doing time in a penitentiary.", 
+            "durability": 2, 
+            "education": "Ph.D. in atomic physics, honorary doctorate in biochemistry, decorates in nuclear physics", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "Amazing Spider-Man #3 (1963)\n", 
+            "groupaffiliation": [
+                "Formerly Thunderbolts Army", 
+                "Sinister Six", 
+                "Masters of Evil"
+            ], 
+            "hair": "Brown\n", 
+            "height": 69, 
+            "id": "Doctor_Octopus_(Otto_Octavius)", 
+            "identity": "Publicly known", 
+            "intelligence": 6, 
+            "knownrelatives": "Torbert Octavius (father, deceased), Mary Lavinia Octavius (mother, deceased), unnamed maternal grandmother, Elias Hargrove (cousin)", 
+            "occupation": [
+                "Criminal mastermind", 
+                "former atomic researcher"
+            ], 
+            "origin": "Amazing Spider-Man #3 (1963)", 
+            "placeofbirth": [
+                "Schenectady", 
+                "New York"
+            ], 
+            "powers": "After the explosion that grafted the tentacled harness to Dr. Octavius, he was misdiagnosed with brain damage. In actuality, his brain was creating new neuro-pathways so that he could possess the superhuman ability to telepathically control his tentacles at will. Originally, at his earliest stages, it was thought he could only control his tentacles while they were attached to him. However, when he became separated from his tentacles, he proved he was able to telepathically control them, even if they were a considerable distance. Over long periods of time, he mentally increased the range to which he was able to control them, recorded at over 900 miles in diameter.", 
+            "realname": "Otto Gunther Octavius", 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 245
+        }
+    }
+}

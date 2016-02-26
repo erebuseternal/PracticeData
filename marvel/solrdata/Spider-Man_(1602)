@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "England", 
+            "content": "On the way, Peter explained that his parents were dead, and that he was in the care of his Uncle Benjamin and his Aunt when Fury came to bring him into his service. Though he is resigned to being Fury\u2019s successor, his real passion was creating and inventing, but he rarely got the chance. After Virginia\u2019s audience with the queen, and the subsequent assassin attempt on Virginia\u2019s life, Peter was again sent by his queen, this time to fetch the magician and physician, Dr. Strange. At Strange\u2019s house, Peter admired a venomous spider that Dr. Strange kept; a gift from his long-lost friend, Sir Richard Reed, who disappeared after his voyage on the Fantastick.Once Queen Elizabeth was murdered, Peter was sent by Fury to warn Javier and his witchbreed. Peter managed to convince Javier to give up to the new King\u2019s men, and was later jailed for helping the traitor, Fury. King James let him out shortly afterwards, and offered him a job as his loyal servant. Peter accepted, and he was sent to the New World with the King\u2019s man, Banner, to hunt down and recapture Fury. But after they had landed, Peter returned to the ship to find all the crew except Banner murdered by Fury, who kept his back turned to his prot\u00e9g\u00e9, offering his life to him. Peter snuck away instead, and again gave up a chance to kill Fury when he hesitated to pull a dog (that was actually the shape-changing Virginia Dare) off of Banner, ruining his chance to fire a crossbow bolt into an unaware Fury.", 
+            "durability": 1, 
+            "education": "Training under Nicholas Fury", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel 1602 #1\n", 
+            "groupaffiliation": [
+                "Servant to the Crown", 
+                "assistant to Nicholas Fury"
+            ], 
+            "hair": "Brown\n", 
+            "id": "Spider-Man_(1602)", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Benjamin (uncle), Unnamed (aunt)", 
+            "occupation": "Servant to the Crown", 
+            "placeofbirth": "England", 
+            "powers": "Currently, none.", 
+            "realname": "Peter Parquagh", 
+            "significantissues": "Marvel 1602 #1, Marvel 1602 #8 (spider bite)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel 1602 (Earth-311)"
+        }
+    }
+}

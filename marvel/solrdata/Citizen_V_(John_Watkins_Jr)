@@ -1,0 +1,18 @@
+{
+    "add": {
+        "doc": {
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "fighting": 1, 
+            "id": "Citizen_V_(John_Watkins_Jr)", 
+            "intelligence": 1, 
+            "knownrelatives": "John Watkins Sr (father), Paulette Brazee (mother), John Watkins III (son)", 
+            "origin": "Everlasting #1", 
+            "realname": "John Watkins Jr", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Kiwi Black", 
+            "citizenship": "New Zealand", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #429 (2003)\n", 
+            "groupaffiliation": "Neyaphem", 
+            "hair": "Black\n", 
+            "id": "Kiwi_Black", 
+            "identity": "Unknown to the general populace of Earth as Kiwi Black", 
+            "intelligence": 1, 
+            "knownrelatives": "Azazel (father), Mystique (stepmother), Abyss (paternal half-brother), Nightcrawler (paternal half-brother), many other siblings (deceased)", 
+            "occupation": "Guardian of the Portal", 
+            "placeofbirth": "New Zealand", 
+            "powers": "Kiwi possessed the power of teleportation and he had the power to shield his mind from those possessing the ability of telepathy.", 
+            "realname": "Marcus Skarr", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Blacksmith", 
+            "citizenship": "U.S.A.", 
+            "content": "Eventually, during a conflict with Hate-Monger and his racist pawns, the Sons of the Serpent, the Avengers discovered that Elvin was still a child and demoted him to trainee status. During that case, Elvin met the New Warriors, who befriended him and later convinced him to help them steal an Avengers Quinjet for an emergency rescue mission. Expelled from the Avengers for this misconduct, Rage joined the New Warriors, becoming a mainstay of the group and forming a close friendship with Speedball. When the Poison Memories gang killed Granny Staples as part of a vendetta against the Warriors, Rage cold-bloodedly killed gang leader Kimeiko Ashu, though a judge later deemed his actions self-defense.", 
+            "durability": 1, 
+            "education": "Currently student at Oatridge School for Boys", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #326 (1990)\n", 
+            "groupaffiliation": [
+                "Avengers Resistence", 
+                "formerly Initiative Trainees", 
+                "Avengers", 
+                "Queen's Vengeance", 
+                "Psionex"
+            ], 
+            "hair": "None\n", 
+            "height": 78, 
+            "id": "Rage", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Mr. Haliday (father, deceaased), Mrs. Haliday (mother, deceased), Edna M. \"Granny\" Staples (grandmother, deceased); Andrew Chord and Dwayne Taylor (legal guardians)", 
+            "occupation": [
+                "Student", 
+                "occasional adventurer"
+            ], 
+            "placeofbirth": [
+                "Brooklyn", 
+                "New York"
+            ], 
+            "powers": "A child possessed of a massive superhuman adult physique, Rage has tremendous superhuman strength and durability; for reasons unknown, his strength increases when he uses it in violent or aggressive ways. His speed is superhuman (enabling him to outrun an express train with ease), and his stamina, reflexes and recuperative powers are also enhanced beyond normal human levels.", 
+            "realname": "Elvin Daryl Haliday", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 450
+        }
+    }
+}

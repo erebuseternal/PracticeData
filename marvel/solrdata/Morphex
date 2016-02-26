@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Captain", 
+            "citizenship": "Skrull", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Yellow (in Skrull form), Brown (human form)\n", 
+            "fighting": 1, 
+            "firstappearance": "Star Masters # 1 (1995)\n", 
+            "groupaffiliation": [
+                "Formerly", 
+                "Charter", 
+                "Cosmic Commandos", 
+                "Star Masters"
+            ], 
+            "hair": "None (in Skrull form), Purple (human form)\n", 
+            "id": "Morphex", 
+            "identity": "The general populace of Earth was unaware Morphex's existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Peacekeeper", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Morphex possessed possesses the ability to shapeshift or change his appearance, although he prefers to take the form of an Axi-Tun male. He had superhuman. strength, durability, stamina and healing.", 
+            "realname": "Morphex", 
+            "significantissues": "Star Masters # 1 (1991), Cosmic Powers #3-5 (1996)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Harpy", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #347 (1988)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Red\n", 
+            "id": "Jones,_Marlo_Chandler", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Mrs. Chandler (mother), Ray Chandler, Keith Chandler (brothers, three other unidentified brothers), Rick Jones (husband)", 
+            "occupation": "Comic Shop owner", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Marlo had no superhuman powers or abilities. She possessed the strength of an Earth women of her age, size and weight that indulged in moderate exercise.", 
+            "realname": "Marlo Jones Chandler", 
+            "significantissues": [
+                "Rick confronted Hulk's arch-foe the Leader, who revealed that he could save her (Incredible Hulk #400, 1992)", 
+                "Marlo Chandler married Rick Jones (Incredible Hulk #418, 1993)", 
+                "Marlo went to Vegas for a few days after her separation from Rick (Captain Marvel #1, 2000)", 
+                "attacks Banner and Skaar as the new Harpy (Incredible Hulk #604)", 
+                "Marlo and Rick split up (World War Hulks #1, 2010)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

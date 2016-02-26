@@ -1,0 +1,53 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Tolliver", 
+            "citizenship": "Unrevealed", 
+            "content": "Utilizing a time nexus within Niagara Falls, Tyler traveled back to the present to ensure Apocalypse\u2019s rise and exact revenge on Cable. Using technology from his era, he created the identity of arms dealer Tolliver and abducted Cable\u2019s mercenary ally Domino, replacing her with the shape-shifting mutant Copycat so as to spy on Cable\u2019s activities. After Cable rescued Domino, Tyler faked Tolliver\u2019s death, setting into motion a clash between various mercenaries who sought to obtain Tolliver\u2019s advanced technology.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "(As Tolliver, mentioned) New Mutants #98 (1991), (as Tolliver, seen) X-Force #5 (1991), (as Genesis) Cable #18 (1994)\n", 
+            "groupaffiliation": [
+                "Formerly Dark Riders (leader)", 
+                "former servant of Stryfe", 
+                "formerly New Canaanites", 
+                "Clan Chosen"
+            ], 
+            "hair": "Blond\n", 
+            "height": 73, 
+            "id": "Genesis", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Nathan Christopher Summers (Cable, adopted father), Aliya Jenskot (mother, deceased), Stryfe (cloned uncle, deceased), Rachel Summers (Marvel Girl, alternate timeline aunt), Scott Summers (Cyclops, grandfather), Madelyne Pryor-Summers (grandmother, deceased), Alexander Summers (Havok, great-uncle), Gabriel Summers (Vulcan, great-uncle), Christopher Summers (Corsair, great-grandfather), Katherine Anne Summers (great-grandmother, deceased), Philip Summers (great-great-grandfather), Deborah Summers (great-great-grandmother)", 
+            "occupation": [
+                "Former would-be world conqueror", 
+                "arms dealer", 
+                "soldier", 
+                "freedom fighter"
+            ], 
+            "origin": "Cable #1 (1993)", 
+            "placeofbirth": "Unrevealed location on Earth-4935", 
+            "powers": "Genesis was a mutant with the ability to form a psionic link with another consciousness and visually project their memories as solid holograms.", 
+            "realname": "Tyler Dayspring", 
+            "significantissues": [
+                "As Tolliver, hired Deadpool to kill Cable (New Mutants #98, 1991)", 
+                "as Tolliver, confronted Cable, seemingly killed (X-Force #14-15, 1992)", 
+                "vs Stryfe in possession of Cable's body (Cable #6-8, 1993-1994)", 
+                "as Genesis, with Dark Riders, confronted Cable (Cable #18-19, 1994)", 
+                "sent Dark Riders to free Cyber (Wolverine #93, 1995)", 
+                "killed Cyber (Wolverine #96, 1995)", 
+                "captured Wolverine, attempted to implant Wolverine with Cyber's Adamantium, failed, killed by Wolverine (Wolverine #99-100, 1996)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": [
+                "Marvel Universe", 
+                "formerly Earth-4935"
+            ], 
+            "weight": 191
+        }
+    }
+}

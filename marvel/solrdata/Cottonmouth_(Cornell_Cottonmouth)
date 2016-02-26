@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA with criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Gray\n", 
+            "fighting": 1, 
+            "firstappearance": "Mentioned (Power Man #18, 1974); shown (Power Man #19, 1974)\n", 
+            "groupaffiliation": [
+                "Partner of Nightshade (Tilda Johnson)", 
+                "his own mob"
+            ], 
+            "hair": "White\n", 
+            "id": "Cottonmouth_(Cornell_Cottonmouth)", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Pimp", 
+                "drug lord"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Cottonmouth has super strength equivalent to Luke Cage.", 
+            "realname": "Cornell Cottonmouth", 
+            "significantissues": [
+                "Offered Luke Cage a position in his drug organization (Power Man #19, 1974)", 
+                "fought with Cage after he called the cops to raid Cottonmouth\u2019s office (Power Man #20, 1974)", 
+                "resurfaced as a pimp, had teeth broken by new Power Man (Shadowland: Power Man, 2010)", 
+                "as Nightshade\u2019s partner, he attempted to kill Power Man (Shadowland #3, 2010)", 
+                "defeated by Power Man and Iron Fist (Shadowland: Power Man, #4, 2011)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

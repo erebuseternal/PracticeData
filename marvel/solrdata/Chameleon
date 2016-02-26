@@ -1,0 +1,53 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Dr. Ashley Kafka", 
+                "Dr. Turner", 
+                "J. Jonah Jameson", 
+                "Torpedo", 
+                "Rick Jones", 
+                "Dr. Henry Pym", 
+                "Peter Parker", 
+                "Captain George Stacy", 
+                "Dr. Robert Bruce Banner", 
+                "General \"Thunderbolt\" Ross", 
+                "Captain America", 
+                "Kraven the Hunter", 
+                "Spider-Man", 
+                "Professor Newton", 
+                "others"
+            ], 
+            "citizenship": "Russia", 
+            "content": "In his first known appearance, Chameleon impersonated Professor Newton, a government scientist, to steal half of some missile defense plans. He then sent a message to Spider-Man, electronically contacting him via his spider-sense, requesting a meeting and implying a profitable venture. Chameleon disguised himself as Spider-Man, though, and stole the second half of the plans, making his escape just as the real wall-crawler showed up. Spidey was at first framed for the theft but managed to bring Chameleon back to the police. Chameleon disguised himself as a police officer, scaring Spider-Man off by having the other police attack him. Spidey left the scene, thinking he had failed, not realizing that he had torn Chameleon's police uniform, allowing the cops to see the phony Spider-Man outfit underneath.Chameleon quickly escaped prison and went to work for the Leader as his top lieutenant. The Leader sent him to New Mexico to learn the secrets of the Hulk. There, Chameleon impersonated General Thaddeus \"Thunderbolt\" Ross and Dr. Bruce Banner, stole a grenade-size gamma bomb and took Betty Ross as a hostage. Realizing he couldn't escape, Chameleon set off the bomb, which was smothered by the Hulk, dampening the blast. Though caught in the rubble, Chameleon survived and escaped, remaining in the Leader's employ until his boss' supposed death.Chameleon next encountered Spider-Man after taking the place of Captain George Stacy who had been hired to protect a valuable art exhibit at the Midtown Museum. Peter Parker and Stacy\u2019s daughter Gwen were there and noticed that the Captain didn't seem to recognize them. After the exhibit was stolen and Stacy found drugged back at his apartment, Peter realized the Chameleon must have been involved. He persuaded Joe Robertson to plant a story in the Daily Bugle about a transfer of bonds and trapped Chameleon trying to steal them. Chameleon tried to escape through disguise but made the mistake of impersonating the one person Spider-Man knew to be a fake: Peter Parker. The terrorist organization Hydra arranged for Chameleon's escape from prison so that he could impersonate Dr. Henry Pym and steal Pym's research combating their biological weapon Virus Nine. Pym, as Ant-Man, teamed with the Hulk and thwarted Chameleon, though it appeared at the time that Chameleon had murdered Bruce Banner. Later, Chameleon impersonated Spider-Man, attempting to free his friend Joe Cord from the New York Men's Detention Center. Accidentally striking the Hulk with his car, Chameleon quickly disguised himself as Hulk's friend Rick Jones and convinced the green goliath to break Joe out of jail. However, in a battle with police, Joe protected Chameleon from gunfire and was killed.Designing a new costume that could instantly duplicate any clothing, Chameleon went back to crime. He was pursued after a jewel heist by Torpedo (Brock Jones) and Daredevil. His quick-changes failed to help him since Daredevil tracked him by his heartbeat. His next costume innovation used a holographic belt that stored the appearances of people he came into contact with and allowed him to take on their look. In one encounter, he managed to convince people that Spidey had attacked an old lady, leaving the wall-crawler's newly restored reputation in tatters. Later he obtained further powers by using a serum that could let him change his appearance at will. This liquid actually allowed his skin to be flexible enough to shift its appearance into any disguise Chameleon desired. He tried to kidnap a top scientist but was again thwarted by Spider-Man.Chameleon then set his sights on ruling the New York underworld. He kidnapped J. Jonah Jameson, impersonating him in a long-term bid to influence events through the Bugle, and formed an alliance with Hammerhead. The Kingpin of Crime was embroiled in a power struggle with the werewolf Lobo Brothers Carlos and Eduardo. Chameleon and Hammerhead tried to instigate a full-on gang war, from which they would pick up the pieces. Chameleon, posing as Jameson, injected Spider-Man with a potion that left him unconscious for several days. Recovering, Spider-Man went after Jameson and discovered he was the Chameleon all along. Hammerhead and Chameleon's plans continued as they ambushed the Lobo Brothers and Kingpin during peace talks. After carving up the city into territories they each agreed to control, their alliance collapsed and their influence waned.", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 3, 
+            "eyes": "Brown\n", 
+            "fighting": 2, 
+            "firstappearance": "Amazing Spider-Man #1 (1963)\n", 
+            "groupaffiliation": [
+                "The Exterminators", 
+                "formerly Sinister Six", 
+                "Sinister Twelve"
+            ], 
+            "hair": "Unrevealed\n", 
+            "id": "Chameleon", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Kravinoff Patriarch (father, deceased), mother (unnamed), Sergei Kravinoff (Kraven the Hunter, half-brother, deceased), Vladimir Kravinoff (The Grim Hunter, nephew, deceased), Alyosha Kravinoff (Kraven the Hunter, nephew), Ana Kravinoff (niece), Ned Tannengarden (nephew, deceased), Sasha Aleksandra Nikolaevich (sister-in-law)", 
+            "occupation": [
+                "professional criminal", 
+                "former New York Crimelord", 
+                "Soviet spy", 
+                ""
+            ], 
+            "placeofbirth": "Russia", 
+            "powers": "The Chameleon can instantly change his appearance and imitate others so convincingly that practically no one can tell the Chameleon and his victim apart. His natural talents are now augmented with a face-changing serum.", 
+            "realname": "Dmitri Anatoly Smerdyakov Kravinoff", 
+            "speed": 2, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

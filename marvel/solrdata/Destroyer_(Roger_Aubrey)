@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Dyna-Mite", 
+            "citizenship": "U.K.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Mystic Comics #8\n", 
+            "groupaffiliation": [
+                "Head of the Penance Council of the V-Battalion", 
+                "Former member of the Crusaders and All-Winners Squad"
+            ], 
+            "hair": "Blonde\n", 
+            "id": "Destroyer_(Roger_Aubrey)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Adventurer", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The Destroyer retains the ability to shrink down to 12\" tall, while maintaining his full strength level. He keeps this power a close secret to maintain the advantage of surprise.", 
+            "realname": "Roger Aubrey", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

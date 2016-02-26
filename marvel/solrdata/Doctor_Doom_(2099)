@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Doctor Doom", 
+            "citizenship": "Unrevealed", 
+            "content": "Years earlier, when Victor returned through their teleport gate with his armor shutting down and his physical body failing, Margaretta put his body in her genetic tanks and used Erik\u2019s DNA to rebuild him in the soldier\u2019s image.  This repair would take her machines ten years and in the interim she replaced her partner by programming Erik to believe himself the true Doom.  When the ten years were up, Margaretta set the original Doom loose in Latveria with fragmented memories of the 20th Century, mixed in with some of Erik\u2019s memories to keep him doubting his identity.Doom discovered the existence of the counterfeit Doom through Erik\u2019s father, General Tibor Diaghilev Czerny, the ruler of the information hub, Myridia.  Though before he could confront the other Doom, Erik rebuilt the android Tiger Wylde and sent him after Doom.  Doom eventually defeated Wylde and piloted his floating city, Alchemax\u2019s Valhalla, to the island Citadel where Doom and Margaretta ruled.  There, after finally destroying Wylde, Doom faced Margaretta who set him against Erik, the Doom imposter.Still unsure whether he was the true incarnation, Doom attacked Erik.  During the fight, Margaretta sent them through Doom\u2019s time platform and into late 19th Century Latveria.  There, Doom and Erik continued their evenly matched fight.  A nearby Latverian villager, who Doom recognized as his own grandfather, watched the fight, becoming fascinated by the metal masks that both wore, thereby incidentally creating the original mask that Victor based his armor on.  Erik then used his remote activator to the time platform to escape, but accidentally sent them hurtling through a series of time periods and places, including World War II Germany, the Baxter Building in the late 20th Century, and various future periods.  In order to save them both, Doom initiated a plan to expand the energy fields of both their armors to gain control of the time-shifting, sending them back onto the island in the year 2089.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Doom (2099) #21\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "id": "Doctor_Doom_(2099)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "General Tibor Diaghilev Czerny (father, deceased)", 
+            "occupation": "Former Soldier", 
+            "origin": "Doom (2099) #25", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Erik Kristofer Czerny", 
+            "significantissues": "Doom (2099) #21 (intro), Doom (2099) #25 (origin, death)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel 2099 (Earth-928)"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Netherworld (a city of pre-cataclysmic Atlantis that is now located in Subterranea).", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Educated by the Royal tutors of Netherworld", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Tales of Suspense #43, (1963)\n", 
+            "groupaffiliation": [
+                "Formerly the Netherworlders", 
+                "currently the Subterraneans"
+            ], 
+            "hair": "(as a young women) Black, (as an aged woman) Grey-white\n", 
+            "height": 68, 
+            "id": "Kala", 
+            "identity": "The general populace of Earth is unaware of Kala's existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "Baxi (husband, deceased)", 
+            "occupation": [
+                "Queen of the Mole Man's domain Subterranea", 
+                "formerly Queen of the Netherworlders", 
+                "would-be conqueror."
+            ], 
+            "origin": "Tales of Suspense #43 (1963)", 
+            "placeofbirth": [
+                "Netherworld", 
+                "Subterranea"
+            ], 
+            "powers": "Kala is centuries old but remained young until recent times due to the unexplained effect of the atmosphere of the Subterranean Netherworld.", 
+            "realname": "Kala", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

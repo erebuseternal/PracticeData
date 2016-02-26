@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Master of Kung Fu", 
+            "citizenship": "People's Republic of China", 
+            "content": "Finally, the day had come. While still a teen, he was given his first mission outside the walls of his father\u2019s retreat in Honan, China. He was to assassinate his father\u2019s enemy. As he knew nothing but that his father was a great humanitarian and savior of mankind, Shang-Chi felt nothing short of unquestioning loyalty. He stole into his victim\u2019s home in Mayfair, London, and delivered his killing strike! Almost immediately, he was confronted by another of his father\u2019s enemies, Sir Denis Nayland Smith, who told Shang-Chi the truth about his father\u2019s evil deeds. Shang-Chi\u2019s mastery of kung-fu enabled him to escape, but he sought out his mother, who confessed the truth as well. Shang-Chi, finally aware of his father\u2019s manipulations, declared himself to be his father\u2019s mortal enemy, devoting his life to the overthrow of his criminal empire.Shang-Chi became a regular ally of Sir Denis Nayland Smith and worked with him on missions for MI-6, British intelligence, and later for Freelance Restorations, Smith's own independent agency.Shang-Chi ultimately contributed to his father's apparent death in a confrontation at the Honan retreat. His \"Elixir Vitae,\" which had allowed him to live and remain in his physical prime for many decades, was no longer sufficient to maintain his youth. Rapidly aging, his father needed his son's blood to restore his physical vitality. But Shang-Chi wrested away the blood-filled test tube and spilled it on the ground. His father seemed to spend his last minutes of life frantically licking it up when the retreat was demolished by an explosion set off by other aides of Smith. Shang-Chi escaped, but his father was assumed to have been killed.Torn by guilt over helping to cause his father's apparent death, Shang-Chi wandered for several weeks, contemplating his future and his purpose. He eventually came to believe he had atoned for the alleged murder of his father, and, rejecting what he called the \"games of deceit and death\" in which he had participated as an adventurer, he retired to a passive life in the village of Yang Yin, in the Chinese province of Kwang Tung, where he spent much of his time as a fisherman.He returned from retirement at one point, when his friend Leiko was kidnapped by a group of terrorists. Shang-Chi helped rescue his friend before retiring again. When he was next forced to return from self-exile, Shang-Chi stumbled across an effort by the villainous Kingpin to recreate the Elixir Vitae. The X-Men were also searching for the Kingpin, as they thought the elixir may be used as a cure for the mutant-killing Legacy Virus. The X-Men and Shang-Chi confronted the Kingpin, who revealed he was interested purely in the elixir's ultimate monetary value. The X-Men's Storm destroyed the Elixir rather than let the Kingpin get rich from it.When briefly in New York, Shang-Chi happened to join a group of other heroes to stop the threat of an invasion led by Ulik the rock troll. One of their member was the vigilante known as the Punisher, and the heroes afterwards agreed to stay together in order to bring an end to the vigilante's activities. They were soon joined by Moon Knight, who provided the assemblage with funding and a headquarters. Although the Punisher continued to elude the group, the heroes managed to thwart crime on a number of occasions. One such adventure brought the team against agents of Shang-Chi\u2019s father, in particular the weapons master Zaran. Afterwards, the team disbanded and Shang-Chi returned to Yang Yin.", 
+            "durability": 4, 
+            "education": "Privately tutored by various martial arts masters", 
+            "energy": 3, 
+            "eyes": "Brown\n", 
+            "fighting": 7, 
+            "firstappearance": "Special Marvel Edition #15 (1973)\n", 
+            "groupaffiliation": [
+                "Formerly Heroes for Hire", 
+                "Daredevil's Unnamed Super-Hero Team", 
+                "Freelance Restorations", 
+                "MI-6", 
+                "briefly the leader of the Si-Fan"
+            ], 
+            "hair": "Black\n", 
+            "height": 70, 
+            "id": "Shang-Chi", 
+            "identity": "None", 
+            "intelligence": 4, 
+            "knownrelatives": "international crimelord (father), unnamed mother, Fah Lo Suee (Cursed Lotus, half-sister), Moving Shadow (half-brother, deceased), Shaka Kharn (ancestor, deceased); unnamed clone", 
+            "occupation": [
+                "Adventurer", 
+                "secret agent", 
+                "former fisherman"
+            ], 
+            "placeofbirth": [
+                "Fortress in Honan", 
+                "People's Republic of China"
+            ], 
+            "powers": "None", 
+            "realname": "Shang-Chi", 
+            "speed": 4, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

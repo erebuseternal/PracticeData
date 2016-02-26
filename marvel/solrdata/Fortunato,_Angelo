@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Formerly Venom", 
+            "citizenship": "U.S.A. (deceased)", 
+            "content": "", 
+            "durability": 5, 
+            "education": "High school graduate", 
+            "energy": 4, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "Marvel Knights Spider-Man #7 (2005)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "height": 69, 
+            "id": "Fortunato,_Angelo", 
+            "identity": "Public", 
+            "intelligence": 2, 
+            "knownrelatives": "Vincente Paolo Fortunato (father), unidentified mother (deceased), Giacomo Fortunato (Jimmy-Six, brother), Anna Fortunato (sister), Mary Fortunato (sister-in-law), James Fortunato (nephew), other unidentified neices or nephews", 
+            "occupation": "Villain", 
+            "origin": "Marvel Knights Spider-Man #7 (2005)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "As Venom, Angelo has super strength, speed and reflexes. The symbiote can produce tendrils that can be used as whips and hooks, change shape to resemble any form and color of clothing or enabling cameoflage with background colors and textures, and generate organic webbing. It should be noted, however, that though Angelo had acess to all these powers, his inexperience with using them caused him to be a bit unwieldy.", 
+            "realname": "Angelo Fortunato", 
+            "significantissues": [
+                "Angelo given Venom symbiote his father won at an auction (Marvel Knights: Spider-Man #7, 2005)", 
+                "fought Spider-Man, fled, released mid-air by symbiote, killed (Marvel Knights: Spider-Man #8, 2005)"
+            ], 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

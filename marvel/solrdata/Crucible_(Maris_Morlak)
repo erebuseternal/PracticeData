@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "Citizen of Lithuania", 
+                "criminal record in the U.S."
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Doctorate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "(as Morlak) Fantastic Four #66 (1966), (as Crucible) Fantastic Four #3 (1998)\n", 
+            "groupaffiliation": "Former member of the Enclave", 
+            "hair": "Bald\n", 
+            "id": "Crucible_(Maris_Morlak)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Scientist", 
+            "placeofbirth": "Genosha", 
+            "powers": "Crucible\u2019s powers were based on the medieval art of alchemy. He was able to transmute elements and molecules into any other desired element or molecule. Crucible used this power and his scientific knowledge to great effect, including producing acids, explosions, dust clouds, and he could even animate of some of his transmutations.", 
+            "realname": "Dr. Maris Morlak", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "The Black Mountain of the Hand", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Elektra #14 (1997)\n", 
+            "groupaffiliation": "Hand", 
+            "hair": "Unrevealed\n", 
+            "id": "Kuroyama", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Assassin", 
+            "origin": [
+                "Alleged (Elektra #19", 
+                "1997)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Kuroyama possesses strength and endurance on superhuman levels and has been resurrected by the Hand, possibly numerous times. It remains unrevealed if he is one man whose body has been repaired several times or if he is actually pieced together from different individuals.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Killed Nina McCabe (Elektra #14, 1997)", 
+                "Returned with Nina to battle Elektra and was dropped out of a window (Elektra #17, 1997)", 
+                "Fought with Hand ninjas to overwhelm the Chaste (Elektra #19, 1997)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

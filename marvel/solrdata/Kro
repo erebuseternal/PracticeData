@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Warlord Kro", 
+            "citizenship": "Citizen of Lemuria-East (\u201cCity of Toads\u201d)", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Eternals #1\n", 
+            "groupaffiliation": "Ruling monarchy of the Deviants", 
+            "hair": "Bald (with black facial hair)\n", 
+            "height": 77, 
+            "id": "Kro", 
+            "identity": "Secret. His existence is not known to the general public of Earth.", 
+            "intelligence": 1, 
+            "occupation": "General of Deviant armies.", 
+            "placeofbirth": "Lemuria-East", 
+            "powers": "Kro possesses a number of superhuman traits stemming from his particular Deviant genetic heritage. Like most Deviants, he is physically stronger than the average human, able to lift (press) about 2 tons, compared to his race\u2019s average of 1.2 tons. He has about 2 times the endurance of a human athlete, but the equivalent reaction time. Despite his Deviant heritage, he possesses a number of trait characteristics of an Eternal. The first is his longevity, which while not nearly as great as Eternal, so far measures 3 times that of the average Deviant. He also possesses the power, atypical for a Deviant, of physical malleability. At will, he can cause the tissue and bone of his body to become pliant, enabling him to shape it like putty into different configurations. Once set in an altered form, he only has to stop concentrating and his body will retain that shape until such time as he concentrates upon changing it again. This ability enables him to disguise himself and take the appearance of others (with cosmetic help for skin color, body hair, etc). He cannot, however, eliminate any of his mass while transforming; he can only redistribute his 320 pounds of weight. This limits the range of his impersonations, particularly among humankind. One of his favorite ploys is to pass himself as a demon by fashioning horns on his head.", 
+            "realname": "Kro", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 320
+        }
+    }
+}

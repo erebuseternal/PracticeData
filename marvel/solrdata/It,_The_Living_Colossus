@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Colossus", 
+            "citizenship": "Inapplicable", 
+            "content": "Later, embittered and wheelchair-bound after an accident, O'Bryan became obsessed with the statue, which represented the high point of his life. Around the same time, terminally ill criminal genius Dr. Aloysius Vault tried to seize the Colossus as his new host body, reducing the statue in size to make it more practical for this purpose. Opposing Vault's efforts, O'Bryan somehow projected his own consciousness into the statue and went on occasional forays as It, the Living Colossus. As It, O'Bryan thwarted Vault repeatedly and even saved Earth from the invading aliens of Stonus 5 with the aid of Fin Fang Foom. O'Bryan later regained his own mobility through intensive physical rehab and married actress Diane Cummings. When Bob animated It to battle a rampaging Hulk, Vault forced O'Bryan out of the statue and finally assumed control of the Colossus; but when a power-mad Vault attacked the Hulk, the monster smashed It into dust and Vault died of the strain.", 
+            "durability": 1, 
+            "education": "Inapplicable", 
+            "energy": 1, 
+            "eyes": "White against black\n", 
+            "fighting": 1, 
+            "firstappearance": "Tales of Suspense #14 (1961)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 360, 
+            "id": "It,_The_Living_Colossus", 
+            "identity": "Variable", 
+            "intelligence": 1, 
+            "knownrelatives": "Boris Petrovski (creator)", 
+            "occupation": "Instrument of destruction", 
+            "placeofbirth": "unrevealed", 
+            "powers": "It is inert until an outside consciousness enters and animates it (a feat which seems to require specialized technology or exceptional will power or both). It possesses tremendous superhuman strength, and Kigor alterations have rendered its body far more durable than ordinary granite; with effort, an animating consciousness can even reassemble the statue if it is smashed. Until such reassembly is complete, multiple fragments of the statue can be manipulated simultaneously. It is capable of levitation, even flight, but this function severely strains its animator. It has proven inexplicably vulnerable to certain gas attacks in the past, perhaps due to a negative interaction with the \"psychokinetic nervous system\" imprinted on It's form by Kigor technology. How It moves without cracking despite its lack of jointed seams remains a mystery.", 
+            "realname": "It, the Living Colossus", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 100
+        }
+    }
+}

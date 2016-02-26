@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Aunt May", 
+                "May Reilly", 
+                "May"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Later on, Ben was killed in a burglary, leaving May and Peter all by themselves, as she continued to raise him as her own son. Peter cared too much for her, so he forbade himself from revealing to her that he was the heroic Spider-Man, since he feared the shock of seeing her nephew as the very thing she despised (thanks to the Daily Bugle's smear campaign), might have been too much for her. Later on she became romantically involved with one of Spider-Man's most hated foes, Doctor Octopus, although their engagement fell through.", 
+            "durability": 1, 
+            "education": "High School graduate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Fantasy #15 (1962)\n", 
+            "groupaffiliation": [
+                "Forest Hills Public Library", 
+                "formerly Gray Panthers"
+            ], 
+            "hair": "White (formerly blonde)\n", 
+            "height": 65, 
+            "id": "Parker,_May_(Aunt_May)", 
+            "identity": "No dual identity", 
+            "intelligence": 2, 
+            "knownrelatives": "Ben Parker (husband, deceased), Richard Parker (brother-in-law, deceased), Mary Parker (sister-in-law, deceased), Peter Parker (Spider-Man, nephew), Horace Reilly (paternal uncle, deceased)", 
+            "occupation": "Retiree", 
+            "origin": [
+                "Spectacular Spider-Man Annual #4 (1984)", 
+                "Amazing Spider-Man #370 (1992)"
+            ], 
+            "placeofbirth": [
+                "Brooklyn", 
+                "New York"
+            ], 
+            "powers": "None", 
+            "realname": "May Reilly Parker", 
+            "significantissues": [
+                "Widowed (Amazing Fantasy #15 (1962)", 
+                "apparently \"died\" (Amazing Spider-Man #400, 1995)", 
+                "discovered Spider-Man's identity (Amazing Spider-Man #35, 2001)"
+            ], 
+            "speed": 2, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

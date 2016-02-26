@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Vanisher", 
+                "Telford Porter"
+            ], 
+            "citizenship": "Citizen of the United States with a criminal record", 
+            "content": "Eventually, the Vanisher's memory returned and he escaped from prison. He then joined Factor Three, an organization of superhuman mutants intent on world domination. However, the X-Men thwarted Factor Three's efforts to bring about a nuclear holocaust . When Factor Three's leader, the Mutant Master, was exposed as an extraterrestrial, the Vanisher and other members of Factor Three teamed up with the X-Men in defeating him.Later, seemingly tiring of high profile crimes, the Vanisher organized a small band of adolescent thieves, a number of whom had superhuman powers, called the Fallen Angels. Apparently the Fallen Angels eventually disbanded.More recently, the Vanisher fell under the mental domination of the Darkling, a superhuman who controlled forces from the Darkforce Dimension, the realm through which the Vanisher apparently travels when he teleports. With the Darkling's defeat the Vanisher regained his free will. He soon joined the Outer Circle of the second criminal team to be known as the Enforcers. The Outer Circle met defeat at the hands of Spider-Man and apparently disbanded.", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "X-MEN (first series) #2\n", 
+            "groupaffiliation": [
+                "X-Force", 
+                "formerly Factor Three", 
+                "Fallen Angels", 
+                "formerly Outer Circle of Enforcers II"
+            ], 
+            "hair": "Bald\n", 
+            "height": 65, 
+            "id": "Vanisher_(Telford_Porter)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "occupation": [
+                "Professional criminal", 
+                "former subversive"
+            ], 
+            "placeofbirth": [
+                "Boston", 
+                "Massachusetts"
+            ], 
+            "powers": "Darkforce teleportation, extrasensory power in showing only part or his entire body.", 
+            "realname": "Unknown", 
+            "significantissues": "X-MEN (first series) #2", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "United States of America", 
+            "content": "", 
+            "durability": 1, 
+            "education": "High school dropout", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers West Coast # 100\n", 
+            "groupaffiliation": "Honorary member of the Avengers", 
+            "hair": "White, formerly dark brown\n", 
+            "height": 60, 
+            "id": "Brandon,_Moira", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown, possibly married several times", 
+            "occupation": "Former movie star", 
+            "placeofbirth": [
+                "Chicago", 
+                "Illinois"
+            ], 
+            "powers": "None", 
+            "realname": "Moira Brandon", 
+            "significantissues": "Help Hawkeye (Clint Barton) and Mockingbird against Crossfire (Avengers West Coast # 100)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

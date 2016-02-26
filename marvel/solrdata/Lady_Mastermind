@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "unrevealed", 
+            "citizenship": "unrevealed", 
+            "content": "Recently Wyngarde was discovered comatose in a lab that was being used for illicit mutant experimentation.  She has since recovered and been recruited by Rogue for her X-Men mutant rapid reaction force. Wyngarde recently betrayed the X-Men to the mutant villains known as the Marauders. She has since joined the team.", 
+            "durability": 1, 
+            "education": "unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Treme X-Men #6\n", 
+            "groupaffiliation": [
+                "Sisterhood of Mutants", 
+                "formerly Marauders", 
+                "X-Men"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 70, 
+            "id": "Lady_Mastermind", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Jason Wyngarde(Mastermind, father, deceased) & Martinique Jason (Mastermind, half-sister)", 
+            "occupation": [
+                "Adventurer", 
+                "former terrorist"
+            ], 
+            "placeofbirth": "unrevealed", 
+            "powers": "Able to cast elaborate psionic illusions. Also has minor telepathic abilities", 
+            "realname": "Regan Wyngarde", 
+            "significantissues": [
+                "Joined X-Men (X-Men vol.2 #192, 2006)", 
+                "death (X-Factor vol.3 #27, 2008)", 
+                "joined Sisterhood of Mutants (Uncanny X-Men #508, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 147
+        }
+    }
+}

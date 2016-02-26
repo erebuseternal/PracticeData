@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "She studied at Oxford University, and attained several degrees. She made a career as an archeologist and occult expert.", 
+            "energy": 1, 
+            "eyes": "Unknown, they remained covered by dark sun glasses\n", 
+            "fighting": 1, 
+            "firstappearance": "(In Prophecy) Ghost Rider #28 (1992), (Actual appearance) Darkhold #1 (1992)\n", 
+            "groupaffiliation": [
+                "Darkhold Redeemers", 
+                "Midnight Sons"
+            ], 
+            "hair": "Black\n", 
+            "id": "Hastings,_Louise", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Caprice (daughter, deceased) and William Hastings (Jinx, grandson); several ex-husbands (all unidentified)", 
+            "occupation": [
+                "Occult Investigator", 
+                "archeologist"
+            ], 
+            "placeofbirth": "Barbados", 
+            "powers": "Professor had no special powers of abilities, although she possessed vast knowledge of the occult.", 
+            "realname": "Louise Hastings", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

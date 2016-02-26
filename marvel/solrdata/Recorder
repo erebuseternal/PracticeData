@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Recorder #211 Recorder #417", 
+            "citizenship": "None", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Programmed", 
+            "energy": 1, 
+            "eyes": "Artificial\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #132 (1966)\n", 
+            "groupaffiliation": "Rigellians the colonizers", 
+            "hair": "None\n", 
+            "id": "Recorder", 
+            "identity": "Android", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Recorder", 
+            "placeofbirth": "Rigel-3", 
+            "powers": "None", 
+            "realname": "Recorder", 
+            "significantissues": "First Appearance(Thor #132, 1966), Records Thor's battle with Ego (Thor #133-134, 1966)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

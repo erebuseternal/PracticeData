@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Later that same decade, the Gorilla Man was sought out by the heroes Marvel Boy and Jann the Jungle Girl, on behalf of FBI agent Jimmy Woo. After Marvel Boy's promise to find a cure for Hale's curse through advanced science, Hale agreed to join Jimmy Woo and his allies in freeing President Eisenhower from the clutches of the Yellow Claw. These \"G-Men\" operated for another six months, until the government decreed that the country wasn't ready to learn of such a super-team and its exploits.In more recent years, Ken Hale was recruited by S.H.I.E.L.D. to join their Howling Commandos unit, a strikeforce squad of supernatural creatures. (He was recommended by Woo himself, now a member of S.H.I.E.L.D.'s Directorate.) The squad took down the terrorist Lords of the Living Lightning and defended the Commandos\u2019 Area 13 headquarters by an invasion of monsters led by Merlin.When Jimmy Woo was nearly killed in tracking down the Atlas Foundation, S.H.I.E.L.D. consulted Ken since Woo had kept his investigation hidden from them. Hale was just as mystified, but secretly contacted M-11, the Human Robot, one of his allies in the 50s. The two recovered Woo's body in a daring rescue, bringing him to Marvel Boy's flying saucer, where he was revived (at least to the state Marvel Boy last remembered him-- 1959.) Jimmy Woo and his allies began the search for the Atlas Foundation anew. The trail led to Mr. Lao, a literal dragon working on behalf of the Yellow Claw. The Claw revealed that Jimmy was a true descendant of Genghis Khan, and he revealed that he became Jimmy's greatest enemy in order to help him build a legend worthy of his lineage. In fact, Jimmy's adventures with his allies had been set up by the Claw and Mr. Lao from the very beginning, ever since the 1950s! For example, it was Mr. Lao (in human form) who first introduced the legend of the Gorilla Man to Ken Hale and set him on the course to Africa.", 
+            "durability": 3, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "Men's Adventures #26 (1954)\n", 
+            "groupaffiliation": [
+                "Agents of Atlas", 
+                "(formerly) Howling Commandos", 
+                "S.H.I.E.L.D."
+            ], 
+            "hair": "Brown\n", 
+            "height": 72, 
+            "id": "Gorilla_Man_(Kenneth_Hale)", 
+            "identity": "Secret", 
+            "intelligence": 3, 
+            "knownrelatives": "Lily Hale (wife), unnamed children", 
+            "occupation": [
+                "Adventurer", 
+                "(formerly) S.H.I.E.L.D. agent", 
+                "espionage agent", 
+                "scholar/explorer"
+            ], 
+            "origin": [
+                "Men's Adventures #26 (1954)", 
+                "Agents of Atlas #2 (2006)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Kenneth possesses the strength, endurance, and agility of a mountain gorilla but retains his human intelligence while in the gorilla form.", 
+            "realname": "Kenneth Hale", 
+            "significantissues": [
+                "With Howling Commandos (Nick Fury's Howling Commandos #1-5, 2005)", 
+                "Rescued Jimmy Woo, uncovered the truth about the Atlas Foundation (Agents of Atlas #1-6, 2006-7)"
+            ], 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 340
+        }
+    }
+}

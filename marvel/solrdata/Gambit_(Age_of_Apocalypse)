@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Gambit fled and hid in the ruins of New Orleans. He found himself caught in the middle of a battle between Magneto's X-Men and a small band of Apocalypse's Infinite soldiers. Gambit could have slipped away quietly but he chose to help the X-Men and saved the life of Magneto, preventing Alex Summers from killing him with a plasma blast.Magneto invited Gambit to join the X-Men and the two became close friends. Gambit began to have feelings for Rogue and considered asking her to marry him. On the day he planned to propose, Gambit saw Magneto and Rogue kiss. Moments later, an agent of Apocalypse named Wolverine attacked the X-Men. Both Gambit and Magneto were placed in grave danger and Rogue did not hesitate. She saved Magneto. Gambit was crushed. He left the X-Men and formed his own small band of thieves, the X-ternals. Gambit's new team stole from mutants and helped humans.When Magneto discovered the possible existence of a better reality than the Age of Apocalypse, he summoned Gambit and asked him to steal the M'Kraan Crystal, the Nexus of all Realities. Gambit and his team, teleported by Gambit's girlfriend Lila Cheney, traveled to the Shi'ar Kingdom in search of the crystal.Gambit was given a shard of the M'Kraan Crystal but in return had to give up a piece of his soul, his love for Rogue. The team teleported back to Earth and was betrayed by Strong Guy, a member of the X-ternals. Strong Guy took the shard of crystal from Gambit, kidnapped Magneto's child Charles, and delivered them both to Apocalypse. Gambit could have gone after him but chose to save an endangered Lila instead.", 
+            "durability": 2, 
+            "education": "No official schooling", 
+            "energy": 5, 
+            "eyes": "Burning red\n", 
+            "fighting": 5, 
+            "firstappearance": "unknown\n", 
+            "groupaffiliation": [
+                "X-Men", 
+                "formerly X-Ternals"
+            ], 
+            "hair": "Brown\n", 
+            "height": 73, 
+            "id": "Gambit_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Adventurer", 
+                "freedom fighter"
+            ], 
+            "placeofbirth": [
+                "New Orleans", 
+                "Louisiana"
+            ], 
+            "powers": "Gambit is a mutant with the ability to tap into the potential energy contained within an object and transform it into kinetic energy upon touching it. When Gambit charges the item and throws it at a target, it releases this energy explosively on impact. Gambit cannot charge an animate object.\nSpecial Limitations: Gambit's eyes are light-sensitive, which temporarily impairs his vision if exposed to bright light.", 
+            "realname": "Remy LeBeau", 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Age of Apocalypse", 
+            "weight": 179
+        }
+    }
+}

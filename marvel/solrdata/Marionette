@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Homeworld\u2019s First Zone", 
+            "content": "", 
+            "durability": 1, 
+            "education": "College equivalence via private tutoring by Microtron", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Micronauts #1 (1978)\n", 
+            "groupaffiliation": [
+                "The Microns", 
+                "formerly the Micronauts"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 0, 
+            "id": "Marionette", 
+            "identity": "Publicly known in Microverse", 
+            "intelligence": 1, 
+            "knownrelatives": "Evek and Zoyburt (parents, deceased), Argon (Force Commander, brother, deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "explorer", 
+                "former royalty"
+            ], 
+            "origin": "Micronauts #1 (1978)", 
+            "placeofbirth": [
+                "Homeworld", 
+                "the Microverse"
+            ], 
+            "powers": "None", 
+            "realname": "Mari", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 132
+        }
+    }
+}

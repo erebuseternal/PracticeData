@@ -1,0 +1,46 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Ike Harris", 
+                "Iceberg", 
+                "Sovereign"
+            ], 
+            "citizenship": "Olympia", 
+            "content": "", 
+            "durability": 7, 
+            "energy": 6, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Eternals #1 (1977)\n", 
+            "groupaffiliation": [
+                "Eternals of Earth", 
+                "(Formerly) New Breed", 
+                "Star Masters"
+            ], 
+            "hair": "Blond\n", 
+            "height": 74, 
+            "id": "Ikaris", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "Ikaris (son, deceased), Virako (father, deceased), Valkin (uncle)", 
+            "occupation": [
+                "Leader of the Eternals of Earth", 
+                "(Formerly) archaeologist's guide", 
+                "professional wrestler"
+            ], 
+            "placeofbirth": [
+                "Polaria", 
+                "Siberia", 
+                "U.S.S.R."
+            ], 
+            "powers": "Ikaris' life force is augmented by cosmic energy and he has total mental control over his physical form and bodily processes even when he is asleep or unconscious. As a result he is virtually immortal, immune to disease and aging, and invulnerable to conventional forms of injury. Should Ikaris be injured somehow, he could regenerate any injured or missing tissue. Cosmic energy bolsters Ikaris's metabolism so that he does not tire from any physical exertion. He can resist temperature extremes through mental concentration.\nIkaris can levitate himself by mentally manipulating gravitons around himself. He can also levitate other persons and objects, even while simultaneously levitating himself. Ikaris is able to fly via self-levitation at approximately 850 miles per hour, a rate of speed most other Eternals cannot match.\nIkaris has low level psychic abilities, enabling him to scan the superficial thoughts of any mind less adept than his own. He can mentally create illusions so as to disguise himself. Ikaris can also psionically manipulate atoms and molecules so as to transform an object's shape. However, Ikaris is only a second-level adept on a five level scale (the fifth level being the highest) in this discipline. He can rearrange molecules in the air so as to create a virtually impenetrable shield about himself.\nIkaris can project cosmic energy in the form of beams from his eyes or beams and flashes from his hands. This cosmic energy, stored in specialized enclaves of cells in his body, can be used as force, heat, light, and possibly other forms of electromagnetic energy. Ikaris can project a maximum concussive force of at least 260 pounds per square inch. He can project heat of a maximum temperature of at least 3,000 Fahrenheit, hot enough to melt iron. It takes about one minute for him to attain this maximum temperature. Because Ikaris's heat beams can vaporize solid objects, they are often called his disintegrator beams, The maximum range for his energy beams is about 200 feet. Ikaris is a fourth level adept on a five-level scale (the fifth level being the highest) in this discipline. The expenditure of cosmic energy in this way continually for several hours will temporarily deplete Ikaris's physical strength, but not his resistance to injury, although it will temporarily increase his sensitivity to pain. He will rapidly return to normal after such lengthy energy expenditure is over.\n\nIkaris can teleport himself psionically, but prefers not to do so, since, like other Eternals, he finds the self-teleportation process physically unpleasant. He can also teleport other people along with himself.", 
+            "realname": "Ikaris", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 7, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 230
+        }
+    }
+}

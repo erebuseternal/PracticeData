@@ -1,0 +1,61 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Mr. Anger", 
+                "Doyle", 
+                "the Man in the Mystery Mask", 
+                "Patch", 
+                "various others used in espionage", 
+                "impersonated Scorpio"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 2, 
+            "education": "High school, possibly unfinished; extensive military and intelligence training", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 7, 
+            "firstappearance": "Sgt. Fury and His Howling Commandos #1 (1963)\n", 
+            "groupaffiliation": [
+                "Howling Commandos PMC", 
+                "Secret Warriors", 
+                "formerly S.H.I.E.L.D.", 
+                "Team Valkyrie", 
+                "Howling Commandos", 
+                "CIA", 
+                "liaison to MI5", 
+                "OSS", 
+                "US Army", 
+                "Sky Devils"
+            ], 
+            "hair": "Brown, white temples\n", 
+            "height": 73, 
+            "id": "Fury,_Nick", 
+            "identity": "No dual identity", 
+            "intelligence": 3, 
+            "knownrelatives": "Jack Fury (father, deceased), Katherine Fury (mother, presumed deceased), Jacob \"Jake\" Fury (Scorpio, brother,deceased), Dawn Fury (sister), Mikel Fury (Scorpio, son), Rex Fury (alleged ancestor, deceased)", 
+            "occupation": [
+                "Insurgent", 
+                "former director of SHIELD", 
+                "SHIELD agent", 
+                "intelligence agent", 
+                "soldier", 
+                "commando leader", 
+                "parachuting instructor", 
+                "stunt flier"
+            ], 
+            "placeofbirth": [
+                "Clinton", 
+                "New York City", 
+                "New York"
+            ], 
+            "powers": "Fury ages very slowly, provided by the Infinity Formula, retaining the appearance and vitality of a man less than half his age.", 
+            "realname": "Nicholas Joseph Fury", 
+            "speed": 2, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 221
+        }
+    }
+}

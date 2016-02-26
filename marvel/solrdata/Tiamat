@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Champion", 
+                "Ultimate Chaos", 
+                "Undoing of the World as We Know It"
+            ], 
+            "citizenship": "Unidentified extraterrestrial race", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unspecified combat training", 
+            "energy": 1, 
+            "eyes": "Solid white (presumably translucent membranes; no visible pupils or iris)\n", 
+            "fighting": 1, 
+            "firstappearance": "Deadpool #23 (1998)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 85, 
+            "id": "Tiamat", 
+            "identity": "Unknown to the general populace of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Warrior", 
+                "assassin"
+            ], 
+            "placeofbirth": "Unidentified planet", 
+            "powers": "Tiamat is super-humanly strong (class 10), he can swiftly recover from penetrating wounds and amphibious, though he prefers water. He possesses exceptional speed, agility, and reflexes, and it is possible that he is precognitive; but his prophecies may come from the Council of Elders.", 
+            "realname": "Unrevealed possibly Champion (or translation thereof)", 
+            "significantissues": [
+                "Introduced and defeated the Mithras Wade Wilson (Deadpool #23, 1998)", 
+                "Tiamat hid in an underwater cave in the fractured zone of Atlantis (Deadpool #24, 1999)", 
+                "Failed to defeat S'met'kth (Deadpool #24, 1999)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 540
+        }
+    }
+}

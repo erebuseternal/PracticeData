@@ -1,0 +1,53 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Amanda Sefton", 
+                "Magicienne", 
+                "Daytripper"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Sometime later, after Amanda and Kurt had gone their separate ways, she learned of Kurt's joining the British super-team Excalibur and sought him out. Journeying to Muir Island, Amanda and the other Islanders fell under the thrall of the psionic entity the Shadow King until he was defeated by the X-Men. She later joined Excalibur, helping to defeat the sorcerer Gravemoss who was bent on obtaining the mystic Soulsword. Amanda gave the sword to Margali for safekeeping, unaware that she would use it to kill those sorcerers ahead of her on the path of mystical power called the Winding Way.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men Vol. 1 #98 (1976), (as Sefton) X-Men Vol. 1 #98 (1976), (as Szardos) X-Men Vol. 1 Annual #4 (1980), (as Daytripper) Excalibur Vol. 1 #75 (1994), (as Magik) X-Men: Black Sun - The New X-Men #1 (2000)\n", 
+            "groupaffiliation": [
+                "Formerly Excalibur", 
+                "Muir Island X-Men"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 66, 
+            "id": "Magik_(Amanda_Sefton)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Margali Szardos (mother), Stephan Szardos (brother, deceased), Kurt Wagner (Nightcrawler, foster brother)", 
+            "occupation": [
+                "Ruler of Limbo", 
+                "adventurer", 
+                "formerly flight attendant", 
+                "circus artist"
+            ], 
+            "origin": [
+                "Excalibur Vol. 1 #-1 (1997)", 
+                "X-Men Vol. 1 Annual #4 (1980)"
+            ], 
+            "placeofbirth": "Unrevealed location in former West Germany", 
+            "powers": "Magik is a sorceress who wields vast power in the pocket dimension Limbo that she rules. On Earth, Magik's abilities are limited to detecting magical auras, entering the astral plane, and summoning the Soulsword.", 
+            "realname": "Jimaine Szardos", 
+            "significantissues": [
+                "Applied to become Dr. Strange's disciple (Doctor Strange Vol. 2 #57-58, 1983)", 
+                "briefly joined Muir Island X-Men (Uncanny X-Men #253-254, 1989)", 
+                "joined Excalibur (Excalibur Vol. 1 #75, 1994)", 
+                "became ruler of Limbo (X-Men Unlimited Vol. 1 #19, 1998)", 
+                "united rulers of Hell dimensions (X-Men: Magik #1-4, 2001)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

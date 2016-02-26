@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Cory Sutter", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "High school graduate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "groupaffiliation": "Formerly S.H.I.E.L.D.", 
+            "hair": "Black\n", 
+            "height": 69, 
+            "id": "Johnson,_Daisy", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Jennifer Johnson (mother); Calvin Zabo (Mister Hyde, father); Greggory Sutter (adoptive father); (Janet Sutter (adoptive mother)", 
+            "occupation": "Agent of S.H.I.E.L.D.", 
+            "placeofbirth": [
+                "New Orleans", 
+                "Louisiana"
+            ], 
+            "powers": "Daisy possesses the ability to generate seismic vibrations and direct them into objects or people, allowing for a variety of effects including earthquakes, tremors and explosions.", 
+            "realname": "Daisy Johnson", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

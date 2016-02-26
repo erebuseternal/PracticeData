@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Reign: Zodiac #1 (2009)\n", 
+            "groupaffiliation": "Zodiac's Gang", 
+            "hair": "Green\n", 
+            "id": "Clown_(Unrevealed)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Griffin (Eliot Franklin) (brother)", 
+            "occupation": "Professional criminal", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Unrevealed", 
+            "significantissues": "Joined with Zodiac and helped him obtain the Zodiac Key (Dark Reign: Zodiac #1-3, 2009)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

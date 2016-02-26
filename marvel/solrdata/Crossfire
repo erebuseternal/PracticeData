@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": [
+                "United States of America", 
+                "with a criminal record"
+            ], 
+            "content": "Crossfire secretly rebuilt his operations at Cross Technological Enterprises (CTE), founded by his cousin, Darren Cross. When Hawkeye and Mockingbird investigated, Crossfire first tried to eliminate them using the assassins Bombshell, Oddball, and Silencer. When his three assassins failed, Crossfire decided Hawkeye would make an ideal test subject for his super hero mind control plot, because Hawkeye was prominent enough in the super hero community to attract them en masse at his funeral and weak enough to be an easy target. Hawkeye thwarted the brainwashing, captured the criminals and rescued Mockingbird, whom he married shortly thereafter.A vengeful Crossfire subsequently stalked the newlyweds to the estate of former film star Moira Brandon who was declared an honorary Avenger after she helped the heroes recapture Cross. The criminal mercenary jugglers known as the Death-Throws freed Cross from police custody, but when he proved unable to pay them, they held Cross for ransom until Captain America, Hawkeye, and Mockingbird captured the whole gang. Crossfire later escaped and placed a bounty on Hawkeye's arm, hoping to destroy the hero's archery skills and break his spirit. Cross and his small army of superhuman bounty hunters were defeated and captured by Hawkeye, Mockingbird, and Trickshot.", 
+            "durability": 1, 
+            "education": "Masters degree", 
+            "energy": 1, 
+            "eyes": "blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Two-In-One #52\n", 
+            "groupaffiliation": [
+                "Crossfire\u2019s Mind Control Gang", 
+                "(Formerly) CIA"
+            ], 
+            "height": 72, 
+            "id": "Crossfire", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Darren (cousin)", 
+            "occupation": [
+                "Professional subversive and criminal entrepreneur", 
+                "(Formerly) CIA operative"
+            ], 
+            "origin": [
+                "Marvel Two-In-One #52", 
+                "Spider-Man: Breakout #1-5"
+            ], 
+            "placeofbirth": [
+                "Madison", 
+                "Wisconsin"
+            ], 
+            "powers": "None", 
+            "realname": "William Cross", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 190
+        }
+    }
+}

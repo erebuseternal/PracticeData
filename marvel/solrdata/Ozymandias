@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Egypt", 
+            "content": "", 
+            "durability": 5, 
+            "education": "Unrevealed", 
+            "energy": 3, 
+            "fighting": 4, 
+            "firstappearance": "Uncanny X-Men #332\n", 
+            "groupaffiliation": [
+                "Clan Akkaba", 
+                "formerly New World Order"
+            ], 
+            "id": "Ozymandias", 
+            "identity": "No dual identity", 
+            "intelligence": 4, 
+            "knownrelatives": "None", 
+            "occupation": "Servant", 
+            "placeofbirth": "Egypt", 
+            "powers": "Ozymandias is trained in the art of melee weapons and hand to hand combat.", 
+            "realname": "Ozymandias", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

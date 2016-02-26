@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #58 (2002)\n", 
+            "groupaffiliation": "Brotherhood of the Ankh", 
+            "hair": "Unknown\n", 
+            "id": "Scorpio_(World_Trust)", 
+            "identity": "The general populace of Earth was unaware of the Scorpio's existence", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Would-be-conqueror", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The Scorpio possessed the a Zodiac Key, which held the power to project massive burst of unidentified energy, the wielder of the key, was also able to teleport unknown distances, even into other dimensions. Scorpio was also able to minipulate the aspect of chaos and order belonging the alien entity known as the In-Betweener.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Scorpio gained control of the In-Betweener's power to teleport the capital cities of nations into the Ankh Dimension (Avengers #57, 2002)", 
+                "discovered the Wasp and Yellowjacket were amongst the people brought to the Ankh Dimension (Avengers #58, 2002)", 
+                "Scorpio tortured Yellowjacket (Avengers #59, 2002)", 
+                "the In-Betweener's order half sent several of the Avengers to the Ankh Dimension (Avengers #60, 2003)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

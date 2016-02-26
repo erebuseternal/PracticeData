@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "The Living Bomb Burst", 
+            "citizenship": "Citizen of Baluur", 
+            "content": "Recently Blastaar has been seen in the positive universe in the company of the Spaceknights of Galador. Together they secretly fought Annihilus and his insectoid soldiers, which were known as the Annihilation Wave. Blastaar and the Spaceknights joined Nova and the United Front on the Kree planet of Canticus Prime, where they were able to defeat the forces of Annihilus.", 
+            "durability": 6, 
+            "education": "Unknown", 
+            "energy": 5, 
+            "eyes": "Gray\n", 
+            "fighting": 4, 
+            "firstappearance": "Fantastic Four #62\n", 
+            "groupaffiliation": [
+                "None", 
+                "Formerly Frightful Four"
+            ], 
+            "hair": "Gray\n", 
+            "height": 78, 
+            "id": "Blastaar", 
+            "identity": [
+                "Known in the Negative Zone", 
+                "not known on Earth"
+            ], 
+            "intelligence": 3, 
+            "knownrelatives": "Nyglar (wife, deceased), Burstarr (son)", 
+            "occupation": "Ruler of Baluur", 
+            "origin": "Marvel Two-In-One #75", 
+            "placeofbirth": [
+                "Baluur", 
+                "in the Negative Zone"
+            ], 
+            "powers": "Super strength; able to release explosive energy bursts from his finger-tips; by carefully releasing a steady stream of blast from his fingers, Blastaar can propel himself through the air in the manner of a rocket powered by a nuclear engine.", 
+            "realname": "Blastaar", 
+            "speed": 5, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 520
+        }
+    }
+}

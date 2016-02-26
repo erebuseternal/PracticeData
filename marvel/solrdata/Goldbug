@@ -1,0 +1,44 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Jackson Smith", 
+                "Jack Smith", 
+                "\"Gold Pawn\""
+            ], 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "He then sought an alliance with the criminal Maggia, but was thwarted by the intervention of Spider-Man. Sometime afterward, the Goldbug attempted to steal underwater gold but was foiled by Namor, the Sub-Mariner.", 
+            "durability": 1, 
+            "education": "Masters degree in business administration", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Luke Cage: Power Man #41 (1977)\n", 
+            "groupaffiliation": [
+                "Former pawn of Lucia von Bardas", 
+                "They Who Wield Power", 
+                "and the Maggia"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 69, 
+            "id": "Goldbug", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified wife and child", 
+            "occupation": [
+                "Professional thief", 
+                "former Shank's Armored Couriers executive"
+            ], 
+            "placeofbirth": [
+                "Dallas", 
+                "Texas"
+            ], 
+            "realname": "Mathew Gilden", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 170
+        }
+    }
+}

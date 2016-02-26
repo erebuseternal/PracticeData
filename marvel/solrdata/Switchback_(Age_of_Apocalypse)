@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Calibre #1 (1995)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Platinum blonde\n", 
+            "id": "Switchback_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "None", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Switchback has the mutant ability to shunt back down her own timeline to a maximum of ten seconds.", 
+            "realname": "Unrevealed", 
+            "significantissues": "fights Shadow King alongside X-Calibre and Damask (X-Calibre #4, 1995)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse"
+        }
+    }
+}

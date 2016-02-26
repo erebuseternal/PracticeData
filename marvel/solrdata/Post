@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "After Xavier spawn the powerful psionic creature Onslaught, Tremain was lured into his service. Onslaught used the techno-organic virus within Tremain to transform him into the cybernetic powerhouse Post. Acting as Onslaught's \"Herald,\" Post was assigned to test the X-Men's limitations in order to determine their whether they were worthy of Onslaught's coming. Onslaught had the Aboriginal mutant Gateway teleport Cyclops, Storm, Iceman and Wolverine to a remote location where Post, attacked them. He held his own against the foursome until they used team work to defeat him. Post was subsequently instructed to eliminate Cable, whom Onslaught believed posed a treat to his plans. After blowing the freighter base of Cable's mentor Blaquesmith, Post beat Cable nearly to death.Subsequently, Post teamed up with Onslaught's other thralls to oppose the government sponsored X-Factor team's efforts to prevent Onslaught from gaining control a fleet of Sentinels. Post then joined his fellow thrall Holocaust in fighting the Avengers, but was defeated after Captain America tricked Holocaust into blasting Post.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men #50 (1996)\n", 
+            "groupaffiliation": [
+                "Formerly Brotherhood of Mutants", 
+                "Onslaught's servant", 
+                "Dark Descendants", 
+                "unidentified government agency"
+            ], 
+            "hair": "Black\n", 
+            "height": 99, 
+            "id": "Post", 
+            "identity": "Secret (known to the U.S. Government officials)", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Terrorist", 
+                "former government agent"
+            ], 
+            "origin": [
+                "Cable #72 (1999)", 
+                "Cable #33 (1996)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Kevin Tremain", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 805
+        }
+    }
+}

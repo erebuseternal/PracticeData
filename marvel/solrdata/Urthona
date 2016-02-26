@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Gevaltu", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Orange\n", 
+            "fighting": 1, 
+            "firstappearance": "(Presence sensed) Dr. Strange #78 (1986); (full) Dr. Strange #79 (1986)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 83, 
+            "id": "Urthona", 
+            "identity": "The general populace of Earth is unaware of Urthona's existence", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Sorcerer", 
+                "former king"
+            ], 
+            "placeofbirth": "Gevaltu", 
+            "powers": "Urthona's great magical powers enabled control of his world's elements, opening portals across space, mentally influencing others, and creating magical weapons and armor. He has greatly amplified his powers using magical talisman, such as the Darkhold tome and the Pyx of Pura-Shamutra. Like other Gevaltians, Urthona had superhuman strength and durability.", 
+            "realname": "Urothona", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 390
+        }
+    }
+}

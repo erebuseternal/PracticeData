@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Fenris", 
+            "citizenship": "Madripoor", 
+            "content": "The twins later resurfaced as members of the mutant terrorist group known as the Upstarts, and during this time attempted, among other things, to recruit Omega Red and kill New Mutant Wolfsbane; neither effort was successful.Later, they joined their father in fighting against the mysterious Citizen V and his V-Battalion. During this conflict, Andrea discovered that Citizen V was, in fact, Baron Helmut Zemo, then believed dead, following his decapitation by Nomad, and as a result, Andrea was quickly killed in order to keep this knowledge from being revealed.", 
+            "durability": 6, 
+            "education": "Unrevealed", 
+            "energy": 7, 
+            "eyes": "Blue\n", 
+            "fighting": 7, 
+            "firstappearance": "(as Andreas Strucker) Uncanny X-Men #194 (1985), (as Fenris) Uncanny X-Men #200 (1985); (as Swordsman) New Thunderbolts #2 (2005)\n", 
+            "groupaffiliation": [
+                "Formerly Thunderbolts", 
+                "Assembly of Evil", 
+                "Upstarts", 
+                "Fenris", 
+                "Hydra"
+            ], 
+            "hair": "Blond\n", 
+            "height": 69, 
+            "id": "Swordsman_(Andreas_Strucker)", 
+            "identity": "Known to authorities", 
+            "intelligence": 7, 
+            "knownrelatives": "Baron Wolfgang von Strucker (father); Andrea von Strucker (sister, deceased); Werner von Strucker (brother, deceased); Elsbeth von Strucker (step-mother, deceased); Jan (last name unrevealed, brother-in-law, deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "former professional criminal leader"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "As a result of in utero genetic engineering, Andreas and his twin sister Andrea were able to fly and generate energy blasts, but only when they were holding hands. When holding hands, Andreas could generate concussive force blasts, while Andrea could generate disintegrative beams.", 
+            "realname": "Andreas von Strucker", 
+            "significantissues": [
+                "Official Handbook Bibliography", 
+                "Encountered Storm (Uncanny X-Men #200, 1985)", 
+                "Attacked Magneto during his trial in Paris (Uncanny X-Men #200, 1985)", 
+                "Andrea killed by Baron Zemo (Citizen V and the V-Battalion #3, 1999)", 
+                "Andreas joined new team of Thunderbolts (New Thunderbolts #1, 2004)", 
+                "Andreas revealed as Swordsman (Thunderbolts #17, 2005)", 
+                "killed by Norman Osborn with his own sword (Secret Invasion: Dark Reign #1, 2008)"
+            ], 
+            "speed": 7, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

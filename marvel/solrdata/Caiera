@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Lieutenant", 
+                "Caiera the Oldstrong"
+            ], 
+            "citizenship": "Sakaar", 
+            "content": "After 30 years of serving the Red King, Caiera met a formidable opponent when the Green Scar was brought to Sakaar by the meddling Shadow Elders, who hoped to fulfill their peoples' prophecies of the messianic Sakaarson by forcibly drawing such a person to their world. Enslaved as a gladiator, the Hulk emerged victorious in combat, but the Red King and Caiera personally defeated him when tried to fight them. As the Hulk became a famous personality on Sakaar through his gladiatorial victories, Caiera attempted to by him off by offering him a chance to retire in peace, but the Hulk refused her offer. Caiera helped arrange for the imprisoned Silver Savage to be pitted against the Hulk, but the Hulk won the fight, destroying the obedience disc in the process. Caiera then demanded that Hulk and fellow Warbound gladiators kill imprisoned enemies of the Red King, but they refused, and the Surfer ultimately neutralized the gladiators' obedience disc, making the Hulk a rebel leader.Caiera led forces in attempts to defeat the Hulk's army, but when she finally faced him in personal combat, the Red King interfered by releasing Spikes into the area. Caiera helped the Hulk fight the Spikes and tried to obtain the Red Kings aid in protecting the village of An-Sara, but instead the Red king dropped deathfire bombs on the village. Caiera survived the bombing and the Red King's disregard for his own subjects' lives convinced her to switch her allegiance and join the Hulk's Warbound. Caiera aided the Warbound in combating the Red King's forces, and the emperor was finally slain.", 
+            "durability": 1, 
+            "education": "Tutored by Imperial military strategist", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #92, (2006)\n", 
+            "groupaffiliation": [
+                "Hulk\u2019s Warbound", 
+                "formerly Sakaar Imperial Guard"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Caiera", 
+            "identity": "Caiera\u2019s existence is unknown to the general populace of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "Robert Bruce Banner (Hulk,  Husband), Brian Banner (father-in-law, deceased), Rebecca Banner (mother-in-law, deceased), unidentified parents (deceased); extended family via marriage, Skaar and Hiro-Kala (sons)", 
+            "occupation": [
+                "Formerly", 
+                "First Lieutenant of the Imperial Guard", 
+                "personal body guard of the Prince Angmo II", 
+                "Queen of Sakaar"
+            ], 
+            "origin": [
+                "Incredible Hulk #98", 
+                "(April 2006)"
+            ], 
+            "placeofbirth": [
+                "The Great Desert", 
+                "planet Sakaar", 
+                "Tayo Star System", 
+                "Fornax Galaxy"
+            ], 
+            "powers": "Caiera possessed the Old Power, she could render her body more durable than stone and draw increased strength from the planet itself.", 
+            "realname": "Caiera", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 270
+        }
+    }
+}

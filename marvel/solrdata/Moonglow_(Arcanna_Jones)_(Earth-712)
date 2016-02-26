@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Arcanna", 
+            "citizenship": "United States of America", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed; was taught by Professor Imam", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Defenders #112\n", 
+            "groupaffiliation": "Squadron Supreme", 
+            "hair": "Silver/Blonde\n", 
+            "height": 68, 
+            "id": "Moonglow_(Arcanna_Jones)_(Earth-712)", 
+            "identity": "Publicly known to the people of Earth-712", 
+            "intelligence": 1, 
+            "knownrelatives": "Phillip Jones (husband), Drusilla Jones (daughter), Katrina Jones (daughter), Andrew Jones (son), Thomas Jones (son), Benjamin Jones (son)", 
+            "occupation": [
+                "Medium", 
+                "(Formerly) government agent", 
+                "adventurer"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Arcanna is a talented sorceress and has magical control over natural substances and forces particularly wind, wood, and water.", 
+            "realname": "Arcanna Jones", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-712", 
+            "weight": 115
+        }
+    }
+}

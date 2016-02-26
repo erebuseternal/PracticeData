@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Devourer of Men", 
+            "citizenship": [
+                "Svartalfheim", 
+                "realm belonging to the Dark Elves"
+            ], 
+            "content": "Balder eventually managed to find Jagrfelm only to be captured by the behemoth, which threatened to kill and eat him. Balder made several threats thinking that they would aid him in gaining his freedom, but they were ignored by Jagrfelm. In desperation Balder promised Jarfelm, \"that if he were to help the Asgardians to defeat the treat of Thanos,\" Odin would grant unto him the one thing that he most desired. Now intrigued by the proposal, he agreed to assist the Asgardians. Upon reaching Odin, Jagrfelm confirmed that he would create the weapon and armor for Thor, in exchange for mastery over the item which he held within the sack that he carried. Odin had no idea that the behemoth had come to possess the Casket of Ancient Winters. Odin completed the bargain and even infused the Cask with even more power. Jagrfelm later returned to Asgard with the weapon and armor for Thor. Later he began to boast to himself about how he would use his new powers.", 
+            "durability": 1, 
+            "education": "Unrevealed, although he was a blacksmith", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #22 (2000)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None (Green fur)\n", 
+            "id": "Jagrfelm", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Blacksmith", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "As a Dark Elf, Jagrfelm possesses superhuman strength and durability", 
+            "realname": "Jagrfelm", 
+            "significantissues": "Thor #22-25 and #28-29, (2000)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

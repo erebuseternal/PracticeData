@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "He Who was Lost and is Found", 
+            "citizenship": "The Mountain", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Gold, formerly brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Premiere #28 (1976)\n", 
+            "groupaffiliation": "The Society", 
+            "hair": "Gold, formerly brown\n", 
+            "height": 82, 
+            "id": "Starseed", 
+            "identity": "Unknown to general public", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Would-be savior", 
+            "origin": "Marvel Premiere #28 (1976)", 
+            "placeofbirth": "Earth location currently occupied by Los Angeles", 
+            "powers": "Starseed could create reality through dreams, somehow also living in dreams that were glimpsed by dreamers across space and time.", 
+            "realname": "Jaard", 
+            "significantissues": "Starseed\u2019s people fled killing of prehistoric man, settled on mountain, created advanced civilization which was attacked by alien race that took mountain into inter-dimensional space, survivors defeated aliens & turned mountain back to Earth, all died except Jaard who became Starseed with ability to turn dreams to reality, Starseed landed mountain in Los Angeles, attracted Ghost Rider, Man-Thing, Morbius, & Werewolf/Jack Russell all of whom attacked him except Ghost Rider, dying revealed plans to turn them all normal & create paradise but dream changes faded with his death (Marvel Premiere #28, 1976)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 378
+        }
+    }
+}

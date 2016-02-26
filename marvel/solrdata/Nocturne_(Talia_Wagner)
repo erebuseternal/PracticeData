@@ -1,0 +1,54 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "\"T.J.\"", 
+            "citizenship": "U.S.A.", 
+            "content": "Nocturne awoke one night to find herself unhinged from time. The mysterious Timebroker informed her if she did not join the Exiles her father would die at the hands of Mystique during a battle with the Hellfire Club.On a world where the Exiles were being held captive by the Skrulls, Nocturne discovered she was pregnant. Nocturne told T-Bird and both were excited about the impending birth. Unfortunately, T-Bird sacrificed his life on that same world to drive Galactus away from Earth. Nocturne hoped the Exiles would be able to wait for John to recover from his wounds but the team was forced to leave T-Bird behind. Nocturne eventually lost the baby and spent a lot of time away from her teammates despite their offers of support.", 
+            "durability": 5, 
+            "education": "College graduate", 
+            "energy": 5, 
+            "eyes": "Yellow\n", 
+            "fighting": 6, 
+            "firstappearance": "(Historical) X-Men: Millennial Visions 2000 (2000); (in continuity) Exiles #1 (2001)\n", 
+            "groupaffiliation": [
+                "Exiles", 
+                "formerly Excalibur", 
+                "Brotherhood of Mutants", 
+                "X-Men (of her home reality)"
+            ], 
+            "hair": "Indigo\n", 
+            "height": 67, 
+            "id": "Nocturne_(Talia_Wagner)", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Kurt Wagner (Nightcrawler (alternate reality), father), Wanda Maximoff (Scarlet Witch (alternate reality), mother)", 
+            "occupation": [
+                "Adventurer", 
+                "formerly reality traveler", 
+                "lead singer"
+            ], 
+            "origin": "Exiles #41-42 (2004)", 
+            "placeofbirth": [
+                "New York City", 
+                "New York of alternate Earth"
+            ], 
+            "powers": "Able to intangibly enter other's bodies and possess them for up to 12 hours. After she departs, the possessed is usually dazed and sometimes left comatose for up to 24 hours. Able to fire \"Hex Bolts\" consisting of energy from the dimension her father teleports through. Limited telepathy. Her connection to her father's dimension renders her functionally invisible in the dark. Her physiology grants her incredible agility. Nocturne possesses indigo skin, three fingers and toes on each hand and foot (respectively), pointed ears, a retractable and prehensile tail, and no visible pupils.", 
+            "realname": "Talia Josephine Wagner", 
+            "significantissues": [
+                "T-Bird revealed her to be pregnant of his baby (Exiles #10, 2002)", 
+                "said she had a miscarriage (Exiles #12, 2002)", 
+                "left Exiles and joined Brotherhood of Mutants (Exiles #48, 2004)", 
+                "joined Excalibur (New Excalibur #5, 2006)", 
+                "left the Exiles again, with Thunderbird (Exiles #100, 2007)", 
+                "rejoined Exiles (Exiles vol. 2 #6, 2009)"
+            ], 
+            "speed": 4, 
+            "strength": 3, 
+            "universe": [
+                "Marvel Universe", 
+                "formerly alternate Earth"
+            ], 
+            "weight": 125
+        }
+    }
+}

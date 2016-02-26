@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Malachi", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America #123 (1970)\n", 
+            "groupaffiliation": "Formerly Skeleton Crew", 
+            "hair": "None (bald)\n", 
+            "id": "Minister_Blood", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Susan Scarbo (Mother Night, sister)", 
+            "occupation": "Former stage performer", 
+            "placeofbirth": [
+                "Teaneck", 
+                "New Jersey"
+            ], 
+            "powers": "Melvin was a powerful hypnotist, mesmerist and illusion caster, he possessed normal human strength.", 
+            "realname": "Melvin Scarbo", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

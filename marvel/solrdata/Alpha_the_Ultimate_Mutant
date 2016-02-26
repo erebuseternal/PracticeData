@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Inapplicable", 
+            "content": "", 
+            "durability": 3, 
+            "education": "Self-taught", 
+            "energy": 7, 
+            "eyes": "Yellow\n", 
+            "fighting": 2, 
+            "firstappearance": "Defenders #15 (1974)\n", 
+            "groupaffiliation": "Brotherhood of Evil Mutants", 
+            "hair": "Bald\n", 
+            "height": 108, 
+            "id": "Alpha_the_Ultimate_Mutant", 
+            "identity": "No Dual Identity", 
+            "intelligence": 6, 
+            "knownrelatives": "Magneto (creator)", 
+            "occupation": "Explorer", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Alpha possesses unmeasured telekinetic, teleportational, and telepathic powers, as well as a highly advanced intellect.", 
+            "realname": "Alpha", 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 240
+        }
+    }
+}

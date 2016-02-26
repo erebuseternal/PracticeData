@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Warlord Krang", 
+            "citizenship": "Atlantean", 
+            "content": "Krang helped lead the Atlantean troops alongside Namor to invade the surface world, starting with New York City. But the Fantastic Four\u2019s Mister Fantastic soon built a device to evaporate the water in their helmets, which they needed to survive outside of the ocean, and Krang was repulsed along with his troops in a mad dash for the safety of their home waters. When Namor then kidnapped the Invisible Girl, Krang joined him on his imperial command craft. The rest of the Fantastic Four, however, caught up with them and fought with Namor for the return of Susan. While the Atlanteans watched, Susan implored Krang to stop the fight to save both her teammates and their prince. Krang realized that Susan was not just a hostage, and that Namor was actually in love with her. Dorma became incensed by this and smashed out a window of the craft to try and drown Susan, who swam away and was saved by Namor and the Thing. Krang insisted that with Namor in love with the human, Dorma was free to marry him, but she again turned him down. While the Fantastic Four and Namor discussed what to do, Krang repaired the craft. Namor then returned and ordered Krang, Dorma, and the gathered Atlanteans to leave the vehicle so that he could more swiftly travel to the surface world to save Susan\u2019s life. Krang and Dorma protested fiercely, but he ejected them both nonetheless, and left to get help for the human woman he loved.", 
+            "durability": 1, 
+            "education": "Training as an Atlantean soldier", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Fantastic Four Annual #1\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 72, 
+            "id": "Krang", 
+            "identity": "Publicly Known", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Warlord of Atlantis", 
+            "placeofbirth": "Atlantis", 
+            "powers": "None", 
+            "realname": "Krang", 
+            "significantissues": "Fantastic Four Annual #1 (intro)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 290
+        }
+    }
+}

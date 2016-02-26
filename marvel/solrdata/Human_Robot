@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Inapplicable", 
+            "content": "Four years later, Plan Tzu kidnapped President Elsenhower, and as he intended, Woo gathered together a team of \"G-Men\" to rescue him. M-11 had been found by the Atlantean Namora, while she was searching for her missing cousin Namor; she informed Woo of the machine, and he retrieved it. Its teammate Marvel Boy (Robert Grayson) used Uranian know-how to restore it to working order; M-11 worked with the group out of choice and a growing loyalty to Woo, but pretended to be controlled by a voice-activated radio device Woo carried. After a successful first mission, the G-Men worked together for another six months, battling foes such as the mysterious Foundation and the cosmic-ray mutated dog Laika, before instructions came from above to disband. M-11 was covertly retrieved by Plan Tzu, and over the succeeding decades it allowed him to make numerous upgrades to its systems.", 
+            "durability": 5, 
+            "education": "Able to access knowledge from any computer database on Earth", 
+            "energy": 6, 
+            "eyes": "Yellow\n", 
+            "fighting": 3, 
+            "firstappearance": "Menace #11 (1954)\n", 
+            "groupaffiliation": "Agents of Atlas", 
+            "hair": "None\n", 
+            "height": 75, 
+            "id": "Human_Robot", 
+            "identity": "No dual identity", 
+            "intelligence": 4, 
+            "knownrelatives": "Unnamed scientist (creator)", 
+            "occupation": "Robot", 
+            "origin": [
+                "Menace #11 (1954)", 
+                "Agents of Atlas #6 (2007)"
+            ], 
+            "placeofbirth": [
+                "(creation) New York City", 
+                "New York"
+            ], 
+            "powers": "M-11 is bulletproof, equipped with telescopic limbs possessing superhuman strength and which it can electrify, and, if shattered, it can pull its scattered components back together within minutes. It can project protective forcefields, and a destructive \"death ray\" which emanates from its eye. Its visual and audio sensors are extremely acute. Its computer brain is capable of independent reasoning and can access any computer network on Earth, downloading vast amounts of data for analysis.", 
+            "realname": "M-11", 
+            "significantissues": "Helped rescue Jimmy Woo and uncover the truth of the Atlas Foundation (Agents of Atlas #1-6, 2006-7)", 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 500
+        }
+    }
+}

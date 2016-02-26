@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Wakanda", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Private college level tutoring", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "As (Nakia) Black Panther #1 (1998); (as Malice) Black Panther #21 (2000)\n", 
+            "groupaffiliation": "Formerly Dora Milaje", 
+            "hair": "Black\n", 
+            "height": 72, 
+            "id": "Malice_(Nakia)", 
+            "identity": "Known to Wakandan authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Teorrist", 
+                "former Dora Milaje", 
+                "personal aide to T'Challa"
+            ], 
+            "origin": [
+                "(As Nakia) Black Panther #6 & 11 (1999)", 
+                "(as Malice) Black Panther #24 (2000)"
+            ], 
+            "placeofbirth": [
+                "Q'Noma Valley", 
+                "Wakanda"
+            ], 
+            "realname": "Nakia", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 160
+        }
+    }
+}

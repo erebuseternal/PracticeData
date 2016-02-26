@@ -1,0 +1,55 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Three-in-One", 
+                "formerly Five-in-One"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "The three remaining Cuckoos later resolved their differences with Emma, who subsequently became co-headmistress of the rebuilt Institute. The Cuckoos were placed into Cyclops' Corsairs squad, after which Mindee helped the blind X-Man Gambit defend the Institute from an attack by a reformed Brotherhood of Mutants. The Cuckoos then faced the return of Quire after a splintered Phoenix Force came to the Institute seeking Jean. Quire sought to resurrect his beloved Sophie and asked the Force for help. It restored her to life, but upon seeing Quire she chose to return to death. The Force departed after merging with Jean to search for its missing pieces, one of which later visited the Cuckoos. Recently, when the immovable mutant the Blob attacked the Institute, the Cuckoos were instrumental in his defeat by the students. During the mutant Scarlet Witch's reshaping of reality, the Cuckoos briefly became a quintet once more.", 
+            "durability": 1, 
+            "education": "Various courses at Xavier Institute", 
+            "energy": 1, 
+            "eyes": "(all) Blue; glowing white when using powers\n", 
+            "fighting": 1, 
+            "firstappearance": "(Unidentified) New X-Men #118 (2001); (Esme & group identified) New X-Men #123 (2002); (Sophie identified) New X-Men #134 (2003); (Phoebe identified) New X-Men #149 (2004); (Celeste identified) New X-Men #153 (2004); (Mindee identified) New X-Men #156 (2004)\n", 
+            "groupaffiliation": [
+                "Xavier Institute Student Body/Corsairs", 
+                "(Phoebe", 
+                "Celeste", 
+                "Mindee) formerly X-Men", 
+                "(Esme) Brotherhood of Mutants"
+            ], 
+            "hair": "(all) Blonde\n", 
+            "height": 0, 
+            "id": "Stepford_Cuckoos", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Emma Frost (mother)", 
+            "occupation": [
+                "Students", 
+                "adventurers", 
+                "(Esme) former terrorist"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "New York City", 
+                "New York"
+            ], 
+            "powers": "The Stepford Cuckoos share a unique bond that allows them to combine their individual telepathic powers to form a powerful \"supermind.\" The Cuckoos can use their powers to read the minds of others, alter another being's perception of reality, manipulate the thoughts and bodily actions of others, or to shield their minds against telepathic probes. Through their bond, the Cuckoos communicate almost instantaneously, often speaking in unison or finishing one another's sentences. The strength of this bond is based on proximity; the further away they are from one another, the weaker it becomes.", 
+            "realname": "Celeste, Esme (deceased), Mindee, Phoebe, Sophie (deceased) (surname unrevealed)", 
+            "significantissues": [
+                "Opposed Kid Omega, Sophie killed (New X-Men #137, 2003)", 
+                "Esme joined faux Magneto\u2019s Brotherhood, other sisters briefly joined X-Men, opposed faux Magneto, Esme killed (New X-Men #147-150, 2003)", 
+                "Mindee helped X-Men oppose Brotherhood (X-Men #162-164, 2004-2005)", 
+                "Sophie briefly resurrected by Phoenix Force (X-Men: Phoenix \u2013 Endsong #5, 2005)", 
+                "with fellow students, opposed Blob (New X-Men: Academy X #15, 2005)", 
+                "briefly restored as quintet during Scarlet Witch\u2019s reality warp (New X-Men: Academy X #16-19, 2005)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 105
+        }
+    }
+}

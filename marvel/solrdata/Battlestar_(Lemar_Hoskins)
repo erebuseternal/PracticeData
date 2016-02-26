@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Bucky", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(as a member of Bold Urban Commando) Captain America #323 (1986); (as Bucky) Captain America #334 (1987); (as Battlestar) Captain America #341 (1988)\n", 
+            "groupaffiliation": [
+                "Formerly Wild Pack", 
+                "Bold Urban Commandos (Buckies)", 
+                "former partner of U.S.Agent", 
+                "operative of the Commission on Superhuman Activities"
+            ], 
+            "hair": "Black\n", 
+            "height": 78, 
+            "id": "Battlestar_(Lemar_Hoskins)", 
+            "identity": "Known to the U.S. Government", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Former wrestler", 
+                "federal operative"
+            ], 
+            "origin": "Captain America #323", 
+            "placeofbirth": [
+                "Chicago", 
+                "Illinois"
+            ], 
+            "powers": "Battlestar possesses superhuman strength and stamina thanks to treatments given to him by the Power Broker", 
+            "realname": "Lemar Hoskins", 
+            "significantissues": "member of the Buckies (Captain America #323, 1986), receives training from CSA (Captain America #334, 1987)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 295
+        }
+    }
+}

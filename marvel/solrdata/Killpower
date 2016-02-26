@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "None", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Extensive combat training; no formal education", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Motormouth #1 (1992)\n", 
+            "groupaffiliation": [
+                "Partner of Motormouth", 
+                "formerly Dark Guard", 
+                "Huns", 
+                "agent of Mys-Tech", 
+                "Avengers"
+            ], 
+            "hair": "Orange\n", 
+            "height": 80, 
+            "id": "Killpower", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Dr. Oonagh Mullarkey (creator, \"mother\")", 
+            "occupation": [
+                "Adventurer", 
+                "former assassin"
+            ], 
+            "origin": "Motormouth & Killpower #4 (1992)", 
+            "placeofbirth": [
+                "Gena-Sys Laboratories", 
+                "England", 
+                "United Kingdom"
+            ], 
+            "powers": "Killpower possesses enhance strength, reflexes, speed, agility and healing as well as rudimentary sonar and a vestigal tail. He has a bio-occult affinity for mechanics, enabling him to devine how to use, repair or modify unfamiliar and complex machinery through mecha-psychometry.", 
+            "realname": "Julius Mullarky", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 325
+        }
+    }
+}

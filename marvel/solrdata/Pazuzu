@@ -1,0 +1,56 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Anzu", 
+                "Bringer of Disease", 
+                "Dark Angel of the Four Winds", 
+                "Demon of the Southwest Wind", 
+                "Imdugud-Bird", 
+                "King of the Air Devils", 
+                "King of the Evil Spirits of the Air", 
+                "Lord of Fevers and Plagues", 
+                "Udug", 
+                "Zu-Bird", 
+                "others"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "(Named) Howard the Duck #3 (2002); (full) Nightcrawler #4 (2005)\n", 
+            "groupaffiliation": [
+                "Formerly Annunaki", 
+                "Lucifer's Inner Circle (aka the Iairru", 
+                "the Slain Heroes or the Captive Heroes)", 
+                "the Annunki", 
+                "the Heavenly Hosts (possibly)"
+            ], 
+            "hair": "None\n", 
+            "height": 240, 
+            "id": "Pazuzu", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Hanbi/Hanpu (father), Aura (possible mother), unidentified wife, unidentified offspring, Aehr (possible uncle), Lilith (possible cousin), Galla, Imra, Lamma, Lulal, Sedu (brothers)", 
+            "occupation": [
+                "Wreaker of destruction", 
+                "former storm demon", 
+                "god of the southwest wind and pestilence", 
+                "valet to the god Ellil", 
+                "warrior"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Pazuzu possesses superhuman strength, sharp claws, and presumably other demonic abilities.", 
+            "realname": "Imudugud (Sumerian name)", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 674
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "add": {
+        "doc": {
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "1602 #1\n", 
+            "hair": "Blonde\n", 
+            "id": "Dare,_Virginia_(Earth-311)", 
+            "intelligence": 1, 
+            "powers": "Can turn into a variety of animals, all stark white", 
+            "realname": "Virginia Dare", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel 1602"
+        }
+    }
+}

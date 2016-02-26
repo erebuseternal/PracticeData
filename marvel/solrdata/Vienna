@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unknown", 
+            "content": "Shortly after enactment of the Superhuman Registration Act (SHRA), the new, government sanctioned Heroes For Hire bounty hunting team founded by Misty Knight and Coleen Wing paid Vienna a large sum of money, to help them lure several unregistered super-villains into a trap. Acting according to plan, Vienna used her underworld contacts to get in touch with the super-villains Bloodshed, Equinox, Ghost Maker, Goldbug, Grindhouse, Kogar, Shadow Slasher, and Shockwave, promising to provide them with passports, driver licensees and new identities in order to avoid the SHRA, while at her warehouse hideout. However, before the transactions were complete, the Heroes For Hire rushedt into the warehouse, and arrested all the villains present, with the exception of Bloodshed, who managed to avoid capture. Vienna gladly accepted her money after the villains were handed over to the authorities.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Master of Kung Fu #121 (1983)\n", 
+            "groupaffiliation": [
+                "Affiliated for a brief period with the C.I.A.", 
+                "MI-6", 
+                "K.G.B.", 
+                "the U.S. Treasury Department and various government and non-government organizations"
+            ], 
+            "hair": "Black\n", 
+            "height": 67, 
+            "id": "Vienna", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Freelance covert operative", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Vienna's only real power is the power of persuasion, which is normally used to con others into carrying out her wishes.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 125
+        }
+    }
+}

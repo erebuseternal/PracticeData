@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Spirit", 
+                "Freebie", 
+                "formerly Coachwhip"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "College student, Hayden college", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America #431 (1994)\n", 
+            "groupaffiliation": [
+                "Co-Director for Captain America\u2019s Hotline", 
+                "former prot\u00e9g\u00e9 of Captain America", 
+                "member of Stars and Stripes"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 69, 
+            "id": "Free_Spirit", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Mr. and Mrs. Webster (parents)", 
+            "occupation": "College student", 
+            "placeofbirth": [
+                "Macomb", 
+                "Illinois"
+            ], 
+            "powers": "Cathy was subjected to Superia's female enhancement program, enhancing her physical and mental abilities.  She possesses enhanced agility, flexibilty, and stamina.", 
+            "realname": "Catherine Webster", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

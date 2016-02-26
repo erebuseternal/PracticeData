@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Maddie", 
+                "Anodyne", 
+                "Mutate #9818", 
+                "Goblyn Queen", 
+                "Red Queen"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "(As a child) Avengers Annual #10 (1981) (As an adult) Uncanny X-Men #168 (1983)\n", 
+            "groupaffiliation": [
+                "Sisterhood of Mutants", 
+                "formerly X-Men"
+            ], 
+            "hair": "Red\n", 
+            "height": 66, 
+            "id": "Pryor,_Madelyne", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Jean Grey (Phoenix, genetic template), Scott Summers (Cyclops, husband), Nathan Christopher Summers (Cable, son), Christopher Summers (Corsair, father-in-law), Alexander Summers (Havok, brother-in-law)", 
+            "occupation": [
+                "Terrorist", 
+                "former commercial pilot"
+            ], 
+            "origin": "X-Factor #38", 
+            "placeofbirth": "Unrevealed secret laboratory of Mister Sinister", 
+            "powers": "Madelyne possessed the same telepathic and telekinetic powers as Jean Grey, although her lack of training made her weaker. She also received a small portion of the Phoenix's power and memories when it began searching for Jean.\nAs the Goblyn Queen, she was able to draw upon the Goblyn Force. This let her summon various goblins and other entities. She also could fly, create powerful concussive force blast and shield herself within forcefields by using her psionic abilities. As Anodyne, Madelyne possessed healing powers by creating flames that healed any physical or mental injuries.", 
+            "realname": "Madelyne Jennifer Pryor-Summers", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

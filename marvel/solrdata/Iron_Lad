@@ -1,0 +1,44 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Kang The Conqueror", 
+                "Young Kang", 
+                "others"
+            ], 
+            "citizenship": [
+                "Earth-6311 (Otherworld)", 
+                "31st century"
+            ], 
+            "content": "Calling himself Iron Lad, Nathaniel  attempted to contact some of the individual Avengers but met with no success. Realizing that he couldn't travel further back in time due to a glitch in the armor (or perhaps due to mystical interference from the Scarlet Witch) Nathaniel set out to find help wherever he thought possible. He used his armor to track down the body of the Vision (who had also been destroyed during the Disassembled attacks) at a Stark Enterprises warehouse. Nathaniel then linked his armor to the Vision&#39s body and downloaded all of his programming, including the Avengers protocols, a series of files on the next-wave of young Avengers who were all super-powered youths with either some significance to the Avengers themselves or to Avengers history.", 
+            "durability": 5, 
+            "education": "High School Student", 
+            "energy": 6, 
+            "eyes": "Brown\n", 
+            "fighting": 3, 
+            "firstappearance": "Young Avengers #1\n", 
+            "groupaffiliation": [
+                "Formerly", 
+                "Young Avengers"
+            ], 
+            "hair": "Brown\n", 
+            "height": 69, 
+            "id": "Iron_Lad", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Nathaniel Richards (Ancestor), Reed Richards (Common Ancestry), Victor Von Doom (supposed ancestor), Marcus (future son, deceased); Immortus (future self); Kang (future self); Rama-Tut (alternate dimensional counterparts)", 
+            "occupation": [
+                "Adventurer", 
+                "student"
+            ], 
+            "placeofbirth": "Earth-6311 in the 31st century", 
+            "powers": "Iron Lad ages slightly slower than normal humans.", 
+            "realname": "Nathaniel Richards", 
+            "significantissues": "Young Avengers #1-6", 
+            "speed": 7, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 166
+        }
+    }
+}

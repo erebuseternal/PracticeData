@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Martinique Jason", 
+            "citizenship": "U.K.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Wolverine/Gambit: Victims #1 (1995)\n", 
+            "groupaffiliation": [
+                "Sisterhood of Mutants", 
+                "formerly X-Corps", 
+                "former ally of Mystique", 
+                "Arcade"
+            ], 
+            "hair": "Brown\n", 
+            "height": 60, 
+            "id": "Mastermind_(Martinique_Jason)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Jason Wyngrade (father, deceased), Regan Wyngarde (Lady Mastermind, half-sister)", 
+            "occupation": "Mercenary", 
+            "origin": "Wolverine/Gambit: Victims #2 (1995)", 
+            "placeofbirth": [
+                "Wimbledon Village", 
+                "London", 
+                "England"
+            ], 
+            "powers": "Mastermind is a novice, telepath, able to mingle projected illusions with actual memories, creating \"realities\" that are hypnotically powerful. This allows her modify her victims behavior.", 
+            "realname": "Martinique Wyngarde", 
+            "significantissues": [
+                "Allied with Arcade, vs Wolverine & Gambit (Wolverine/Gambit: Victims #1-4, 1995)", 
+                "kidnapped Foggy Nelson, vs Daredevil (Daredevil #352, 1996)", 
+                "allied with Mystique, betrayed X-Corps (Uncanny X-Men #401-406, 2002)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 130
+        }
+    }
+}

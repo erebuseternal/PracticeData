@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Angelo Torres", 
+            "citizenship": "U.S.A. (legally deceased)", 
+            "content": "Later, Angelo was one of several young mutants kidnapped by the techno-organic alien race the Phalanx. Angelo and his fellow prisoners were rescued by the team of mutant adventurers the X-Men, and soon after became the founding members of Generation X, a team of mutants enrolled in Xavier\u2019s School for Gifted Youngsters at its new branch in the re-opened Massachusetts Academy. Angelo was given the codename Skin as a result of his mutant ability.During his time with Generation X, Skin was targeted by the armored vigilante the X-Cutioner, who believed him to be responsible for the death of Angelo Espinosa, not knowing that they were the same person. This prompted Skin to return home where he disguised himself as an old man and visited the grave that bore his name. There, Skin encountered both his mother and Tores, though they were unaware of his true identity.On a later trip to Los Angeles, Generation X were attacked by cybernetic Prime Sentinels from the government-sponsored anti-mutant Operation: Zero Tolerance. Skin was reunited with Tores when he sought help from her and her own gang and learned that she too was a mutant.Following the closure of the Academy and the disbanding of Generation X, Skin headed home to Los Angeles with his teammate Jubilee. He took up a job in a fast food restaurant whilst Jubilee aspired to a career as an actress. During this time, Skin displayed amorous feelings for Jubilee, but she did not reciprocate them.Skin was later captured by the anti-mutant religious organization the Church of Humanity and crucified on a cross on the lawn of the X-Men\u2019s mansion. Despite the X-Men\u2019s best efforts, he died from his injuries. Skin was buried in his family plot in the Beverly Glen Cemetery in Los Angeles, however the cemetery did not allow mutants to be buried on its grounds. His body was ultimately exhumed and cremated, and his ashes were given to Jubilee.", 
+            "durability": 1, 
+            "education": "High-school level courses at Massachusetts Academy", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #317 (1994)\n", 
+            "groupaffiliation": "Formerly Generation X", 
+            "hair": "Brown\n", 
+            "height": 67, 
+            "id": "Skin", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unidentified grandparents (deceased), Eduardo Espinosa (father, deceased), Estella Espinosa (mother, deceased), Tito Espinosa (brother), Linda Espinosa (sister), Gilberto (cousin), Inez (cousin)", 
+            "occupation": [
+                "Former cook", 
+                "adventurer", 
+                "student", 
+                "gang member"
+            ], 
+            "origin": "Generation X #34 (1998)", 
+            "placeofbirth": [
+                "Los Angeles", 
+                "California"
+            ], 
+            "powers": "Skin's gray body possessed between 4-6 feet of extra skin that he could control to assist him in varying ways, such as to grapple opponents or swing on like a vine. When relaxed, Skin\u2019s extra skin sagged, but by concentrating he could contract the extra skin. Skin\u2019s extra skin also granted him a degree of resistance to physical injury, being highly resistant to punctures and tearing.", 
+            "realname": "Angelo Espinosa", 
+            "significantissues": [
+                "Captured by Phalanx, rescued by X-Men (Uncanny X-Men #317-318/X-Men #36-37, 1994)", 
+                "joined Generation X (Generation X #1, 1994)", 
+                "post-Generation X life (X-Men Unlimited #34, 2002)", 
+                "killed by Church of Humanity (Uncanny X-Men #423, 2003)", 
+                "body exhumed & cremated (Uncanny X-Men #427, 2003)", 
+                "return (X-Force #22, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

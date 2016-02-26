@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Shi'ar", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #107 (1977)\n", 
+            "groupaffiliation": "Starjammers", 
+            "hair": "Red\n", 
+            "id": "Raza", 
+            "identity": "Unknown to the general populace of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "Zenith (older brother, deceased), Rion (son, deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "Space Pirate"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Raza has superhuman strength, enhanced agility, speed, and reflexes, due to his having several cybernetic limbs and other body parts.", 
+            "realname": "Raza Longknife", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

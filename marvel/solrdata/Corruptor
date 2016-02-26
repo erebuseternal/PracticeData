@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Andrew Kappelhof", 
+                "John Peabody"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Although Jackson underwent medical treatment, his Corruptor persona became dominant and he appeared unwilling or unable to revert. Escaping to Manhattan, he formed a criminal organization called the Inner Circle, placing many good-natured followers under his influence. One such individual was Charles Rider, Nova\u2019s father. When investigating his father\u2019s strange behavior, Nova uncovered the Inner Circle\u2019s plans to ransack New York with armies of ordinary citizens under the control of the Corruptor. The villain hoped to tear down conventional justice to make way for his own rule, but Nova foiled his scheme by subduing his army.The Corruptor escaped capture and turned his attention to more powerful superhuman beings. He managed to place the Hulk in his thrall but was thwarted by the Rangers. Afterwards, he fled the country entirely, setting himself up as a crime lord in Japan but was exposed and defeated by Sunfire.Over the next several months, the Corruptor managed to create the Hope Foundation as a front for his corrupt business practices. The Foundation was in competition with Braggatello Construction, and the Corruptor placed an unwitting Richard Rider under his influence. Nova proceeded to attack the Daily Bugle offices to ward off Ben Urich\u2019s investigations, and he attacked the construction site of a children\u2019s hospital. Spider-Man and Ben Urich helped Nova come to his senses, and he destroyed the Corruptor\u2019s offices of the Hope Foundation.The Corruptor was later remanded to the energy research facility Project: PEGASUS for imprisonment. At some point, however, he managed to surreptitiously take over most of the personnel, including the Squadron Supreme, who were temporarily housed there. The Avengers had become suspicious of the Squadron\u2019s activities, and upon confronting them, discovered that the entire Project complex was under the Corruptor\u2019s influence. The Corruptor revealed he was working on behalf of Imus Champion, who wanted the Squadron to confront the Avengers so that both teams would prove worthy adversaries for himself. The Avengers freed the Squadron and the Corruptor was placed in a more secured prison, eventually being placed in the Raft.", 
+            "durability": 5, 
+            "education": "Unrevealed", 
+            "energy": 4, 
+            "eyes": "Red\n", 
+            "fighting": 2, 
+            "firstappearance": "Nova #4 (1976)\n", 
+            "groupaffiliation": [
+                "(formerly) agent of Imus Champion", 
+                "leader of the Inner Circle"
+            ], 
+            "hair": "White\n", 
+            "height": 0, 
+            "id": "Corruptor", 
+            "identity": "Known to authorities", 
+            "intelligence": 4, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Criminal", 
+                "(formerly) mayor", 
+                "leader of Hope Foundation", 
+                "laborer"
+            ], 
+            "origin": "Nova #4 (1976)", 
+            "placeofbirth": [
+                "Smyrna", 
+                "Delaware"
+            ], 
+            "powers": "The Corruptor\u2019s body sweats a psychoactive chemical that, after he touches a victim, allows him to subvert his victim\u2019s will. The chemical overrides his victims' inhibition center of the brain, making them uninhibited, selfish, and immoral. The Corruptor can also use this to control his victims as they become susceptible to his suggestions. The full duration and extent of Day's influence has yet to be determined, but he has maintained control over the entire Project: PEGASUS complex for a considerable amount of days, if not weeks.", 
+            "realname": "Jackson Day", 
+            "significantissues": [
+                "Corrupted Thor, defeated by Thor and Nova (Nova #4, 1976)", 
+                "fully transformed into Corruptor persona, led Inner Circle but thwarted by Nova (Nova #20-21, 1978)", 
+                "became criminal leader in Japan, defeated by Sunfire (Marvel Comics Presents #32, 1991)", 
+                "corrupts Project: PEGASUS and Squadron Supreme on behalf of Imus Champion, exposed by the Avengers (Avengers #5-6, 1998)"
+            ], 
+            "speed": 1, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 225
+        }
+    }
+}

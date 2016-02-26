@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Advanced degrees in physics and mechanical engineering", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Iron Man #28 (1970)\n", 
+            "groupaffiliation": [
+                "Hellfire Club", 
+                "Control", 
+                "Brotherhood of the Shield", 
+                "Project Tomorrow"
+            ], 
+            "hair": "Gray with white temples; formerly black\n", 
+            "height": 72, 
+            "id": "Stark,_Howard", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Maria Collins Carbonell Stark (wife, deceased), Anthony Edward Stark (Iron Man, son), Edward Stark (brother, deceased), Morgan Stark (nephew), Isaac Stark Sr., Isaac Stark Jr. (ancestors)", 
+            "occupation": [
+                "Businessman", 
+                "Brotherhood of the Shield enforcer", 
+                "scientist"
+            ], 
+            "placeofbirth": [
+                "Richford", 
+                "New York"
+            ], 
+            "powers": "None", 
+            "realname": "Howard Anthony Stark", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 170
+        }
+    }
+}

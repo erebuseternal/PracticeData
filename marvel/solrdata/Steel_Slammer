@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Unrevealed", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Green Goblin #7 (1996)\n", 
+            "groupaffiliation": "Unrevealed", 
+            "hair": "Unrevealed\n", 
+            "id": "Steel_Slammer", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Industrial spy", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Unrevealed, if any", 
+            "realname": "Unrevealed", 
+            "significantissues": "Green Goblin #7", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

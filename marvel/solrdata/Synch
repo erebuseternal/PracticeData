@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A. (legally deceased)", 
+            "content": "Synch quickly became popular with his teammates, and formed particularly close bonds toJubilee and Skin, and later with M. Eager to learn more about his powers, he spent his time at the academy pushing himself as far as he could go, and often annoyed the others by using their powers better than they themselves could. Soon after, the team was attacked by the energy vampire known as Emplate, who transformed Synch into a creature like him that was forced to feed on the bone marrow of mutants for survival. Emplate teleported Synch to his home in St. Louis, where he attempted to turn his family into creatures like himself and Emplate. He was freed of Emplate\u2019s influence by a combination of his own reluctance to bring harm to people he loves, and the assistance of his teammates Husk, M, and Jubilee.Later, after Adrienne Frost, elder sister of Generation X\u2019s former headmistress Emma Frost, incited a riot at the school, Synch sacrificed his life to save the students by attempting to disarm a bomb Adrienne had planted that subsequently exploded.", 
+            "durability": 1, 
+            "education": "High-school level courses at Massachusetts Academy", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men #36 (1994)\n", 
+            "groupaffiliation": "Formerly Generation X", 
+            "hair": "Black, shaved bald\n", 
+            "height": 71, 
+            "id": "Synch", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Stan Thomas (father), Ida Thomas (mother), Kim Ho Twae (adopted sister)", 
+            "occupation": [
+                "Former adventurer", 
+                "student"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "St. Louis", 
+                "Missouri"
+            ], 
+            "powers": "Synch could duplicate the powers and abilities of nearby mutants (and perhaps other super-humans) by synchronizing his aura with theirs. When using his powers, a multi-colored aura appeared around his body as a result of the energies he absorbed splitting the ambient light around him. Synch was also able to track other mutants by allowing his aura to lock on to bio-signatures. His aura would then extend in the general direction in which the mutant was located. The powers and abilities Synch duplicated faded some time after the superhuman he was in synch with left his vicinity. It had been theorized that, with practice, Synch would have been able to permanently retain powers and abilities he acquired in this manner.", 
+            "realname": "Everett Thomas", 
+            "significantissues": [
+                "Captured by Phalanx, rescued by X-Men (Uncanny X-Men #317-318/X-Men #36-37, 1994)", 
+                "joined Generation X (Generation X #1, 1994)", 
+                "transformed by Emplate, freed by teammates (Generation X #14-16, 1996)", 
+                "alongside Spider-Man, vs Plantman (Amazing Spider-Man #437, 1998)", 
+                "killed in explosion (Generation X #70, 2000)", 
+                "return (X-Force #22, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Marvel Man", 
+                "Starknight"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "During a trip into space to learn the origins of the Quantum bands, Quasar was contacted by Eon, the guardian of Cosmic Awareness. He appointed Quasar the Protector of the Universe (inheriting the title from the now deceased Mar-Vell (Captain Marvel) and charged him with the task of preventing his murder. Quasar failed to save Eon, but stopped his killer, Maelstrom from collapsing the universe into a giant black hole.Quasar had long been an admirer of the Avengers and was honored when Captain America asked him to join the team. However he found that his duties as Protector of the Universe prevented him from giving the team his all. When the creature known as Ego attempted to swallow up the Earth into itself, Quasar absorbed Ego into his Quantum Bands. To guard against Ego being released, Quasar has been forced to exile himself into space. Quasar has encountered many super humans including Makkari, Deathurge, the Blue Shield, Firelord, Squadron Supreme, the Stranger, Jack of Hearts, Moondragon, and many others.", 
+            "durability": 6, 
+            "education": "College graduate; S.H.I.E.L.D. Academy graduate", 
+            "energy": 6, 
+            "eyes": "Blue\n", 
+            "fighting": 4, 
+            "firstappearance": "(as Marvel Man) Captain America #217 (1978); (as Quasar) Incredible Hulk #234 (1979)\n", 
+            "groupaffiliation": [
+                "Formerly Avengers", 
+                "Defenders (for a day)", 
+                "Queen's Vengeance", 
+                "Star Masters", 
+                "S.H.I.E.L.D.", 
+                "Project: PEGASUS"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 70, 
+            "id": "Quasar_(Wendell_Vaughn)", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Gilbert Vaughn (father, deceased), Lisa Vaughn (mother), Gail Vaughn (sister)", 
+            "occupation": [
+                "Protector of the Universe", 
+                "Security Systems Consultant", 
+                "Former S.H.I.E.L.D. agent", 
+                "Security Chief at Project: PEGASUS"
+            ], 
+            "origin": "Quasar # 1-2 (1989)", 
+            "placeofbirth": [
+                "Fond du Lac", 
+                "Wisconsin"
+            ], 
+            "powers": "While in possession of the Quantum Bands Quasar can fly at faster then light speed. Quasars body also currently contains the body of Ego (The Living Planet). It is assumed that the entity is actually being stored in the Quantum Zone and that Quasar and his Quantum Bands are just the access point.", 
+            "realname": "Wendell Elvis Vaughn", 
+            "speed": 7, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

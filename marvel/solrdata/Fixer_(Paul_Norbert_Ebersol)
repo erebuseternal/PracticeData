@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Techno", 
+            "citizenship": "U.S. Citizen with criminal record", 
+            "content": "", 
+            "durability": 4, 
+            "education": "Unrevealed", 
+            "energy": 6, 
+            "eyes": "Brown\n", 
+            "fighting": 2, 
+            "firstappearance": "Strange Tales #141\n", 
+            "groupaffiliation": [
+                "Formerly Thunderbolts", 
+                "former member of the Masters of Evil and Hydra", 
+                "former partner of Mentallo"
+            ], 
+            "hair": "Bald, with black goatee\n", 
+            "height": 68, 
+            "id": "Fixer_(Paul_Norbert_Ebersol)", 
+            "identity": "Publicly known", 
+            "intelligence": 5, 
+            "knownrelatives": "None", 
+            "occupation": "Adventurer", 
+            "placeofbirth": [
+                "Dayton", 
+                "Ohio"
+            ], 
+            "powers": "Technological genius", 
+            "realname": "Paul Norbert Ebersol", 
+            "speed": 4, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 160
+        }
+    }
+}

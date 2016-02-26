@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Commonwealth of Australia", 
+            "content": "He found employment (and fulfillment) as an assassin for the subversive society known as the Secret Empire, who gave him the equipment and identity of Boomerang. One of his first known exploits on behalf of the Empire occurred when the Empire was investigating the U.S. Army\u2019s Orion missile program, one that was being used against the Hulk. Boomerang kidnapped the General\u2019s daughter, Betty Ross, in order to ask for the missile plans in ransom. Instead, he was defeated by the Hulk.", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 2, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "Tales to Astonish #81 (1966)\n", 
+            "groupaffiliation": [
+                "Formerly Thunderbolts Army", 
+                "former employee of the Secret Empire", 
+                "the Kingpin", 
+                "Hammerhead", 
+                "former ally of Viper and Silver Samurai", 
+                "formerly Sinister Syndicate", 
+                "Sinister Six", 
+                "Masters of Evil", 
+                "Sinister Twelve"
+            ], 
+            "hair": "Brown\n", 
+            "height": 0, 
+            "id": "Boomerang", 
+            "identity": "Publicly known", 
+            "intelligence": 3, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Professional criminal", 
+                "assassin", 
+                "former baseball player"
+            ], 
+            "origin": "Tales to Astonish #81 (1966)", 
+            "placeofbirth": [
+                "Alice Springs", 
+                "Northern Territory", 
+                "Australia"
+            ], 
+            "powers": "None", 
+            "realname": "Fred Myers", 
+            "speed": 4, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

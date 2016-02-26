@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Phoenix", 
+                "Marvel Girl", 
+                "Red"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "As the X-Men came together, Jean remained their lone telepath.  Due to a lack of telepathic teachers Jean was unable to block out many of her teammates' pains and wants. The man whose pain came through to her most glaringly was the mysterious Weapon X. She felt for Logan and these feelings eventually became love.During a mission, Jean was captured by Prelate Scott Summers. In the months that she was held prisoner it became clear to Apocalypse's Horseman, Sinister, that Jean was an Alpha Class mutant. Sinister would eventually take Jean's DNA, combine it with Scott's, and create Nate Grey, a mutant powerful enough to challenge Apocalypse himself.Soon after that, Weapon X, without the rest of the X-Men, stormed the Breeding Pens and freed Jean. Weapon X and Prelate Summers faced off. Logan lost a hand and Scott lost an eye.Jean and Weapon X did not rejoin the X-Men but instead fought Apocalypse's forces in Europe. Surprisingly, Sinister informed them of Apocalypse's plan to destroy Europe. They took this information to the Human High Council. Weapon X and Jean were asked to destroy Apocalypse's Atlantic Sea Wall so the Council could send Sentinels to evacuate North America before their planned nuclear strike.Although Jean knew it was necessary to take out Apocalypse, she left Logan for America to warn all she could of the impending nuclear strike. Once in America, Jean was able to sneak into Apocalypse's kingdom in New York City. She was eventually captured by Prelate Alex Summers. Alex also took his brother, Prelate Scott Summers, captive because he believed he was in league with Jean. Alex took them to the Dark Beast and told him to use Jean and Scott for genetic fodder.Jean and Scott were able to escape. During the chaos of the battle between the X-Men and Apocalypse's forces, they freed prisoners from the pens. Realizing the nuclear warheads from Europe were on their way, Jean created a telekinetic shield in the sky. While Jean was concentrating on the shield she was killed by a plasma blast fired by Alex Summers. Whether or not she would have been able to stop the nuclear warheads is unknown but this seems irrelevant considering something obviously happened to prevent the annihilation of America.", 
+            "durability": 3, 
+            "education": "College", 
+            "energy": 6, 
+            "eyes": "Green\n", 
+            "fighting": 6, 
+            "firstappearance": "unknown\n", 
+            "groupaffiliation": "X-Men", 
+            "hair": "Red\n", 
+            "height": 67, 
+            "id": "Grey,_Jean_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Nate Grey (cloned son), parents (deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "freedom fighter"
+            ], 
+            "placeofbirth": [
+                "New York", 
+                "New York"
+            ], 
+            "powers": "Jean Grey possessed telepathic powers allowing her to read minds, project her thoughts, and mentally stun opponents with pure psionic force, among other talents. She also possessed telekinesis, allowing her to levitate and manipulate objects.", 
+            "realname": "Jean Grey", 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Age of Apocalypse", 
+            "weight": 125
+        }
+    }
+}

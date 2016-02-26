@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": [
+                "Manhattan", 
+                "New York", 
+                "formerly Yugoslavia"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Daredevil #126 (1975)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "height": 68, 
+            "id": "Torpedo_(Michael_Stivak)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Eugene \"Kligger\" Stivak (uncle, deceased)", 
+            "occupation": "Former scientist", 
+            "placeofbirth": "Yugoslavia", 
+            "realname": "Michael Stivak", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

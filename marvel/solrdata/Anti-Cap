@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Captain America", 
+            "citizenship": "U.S.A.", 
+            "content": "At O.N.I.'s request, S.H.I.E.L.D. leaked word of O.N.I.'s involvement with the Rivas drug cartel in a bio-weapons project. Reporter Leila Taylor investigated the rumor and attempted to smuggle out a sample of O.N.I.'s research, a virus based on the DNA of the telepathic madman MODOK, only to be arrested by U.S. forces in Cuba. Taylor's friend, the vigilante Falcon (Sam Wilson), broke her out of prison, prompting O.N.I.'s rogue operative to emerge from hiding to pursue them.  This was just as S.H.I.E.L.D. had intended. The operative, dressed in Captain America's uniform and dubbed \"the Anti-Cap,\" confronted the hero at the Rivas estate and killed druglord Manuel Rivas.  He then flew with both Falcon and Taylor to the U.S., only for them to escape when the plane crashed. The Anti-Cap tracked them again but was captured by the true Captain America after an excruciating battle.", 
+            "durability": 4, 
+            "education": "High school graduate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Captain America and The Falcon #1 (2004)\n", 
+            "groupaffiliation": "Office of Naval Intelligence (O.N.I.)", 
+            "hair": "Black\n", 
+            "height": 72, 
+            "id": "Anti-Cap", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "None", 
+            "occupation": "Naval operative", 
+            "placeofbirth": [
+                "Sayreville", 
+                "Oklahoma"
+            ], 
+            "powers": "The Anti-Cap possessed enhanced strength, reflexes, and recovery time. He carried a shield similar to (but less durable than) Captain America's, and used conventional armaments when necessary.", 
+            "realname": "Unrevealed", 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 258
+        }
+    }
+}

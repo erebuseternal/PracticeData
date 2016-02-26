@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Destroyer", 
+                "Ultimate Destroyer"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Multiple, variously colored\n", 
+            "fighting": 1, 
+            "firstappearance": "(Mentioned) Deadpool #21 (1998); (partial) Deadpool #23 (1998); (full) Deadpool #24 (1998)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "id": "Messiah_(S%27Met%27Kth)", 
+            "identity": "Existence unknown to the Earth's general population", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Eliminator of free will", 
+                "bringer of bliss and harmony"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "According to Uatu the Watcher, S'Met'Kth had the power to rival Galactus. It could shift an entire planets' population into a state of transcendental bliss, uniting their minds in perfect harmony, but at the same time robbing them of independent thought and free will. S'Met'Kth needed to be within a planet's atmosphere to cause the change, but  once a planet is affected, its inhabitants remained in that state until S'Met'Kth was incapacitated (or possibly only if he was slain).", 
+            "realname": "S'Met'Kth", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Guy named Joe", 
+                "Crimson Bat"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Joe and Betsy had a brief romance, after which he starred as The Crimson Bat, meeting and marrying studio script girl Liz. The Crimson Bat was cancelled after three years, and the typecast Joe was unemployed. Their son, Joe Jr., had severe birth defects, leaving him mentally handicapped and fragile. Devastated, Liz left Joe, but Joe never gave up, taking his son for special care despite being in financial straits. Joey eventually died, triggering in Joe a post-traumatic stress flashback. His powers re-emerged, again affecting his mind, driving him to seek vengeance on benefit-cutting bureaucrats. These assaults led Captain America to learn Joe's history, and he managed to subdue and reach Joe, convincing him his son's death was not his fault. Regaining his mind, Joe surrendered and was given medical care. Medications restored Joe's sanity, and he was released on time served plus community service. Working at a children's center, Joe found his true calling. When the center was vandalized, the powerless Joe donned his costume in a failed attempt to intimidate the culprits. However, his actions inspired the neighborhood to drive off the gang. Joe later decked small-time criminal Red Bear, who stole from an art gallery and knocked over an old woman.", 
+            "durability": 1, 
+            "education": "High-school equivalent", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Spider-Man Vol. 1 #38 (1966)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Reddish-brown\n", 
+            "height": 73, 
+            "id": "Smith,_Joe", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Betsy Schneider (wife), Liz (ex-wife), Joe, Jr. (son, deceased)", 
+            "occupation": [
+                "Child care assistant", 
+                "learning support worker", 
+                "former actor", 
+                "stuntman", 
+                "wrestler", 
+                "boxer"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Joe intermittently demonstrates superhuman strength and durability, often accompanied by dazed and aggressive behavior.", 
+            "realname": "Joseph \"Joe\" Smith", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 225
+        }
+    }
+}

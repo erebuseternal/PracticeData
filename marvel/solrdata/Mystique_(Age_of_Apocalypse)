@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Raven Darkh\u00f6lme", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Yellow\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men Chronicles #1 (1995)\n", 
+            "groupaffiliation": "X-Calibre", 
+            "hair": "Red\n", 
+            "height": 70, 
+            "id": "Mystique_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Nightcrawler (Kurt Darkh\u00f6lme) (son), Abyss (son)", 
+            "occupation": "Ferrywoman", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Mystique can psionically shift the atoms of her body to duplicate any humanoid of either sex. She can precisely duplicate another person\u2019s retina pattern, finger, palm and skin-pore patterns, and vocal cords. Mystique\u2019s power grants her age retardation, increased healing, and immunity to drugs and poisons.", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 142
+        }
+    }
+}

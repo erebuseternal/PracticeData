@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Infinity", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 3, 
+            "education": "High school (at least)", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 6, 
+            "firstappearance": "The Incredible Hulk #380 (1991)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "height": 68, 
+            "id": "Crazy_Eight", 
+            "identity": "Known", 
+            "intelligence": 2, 
+            "knownrelatives": "Speedfreek (brother, presumed deceased), Kate (niece, deceased)", 
+            "occupation": "Vigilante", 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "Los Angeles", 
+                "California"
+            ], 
+            "powers": "Crazy Eight had paranormal strength and endurance the source of which is unknown", 
+            "realname": "Leslie Anne Shappe", 
+            "significantissues": "The Incredible Hulk #380", 
+            "speed": 2, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 145
+        }
+    }
+}

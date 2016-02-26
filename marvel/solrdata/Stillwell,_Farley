@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "U.S citizen with no criminal record (deceased)", 
+            "content": "Rushing immediately to Dr. Stillwell\u2019s lab, Jameson told the ambitious scientist that he would pay $10, 000 if he could perform his experiment on a human, in this case Mac Gargan. At first reluctant, Dr. Stillwell couldn\u2019t say no to such a donation and proceeded with the experiment. He decided to give Gargan the powers of a scorpion but wasn\u2019t sure of the side-effects that this would have on his brain. Nevertheless, Gargan drank the serum and proceeded with the rest of the experiment. Dr. Stillwell also created a scorpion suit equipped with a powerful electro-mechanical tail. Gargan\u2019s transformation was now complete.", 
+            "durability": 1, 
+            "education": "College graduate with a doctoral degree", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Spider-Man #20 (1965)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "id": "Stillwell,_Farley", 
+            "identity": "No dual identity", 
+            "intelligence": 5, 
+            "knownrelatives": "Harlan Stillwell (brother)", 
+            "occupation": "Researcher", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Dr. Farley Stillwell", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

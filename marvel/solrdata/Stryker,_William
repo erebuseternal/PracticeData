@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Stryker learned from articles by Charles Xavier that his son was a mutant. He became convinced that Satan had a plot to corrupt humankind by taking over their souls while still in the womb, resulting in their mutations. He began to think of himself as 'chosen by God' to destroy mutants and formed Strkyer's Crusade and the Purifiers.While his followers committed hate crimes against mutants, Stryker had an elaborate campaign to take out the X-Men and Stryker arranged to have Professor Xavier kidnapped, brainwashed, and attached to a machine that, using his brainpower, would kill all living mutants. Magneto became involved after investigating the deaths of a mutant family. In order to stop this scheme, the X-Men are forced to join forces with their nemesis, Magneto. The X-Men succeeded in stopping Stryker. He was shot by one of his own security guards and arrested.Stryker survived and was put in prison. The Purifiers reorganized in the Colorado Rockies. Using another mutant, they were able to free Stryker and lure the X-Men again. However, they clashed with the mutants of Mount Haven and an artificial intelligence calling itself Reverend Paul. Stryker ended up merging with Paul.", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 3, 
+            "firstappearance": "X-Men: God Loves, Man Kills (1982)\n", 
+            "hair": "White\n", 
+            "id": "Stryker,_William", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Marcy Stryker (wife, deceased), unnamed son (deceased)", 
+            "occupation": [
+                "Reverend", 
+                "former soldier"
+            ], 
+            "powers": "None", 
+            "realname": "William Stryker", 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

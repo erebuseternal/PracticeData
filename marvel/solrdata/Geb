@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Celestial Heliopolis", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #241 (1975)\n", 
+            "groupaffiliation": "Gods of Heliopolis", 
+            "hair": "Unrevealed\n", 
+            "id": "Geb", 
+            "identity": "The general populace of Earth was unaware of Geb's exisence", 
+            "intelligence": 1, 
+            "knownrelatives": "Shu (father), Tefnut (mother), Nut (sister/wife), Thoth (brother), Osiris, Seth, Horus (sons), Isis, Nephthys (daughters), Ammon, Nun, Kuk, Huk (uncles), Amaunet (aunt), Atum-Ra (grandfather), Gaea (grandmother, alias Neith), Khonshu, Bes, Ptah, Montu (cousins)", 
+            "occupation": [
+                "God of Earth", 
+                "former pharaoh"
+            ], 
+            "powers": "Geb possessed superhuman strength, stamina, reflexes and agility, extended life-span, and immunity to conventional diseases. Ged also had command of the Earth, enabling it to do as he willed.", 
+            "realname": "Geb", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

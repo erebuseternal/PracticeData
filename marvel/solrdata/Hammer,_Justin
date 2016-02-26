@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Citizen of Monaco", 
+            "content": "When the country of Carnelia prepared to offer a lucrative business contract to Hammer\u2019s rival Stark International, Hammer\u2019s employee Philip Barnett developed a device which could override the cybernetic controls of Tony Stark's Iron Man armor. (Hammer was unaware that Stark himself was Iron Man.) When Iron Man went to the United Nations to represent Stark International in a meeting with Carnelian ambassador Sergei Kotznin, Hammer used his control over the armor to force Iron Man\u2019s repulsor beams to activate, firing a blast through Kotznin\u2019s chest. The scandal that erupted resulted in Stark International losing its bid with Carnelia, enabling Hammer to step in and claim the contract. However, Iron Man eventually captured Barnett and forced him to testify against Hammer, clearing Iron Man\u2019s name.At some point, Hammer had purchased data on the designs for the Iron Man armor from the original Spymaster, who had confiscated them from Stark International. Hammer used the stolen plans to design equipment for his operatives. Hammer\u2019s operative Force (Clayton Wilson) began to regret serving Hammer and went to Stark for aid; Stark helped fake Force\u2019s death but while analyzing Force\u2019s armor, Stark realized that Hammer had obtained his technology. Unable to confront him legally, Stark deleted Hammer\u2019s files and personally destroyed the circuitry of each associate who had benefited from Hammer.Some time later, Hammer discovered that he had cancer and would soon die; he relocated to a space station in Earth\u2019s orbit, believing that null-gravity would prolong his life. Determined to bring down his greatest rival, he again employed Philip Barnett and hired the Spymaster (Nathan Lemon) and Espionage Elite to assault Stark and plant \u201crogue cells\u201d designed by Barnett within Tony\u2019s body.Over time, these cells activated and began to adversely affect Stark, causing him to first become more aggressive and competitive, then increasingly pragmatic and violent. Tony was released from the cells by his friends Jocasta and James Rhodes, and Iron Man confronted Hammer aboard his space station.Hammer managed to incapacitate Iron Man within an energy field suspended over a pool of water, but when he saw that Barnett was attempting to flee the station in an escape pod, he activated the pod\u2019s self-destruct device.Unfortunately for Hammer, the pod was too close to the station and the explosion knocked him into the pool. Iron Man set himself free from the field and blasted a hole through the station\u2019s hull; Hammer was blown into space with the water and instantly froze; observing Hammer\u2019s frozen body drifting in space, Iron Man reflected that his foe would now \u201clive forever.\u201d", 
+            "durability": 1, 
+            "education": "Degree in commerce and business", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Iron Man #120 (1979)\n", 
+            "groupaffiliation": [
+                "Notable agents include", 
+                "but are not limited to: Blizzard (Donald Gill)", 
+                "El Toro Negro", 
+                "Force", 
+                "Spymaster", 
+                "and Whiplash"
+            ], 
+            "hair": "Gray\n", 
+            "height": 0, 
+            "id": "Hammer,_Justin", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Justine Hammer (Crimson Cowl, daughter)", 
+            "occupation": [
+                "Industrialist", 
+                "criminal financier"
+            ], 
+            "placeofbirth": [
+                "Surrey", 
+                "England"
+            ], 
+            "powers": "None", 
+            "realname": "Justin Hammer", 
+            "significantissues": [
+                "Frames Iron Man for murder, is tracked by Stark who clears his name after battling Hammer\u2019s agents (Iron Man #124-127, 1979)", 
+                "Retires to space station, in final battle with Iron Man, accidentally frozen and set adrift in space (Iron Man: Bad Blood #1-4, 2000)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 170
+        }
+    }
+}

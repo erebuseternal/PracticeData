@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Halfworld", 
+            "content": "Lord Dyvyne devised a plan to kidnap the lovely Lylla in the hopes she would marry him and he would gain control over Mayhem Mekaniks \u2013 Lylla's family's company which Judson Jakes was running \u2013 but he also had to eliminate Rocket Raccoon \u2013 Lylla's one true love and defender of Halfworld \u2013 to be successful. When Blackjack O'Hare betrayed his reptilian boss by keeping Lylla for himself, Dyvyne let loose his most dangerous creation, the Red Breath, to eliminate his enemies. However, in a twisted turn of events, the Red Breath was destroyed by a group of Killer Clowns on Vacuusleds. When it seemed as if he wouldn't be able to defeat the pesky raccoon on his own, Dyvyne chose to form an alliance with Jakes to first rid Halfworld of Rocket Raccoon and his allies, and then each mogul would rule one half of the planet. Jakes agreed, but the two couldn't get along for any extended amount of time.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed\n", 
+            "fighting": 1, 
+            "firstappearance": "Rocket Raccoon #1 (1985)\n", 
+            "groupaffiliation": "Formerly Dyvynities Inc.", 
+            "hair": "None\n", 
+            "id": "Lord_Dyvyne", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Former Toy Mogul", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Halfworld", 
+            "powers": "None", 
+            "realname": "Dyvyne", 
+            "significantissues": "Started a Toy War with Judson Jakes while plotting to steal Lylla's fortune (Rocket Raccoon #1-4, 1985)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

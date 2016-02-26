@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "The Most Dangerous Woman in Europe", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "1602 # 2\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "id": "Black_Widow_(1602)", 
+            "identity": "Known to certain officials", 
+            "intelligence": 1, 
+            "knownrelatives": "Unnamed husband (deceased)", 
+            "occupation": "Intelligence Agent", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Natasha", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel 1602 (Earth-311)"
+        }
+    }
+}

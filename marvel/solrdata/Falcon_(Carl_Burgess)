@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA", 
+            "content": "", 
+            "durability": 1, 
+            "education": "J.D. in law", 
+            "energy": 1, 
+            "eyes": "Gray\n", 
+            "fighting": 1, 
+            "firstappearance": "Human Torch Comics #2 (1940)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown\n", 
+            "height": 71, 
+            "id": "Falcon_(Carl_Burgess)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "(Formerly) assistant district attorney", 
+            "placeofbirth": [
+                "Buffalo", 
+                "New York"
+            ], 
+            "realname": "Carl Burgess", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

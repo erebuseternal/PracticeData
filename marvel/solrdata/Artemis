@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Diana", 
+            "citizenship": "Mount Olympus", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Tutored by minor goddesses", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #129 (1966)\n", 
+            "groupaffiliation": [
+                "Olympian gods", 
+                "Cerynein Hind"
+            ], 
+            "hair": "Strawberry Blonde\n", 
+            "height": 69, 
+            "id": "Artemis", 
+            "intelligence": 1, 
+            "knownrelatives": "Zeus (father), Leto (mother); Apollo (brother), Gaea (great-grandmother), Ouranos (great-grandfather, deceased), Cronus, Rhea (paternal grandparents); Coeus, Phoebe (maternal grandparents), Ares, Dionysus, Hephaestus, Hercules, Hermes (half-brothers), Aphrodite, Eilithyia, Eris/Discord, Hebe, Persephone (half-sisters), Chiron, Hades, Poseidon (uncles), Asteria, Demeter, Hera, Vesta (aunts), Alex Aaron, Aristaeus, Cupid, Hermaphroditus (nephews), Aeneas, Asclepius, Troilius (nephews, deceased), Harmonia (niece)", 
+            "occupation": [
+                "Goddess of the hunt", 
+                "the wilderness", 
+                "wild animals and the moon"
+            ], 
+            "placeofbirth": [
+                "Mount Cynthus", 
+                "Isle of Delos", 
+                "Greece"
+            ], 
+            "powers": "Artemis possesses the average strength of a god allowing her to lift/press 30 tons and possessing extreme resistance to injury. She is also an immortal and in so being is long lived.", 
+            "realname": "Artemis", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 420
+        }
+    }
+}

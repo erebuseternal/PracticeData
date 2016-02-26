@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Nova #3 (1976)\n", 
+            "groupaffiliation": [
+                "Formerly Terrible Trio", 
+                "Champions of Xandar"
+            ], 
+            "id": "Diamondhead", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": "Criminal", 
+            "origin": [
+                "Arch became Diamondhead", 
+                "after being hit by a laser blast (Nova #3", 
+                "1976)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Arch Dyker", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

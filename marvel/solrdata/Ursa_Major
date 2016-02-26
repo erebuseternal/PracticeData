@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Great Beast", 
+                "Great Bear", 
+                "Balshoy Medvyed"
+            ], 
+            "citizenship": "Russian Federation", 
+            "content": "Finally fed up with the Communist system, the three heroes defected to the United States only to be foiled by the People's Protectorate, being brought back to a scientific base for unknown purposes before being rescued by Blindfaith and his mutant \u201cexiles\u201d in order to form an underground team that would fight for the people under a government that hates and fears them.", 
+            "durability": 1, 
+            "education": "Privately Educated", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Hulk #258\n", 
+            "groupaffiliation": [
+                "Winter Guard", 
+                "Formerly People's Protectorate", 
+                "Soviet Super-Soldiers", 
+                "Siberforce"
+            ], 
+            "hair": "Brown\n", 
+            "height": 0, 
+            "id": "Ursa_Major", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Adventurer", 
+                "government operative"
+            ], 
+            "placeofbirth": [
+                "Blagoveshchensk", 
+                "Russia"
+            ], 
+            "powers": "Ursus is a mutant with the power to transform himself into a brown bear. While in his bear form he can press about 15 tons and has the heightened reflexes, senses, stamina, and resistance to injury many times that of a normal brown bear. His human intellect and the ability to speak remains with him while he is in this bear form. It is unknown how long he can remain in his bear form.", 
+            "realname": "Mikhail Uriokovitch Ursus", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 255
+        }
+    }
+}

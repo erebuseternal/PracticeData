@@ -1,0 +1,48 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Psyche", 
+                "Mirage"
+            ], 
+            "citizenship": "Member of Cheyenne Native American Tribe with no criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Graphic Novel #4\n", 
+            "groupaffiliation": [
+                "New Mutants", 
+                "formerly X-Force", 
+                "Mutant Liberation Front", 
+                "S.H.I.E.L.D.", 
+                "the Valkyrie", 
+                "Hellions", 
+                "X-Men"
+            ], 
+            "hair": "Black\n", 
+            "height": 68, 
+            "id": "Moonstar", 
+            "identity": "Known to S.H.I.E.L.D. officials", 
+            "intelligence": 1, 
+            "knownrelatives": "William Lonestar (father), Peg Lonestar (mother), Black Eagle (grandfather, deceased)", 
+            "occupation": [
+                "Former teacher", 
+                "S.H.I.E.L.D. agent", 
+                "student"
+            ], 
+            "origin": "Marvel Graphic Novel #4", 
+            "placeofbirth": [
+                "Boulder", 
+                "Colorado"
+            ], 
+            "powers": "Danielle was de-powered in the Decimation. Formerly, She could generate astral images in the form of an individual's greatest fear or desire. She also possessed an animal telepathy. Dani could also generate astral energy and construct it into various shapes- most commonly as an arrow, which, upon contact with another could cause psychic backlash that would leave them incapacitated. As a Valkyrie, Dani could also percieve a manifestation of a person's impending death, and fight it off if she chose. For a time, she could also tap into the Quantum energy that binds reality together, and use it to project bursts of force, disintegrate matter, and levitate.", 
+            "realname": "Danielle Moonstar", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 125
+        }
+    }
+}

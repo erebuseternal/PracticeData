@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Asgardian (exiled)", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor annual #12 (1980)\n", 
+            "groupaffiliation": "Gods of Asgard", 
+            "hair": "Blond\n", 
+            "height": 120, 
+            "id": "Vidar", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Buri (Tiwaz, great-grandfather); Bor (grandfather, deceased); Bestla (grandmother, deceased); Odin (father, deaceased); Grid (mother), Balder, Hermon, Thor, Tyr (half-brothers) Loki (step-brother), Solveig (wife, deceased); Ve, Vili (uncles, deceased); Hoder (cousin); Mimir (granduncle)", 
+            "occupation": [
+                "Huntsman", 
+                "warrior"
+            ], 
+            "placeofbirth": "The realm of Asgard", 
+            "powers": "Vidar is the off-spring of a God and a Giantess which not only gives him the superhuman abilities shared by the Gods of Asgard, but because of his half-giant birthright he is almost twice as strong as an average god of Asgard. Vidar can lift 50 tons.", 
+            "realname": "Vidar", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 690
+        }
+    }
+}

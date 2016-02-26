@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Sunder", 
+            "citizenship": "Morlock", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #169 \n(May, 1983)\n", 
+            "groupaffiliation": "Member of the Morlocks and the Muir Island X-Men", 
+            "hair": "Bald\n", 
+            "height": 84, 
+            "id": "Sunder", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Adventurer", 
+            "origin": "Mutant", 
+            "powers": "Enhanced physical body mass gives him superhuman strength, stamina, and resistance to physical injury.", 
+            "realname": "Unknown", 
+            "significantissues": "Uncanny X-Men #254", 
+            "speed": 1, 
+            "strength": 1, 
+            "weight": 245
+        }
+    }
+}

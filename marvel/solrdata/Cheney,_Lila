@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.K.", 
+            "content": "", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 3, 
+            "firstappearance": "New Mutants Annual #1 (1984)\n", 
+            "groupaffiliation": "Leader of her own band", 
+            "hair": "Black\n", 
+            "height": 60, 
+            "id": "Cheney,_Lila", 
+            "identity": "No dual identity", 
+            "intelligence": 2, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Musician", 
+                "former thief"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Able to teleport herself and others across interstellar distances", 
+            "realname": "Lila Cheney", 
+            "speed": 7, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

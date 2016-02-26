@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "USA", 
+                "with criminal record"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Ph.D. in physics", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "(Lansky) Spectacular Spider-Man #1 (1976); (Lightmaster) Spectacular Spider-Man #3 (1977)\n", 
+            "groupaffiliation": [
+                "Hood's Army", 
+                "formerly One World Church", 
+                "Empire State University"
+            ], 
+            "hair": "Brown\n", 
+            "height": 71, 
+            "id": "Lightmaster", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Criminal", 
+                "former physics professor", 
+                "vice chancellor"
+            ], 
+            "placeofbirth": [
+                "New York City", 
+                "New York"
+            ], 
+            "realname": "Edward Lansky", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

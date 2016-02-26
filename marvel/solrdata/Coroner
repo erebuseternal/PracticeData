@@ -1,0 +1,26 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Silver Surfer #139 (1998)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Gray\n", 
+            "id": "Coroner", 
+            "identity": "The general populace of Earth was unaware of Coroner's existence", 
+            "intelligence": 1, 
+            "knownrelatives": "None Known", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

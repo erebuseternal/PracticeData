@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Imperial", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Skaar Son of the Hulk #2 (2008)\n", 
+            "groupaffiliation": "The Loyalist against the Red King", 
+            "hair": "Black\n", 
+            "id": "Princess_Omaka", 
+            "identity": "Princess Omaka's existence is unknown to the general populace of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "Unnamed mother (Duchess of the Imperial)", 
+            "occupation": "Warrior Princess", 
+            "origin": [
+                "Partial origin revealed (Skaar Son of the Hulk presents: The Savage World of Sakaar #1", 
+                "2008)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Omaka, last name unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

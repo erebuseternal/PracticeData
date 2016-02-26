@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Ape Man from Borneo", 
+                "God of Vengeance", 
+                "Monster of Midnight Mountain"
+            ], 
+            "citizenship": "USA (naturalized)", 
+            "content": "Gorgilla dwelt in peace at Midnight Mountain in Borneo, a one time slave of the Deviants created from their genetic experiments. Although he resembles a 25 foot tall simian, he also possesses a natural swimming ability (hence the moniker \"Gorgilla\"). I led the expedition to Borneo that resulted in his discovery; although Gorgilla was at first wary of us humans, we were amazed when he saved the expedition party from a Tyrannosaurus Rex (later determined to be another Deviant creation), recognizing us humans as distant relations.If only Gorgilla could have remained there in peace! Unfortunately, Warlord Kro of the Deviants arranged for him to be sent to New York City, where he cause a rampage while Kro\u2019s communist allies planted bombs in the city. Fortunately, I had recently joined the Monster Hunters, and we were able to bring down the beast with tranquilizers and knock out gas. As the victimized creatures lay unconscious, we were able to remove the Brain Mine device which Kro had used to control him. With his free will regained, Gorgilla led us after the bombers, identifying them by their scents. Makkari, using his guise as FBI agent Jake Curtiss, arranged transport for Gorgilla back to Midnight mountain, and we accompanied our friend on his journey home. We were assaulted there by Lizard Men sent by Kro, but Gorgilla aided us in battle, and we left some of the Lizard Men under his watchful eye. As we continued on our adventure, we said our farewells to Gorgilla, and it is my fondest hope that he will remain in his paradisaic home for good.Dr. Druid and the Monster Hunters adventures with Gorilla were not his last. This next encounter comes from the journals of Reed Richards.", 
+            "durability": 7, 
+            "education": "Elementary level equivalent (ongoing)", 
+            "energy": 7, 
+            "eyes": "Orange-brown\n", 
+            "fighting": 7, 
+            "firstappearance": "Tales to Astonish #12 (1960)\n", 
+            "groupaffiliation": "Fin Fang Four", 
+            "hair": "Brown\n", 
+            "height": 72, 
+            "id": "Gorgilla", 
+            "identity": "No dual identity", 
+            "intelligence": 7, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Janitor", 
+                "former jungle god"
+            ], 
+            "origin": "Unknown", 
+            "placeofbirth": "Borneo", 
+            "powers": "Gorilla possesses superhuman strength and durability.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "He met Dr. Druid (Tales to Astonish #12, 1960)", 
+                "He aided the Monster Hunters (Marvel Universe #4-7, 1998)", 
+                "He fought Tim Boo Ba (Fantastic Four #1, 2005)"
+            ], 
+            "speed": 7, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": 345
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Bio-Fanatic", 
+            "citizenship": "Switzerland", 
+            "content": "Needing funds to continue his research, Zola presented his first invention, the creation of device that would transfer someone\u2019s essence to a cloned body, to Adolf Hitler, who agreed to become his patron. This device and partnership allowed Hitler to survive World War II as the Hate-Monger. Zola also used it on himself, not only allowing him to survive into modern times but to also replace his normally frail body with a stronger, android one.Zola also found a patron in the Red Skull, but otherwise he kept his existence a secret, performing experiments in a hidden fortress in the jungles of Central America. Captain America, on the trail of the Red Skull, managed to find Zola\u2019s hidden laboratories, only to be captured by the first of Zola\u2019s intelligent creations, Primus and Doughboy. Captain America escaped, but Zola later used Doughboy and Primus to capture Captain America and the woman Donna Maria Puentes, who he wished to use for genetic experimentation. He was overthrown, however, by Primus, who fell in love with Donna Maria. Captain America used the distraction to battle Zola, a fight that destroyed Zola's castle and forced them all to flee.Zola\u2019s continued partnership with the Red Skull led to a the creation of a Cosmic Cube, although it merely served as a containment vessel and the essence of the Hate-Monger became trapped inside at the same time S.H.I.E.L.D. stormed the site and destroyed the villain\u2019s lair. At one point, Zola created a cloned body of Captain America for the Red Skull, which the Skull used to rejuvenate himself after his body died of old age.At some point, however, Zola severed ties with the Skull to embark on his own agenda of experimentation and villainy. Although he prefers to work alone and in secret, Zola has been known to take on others as assistants, such as he did with Edward Whelan (although Whelan would object to Zola\u2019s use of human test subjects and became a victim himself, becoming Vermin).When working on his own, it is usually for the pure fascination of genetic research, no matter how cruel or unusual his means. One time, Zola assembled several wolf-related heroes and villains, which included John Jameson\u2019s reversion to his Man-Wolf identity. When Captain America tracked Jameson, he was briefly captured by Zola and transformed into a wolfman himself, although he escaped and managed to destroy Zola\u2019s schemes and rescue Jameson and the other victims. Another time, Zola purchased refugees of the city-wide rampage caused by Onslaught from the Rat Pack, and he subjected them to hideous experiments. One of his victims, Jolt, escaped to find the Thunderbolts, who returned to defeat Zola.Zola is also not above working with new patrons, such as the Secret Empire. During that alliance, the Empire used Zola to find individuals with a genetic makeup that could be transformed and made into an army of dissidents with which to take over the world. Such an individual was Charcoal, although the Empire was stumbled onto by the Thunderbolts who managed to bring down the subversive Empire.", 
+            "durability": 3, 
+            "education": "Advanced degree in 1930\u2019s sciences", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America #208\n", 
+            "groupaffiliation": [
+                "Former agent of the Nazi Party and the Red Skull", 
+                "leader of the Corpse Corp", 
+                "Primus", 
+                "Doughboy", 
+                "personal physician to Adolf Hitler"
+            ], 
+            "hair": "None\n", 
+            "height": 0, 
+            "id": "Zola,_Arnim", 
+            "identity": "No dual identity", 
+            "intelligence": 6, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Criminal", 
+                "scientist"
+            ], 
+            "placeofbirth": [
+                "Weisshorn Mountain", 
+                "Switzerland"
+            ], 
+            "powers": "All of Arnim Zola's powers are derived from his equipment. Zola houses his consciousness in an android body, complete with a television-like image of this face on his chest.", 
+            "realname": "Arnim Zola", 
+            "speed": 3, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

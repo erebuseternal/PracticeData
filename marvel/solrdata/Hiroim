@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Hiroim the Shamed", 
+            "citizenship": [
+                "Shadow person", 
+                "formerly a slave of the Empire of Sakaar"
+            ], 
+            "content": "Hiroim left the temple for southern expanses of the Northern Steppes.  He lived there among various tribes of wandering Shadow people for a number of years, learning his people's martial traditions and, despite his disgraced status, providing the spiritual guidance he could based on his training for the Saka priesthood.When the alien invaders known as the Spikes began their assault on the Northern Steppes, Hiroim came into his own and found his true calling as a warrior, displaying a sharp eye for strategy and logistics.  He became the military leader of an army of warriors from a coalition of Shadow tribes. He was credited by many for saving the lives of thousands.  However, the Spikes were relentless, and when the Father Emperor proposed an alliance, the Shadow elders accepted.  With the signing of the Shadow Treaty, the Father Emperor became entitled to claim the Warbound service of a Shadow Warrior, and he chose Hiroim as that warrior.For many years, Hiroim served as the Shadow Guard of the Father Emperor. Shortly after the end of the Spike War, Hiroim left his service under mysterious circumstances.  Since he had broken his Warbound pact to the Emperor, Hiroim was no longer welcome among the Shadow People.  As a result od his actions he no longer had a place within the Empire, and he spent years alone in the deserts, studying the rite and rituals of the Saka Priests.", 
+            "durability": 1, 
+            "education": "Hiroim was raised as a Saka Priest, and trained as a Shadow Warrior.", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "The Incredible Hulk #92 (2006)\n", 
+            "groupaffiliation": "Formerly Warbound", 
+            "hair": "Black\n", 
+            "height": 86, 
+            "id": "Hiroim", 
+            "identity": [
+                "Publicly known on the planet Sakaar", 
+                "Hiroim's existence is unknown by the general populace of Earth"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": "Slave of the Empire", 
+            "placeofbirth": "The Northern Steppes on the planet Sakaar in the Star System Tayo in the Galaxy Fornax", 
+            "powers": "Hiroim had the enormous strength of trained Shadow Warrior and could lift up to a ton. At the time of his death he possessed the Old Power which was passed onto him by Caiera. This power has yet to be fully revealed, although it is known that the wielder of the Old Power could render their body more durable than stone and draw increased strength from the planet itself.", 
+            "realname": "Hiroim", 
+            "significantissues": "The Incredible Hulk #92-105 (2006-2007)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 430
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "S-Man", 
+                "Miggy"
+            ], 
+            "citizenship": "citizen of Earth (Earth-6375)", 
+            "content": "Using a costume obtained from a Day of the Dead festival and some glider material from a Thorite (worshiper of Thor), Miguel battled against his own corporation and other villains as the Spider-Man incarnation of his generation.", 
+            "durability": 3, 
+            "education": "Advanced degree in genetics", 
+            "energy": 2, 
+            "eyes": "Brown\n", 
+            "fighting": 2, 
+            "firstappearance": "Exiles #75 (2006)\n", 
+            "groupaffiliation": [
+                "Formerly Exiles", 
+                "Hand", 
+                "Imperial Guard", 
+                "Alchemax"
+            ], 
+            "hair": "Brown\n", 
+            "height": 70, 
+            "id": "Spider-Man_(Miguel_O%27Hara_Earth-6375)", 
+            "identity": "Publicly known", 
+            "intelligence": 3, 
+            "knownrelatives": "Conchata O'Hara (mother), George O'Hara (adoptive father, deceased), Tyler Stone (biological father), Kron Stone (half-brother), Gabriel O'Hara (Firelight, half-brother), Tiberius Stone (ancestor)", 
+            "occupation": [
+                "Adventurer", 
+                "former geneticist"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "Nueva York", 
+                "U.S.A. (Earth-928)"
+            ], 
+            "powers": "Miguel's hybrid human/spider physiology gives him a wide array of powers. He has the proportionate strength and agility of a spider, which allows him to lift 10 times his own body weight, and jump distances of up to 30 feet. His speed and reflexes are also enhanced to superhuman levels. Spinnerets in his forearms enable him to fire organic spider-webbing from the top of his wrists. \nRetractable talons in his fingertips and toes enable him to climb walls or cut enemies. His teeth are venomous, and can paralyze anyone he bites. He has enhanced hearing, and can see in the dark, or long distances. The muscles controlling the movement of his eyes are accelerated, which enables him to clearly see fast moving objects without any motion blur. His web cape acts as an air foil, and allows him to glide on air currents for a short period of time.", 
+            "realname": "Miguel O'Hara", 
+            "significantissues": [
+                "Identity revealed and joined Exiles (Exiles #76, 2006)", 
+                "fought Squadron Supreme (Exiles #77, 2006)", 
+                "build the brainwashing machine (Exiles #81, 2006)", 
+                "got fired with the rest of the Exiles (Exiles #84, 2006)", 
+                "recruited back with the rest of the Exiles (Exiles #86, 2006)", 
+                "temporary recruited by Imperial Guard (Exiles #87, 2006)", 
+                "brainwashed by the Hand (Exiles #91, 2007)", 
+                "died when dimension of Earth-1720 was destroyed but the dimension was recreated few seconds after its destruction (Exiles #94, 2007)", 
+                "left Exiles (Exiles #98, 2007)"
+            ], 
+            "speed": 3, 
+            "strength": 3, 
+            "universe": "Earth-6375", 
+            "weight": 170
+        }
+    }
+}

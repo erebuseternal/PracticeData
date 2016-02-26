@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Captain Britain", 
+            "citizenship": "U.K.", 
+            "content": "Kelsey began to bring her children up as a single mother, her son idolizing heroes such as Captain America. During a battle between the Wrecking Crew and the Avengers, Captain America was knocked unconscious. Kelsey grabbed the Captain's shield and used it to deflect an attack from Thunderball. The impact of the attack killed Kelsey.Seeing her heroic act, Brian Braddock gave her the opportunity to live again and the choice to choose between the Amulet of Right and the Sword of Might. Kelsey chose the sword and she was transformed into the new Captain Britain. However, as the sword represents the path of violence, Brian informed her she could never reveal herself to her children.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #77 (2004)\n", 
+            "groupaffiliation": "Formerly Avengers", 
+            "hair": "Blonde\n", 
+            "id": "Lionheart", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Mrs Shorr (mother), Martin Leigh (son), Jenny Leigh (daughter)", 
+            "occupation": "Adventurer", 
+            "placeofbirth": [
+                "England", 
+                "U.K."
+            ], 
+            "powers": "Super strength, reflexes, a level of invincibility and flight. The Sword Of Might, gives Kelsey the ability to form energy blasts or shields.", 
+            "realname": "Kelsey Leigh", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

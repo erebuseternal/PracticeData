@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "As the new Spymaster, Sinclair convinced the Ghost to join him in destroying Iron Man, playing on the Ghost\u2019s ego by describing Stark International as his biggest challenge. Spymaster sent the Ghost to retrieve a smart laser system capable of pre-programmed targeting, which held the human consciousness of the Living Laser (Arthur Parks), intending to turn it into a terrorist weapon. When the Ghost failed to retrieve the laser system twice, Spymaster terminated their alliance, leaving the Ghost to defend himself against Iron Man. The energy grid for the level holding the Living Laser overloaded during this battle, allowing the Living Laser to escape and killing Dr. Maggie Dillion, an understudy of Dr. Leonard Samson, who Stark hired to rehabilitate Parks.Iron Man followed a delta frequency, recorded by Stark International\u2019s security systems of Spymaster and Ghost\u2019s conversations when Ghost attacked Stark International, to Spymaster\u2019s hideout where Sinclair and his wife prepared for Stark\u2019s arrival, planning to use the footage for public relations if needed. As Spymaster and Iron Man battled each other, the Living Laser followed Iron Man to the hideout and entered Sinclair\u2019s computers, killing Greta. The Living Laser then turned his attention to Iron Man only to be captured, allowing Spymaster to escape in the process.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Iron Man: Inevitable #1 (2006)\n", 
+            "groupaffiliation": "Abbott Foundation", 
+            "hair": "Blond\n", 
+            "height": 72, 
+            "id": "Spymaster_(Sinclair_Abbott)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Greta Abbott (wife, deceased)", 
+            "occupation": [
+                "Industrial spy and saboteur", 
+                "assassin", 
+                "CEO of Abbott Foundation"
+            ], 
+            "origin": "Iron Man: Inevitable #1 (2006)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Sinclair Abbot", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 193
+        }
+    }
+}

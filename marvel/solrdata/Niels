@@ -1,0 +1,59 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Hairball", 
+                "The Bouncing Cat", 
+                "P-Cat", 
+                "the Penitent Puss (allegedly)", 
+                "Kitty Kitty", 
+                "Dumb Cat", 
+                "Little Pest", 
+                "Fur Ball", 
+                "Pesky Pussy", 
+                "Peculiar Projectile", 
+                "Stupid Cat", 
+                "Mangy Fleabag", 
+                "Flea-Bitten Dirtbag", 
+                "Darn Cat", 
+                "Little Pain"
+            ], 
+            "citizenship": "Property of Robert Baldwin", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Instinctive animal behavior, otherwise no formal education", 
+            "energy": 1, 
+            "eyes": "Yellow\n", 
+            "fighting": 1, 
+            "firstappearance": "Speedball #1 (1988)\n", 
+            "groupaffiliation": "Pet Avengers", 
+            "hair": "Orange fur\n", 
+            "height": 12, 
+            "id": "Niels", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Adventurer", 
+                "domestic housecat", 
+                "former research laboratory cat"
+            ], 
+            "origin": "Speedball #1 (1988)", 
+            "placeofbirth": [
+                "Springdale", 
+                "Connecticut"
+            ], 
+            "powers": "Niels possesses the same kinetically charged powers as Speedball before he became Penance", 
+            "realname": "Niels", 
+            "significantissues": [
+                "Received his powers in the same manner as Robbie Baldwin and becomes kinetically charged, eludes Robbie\u2019s efforts to catch him (Speedball #1-10, 1988-1989)", 
+                "Captured by Harlequin Hit Man and Sticker, helps to foil Rebound\u2019s plan with a kinetically powered hairball (New Warriors #66, 1985)", 
+                "joined Lockjaw in forming the Pet Avengers (Lockjaw and the Pet Avengers #1, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 10
+        }
+    }
+}

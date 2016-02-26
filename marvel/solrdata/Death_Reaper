@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Hazel\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Reign: Zodiac #1 (2009)\n", 
+            "groupaffiliation": "Zodiac's Gang", 
+            "hair": "Black\n", 
+            "id": "Death_Reaper", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Nekra (mother); Grim Reaper (potential father)", 
+            "occupation": "Professional criminal", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "The true nature of Death Reaper's abilities have yet to be revealed, but it appeared as if she has access or control over energies from the Darkforce Dimension", 
+            "realname": "Unrevealed", 
+            "significantissues": "Zodiac's lover and only one of his team to know his true plan (Dark Reign: Zodiac #1-3, 2009)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Doug", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Calibre #3 (1995)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Blond\n", 
+            "height": 69, 
+            "id": "Ramsey,_Doug_(Age_of_Apocalypse)", 
+            "identity": [
+                "Secret", 
+                "known to citizens of Avalon"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Irene Adler (Destiny, adoptive mother)", 
+            "occupation": "Linguist", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Doug Ramsey has the mutant ability to translate any language either spoken or written. It appears that this ability is based on telepathy as Ramsey is also able to reach out and affect other people's minds and allow them to understand foreign languages themselves. This is how citizens of Avalon are able to communicate with one another despite speaking different languages.", 
+            "realname": "Douglas Ramsey", 
+            "significantissues": "Killed by Shadow King (X-Calibre #4, 1995)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 150
+        }
+    }
+}

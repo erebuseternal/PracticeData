@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Adam-X", 
+            "citizenship": "Shi'ar", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Force Annual #2\n", 
+            "groupaffiliation": "Formerly employee of Martin Strong", 
+            "hair": "Blond\n", 
+            "height": 73, 
+            "id": "Adam-X", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "D'Ken (supposed father, deceased), Assumed: Philip Summers (grandfather), Deborah Summers (grandmother), Katherine Anne Summers (mother, deceased), D'Ken (father, deceased), Lilandra Nermani (Aunt), Cal'Syee Nermani (Deathbird Aunt), Scott Summers (Cyclops, half brother), Alexander Summers (Havok, half brother), Gabriel Summers (Vulcan, half brother), Jean Grey-Summers (Phoenix, sister-in-law, deceased), Madelyne Pryor-Summers (ex-sister-in-law, deceased), Nathan Christopher Summers (Cable, nephew), Aliya Jenskot (niece-in-law, deceased), Tyler Dayspring (Genesis, grandnephew, deceased), Stryfe (clone nephew, deceased), Rachel Summers (Marvel Girl, alternate timeline niece)", 
+            "occupation": [
+                "Adventurer", 
+                "former enforcer"
+            ], 
+            "origin": "Captain Marvel #3", 
+            "placeofbirth": "Ch'ylaritha", 
+            "powers": "X-Treme is a Shi\u2019ar/Mutant Hybrid that is capable of igniting the electrolytes present in the bloodstream, causing the person to burn from the inside out. X-Treme possesses exceptional control of his power; able to incinerate objects, or simply use the power to create a warming sensation. In order to ignite the electrolytes, X-Treme has used blades to cut the flesh and oxygenate the blood. Whether this is necessary or simply makes the power more effective, remains unknown.", 
+            "realname": "Adam Neramani", 
+            "significantissues": "X-Force Annual #2, X-Force #25, X-Force #29-30, X-Men #38-39, X-Men #41, Captain Marvel #2-3, Uncanny X-Men #513, Dark Avengers #7", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "None (briefly considered \"Hawkingbird\"", 
+                "\"Mockingbird\"", 
+                "\"Taskmistress\"", 
+                "\"Weapon Woman\")"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "A major social event, Kate\u2019s sister\u2019s wedding at New York\u2019s St. Patrick\u2019s Cathedral was interrupted by five gunmen who held the guests hostage when the police cornered them inside. When the novice heroes known as the \u201cYoung Avengers\u201d subdued most of the gunmen, Kate tried to join the fight and ended up with a gun to her head, but used one of Patriot\u2019s throwing stars to down her assailant. Kate\u2019s \u201cheroics\u201d made the evening news, and when Cassie Lang sought her out trying to locate the Young Avengers, the two girls tracked the group to the ruins of Avengers Mansion, where the senior Avengers were trying to convince their youthful counterparts to disband. Carefully observing Iron Man as he unlocked the doors, Kate  used his passcodes to free Cassie and the Young Avengers after the Avengers confined them for their own safety. She also scavenged costumes and weaponry from nearby rooms, outfitting herself with equipment formerly used by past Avengers members Hawkeye (Clint Barton), Mockingbird (Bobbi Morse), and the Swordsman (Jacques Dunesque). When the Avengers and Young Avengers battled Kang, Kate fought beside them, but afterwards was forced to surrender the equipment.Unwilling to give up the chance to make a real difference, Kate pushed the other Young Avengers to remain together, using her father\u2019s funds to purchase new costumes and weaponry for the team. Appropriating an empty publishing warehouse of her father\u2019s to use as team headquarters, she arranged its refitting and refurnishing. When Patriot left the group, she acted as unofficial leader in his absence despite being the only Young Avenger without powers and the only member who had not been part of the Vision\u2019s Failsafe Program (a list of young Avengers-connected adventurers and potential adventurers compiled by the Vision as a means of recruiting the next generation of Avengers should the original team be dissolved; Iron Lad accessed the list, using it to form the Young Avengers).Kate had a hard time coming up with a code-name. During a battle between the Skrulls and the Kree the Young Avengers fought alongside the New Avengers. After which Jessica Jones delivered a gift from Captain America: the original Hawkeye's bow and arrows along with his code-name.", 
+            "durability": 2, 
+            "education": "Still in high School", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 5, 
+            "firstappearance": "(as Kate Bishop) Young Avengers #1 (2005); (as Hawkeye) Young Avengers #12 (2006)\n", 
+            "groupaffiliation": [
+                "Secret Avengers", 
+                "Young Avengers"
+            ], 
+            "hair": "Black\n", 
+            "height": 65, 
+            "id": "Hawkeye_(Kate_Bishop)", 
+            "identity": "Secret", 
+            "intelligence": 3, 
+            "knownrelatives": "Derek Bishop (father), Eleanor Bishop (mother, deceased), Susan Bishop (sister)", 
+            "occupation": "Student", 
+            "origin": "Young Avengers Special #1", 
+            "placeofbirth": [
+                "New York City", 
+                "New York"
+            ], 
+            "powers": "None", 
+            "realname": "Katherine \"Kate\" Elizabeth Bishop", 
+            "significantissues": "Young Avengers #1-9 (2005), Young Avengers Special #1 (2006)", 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

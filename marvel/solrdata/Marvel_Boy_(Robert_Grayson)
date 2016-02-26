@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "U.S.A.", 
+                "adopted citizen of the Uranian colony"
+            ], 
+            "content": "Shortly after Woo's team of heroes disbanded, Marvel Boy received a distress call from Uranus. He arrived to find the city destroyed, but he also learned the horrible truth about his origin. The settlement was a penal colony for rogue Eternals who once tried to conquer Earth and the native Uranians, living in the planet's core, supervised the Eternals so that they wouldn't try to return to Earth. That's why the Eternals helped Marvel Boy and his father-- they saw them as a loophole to be exploited. Ultimately, the Uranians disagreed, causing the Eternals' destruction. Marvel Boy would have died as his Eternal technology failed him, but the Uranians took pity on him and accepted him into their number. Unfortunately, because the Uranians lived as a communal organism, Marvel Boy had to be genetically reborn, and he spent decades in a membrane/chrysalis.During the Eternals' destruction, they rushed to completion a duplicate of Marvel Boy. The duplicate arose too late to be of any help, however-- it was born an unstable creature with false and fractured memories. It believed that the Eternals' protective dome was destroyed, and it was the fault of bankers of Earth who stalled him when they denied his request for a loan to purchase medical supplies for his father. He rushed back to Earth to exact revenge, calling himself the Crusader, and he began a rampage. The Fantastic Four intervened, but it was the Crusader's misunderstanding of the Quantum Bands he wore that made him reckless. He absorbed so much energy that the bands overloaded and his body was destroyed.For years, Bob Grayson lived a solitary existence, despite the Uranian collective, since he regarded himself a separate entity by nature. He passed the time by building a new flying saucer, although the Uranian culture forbade him from leaving the planet. Still, when he received a distress call from former allies M-11 and the Gorilla Man about the near death of Jimmy Woo, Marvel Boy decided to return to Earth to help. Unfortunately, this meant leaving Uranus and severing his ties with the collective for all time.", 
+            "durability": 1, 
+            "education": "Trained by Uranian Eternals in advanced sciences", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Boy #1 (1950); (modern, shadow only) Agents of Atlas #1 (2006); (modern, on-panel) Agents of Atlas #2 (2006)\n", 
+            "groupaffiliation": "Agents of Atlas", 
+            "hair": "Blonde\n", 
+            "height": 0, 
+            "id": "Marvel_Boy_(Robert_Grayson)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Horace Grayson (born Horace Grabshield, father, deceased)", 
+            "occupation": "Adventurer", 
+            "origin": "Agents of Atlas #3 (2006)", 
+            "placeofbirth": [
+                "Trenton", 
+                "New Jersey"
+            ], 
+            "powers": "Marvel Boy has been reborn to share, on some level, a Uranian physiology. The full extent of this remains unrevealed, although it is known that he must breathe an atmosphere akin to the planet Uranus' and that, in order to eat, he must distend his esophagus.", 
+            "realname": "Robert Grayson", 
+            "significantissues": [
+                "First appearance on Earth (Marvel Boy #1, 1950)", 
+                "Crusader believes himself to be Marvel Boy, destroys himself in battle with the Fantastic Four (Fantastic Four #165, 1975)", 
+                "Rescued Jimmy Woo, uncovered the truth about the Atlas Foundation (Agents of Atlas #1-6, 2006-7)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 170
+        }
+    }
+}

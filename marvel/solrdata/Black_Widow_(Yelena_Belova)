@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Captain Yelena Belova", 
+                "Little Spider", 
+                "Rooskaya", 
+                "Adaptoid", 
+                "Super-Adaptoid"
+            ], 
+            "citizenship": "Russia", 
+            "content": "Graduating from the Red Room, Yelena became the first student to surpass Romanova\u2019s marks. Eager to prove herself better than Natasha and establish sole claim to the title of Black Widow, Yelena interfered with Natasha\u2019s quest for the \"Deathless Frenzy\" bio-weapon held by terrorist Col. Khan in Rhapastan. Yelena sought to secure the lethal serum for her superiors and to eliminate her adversary, but Natasha\u2019s experience and superior planning enabled Natasha to outmaneuver her young opponent and complete the assignment in her own fashion, slaying Khan and destroying the entire supply of Deathless Frenzy. Yelena pulled a gun on Natasha, but decided to let her live so they could continue to vie for supremacy.Wishing to teach Yelena a lesson, Natasha then worked with Nick Fury and S.H.I.E.L.D. on Operation: Validate, which entailed the two Widows exchanging physical appearances. While Yelena was struggling to maintain her identity, Natasha duped Yelena\u2019s superior, Yuri Stalyenko, into revealing his plot to steal nuclear weapons hidden in Hudson  during the Cold War. Natasha also showed Yelena that Stalyenko thought of her as an expendable pawn, easily replaced. The two Widows teamed up to bring him down, but a resentful Yelena then attacked Natasha, who explained how she wanted to teach Yelena that espionage was not a game. S.H.I.E.L.D. reversed the process and Yelena returned to the Red Room a little wiser, though certainly no fonder of Natasha.After some considerable time, she was reinstated at S.H.I.E.L.D. and with the help of some rogue S.H.I.E.L.D. agents and the Savage Land Mutates, began work on an illegal Vibranium mining project located in the Savage Land. Realizing that the reformation of the Avengers was a threat to the operation, Yelena hired Electro to cause a prison break at the superhuman maximum security prison called the Vault in order to cause a distraction and reunite Sauron with his Savage Land Mutates. As the Avengers investigated the breakout further, they decided to hunt down Sauron, leading them to the Savage Land. Upon arriving they were beat down by the mutates, who bound them and revealed their part of the Vibranium operation. Controlling his armor remotely, Iron Man managed to free the Avengers. In a short skirmish that followed, the Avengers proceeded to defeat all of the mutates except Sauron. As Sauron  was about to tell them about his part in the operation, Yelena used a sniper rifle and shot him in the head, seemingly killing him. Yelena and the rogue S.H.I.E.L.D. agents then proceeded to try to kill the Avengers, but were unsuccessful. As Yelena and Spider-Woman (Jessica Drew) squared off, a revived Sauron expelled fire from his mouth at Yelena which badly burned her body. Burned and beaten, she was taken to an undisclosed location where a mysterious figure offered to help her get revenge on the Avengers, which she agreed to do.", 
+            "durability": 2, 
+            "education": "Graduate of the Moscow Red Room espionage unit", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Inhumans Vol. 2 #5 (1999)\n", 
+            "groupaffiliation": [
+                "formerly G.R.U. (Glavnoye Razvedovatel'noye Upravlenie / Main Intelligence Administration)", 
+                "S.H.I.E.L.D.", 
+                "Hydra"
+            ], 
+            "hair": "Blonde\n", 
+            "height": 67, 
+            "id": "Black_Widow_(Yelena_Belova)", 
+            "identity": "Secret", 
+            "intelligence": 3, 
+            "knownrelatives": "Unidentified mother & father in Kiev, Olga (aunt)", 
+            "occupation": "Espionage agent", 
+            "origin": "Black Widow: Pale Little Spider #1-3 (2002)", 
+            "placeofbirth": "Russia", 
+            "powers": "As the Super-Adaptoid, Yelena was capable of copying the powers, abilities, technological enhancements (such as Iron Man's armor) and weaknesses of those around her. Her physical appearance would also change to that of the person or persons whose powers she absorbed. \nThe powers she absorbed were those of Captain America, Spider-Man, Ms. Marvel, Luke Cage, Sentry, Iron Man, Spider-Woman, and Wolverine.", 
+            "realname": "Yelena Belova", 
+            "significantissues": [
+                "Competed with Romanoff to retrieve the Deathless Frenzy (Black Widow Vol. 1 #1-3, 1999)", 
+                "delivered to Mr. Bixby a weapon to disable the Inhumans\u2019 defenses for Stalyenko (Inhumans Vol. 2 #5, 1999)", 
+                "identities swapped with Romanoff (Black Widow Vol. 2 #1-3, 2001)", 
+                "recruited into S.H.I.E.L.D., hires Electro to cause a breakout at the Raft, and sends renegade S.H.I.E.L.D. agents to kill the Avengers (New Avengers #5, 2005)", 
+                "Sauron burns her face and body, she is contacted by a mysterious figure claiming to be able to give her vengeance against the Avengers, she agrees (New Avengers #6, 2005)", 
+                "mysterious benefactor turns out to be Hydra and with A.I.M.'s help she is turned into the Adaptoid, fights the Avengers, and is killed. (New Avengers Annual #1, 2006)"
+            ], 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Factor #2\n", 
+            "groupaffiliation": [
+                "Formerly New Mutants", 
+                "Generation X"
+            ], 
+            "hair": "Black\n", 
+            "id": "Maddicks,_Artie", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Dr. Carl Maddicks (father, deceased)", 
+            "occupation": [
+                "Student", 
+                "former adventurer"
+            ], 
+            "placeofbirth": "unknown", 
+            "powers": "Ability to telepathically project images, telepathic mindlink. Now depowered.", 
+            "realname": "Arthur \"Artie\" Maddicks", 
+            "significantissues": "mentioned to have been sent to Africa (Generation X #69, 2000)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

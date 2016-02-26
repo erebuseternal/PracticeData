@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Russia", 
+            "content": "A cult known as the Snakeroot resurrected the Ghost Maker to fight both Daredevil and Elektra. However, he failed, especially when the two were joined by Shang-Chi. Elektra had enough of the fighting and killed the Ghost Maker once again, by using one of her sais. His corpse was later retrieved by the villainous organization known as the Hand, who resurrected Ghost Maker once again to become their loyal servant. However, Ghost Maker's whereabouts went unknown for a while and the development of this association remained undetermined.", 
+            "durability": 1, 
+            "education": "Trained by K.G.B. in martial arts and espionage", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Master of Kung Fu #110 (1982)\n", 
+            "groupaffiliation": [
+                "Formerly The Hand", 
+                "K.G.B."
+            ], 
+            "hair": "Black\n", 
+            "height": 73, 
+            "id": "Ghost_Maker", 
+            "identity": "Known to S.H.I.E.L.D.", 
+            "intelligence": 1, 
+            "knownrelatives": "Father (unidentified)", 
+            "occupation": [
+                "Assassin", 
+                "espionage agent"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Grigori Sovchencko", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 191
+        }
+    }
+}

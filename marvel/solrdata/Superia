@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "Superia first came to the world's attention when she sponsored a pleasure cruise for female super-criminals which would transport them to the island of Femizonia. Superia called the women who arrived her Femizons, and intended to launch missiles from Femizonia which would infect the Earth with a biological weapon designed to sterilize all females. Surrounded by the island's protective dome, Superia and her followers would be unaffected, thereby granting them a powerful bargaining position over the rest of the planet-- Superia planned to force nations to submit to her, or face extinction; however, Captain America had tracked the cruise ship as he pursued his girlfriend Diamondback, and the mercenary Paladin accompanied him. Captain America was unable to prevent the missiles from launching, but he tricked Superia into fighting him near the dome so that it would be damaged, forcing her to destroy the missiles herself.\nAfter this, Superia operated with a smaller team of Femizons used mainly as bodyguards. She journeyed to A.I.M. Island (Boca Caliente) during one of A.I.M.'s weapon expos and attempted to kill their CEO Alessandro Brannex and claim their resources for herself, but Brannex proved to be the Super-Adaptoid, and ordered her death. However, Captain America was on A.I.M. Island, helping Diamondback track Snapdragon, who had nearly drowned Diamondback during the Femizons' cruise. Captain America mistook Superia for Diamondback, and wound up saving her from MODAM. Superia demonstrated no gratitude to her opponent. During these events, a vengeful Diamondback drowned Snapdragon.Posing as university professor Deidre Wentworth at Hayden College, Superia selected the bookworm-like student Cathy Webster as the recipient of a process that enhanced her physical prowess. Cathy became the patriotic heroine Free Spirit, but when she found that Superia's treatment included an irrational hatred of men, she turned on her. Free Spirit tracked Superia to Castle Zemo in Malpaso, Mexico, where Superia was conferring with Baroness (Heike Zemo). Captain America and Diamondback had also pursued Zemo, and when Superia learned that Captain America was dying from the degeneration of his super-soldier serum, she offered to develop a cure if Diamondback would complete Snapdragon's unfinished contract. Diamondback agreed, and became the new Snapdragon.", 
+            "durability": 3, 
+            "education": "Unrevealed", 
+            "energy": 4, 
+            "eyes": "Blue\n", 
+            "fighting": 4, 
+            "firstappearance": "Captain America #386 (1991)\n", 
+            "groupaffiliation": "Femizons", 
+            "hair": "Black\n", 
+            "height": 78, 
+            "id": "Superia", 
+            "identity": "Secret", 
+            "intelligence": 5, 
+            "knownrelatives": "Thundra (alleged descendant)", 
+            "occupation": [
+                "Scientist", 
+                "would-be world conqueror"
+            ], 
+            "origin": "Captain America #391 (1991)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Enhanced strength and resistance to injury through an augmentation process developed by herself", 
+            "realname": "Possibly Deidre Wentworth", 
+            "significantissues": "See the Official Handbook Bibliography", 
+            "speed": 2, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

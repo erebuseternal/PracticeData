@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Shan", 
+            "citizenship": [
+                "Citizen of Vietnam with no criminal record", 
+                "legal alien in the United States"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "unrevealed", 
+            "energy": 1, 
+            "eyes": "Dark brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Team-Up #100\n", 
+            "groupaffiliation": [
+                "New Mutants", 
+                "formerly X-Men", 
+                "Hellions", 
+                "198", 
+                "Xavier Institute"
+            ], 
+            "hair": "Black\n", 
+            "height": 64, 
+            "id": "Karma", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Coy Leong (brother), Coy Nga (sister), Tran Coy Manh (brother, deceased), General Nguyen Ngoc Coy (uncle, deceased)", 
+            "occupation": [
+                "Xavier Insitute Faculty", 
+                "adventurer"
+            ], 
+            "placeofbirth": "Central highlands of Vietnam", 
+            "powers": "Psionic mind possession, allowing her to control multiple individuals simultaneously", 
+            "realname": "Xi'an Coy Manh", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 119
+        }
+    }
+}

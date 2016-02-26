@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Presence", 
+            "citizenship": "Russia", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Ph.D in nuclear physics", 
+            "energy": 1, 
+            "eyes": "Brown (as Presence) solid white, no visible irises\n", 
+            "fighting": 1, 
+            "firstappearance": "Defenders #52 (1977)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Brown (as Presence) unrevealed\n", 
+            "height": 72, 
+            "id": "Presence", 
+            "identity": "Known to Russian authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Marya Krylova (wife, deceased), Laynia Petova (daughter, deceased, aka Darkstar), Nicolai Krylenko (son, aka Vanguard)", 
+            "occupation": [
+                "Reformed world conqueror", 
+                "former nuclear physicist", 
+                "altruistic adventurer"
+            ], 
+            "origin": [
+                "Defenders #52 (1977)", 
+                "Incredible Hulk #259 (1981)"
+            ], 
+            "placeofbirth": [
+                "Minsk", 
+                "Russia"
+            ], 
+            "powers": "The Presence's armor contains his body's radiation (his current form consist entirely of radioactive energy). He does not require food, water or oxygen, and he can fly at near warp speed (often via a chair of his own design). He can also rearrange his molecules to become microscopic in size; and generate force fields and energy blast. Presence can also absorb radiation, telepathically control minds, and imbue others with his radioactive powers and place them under his thrall. He can lift 10 tons, although prolong use of his powers strains his fragile psyche.", 
+            "realname": "Sergei Krylov", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

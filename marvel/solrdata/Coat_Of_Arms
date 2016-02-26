@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Reign: Young Avengers #1 (2009)\n", 
+            "groupaffiliation": "Young Masters (formerly called Young Avengers)", 
+            "hair": "Brown\n", 
+            "id": "Coat_Of_Arms", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Adventurer", 
+                "artist"
+            ], 
+            "origin": "Dark Reign: Young Avengers #3 (2009)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Coat of Arms possesses Tiboro's coat which gives the wearer four extra appendages as well as the ability to pull virtually anything from its pockets. The coat can generates a force shield around the wearer, protecting him or her from physical harm. It has yet to be revealed if Tiboro's coat grants Coat of Arms any other magical abilities or a connection to Tiboro.", 
+            "realname": "Lisa Molinari", 
+            "significantissues": [
+                "First time in action and confronted by Young Avengers (Dark Reign: Young Avengers #1, 2009)", 
+                "potentially offered a place on Young Avengers (Dark Reign: Young Avengers #2, 2009) partnered with Speed as part of recruiting session (Dark Reign: Young Avengers #3, 2009)", 
+                "offered membership into Young Avengers but declined (Dark Reign: Young Avengers #4, 2009)", 
+                "helped Wiccan and Enchantress banish Sentry (Dark Reign: Young Avengers #5, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

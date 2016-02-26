@@ -1,0 +1,60 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Formerly the Green Goblin", 
+            "citizenship": "U.S.A.", 
+            "content": "It was not until a corrupt judge targeted Ben and sent the assassin Purge to kill him that Phil decided to take on his new persona with responsibility. Teaming up with Daredevil the pair were able to stop Purge.This act gave the new hero a lot of attention and he developed a small but devoted following. Liz Allan asked Ben for information on who was using her husband's former identity. She later gave Phil her \"blessing\" after he saved her and her son Normie from Angel Face.During Onslaught's attack, the Goblin costume was heavily damaged and the glider destroyed after battling Sentinels. Phil soon decided to retire as an active hero, and continue his college education at Empire State University.", 
+            "durability": 3, 
+            "education": "College educated (incomplete)", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "(As Urich) Web of Spider-Man #125 (1995); (as Green Goblin) Green Goblin #1 (1995)\n", 
+            "groupaffiliation": "Formerly Loners", 
+            "hair": "Brown\n", 
+            "height": 67, 
+            "id": "Green_Goblin_(Phil_Urich)", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "Arnold Urich (father), Mindy Urich (mother), Kenneth Urich (brother), Ben Urich (uncle), Doris Urich (aunt)", 
+            "occupation": [
+                "College student", 
+                "former vigilante", 
+                "intern at Daily Bugle"
+            ], 
+            "origin": "Green Goblin #1 (1995)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Phil Urich has no superhuman powers or abilities. He had superhuman strength and durability during his tenure as the Green Goblin while wearing the Goblin mask", 
+            "realname": "Phillip Benjamin Urich", 
+            "significantissues": [
+                "Read draft copy of his uncle's book about Green Goblins, Dynasty of Evil (Spider-Man: Legacy of Evil, 1996)", 
+                "discovered hidden room in Harry Osborn's secret hideout, crashed into vat of chemicals, became Green Goblin (Green Goblin #1, 1995)", 
+                "helped rescue football star Johnny Dare during sting operation, vs Rhino (Green Goblin #2, 1995)", 
+                "tangled with Scarlet Spider/Peter Parker & clones Warren & Gwen Miles (Web of Spider-Man #125, 1995)", 
+                "mistaken for homeless people killer Firefist, alongside Spider-Man, helped stop Firefist (Spectacular Spider-Man # 225, 1995)", 
+                "antagonized reporter Ken Ellis in Daily Bugle (Spider-Man: Final Adventure #1, 1995)", 
+                "encountered Joystick, rescued Ken Ellis from injury in Great Game battle between Joystick & Scarlet Spider/Ben Reilly (Amazing Scarlet Spider #2, 1995)", 
+                "alongside Scarlet Spider, vs Joystick & el Toro Negro, saved Joystick's life (Green Goblin #3, 1995)", 
+                "alongside Thing, vs Hobgoblin/Jason Macendale to protect Lynn Walsh (Green Goblin #4, 1996)", 
+                "pondered motivation for becoming Green Goblin, Ben Urich beaten for pursuing story on corrupt Judge Tomb (Green Goblin #5, 1996)", 
+                "alongside Daredevil, vs Purge & Judge Tomb (Green Goblin #6, 1996)", 
+                "stopped thievery of Steel Slammer (Green Goblin #7, 1996)", 
+                "rescued Liz & Normie Osborn from Angel Face, burned face of Angel Face, receives Liz\u2019s approval (Green Goblin #8, 1996)", 
+                "vs Jonathan Gatesworth at gaming expo (Green Goblin #9, 1996)", 
+                "seen at Daily Bugle (Spectacular Spider-Man # 235, 1996)", 
+                "escaped Arcade\u2019s Murderworld with \"Ricko the Sicko\" (Green Goblin #10, 1996)", 
+                "met Peter Parker at Daily Bugle (Amazing Spider-Man #413, 1996)", 
+                "kidnapped by Angel Face, defeated Angel Face again (Green Goblin #11, 1996)", 
+                "vs Onslaught\u2019s Sentinels, sacrificed glider, mask damaged (Green Goblin #12/Amazing Spider-Man #415, 1996)", 
+                "attempted to continue heroics without mask & powers, quit Green Goblin persona (Green Goblin #13, 1996)", 
+                "at Empire State University (Amazing Spider-Man #422 & 425, 1997)", 
+                "at Joe Robertson's goodbye party, hooded sweatshirt borrowed by Peter Parker to conceal his identity while battling Mr Hyde (Amazing Spider-Man #433, 1998)", 
+                "graduated from ESU with degree in journalism, under Rick Jones, he & other former heroes formed Loners (Runaways #1-6, 2005)"
+            ], 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 140
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Rescue", 
+                "Hera"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "After Tony had become Iron Man, Pepper began to see a change in his behavior. Tony began to assume more of his responsibilities and eased the pressure off of Pepper, but still valued her contributions to the company. Pepper became infatuated with Tony, but he distanced himself from her emotionally because of his secret reliance upon the Iron Man armor to keep himself alive. Tony soon hired ex-boxer Harold \"Happy\" Hogan as his chauffeur. Happy was immediately attracted to Pepper and pursued her romantically, but Pepper repeatedly rejected his advances. However, when Happy was nearly killed aiding Iron Man against the Titanium Man, Pepper realized that she loved him. Eventually, they were married and left Stark Industries.The couple fell on hard times. After adopting children, they lost custody since Happy was unable to keep a steady job. Pepper and Happy experienced marital problems over the years, and eventually divorced. They both returned to Tony's employ when he started up his business Stark Solutions (now both aware that he was Iron Man). Although Pepper found herself drawn to Tony again, their relationship remained platonic. Over time, she and Happy reconciled and remarried. The couple tried to start a family and Pepper became pregnant, but before she could tell Happy, she was assaulted by Iron Man's enemy Ayisha and lost the baby. Pepper withheld telling Happy about her miscarriage, which created new barriers to their relationship. Happy suffered brain damage after a fight with the Spymaster (Sinclair Abbot) that left him in a coma. Pepper requested that Tony turn off his life support as an act of mercy and Tony eventually complied.", 
+            "durability": 1, 
+            "education": "College degree in business", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Tales of Suspense #45 (1963)\n", 
+            "groupaffiliation": [
+                "Formerly the Order", 
+                "the Initiative"
+            ], 
+            "hair": "Auburn\n", 
+            "height": 64, 
+            "id": "Potts,_Pepper", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Harold \"Happy\" Hogan (husband, deceased), unidentified foster son & daughter, Clay Hogan (brother-in-law), unidentified grandfather-in-law", 
+            "occupation": [
+                "Superhero team leader", 
+                "former executive assistant"
+            ], 
+            "origin": "Iron Man: The Iron Age #1 (1998)", 
+            "placeofbirth": [
+                "New Haven", 
+                "Connecticut"
+            ], 
+            "powers": "None. Previously, the mag-field generator in Pepper\u2019s chest kept her heart beating and enabled limited anti-gravity flight. As coordinator of the Order, Pepper operated a telepresence unit that granted her extensive access to computer databases and visual and audio interaction with members of the Order.", 
+            "realname": "Virginia \"Pepper\" Potts Hogan", 
+            "significantissues": [
+                "First met Happy Hogan (Tales of Suspense #45, 1963)", 
+                "married Happy (Tales of Suspense #91, 1967)", 
+                "assaulted by Ayisha (Iron Man #54, 2002)", 
+                "death of Happy (Iron Man #14, 2007)", 
+                "assumes leadership of the Order (The Order #1, 2007)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

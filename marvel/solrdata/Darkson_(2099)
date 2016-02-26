@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "none", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Variable\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men 2099 #25\n", 
+            "groupaffiliation": [
+                "None", 
+                "former ally of Vulcann"
+            ], 
+            "hair": "Black\n", 
+            "id": "Darkson_(2099)", 
+            "intelligence": 1, 
+            "knownrelatives": "Rosa (Rosalinda Navarro Vasquez, mother)", 
+            "occupation": "Former terrorist", 
+            "placeofbirth": "Mexico", 
+            "powers": "photovoltaic energies, telepathy", 
+            "realname": "Joaquim Eduardo Vasquez", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "2099 Universe"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA", 
+            "content": "At first Hill had her differences with Iron Man (Tony Stark) and the New Avengers. Mainly due to the fact they withheld information on the \"House of M\" event leading to \"M-Day\". After Hill arrested Spider-Man, unmasked him and used SHIELD psychics agents to probe his mind for information regarding the \"House of M\" events, Maria redeemed herself to them by not following the presidents advice and bombing the island of Genosha to disable a current threat as the Avengers were present at the time.Before the \"Superhuman Registration Act\" was passed as law, Hill met with Captain America (Steve Rogers) aboard the helicarrier and proposed that he lead the Avengers within the law and arrest anyone who would not comply. Captain America declined her offer, stating that he would not arrest people who risk their lives for their country every day of the week. Upon his failure to comply Hill ordered her superhuman response team or \"cape killers\" to tranquilize Captain America. During the scuffle Rogers avoided being tranquilized and escaped becoming the de facto leader of the Secret Avengers.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "New Avengers #4\n", 
+            "groupaffiliation": "Formerly S.H.I.E.L.D.", 
+            "hair": "Black\n", 
+            "height": 70, 
+            "id": "Hill,_Maria", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": [
+                "Deputy Director of SHIELD", 
+                "former SHIELD director"
+            ], 
+            "placeofbirth": [
+                "Chicago", 
+                "Illinois"
+            ], 
+            "powers": "None", 
+            "realname": "Maria Hill", 
+            "significantissues": "Civil War # 1", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

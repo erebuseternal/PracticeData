@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Formerly", 
+                "Manglin John Mahoney", 
+                "currently Major Victory"
+            ], 
+            "citizenship": [
+                "Formerly citizen of the United States of America with no criminal record", 
+                "currently citizen of the United Federation of Planets in an alternate future"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Some college education and an extensive education in the Air Force and space travel.", 
+            "energy": 1, 
+            "eyes": "Hazel\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Super Heroes #18\n", 
+            "groupaffiliation": [
+                "Guardians of the Galaxy", 
+                "formerly member of Unlimited Class Wrestling Federation"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Astro,_Vance_(Major_Victory)", 
+            "identity": "Publicly known in an alternate 31st century future", 
+            "intelligence": 1, 
+            "knownrelatives": "Arnold Astrovik (father), Norma Astrovik (mother), Aleta Ogord (fianc\u00e9)", 
+            "occupation": [
+                "Former student", 
+                "wrestler", 
+                "astronaut and later adventurer in an alternate future"
+            ], 
+            "origin": "Marvel Super Heroes #18", 
+            "placeofbirth": [
+                "Saugerties", 
+                "New York"
+            ], 
+            "powers": "Vance Astro is a mutant possessed with the psionic power of psychokinesis, the ability to affect matter with is mind. In some unknown manner Astro's brain generates psionic energy which he is able to project as concussive force. Astro can focus the energy at will, creating anything from a narrow two-inch diameter beam of force to a 360 degree expanding force sphere. At maximum concentration Astro's narrow focus is capable of knocking seven 250-pound men standing ten feet tall from him at a distance of five feet. Major Victory does not have the mental discipline to use his psionic power delicately. He only mastered his abilities to the point of his psycho-blast.", 
+            "realname": "Vance Astrovik", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": [
+                "Formerly Marvel Universe", 
+                "Earth-691"
+            ], 
+            "weight": 250
+        }
+    }
+}

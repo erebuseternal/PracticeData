@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Posed as an officer in the Soviet Army for years", 
+            "citizenship": [
+                "(as Aginar) Polaria", 
+                "(as military aide) former Union of Soviet Socialist Republic"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Grey\n", 
+            "fighting": 1, 
+            "firstappearance": "Eternals Vol. 1 #11\n", 
+            "groupaffiliation": [
+                "Eternals", 
+                "formerly Soviet military"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Aginar", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "(Formerly) military leader of Earth's Eternals", 
+                "military leader of Polar-Eternals", 
+                "was a high-ranking military aide in the soviet Army"
+            ], 
+            "origin": "Yet to be revealed", 
+            "placeofbirth": [
+                "Polaria", 
+                "Siberia", 
+                "U.S.S.R."
+            ], 
+            "powers": "Aginar is an Eternal and like all Eternals he can manipulate cosmic energy for a variety of effects. He has total mastery over his physical form granting him virtually immortality and the ability to recover from most wounds except for injuries which discorporate a majority of his body. He has superhuman strength enabling him to lift 25 tons. He can use his energy to levitate and fly at Mach One. He can convert his cosmic energy into heat, light, or concussive force which he can discharge from his hands or his eyes. Aginar has low-level psychic abilities enabling him to cast illusions disguising his appearance. He can also read the minds of anyone with lesser psychic abilities. All Eternals also have the ability to join minds with other Eternals forming the Uni-Mind.", 
+            "realname": "Aginar", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 255
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Brainwasher", 
+                "Harold Howard"
+            ], 
+            "citizenship": "USA", 
+            "content": "While his wife, Vanessa, knew of Wilson's criminal activities, he was careful to shield their only son, Richard, from the life he led. That effort was in vain, as Richard finally did learn of his father's mob connections. Richard faked his own death, and returned to New York as the Schemer, intent on destroying his father's empire. He had also taken on the guises of the original Rose and later, Blood Rose, but was never able to do much damage to the Kingpin's organization.The Kingpin eventually regained his sight due to surgery, but no sooner had he been able to see the world again, he was thrown into prison for his crimes. But he wasn't through plaguing Daredevil yet; he was able to mastermind a plot that put Daredevil's secret identity into the hands of the F.B.I, and also managed to arrange the near-fatal stabbing of Foggy Nelson, Daredevil's longtime friend and fellow lawyer.", 
+            "durability": 3, 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 5, 
+            "firstappearance": "Amazing Spider-Man #50 (1967)\n", 
+            "groupaffiliation": [
+                "Leader of a coalition of East Coast non-Maggia criminal organizations", 
+                "former manager of Las Vegas HYDRA faction", 
+                "\"Acts of Vengeance\" prime movers"
+            ], 
+            "hair": "none\n", 
+            "height": 72, 
+            "id": "Kingpin", 
+            "identity": [
+                "Fisk is publicly known to be the Kingpin", 
+                "but his dual identity has never been officially proved."
+            ], 
+            "intelligence": 4, 
+            "knownrelatives": "Vanessa (wife), Richard (Rose/Bloodrose, son, deceased), Anatoly Fyskov (ancestor, deceased)", 
+            "occupation": [
+                "Criminal organizer and mastermind", 
+                "president and owner of legitimate businesses"
+            ], 
+            "placeofbirth": [
+                "Unknown", 
+                "probably in New York City area"
+            ], 
+            "powers": "Kingpin has no superhuman powers. However, he is as strong and durable as it is possible for a man of his height, weight, and build who engages in intensive regular exercise to be, and he is a very large man (over six and a half feet tall). His stamina is likewise honed to the virtual pinnacle of human ability. He has remarkable agility and dexterity for a man of his size.", 
+            "realname": "Wilson Grant Fisk", 
+            "speed": 2, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 450
+        }
+    }
+}

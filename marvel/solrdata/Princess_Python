@@ -1,0 +1,55 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "United States of America", 
+            "content": "Invited to join the Serpent Squad under Viper's leadership, Princess Python accepted and found a new pet snake.  However, she eventually returned to the Circus of Crime, battling more super-heroes such as Luke Cage, Howard the Duck, and the Hulk.  Later, she joined the Serpent Society, but found herself overwhelmed at the thoguht of battling MODOK.  Unlike her teammates in the group, she had no super-powers, and decided to abandon the group during their mission.  Sidewinder found Princess Python and tortured her, later returning her to the Circus of Crime after wiping her mind of all the Serpent Society's secrets.  She also briefly served in Superia's Femizons.", 
+            "durability": 1, 
+            "education": "High school graduate", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Spider-Man #22\n", 
+            "groupaffiliation": [
+                "Circus of Crime", 
+                "formerly Masters of Menace", 
+                "Serpent Squad", 
+                "Serpent Society", 
+                "Femizons"
+            ], 
+            "hair": "Red-brown\n", 
+            "height": 68, 
+            "id": "Princess_Python", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "Executioner (Daniel DuBois) (son)", 
+            "occupation": [
+                "Snake charmer", 
+                "professional criminal"
+            ], 
+            "placeofbirth": [
+                "Darlington", 
+                "South Carolina"
+            ], 
+            "powers": "None", 
+            "realname": "Zelda DuBois", 
+            "significantissues": [
+                "Battled Spider-Man with Circus of Crime (Amazing Spider-Man #22)", 
+                "enlisted Thor into the Circus of Crime, later defeated by Thor (Thor #145-147)", 
+                "attempted to blow up the Avengers mansion during the wedding of Yellowjacket I and the Wasp (Avengers #60)", 
+                "battled Iron Man, her python killed in battle (Iron Man #50)", 
+                "joined the second Serpent Squad (Captain America #180-181)", 
+                "rejoined Circus of Crime, battled Daredevil (Daredevil #118)", 
+                "joined the Serpent Society (Captain America #310)", 
+                "deserted the Serpent Society during the mission to assassinate MODOK (Captain America #313)", 
+                "tortured by Sidewinder, had her mind erased of Serpent Society information (Captain America #315)", 
+                "rejoined Circus of Crime, battled She-Hulk (Sensational She-Hulk #1)", 
+                "joined Femizons (Captain America #389-391)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 140
+        }
+    }
+}

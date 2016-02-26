@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Marvel Premiere #16 (1974)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "id": "Scythe", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Mercenary", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Unrevealed", 
+            "significantissues": "Attempted to collect a bounty on Iron Fist\u2019s head, but was defeated (Marvel Premiere #16, 1974)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Variable (originally red)\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #169 (1983)\n", 
+            "groupaffiliation": [
+                "Morlocks", 
+                "formerly Arena"
+            ], 
+            "hair": "Variable (originally none)\n", 
+            "height": 0, 
+            "id": "Masque_(Morlock)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Fight manager", 
+                "former would-be conqueror"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Masque can alter the appearance of anyone he touches, inducing an entire body-wide transformation in an instant. He can also alter her own form.", 
+            "realname": "Unrevealed", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 140
+        }
+    }
+}

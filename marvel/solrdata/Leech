@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A. (presumed)", 
+            "content": "During the \"Mutant Massacre,\" Mister Sinister rallied his henchmen, the Marauders, to infiltrate the sewers and massacre all the Morlocks living there in an effort to rid the world of \"genetically impure\" mutants. While many Morlocks were killed, Leech, Artie and Caliban survived, rescued by the Power Pack and the X-Terminators (the X-Factor in their mutant roles). Leech and Artie were placed in the care of X-Factor until they could be enrolled in private school.Soon after they began attending this school, Leech and Artie were captured by mutant-hunting demons. They were again rescued by X-Factor, this time with the help of the New Mutants. The two went back to attending school for several months before they were kidnapped a third time, this time by Gene Nation.This group, composed of second-generation Morlocks were the descendants of those who survived the massacre in the tunnels. They were born and raised in an alternate dimension with a faster flow of time than this one called The Hill. They sought revenge for those who wronged their forbearers. The Gene Nation led a campaign to hunt down and kill as many humans as possible, since it was the humans' unwillingness to accept them that led their parents to the tunnels in which they were massacred. Leech and Artie wanted no part of this, but were trapped until they were rescued by Generation X. They were thereafter made junior members and remained with the team until it disbanded.Leech and Artie continued to live in the Massachusetts Academy under the care of Emma Frost. When they met Franklin Richards, they were inducted into his own short-lived team, the Daydreamers. When Richard's family, who had previously been exiled to an alternate universe, returned, the group was disbanded. Leech and Artie returned to the academy to take on more active roles.For a time, the academy was shut down and, although it is never made clear, Leech may have transferred to another school. What is known is that he was eventually captured by the revived Weapon X program and forced into a machine that was designed to attached to a mutant, take their powers, and then project them to any other mutant in the world. Sabretooth, then a part of Weapon X, used the machine, at one point, to strip Wolverine of his healing abilities in order to finish him once and for all.Leech survived, but continued to be used by the Weapon X program to keep imprisoned mutants under control.", 
+            "durability": 2, 
+            "education": "Unrevealed", 
+            "energy": 3, 
+            "eyes": "White (no irises or pupils)\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #179\n", 
+            "groupaffiliation": [
+                "Future Foundation", 
+                "formerly Morlocks", 
+                "Generation X", 
+                "Daydreamers", 
+                "198", 
+                "X-Factor (trainee) / X-Terminators"
+            ], 
+            "hair": "Black\n", 
+            "height": 50, 
+            "id": "Leech", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "Annalee (foster mother, deceased)", 
+            "occupation": [
+                "Survivor", 
+                "former student"
+            ], 
+            "placeofbirth": "U.S.A.", 
+            "powers": "Able to nullify the abilities of other mutants in his close proximity", 
+            "realname": "Unrevealed", 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 67
+        }
+    }
+}

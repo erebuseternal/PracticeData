@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Mars (Roman name)", 
+                "John Aaron", 
+                "Mr. Talon", 
+                "Warhawk"
+            ], 
+            "citizenship": "Olympus", 
+            "content": "Ares has fought the Avengers on numerous occasions, as well as his half-brother Hercules. Ares has also fought the Champions, the Eternal Ikaris and a variety of other denizens of Earth. Recently warriors from the East have attacked Olympus and the Olympians have sought the assistance of Ares. Ares who had retired from warfare and the life of the gods has only recently joined the battle due to the kidnapping of his son.", 
+            "durability": 6, 
+            "education": "Tutored by Olympian scholars", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 7, 
+            "firstappearance": "(Mars) Human Torch Comics #5A (1941); (Ares) Thor #129 (1966)\n", 
+            "groupaffiliation": [
+                "Norman Osborn's Avengers", 
+                "Olympian gods", 
+                "formerly the Initiative", 
+                "the Warhawks"
+            ], 
+            "hair": "Brown\n", 
+            "height": 73, 
+            "id": "Ares", 
+            "identity": "Known to S.H.I.E.L.D. authorities", 
+            "intelligence": 2, 
+            "knownrelatives": "Alexander (son); Deimos, Phobos (sons, deceased), Monstro (alleged son); Harmonia (daughter); Zeus (father); Hera (mother); Hephaestus (brother); Athena, Hebe (sisters); Apollo, Dionysus, Hercules, Hermes (half-brothers);  Aphrodite, Artemis, Persephone (half-sisters); Neptune and Pluto (uncles); Demeter and Vesta (aunts); Chronus (grandfather); Rhea (grandmother); Ouranos (great-grandfather); Gaea (great-grandmother); numerous other relatives", 
+            "occupation": [
+                "God of War", 
+                "registered super hero", 
+                "former construction worker", 
+                "carpenter"
+            ], 
+            "placeofbirth": "Olympus", 
+            "powers": "Superhuman strength, stamina, durability, agility, and reflexes. Ares is also an immortal with an unending lifespan. He can be wounded during battle but due to his Olympian nature he heals very quickly. Only an injury of such magnitude that it incinerates all or a portion of his bodily molecules could cause him physical death. He has also been shown to be injured by weapons of magical nature such as Mjolnir the hammer of Thor.", 
+            "realname": "Ares", 
+            "significantissues": [
+                "Official Handbook Bibliography", 
+                "killed by Sentry (Siege #2, 2010)"
+            ], 
+            "speed": 2, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 500
+        }
+    }
+}

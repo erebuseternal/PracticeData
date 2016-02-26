@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "USA", 
+            "content": "When Hulk waged war against Earth's heroes, blaming them for his wife Caiera's death, Mister Gideon fought him with the Corps. Grey, the Corps field leader, broke Hulk's neck, and Gideon had to wrestle Mess off their fallen foe as she wanted to make sure Hulk was dead because she erroneously blamed him for killing her son. The Hulk soon healed, and he made a bee-line for Ryker's base at the Staten Island Dump. Gideon gave chase with teammates Griffin (Eliot Franklin) and Prodigy (Timothy Wilkerson), but even their combined attack proved useless. Hulk forced Gideon to accept Jim died from the virus and not from his involvement with Hulk. Then Hulk snapped both of Gideon's wrists and crushed his hands. Realizing he wanted revenge for the wrong reasons, Gideon tried reasoning with Grey not to confront the Hulk but failed, and Grey rampaged through the base, destroying it. Mister Gideon tried to make Hulk understand his mission to avenge Caiera was just as misguided as Gideon's mission to avenge Jim, but the Hulk refused to listen and left.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "World War Hulk: Gamma Corps #1 (2007)\n", 
+            "groupaffiliation": "Gamma Corps", 
+            "hair": "None; formerly black\n", 
+            "id": "Mister_Gideon", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Paul Wilson (father, deceased), Darlene Wilson (mother, deceased), Sarah Wilson Casper (sister), Falcon (Sam Wilson) (brother), Jim Wilson (son, deceased), unidentified wife, Jody Casper (nephew)", 
+            "occupation": [
+                "Soldier", 
+                "former preacher"
+            ], 
+            "origin": "World War Hulk: Gamma Corps #2 and 4 (2007)", 
+            "placeofbirth": "New York", 
+            "powers": "Mister Gideon underwent experiments that gave him super strength, durability and endurance similar to or the equivalent of Doc Samson", 
+            "realname": "Gideon Wilson", 
+            "significantissues": [
+                "First appearance, origin and recruitment into Gamma Corps leading to his confrontation with the Hulk and realization Hulk was not the one to blame for his lacking relationship with his son (World War Hulk: Gamma Corps #1-4, 2007)", 
+                "went from fugitive to Norman Osborn's bounty hunter (Dark Reign: Made Men #1, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

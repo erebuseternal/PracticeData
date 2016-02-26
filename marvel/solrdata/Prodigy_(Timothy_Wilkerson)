@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Canada", 
+            "content": "Although lacking in physical ability, Prodigy's mental prowess helped him create sophisticated weaponry, high-tech gadgets and even biological toxins; proving to be the team\u2019s most valuable asset by concocting a poison to decrease the Hulk's power level, enabling Corps field leader Grey to snap the Hulk's neck. At the time the toxin was administered, Hulk's power levels were greatly increased due to his increased rage over his wife, Caiera's, death, and Hulk recovered quicker than expected. The Corps were defeated, their base in the Staten Island dump was destroyed and Ryker was arrested by SHIELD. Prodigy stayed with the Corps, and became a wanted fugitive, hunted by the US government.", 
+            "durability": 1, 
+            "education": "Timothy is a genius due to his DNA being spliced with the DNA of the Leader (Samuel Sterns)", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "World War Hulk: Gamma Corps #1 (2007)\n", 
+            "groupaffiliation": "Gamma Corps", 
+            "hair": "Blond\n", 
+            "id": "Prodigy_(Timothy_Wilkerson)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Robert Wilkerson (father), unidentified mother", 
+            "occupation": "Soldier", 
+            "origin": "World War Hulk: Gamma Corps #2 and 4 (2007)", 
+            "placeofbirth": [
+                "Ontario", 
+                "Canada"
+            ], 
+            "powers": "Prodigy possesses super intellect and can disorient or incapacitate a foe with his mind. He can use his mental powers to potentially kill a foe by manipulating the blood flow to his brain, causing a massive stroke. Prodigy's mind only needs fifteen minutes thirty six seconds of sleep a night to be recharged.", 
+            "realname": "Timothy Wilkerson", 
+            "significantissues": [
+                "Origin, recruitment and confrontation with the Hulk only to come to the realization that Hulk was not responsible for his misfortunes at birth (World War Hulk: Gamma Corps #1-4, 2007)", 
+                "went from fugitive to Norman Osborn's bounty hunter (Dark Reign: Made Men #1, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

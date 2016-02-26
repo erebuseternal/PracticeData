@@ -1,0 +1,68 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Formerly War", 
+                "Death Phoenix"
+            ], 
+            "citizenship": "Shi'ar Empire", 
+            "content": "Deathbird arrived on Earth on mysterious circumstances and while attempting to retrieve her spaceship she fought Ms. Marvel, and later Hawkeye. When she was finally able to leave the planet, she allied herself with the Brood in order to recuperate her throne, now in the power of Lilandra, her younger sister. Stranding Lilandra on Earth by implanting a Brood parasite on Professor X, she returned to Chandilar and usurped the throne.Lilandra allied herself with the Starjammers and created a resistance against Deathbird's rule. They battle for many months, but eventually, Deathbird was forced to escape.  Deathbird rescued Lila Cheney and made her teleport the X-Men to her, asking them to slay Professor Charles Xavier. The X-Men were rescued by Lilandra and the Starjammers, and soon joined them into fighting the Shi'ar Imperial Guard, who still followed Deathbird as ruler. Soon after, the newest members of the X-Men Gambit and Jubilee witnessed as Xavier took over the minds of Oracle and Gladiator, and forced Gladiator to remove her natural wings. Gambit and Jubilee reacted, saving Deathbrid's life, however they were overpowered by Xavier and Gladiator. Deathbird, escaped thanks to Lila Cheney. Soon after Wolverine slaughtered Xavier, and Lilandra, newly crowned as Majestrix of the Shi'ar Empire,  proclaimed the X-Men were traitors and had be put in jail. Seconds later, Lila Cheney and Deathbird returned, and teleported Storm,Banshee and Forge away. The X-Men allied themselves with Deathbird and together exposed the Warskrulls, saving the real Professor X and the rest of the X-Men. Deathbird then officially abdicated the throne, claiming the life of ruler was boring.When the Kree and the Skrull went to war, Deathbird slaughtered the Kree rulers. After the Shi'ar won the war and conquered the Kree Empire, Deathbird was named Viceroy of the Kree territories, which she ruled with an iron thumb.Under unknown circumstances, Deathbird was found by the X-Men as the sole survivor of a Shi'ar Space Station. She immediately found herself attracted to the X-Man Bishop. Together with the X-Men they stopped the threat of the Phalanx, restoring peace to the Shi'ar Homeworld, Chandilar. Deathbird was chosen by the Majestrix herself to escort the X-Men back to Earth. However the X-Men's ship exploded in mid-travel, and Deathbird and Bishop were stranded in space. They crashed into an alien planet and fought their way out of it. Months later, they crossed a faulty stargate, which took them into an alternate future reality, where Earth was ruled by the Shi'ar. Alanna Neramani, daughter of Xavier and Lilandra, offered Deathbird to rule Earth, while Bishop joined the Resistance. Eventually, Deathbird chose to follow Bishop and helped the Resistance defeat Alanna. The pair later returned to the 616 reality.As they approached Earth, they found a gigantic humanoid shape, which had a mutant signature. Confused, they approached it, but after finding nothing on it, Deathbird betrayed Bishop, firing on him and delivering him to the hands of a mysterious cult. Weeks later, Deathbird appeared as War, a Horseman of Apocalypse, with a pair of artificial wings to replace those she had lost. She helped Caliban, the Horseman known as Pestilence, against X-Force and Cable, and ensured the latter's capture. Deathbird then fought Iceman and captured him. Soon after, as Apocalypse's plans backfired, Deathbird and the rest of the Horsemen fought against the X-Men. Amidst the battle, Bishop was sent to Earth-9910 and Mikhail Rasputin teleported the Horsemen away.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White (no visible iris)\n", 
+            "fighting": 1, 
+            "firstappearance": "(Deathbird) Ms Marvel #9 (1977); (War) Cable #74 (1999)\n", 
+            "groupaffiliation": [
+                "Shi'ar Royal Family", 
+                "formerly Horsemen of Apocalypse", 
+                "Starforce", 
+                "Dawn Flight"
+            ], 
+            "hair": "(feathers) Purple & blue\n", 
+            "height": 68, 
+            "id": "Deathbird", 
+            "identity": [
+                "Secret", 
+                "publicly known in the Shi'ar Empire"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Gabriel Summers (Vulcan, husband, deceased), unidentified parents (deceased), D'Ken Neramani (brother, deceased), Lilandra Neramani (sister), unidentified sister (deceased), Black Light (alleged son), White Noise (alleged daughter), Adam-X (X-Treme, nephew), Charles Xavier (Professor X, ex-brother-in-law), extended in-law family via marriage", 
+            "occupation": [
+                "Imperial Consort", 
+                "former Viceroy of the Kree Empire", 
+                "Shi'ar Majestrix", 
+                "intergalactic criminal", 
+                "wing leader of Dawn Flight"
+            ], 
+            "origin": "partially revealed in Uncanny X-Men #345 (1997)", 
+            "placeofbirth": [
+                "The Aerie", 
+                "Chandilar", 
+                "Shi'ar Empire"
+            ], 
+            "powers": "As a pure breed Shi'ar she possesses strength, endurance and resistance to injury higher than humans.", 
+            "realname": "Cal'syee Neramani", 
+            "significantissues": [
+                "fought Ms Marvel (Ms Marvel #9, 1977)", 
+                "joined forces with the Brood to capture Lilandra (Uncanny X-Men #155, 1982)", 
+                "took over the throne of the Shi'ar Empire (Uncanny X-Men #167, 1983)", 
+                "Gladiator removed her wings (Uncanny X-Men #276, 1991)", 
+                "abdicated the throne to Lilandra (Uncanny X-Men #277, 1991)", 
+                "became Viceroy of the Kree Empire, now under Shi'ar rule (Avengers #347, 1992)", 
+                "teamed up with X-Men against the Phalanx (Uncanny X-Men #343, 1997)", 
+                "escorted X-Men to Earth, kidnapped Bishop (Uncanny X-Men #345, 1997)", 
+                "decided to remain with Bishop (Uncanny X-Men #358, 1998)", 
+                "arrived on future alternate reality where the Shi'ar conquered Earth (Team X 2000, 1999)", 
+                "betrayed Bishop, returned him to Earth (X-Men #92, 1999)", 
+                "revealed as War, Horseman of Apocalypse (Cable #74, 1999)", 
+                "teleported away by Mikhail Rasputin (X-Men #97, 2000)", 
+                "fought Bishop, Cadre K (Bishop #15, 2000)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 181
+        }
+    }
+}

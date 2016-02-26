@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "None", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Possessed Professor Warren\u2019s knowledge", 
+            "energy": 1, 
+            "eyes": "Yellow\n", 
+            "fighting": 1, 
+            "firstappearance": "Peter Parker: The Spectacular Spider-Man #25 (1978)\n", 
+            "groupaffiliation": "None", 
+            "hair": "None\n", 
+            "height": 70, 
+            "id": "Carrion_(Miles_Warren_clone)", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Jackal (creator)", 
+            "occupation": "None", 
+            "origin": "Peter Parker: The Spectacular Spider-Man #31 (1978)", 
+            "placeofbirth": "The Jackal\u2019s lab in New York City", 
+            "powers": "Carrion can teleport over short distances leaving behind a cloud of brimstone, telekinetically control and decay organic matter (including Spider-Man's webbing), ignite fires and induce death with a touch, levitate, generate repelling energy, become intangible, and regenerate rapidly. He has low-level telepathy and is immune to certain forms of detection including Spider-Man's spider-sense. The Carrion virus is strangely non-communicable. Once it has a host, it becomes dormant and cannot be transmitted to others. Separated from a host body, however, it is extremely contagious. Despite the appearance of being \"undead,\" the virus does not kill its host.", 
+            "realname": "Miles Warren clone", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

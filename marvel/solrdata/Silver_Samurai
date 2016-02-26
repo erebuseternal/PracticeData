@@ -1,0 +1,62 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Silver Shogun", 
+                "Ishiro Tagara"
+            ], 
+            "citizenship": "Japan", 
+            "content": "Following his father\u2019s death, Harada sought the leadership of Shingen\u2019s Clan Yashida from his half-sister Mariko Yashida, but was opposed by the ronin Yukio and Mariko\u2019s lover, the mutant adventurer Wolverine. Later, Harada worked with Wolverine to free American private investigator Jessica Drew from the influence of Black Blade of Muramasa, a sword mystically imbued with its creator\u2019s madness. Wolverine himself fell under the sword\u2019s spell, but managed to overcome his possession after which Harada took up the sword, finding himself worthy of its power.After Mariko\u2019s death, Harada claimed leadership of Clan Yashida and was briefly employed by the Japanese government as leader of their fledgling super-team Big Hero 6. Ultimately, his inability to lead Clan Yashida allowed the Mongolian crimelord Haan Kaishek to take control, and he allied with Wolverine to defeat the Kaishek\u2019s. However, the disgrace of losing leadership was too great for Harada, and he returned to his mercenary ways.", 
+            "durability": 4, 
+            "education": "College graduate", 
+            "energy": 5, 
+            "eyes": "Brown\n", 
+            "fighting": 6, 
+            "firstappearance": "Daredevil #111 (1974)\n", 
+            "groupaffiliation": [
+                "Formerly Hydra", 
+                "Clan Yashida", 
+                "Big Hero 6", 
+                "former employee of Viper & Mandrill"
+            ], 
+            "hair": "Black\n", 
+            "height": 78, 
+            "id": "Silver_Samurai", 
+            "identity": "Known to some government officials & law enforcement agencies", 
+            "intelligence": 3, 
+            "knownrelatives": "Shingen Harada (father, deceased), Mariko Yashida (half-sister, deceased), Noburu-Hideki (brother-in-law, deceased), Shiro Yoshida (Sunfire, cousin), Leyu Yoshida (Sunpyre, cousin, deceased), Saburo Yashida (cousin, deceased), Tomo Yashida (cousin, deceased)", 
+            "occupation": [
+                "Crimelord", 
+                "former Hydra agent", 
+                "government operative", 
+                "Clan Yashida leader", 
+                "mercenary"
+            ], 
+            "origin": "Uncanny X-Men #173 (1983)", 
+            "placeofbirth": "Unrevealed location in Japan", 
+            "powers": "The Silver Samurai is a mutant with the ability to generate a tachyon energy field from within his body. He typically focuses this field through his sword, allowing it to cut through almost any substance.", 
+            "realname": "Kenuichio Harada", 
+            "significantissues": [
+                "Employed by Mandrill, vs Daredevil (Daredevil #111, 1974)", 
+                "employed by Viper, vs Spider-Man & Black Widow (Marvel Team-Up #57, 1977)", 
+                "vs Spider-Man (Marvel Team-Up #74, 1978)", 
+                "with Viper & Boomerang, vs Spider-Man, Nick Fury, Shang-Chi & Black Widow (Marvel Team-Up #83-85, 1979)", 
+                "with Viper, vs Spider-Woman/Jessica Drew (Spider-Woman #42-43, 1982)", 
+                "with Viper, vs New Mutants (New Mutants #5-6, 1983)", 
+                "with Viper, vs X-Men & Yukio (Uncanny X-Men #173-174, 1983)", 
+                "obtained Black Blade of Muramasa (Wolverine #2-3, 1992)", 
+                "challenged Clan Yashida leadership (Wolverine #56-57, 1992)", 
+                "became oyabun of Clan Yashida (Cable: Blood & Metal #2, 1992)", 
+                "received Honor Sword of Clan Yashida (Wolverine #82, 1994)", 
+                "joined Big Hero 6, vs Everwraith (Sunfire & Big Hero 6 #1-3, 1998)", 
+                "with Wolverine & Sunfire, vs Red Ronin (Wolverine '96 Annual, 1996)", 
+                "with Wolverine & Yukio, opposed Kaishek Dominion (Wolverine #150-153, 2000)", 
+                "seemingly killed by Elektra (Elektra #3-4, 2001)"
+            ], 
+            "speed": 2, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 250
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue (as Molek); Flaming red (as Ghost Rider)\n", 
+            "fighting": 1, 
+            "firstappearance": "Ghost Rider #29 (2008)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Salt and pepper goatee (as Molek); None (as Ghost Rider)\n", 
+            "id": "Ghost_Rider_(Molek)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Former Spirit of Vengeance", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Presumably somewhere in the Middle East", 
+            "powers": "It can be assumed Molek possessed all the powers given to every Spirit of Vengeance", 
+            "realname": "Molek (unrevealed if this is his first or last name)", 
+            "significantissues": [
+                "Came to Blaze in his hour of need in an attempt to give him new hope (Ghost Rider #29, 2008)", 
+                "Brought Blaze and the others to meet the Ghost Riders of the Congo (Ghost Rider #31, 2009)", 
+                "Fought alongside other Ghost Riders, but Daniel Ketch eventually took Molek\u2019s power from him (Ghost Rider #32, 2009)", 
+                "Molek returned to face Zadkiel and the Anti-Christ (Ghost Riders: Heaven\u2019s On Fire #6, 2010)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

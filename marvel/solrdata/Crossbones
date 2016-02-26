@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Bingo", 
+                "Frag", 
+                "Mr. Bones"
+            ], 
+            "citizenship": "United States of america with a criminal record", 
+            "content": "Sent to retrieve the five Bloodstone fragments, Crossbones shadowed Helmut Zemo\u2019s search for them. While Zemo battled Captain America, Crossbones knocked out Captain America's pilot, John Jameson, and stole two fragments; when he got near the other three, the five combined to re-animate Heinrich Zemo's corpse under control of the alien Hellfire Helix. Unobserved, Crossbones destroyed the Helix (worn on the corpse's forehead) with a crossbow bolt. Brock then kidnapped Diamondback (whom he recognized as Rachel Leighton), using her as bait to trap Captain America; but when the Skull learned of Crossbones' involvement with the Captain, he ordered Crossbones to flee. Crossbones recruited the Controller and Voice of Doom to serve the Skull, led the Skeleton Crew against the Hellfire Club\u2019s Selene, and, using psychic Tristam Micawber, located the Skull after Magneto kidnapped him. He attempted assassinating the Kingpin, was stopped by Typhoid Mary, and battled Bullseye when the Kingpin retaliated. He led the Skeleton Crew when they were captured by the Schutz-Heiliggruppe (Blitzkrieg, Hauptmann Deutschland, Zeitgeist); after Arnim Zola rescued them, the Skull faked the assassination of himself, Mother Night, and Crossbones. The Red Skull finally fired Crossbones for questioning the Skull's decision to ally with the Viper.", 
+            "durability": 4, 
+            "education": "High school dropout", 
+            "energy": 3, 
+            "eyes": "Brown\n", 
+            "fighting": 7, 
+            "firstappearance": "(in shadows) Captain America #359 (1989), (full appearance) Captain America #360 (1989)\n", 
+            "groupaffiliation": [
+                "(Formerly) Skeleton Crew", 
+                "Savage Crims Street Gang"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Crossbones", 
+            "identity": "Known to the authorities", 
+            "intelligence": 4, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Mercenary (Formerly) assassin", 
+                "instructor at Taskmaster's school for criminals"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Brock Rumlow", 
+            "significantissues": [
+                "searched for Red Skull (Captain America #368-370, 1990)", 
+                "shown in flashback to be student of Taskmaster (Captain America #403, 1992)", 
+                "flashback to first meeting with Red Skull (Captain America #383, 1991)"
+            ], 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 290
+        }
+    }
+}

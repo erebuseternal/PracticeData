@@ -1,0 +1,44 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "At the beginning of Electro's criminal career, J.Jonah Jameson began a smear campaign in the Daily Bugle proclaiming Electro to actually be an alter-ego for Spider-man. Intent on proving the publisher wrong, Spider-man faced Electro and was nearly killed by merely touching him. Using a fire hose, however, the web-slinger was able to defeat Electro. Sometime later in another attempt to deface Spider-man's reputation, Jameson secured Electro's supercharged services to battle the web-slinger on national television. Before an audience of millions, Spider-Man stood triumphant once more. Dillon was humiliated.In an attempt to win himself the glory and respect that had alluded him so frequently, Dillon tried to devise a master plan to control New York City's power supply. However, he was once again defeated by Spider-man and convinced to quit his criminal career...if only temporarily. He resurfaced as a member of the next incarnation of the Sinister Six, with Hobgoblin replacing the deceased Kraven the Hunter. Doctor Octopus betrayed the group and they were subsequently disbanded.Electro was also a member of Mysterio's Sinister Seven, created to combat Spider-Man's insane, homicidal clone, Kaine. However, Kaine disappeared and with no further need to keep the group together, it was disbanded and Dillon returned to his self imposed exileHe was once again brought out of retirement by the Rose, who offered Dillon the chance at an experimental procedure to greatly enhance his abilities in exchange for his services as an underworld enforcer. Dillon and agreed, sensing the opportunity to rise above his past failures. After undergoing the procedure and dispatching several members of the True Believers, an offshoot of the Hand at the request of the Rose, Dillon returned to his original plan of taking over the New York City power supply. Once again defeated by Spider-Man, who had donned an insulated suit, a frustrated Dillon threw himself into the Hudson River, apparently killing himself.However, Dillon survived as he reappeared as part of the next series of subsequent incarnations of the Sinister Six, each of which were either defeated or disbanded due to internal conflicts. The most recent incarnation, the Sinister Twelve, gathered by the Green Goblin as part of a larger plan to enable his escape from prison and destroy Spider-Man. They were defeated with the help of the combined efforts of Captain America, Iron Man, Daredevil, Yellowjacket and the Fantastic Four.", 
+            "durability": 4, 
+            "education": "High school graduate", 
+            "energy": 7, 
+            "eyes": "Blue\n", 
+            "fighting": 5, 
+            "firstappearance": "Amazing Spider-Man #9 (1964)\n", 
+            "groupaffiliation": [
+                "Formerly Exterminators", 
+                "Sinister Six", 
+                "Sinister Seven", 
+                "Sinister Twelve", 
+                "Frightful Four", 
+                "Emissaries of Evil"
+            ], 
+            "hair": "Reddish-brown\n", 
+            "height": 71, 
+            "id": "Electro", 
+            "identity": "Known to legal authorities", 
+            "intelligence": 6, 
+            "knownrelatives": "Norma Lynn Dillon (ex-wife), Jonathan Dillon (father, deceased), Anita Dillon (mother, deceased)", 
+            "occupation": [
+                "Professional criminal", 
+                "former linesman for Consolidated Edison"
+            ], 
+            "origin": "Amazing Spider-Man #9 (1964)", 
+            "placeofbirth": [
+                "Endicott", 
+                "New York"
+            ], 
+            "powers": "Dillon is a living electrical capacitor, powered by the micro-fine rhythmic muscle contractions that normally regulate body temperature. He can generate electrostatic energy at a rate of about 1,000 volts per minute and store up to 1,000,000 volts allowing him to emit lightning arcs from his fingertips at speeds of up to 1,100 feet per second, achieving a maximum distance of about 100 feet. In addition, he can override electrically powered devices and manipulate them mentally, travel along conductive surfaces (such as power lines) at speeds as fast as 140 mph, create electrostatic \"bridges\" to travel varying distances and disrupt Spider-Man's ability to cling to walls. When fully charged, however, Electro becomes extremely sensitive to anything that can \"short circuit\" his abilities, particularly water.", 
+            "realname": "Maxwell \"Max\" Dillon", 
+            "speed": 6, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

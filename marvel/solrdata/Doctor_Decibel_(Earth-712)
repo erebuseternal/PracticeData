@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "United States of America", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed; presumably had a college degree and a degree in medicine", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Squadron Supreme #5\n", 
+            "groupaffiliation": [
+                "(At time of death) Squadron Supreme", 
+                "(Formerly) Institute of Evil"
+            ], 
+            "hair": "Brown\n", 
+            "height": 71, 
+            "id": "Doctor_Decibel_(Earth-712)", 
+            "identity": "Publicly known to the people of Earth-712", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "(At time of death) Physician for the Squadron", 
+                "(Formerly) professional criminal", 
+                "surgeon"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "None", 
+            "realname": "Anton Decibel", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-712", 
+            "weight": 185
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Property of Sean Dolan", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #226 (1982)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Black\n", 
+            "height": 64, 
+            "id": "Valinor", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Former steed of Bloodwraith and the Black Knight (Dane Whitman)", 
+            "placeofbirth": "Iran", 
+            "powers": "Valinor possessed large wings that enabled it to fly at incredible speeds, while carrying one or more passengers. Valinor's body had been modified to withstand high speed flight and to obtain oxygen at high velocities.", 
+            "realname": "Valinor", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 1200
+        }
+    }
+}

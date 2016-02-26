@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None known", 
+            "citizenship": "Unnamed region of Hell", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Defenders #93 (1981)\n", 
+            "groupaffiliation": "Six-Fingered Hand", 
+            "hair": "None\n", 
+            "id": "Avarrish", 
+            "identity": "The general inhabitants of Earth were unaware of Avarrish's existence", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Demon", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "As a demon Avarrish was immune to conventional diseases and aging, possessed advanced healing, and could take possession of the mind and bodies of its victims.", 
+            "realname": "Avarrish", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

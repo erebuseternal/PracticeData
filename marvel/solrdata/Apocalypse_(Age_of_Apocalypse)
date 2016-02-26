@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unknown", 
+            "content": "Eventually, Magneto created a team of mutants called the X-Men. By this point Apocalypse had already gathered his Horsemen. Originally, the Horsemen were his lieutenants, and he had many of them. After Apocalypse took over all of North America he announced the War of Secession, a battle between all of his Horsemen; he let it rage until only four Horsemen remained.As time moved on, Apocalypse defeated most of the world's governments. The only remaining threat to his rule was the X-Men and the Human High Council in Europe. It was only a matter of time before the entire world would be his.Apocalypse planned a surprise attack while he negotiated a peace treaty between mutants and humans. Named the Kelly Pact, it called for peace and the end of genetic testing, something Apocalypse never planned to do.However, Apocalypse did not realize his kingdom was crumbling around him. His greatest and oldest ally, Sinister, had deserted him. His most powerful Horseman, Mikhail, had gone rogue. And Abyss and Holocaust were engaged in personal battles that distracted them from the big picture. Apocalypse had surrounded himself with powerful men who were proving to be less than reliable.Apocalypse finally learned the whereabouts of Magneto and captured the X-Men's leader. A lesser player, the X-Ternal traitor Guido Carosella actually captured the most important piece of the puzzle, the M'Kraan Crystal, and delivered it to Apocalypse. Magneto planned to use it to change the past and ensure the Age of Apocalypse never came to pass.", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Men Chronicles #1 (1995)\n", 
+            "groupaffiliation": "Four Horsemen", 
+            "hair": "Black\n", 
+            "height": 80, 
+            "id": "Apocalypse_(Age_of_Apocalypse)", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Holocaust (possible son)", 
+            "occupation": [
+                "World conqueror", 
+                "Ruler of North America"
+            ], 
+            "placeofbirth": "Egypt", 
+            "powers": "Apocalypse is a mutant with the ability to alter his atomic structure. He has super strength, does not seem to need sustenance of any kind, and can recover from devastating physical injuries that would kill most humans and mutants. \nSpecial Limitations:  It is rumored he needs to move his energy and consciousness into new bodies due to the extraordinary amount of energies he has under his control. This would also explain his unnaturally long lifespan.", 
+            "realname": "En Sabah Nur", 
+            "significantissues": [
+                "Attempts takeover of America (X-Men Chronicles #1, 1995)", 
+                "learns of existence of X-Man (X-Man #1, 1995)", 
+                "orders the prisoners in the breeding pens be killed (Factor X #3, 1995)", 
+                "Apocalypse vs. Magneto (Amazing X-Men #3, 1995)", 
+                "receives shard of the M'Krann Crystal from Strong Guy (Gambit and the X-Ternals #4, 1995)", 
+                "Apocalypse's forces fight the X-Men, Magneto kills Apocalypse (X-Men: Omega, 1995)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 300
+        }
+    }
+}

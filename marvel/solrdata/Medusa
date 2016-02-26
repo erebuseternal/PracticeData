@@ -1,0 +1,50 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Madam Medusa", 
+            "citizenship": "Attilan", 
+            "content": "The Council of Elders, in agreement with Black Bolt, later sent Medusa and the royal family back to study human society, where Medusa's own ego led her into conflict with Spider-Man. Medusa was shortly captured by Maximus, who retook the Inhuman crown and imprisoned Black Bolt and the royal family. But Black Bolt used his powerful voice, once more, and freed them to send his brother scurrying away in a hidden rocket. She briefly left Attilan on her own in an attempt to restore Black Bolt's vocal cords and again, under the Enchantress' influence, to join the Lady Liberators. When Sue Richards left the Fantastic Four, Medusa took her place. After serving with the team for several months, Medusa encouraged the Richardses to reconcile, freeing Medusa to return to Attilan as Sue rejoined the Four.", 
+            "durability": 4, 
+            "education": "Royal tutors of Attilan", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 4, 
+            "firstappearance": "Fantastic Four Vol. 1 #36 (1965)\n", 
+            "groupaffiliation": [
+                "Royal Family of the Inhumans", 
+                "formerly Frightful Four", 
+                "Lady Liberators", 
+                "Fantastic Four", 
+                "Dark Riders"
+            ], 
+            "hair": "Red\n", 
+            "height": 71, 
+            "id": "Medusa", 
+            "identity": "Secret", 
+            "intelligence": 6, 
+            "knownrelatives": "Quelin (father), Ambur (mother), Black Bolt (husband), Ahura (son),Crystal (sister), Gorgon, Karnak, Triton (cousins),  Luna (niece), Quicksilver (brother-in-law), extensive extended family", 
+            "occupation": [
+                "Queen", 
+                "Royal interpreter"
+            ], 
+            "origin": "Inhumans: The Untold Saga #1 (1990)", 
+            "placeofbirth": [
+                "Island of Attilan", 
+                "Atlantic Ocean"
+            ], 
+            "powers": "Medusa can control the rate of growth and movement of each strand of her tougher-than-steel hair individually. She maintains this control even when the hair has been cut from her head.", 
+            "realname": "Medusalith Amaquelin Boltagon", 
+            "significantissues": [
+                "Regained memory (Fantastic Four Vol. 1 #45-48, 1965-1966)", 
+                "joined Fantastic Four (Fantastic Four Vol. 1 #132, 1973)", 
+                "married Black Bolt, became queen (Fantastic Four Vol. 1 Annual #18, 1984)", 
+                "birthed son Ahura (Marvel Graphic Novel: Inhumans, 1988)", 
+                "regained son (Fantastic Four Unlimited #2, 1993)"
+            ], 
+            "speed": 6, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 130
+        }
+    }
+}

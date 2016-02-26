@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Lord Domitian", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White no pupils\n", 
+            "fighting": 1, 
+            "firstappearance": "Warlock and the Infinity Watch #38 (1995)\n", 
+            "hair": "Golden/Blond\n", 
+            "id": "Domitian", 
+            "identity": "Unknown to the inhabitants of Earth.", 
+            "intelligence": 1, 
+            "knownrelatives": "Unknown", 
+            "occupation": [
+                "Conqueror", 
+                "Ruler of an unknown world."
+            ], 
+            "origin": "Unknown", 
+            "placeofbirth": "Unknown", 
+            "powers": "Domitian's power come from runes, that contain the life forces of beings who have been judged by Zakaius the Life-Stealer.", 
+            "realname": "Domitian", 
+            "significantissues": "Zakaius the Life-Stealer extracted life-force runes for Lord Domitian who used them to gain power, he realized Domitian\u2019s misuse of them & rebelled, Domitian badly wounded Moondragon, but was defeated by the Infinity Watch (Warlock and the Infinity Watch #37-39, 1995)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

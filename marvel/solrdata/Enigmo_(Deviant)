@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #370 (1994)\n", 
+            "groupaffiliation": "Delta Force", 
+            "hair": "Orange\n", 
+            "id": "Enigmo_(Deviant)", 
+            "identity": "Known", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Professional wrestler", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Enigmo can divide every portion of his body into smaller versions of himself, and each part retains the full power of the whole Enigmo. He can also pull each of the smaller versions of himself back together at will.", 
+            "realname": "Enigmo", 
+            "significantissues": "Avengers #370-371 (joined Delta Force to save the Avengers, 1994)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

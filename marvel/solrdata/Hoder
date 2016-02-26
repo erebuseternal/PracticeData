@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Asgardian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "None\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #274 (1978)\n", 
+            "groupaffiliation": "Gods of Asgard", 
+            "hair": "White\n", 
+            "height": 70, 
+            "id": "Hoder", 
+            "identity": "Believed fictional by general Earth populace", 
+            "intelligence": 1, 
+            "knownrelatives": "Buri (Tiwaz, great-grandfather); Bor (grandfather, deceased); Vili (father, deceased); Odin, Ve (uncles, deceased); Balder, Hermod, Thor, Tyr, Vidar (cousins); Loki (step-cousin); Mimir (granduncle)", 
+            "occupation": "God of winter", 
+            "placeofbirth": "Asgard", 
+            "powers": "As well as possessing the superhuman abilities shared by all the Gods of Asgard, such as superhuman strength enabling him to lift 20 tons, Hoder can also receive visions of a far distant future or of events that will occur in other realities.", 
+            "realname": "Hoder", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 390
+        }
+    }
+}

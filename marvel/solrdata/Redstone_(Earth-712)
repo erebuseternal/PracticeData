@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "United States of America", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed; presumably self-educated", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "Squadron Supreme #9\n", 
+            "groupaffiliation": [
+                "(Formerly) Redeemers", 
+                "Squadron Supreme"
+            ], 
+            "hair": "Black\n", 
+            "height": 85, 
+            "id": "Redstone_(Earth-712)", 
+            "identity": "Publicly known to the people of Earth-712", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "(At time of death) Adventurer (formerly) subversive", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Redstone absorbed energy through contact with the Earth. While on the ground he had superhuman strength enabling him to lift 75 tons. He also had superhuman stamina and durability. The further Redstone was from the Earth the weaker he would become causing him to lose all of his life energy and eventually causing him to die.", 
+            "realname": "Michael Redstone", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-712", 
+            "weight": 430
+        }
+    }
+}

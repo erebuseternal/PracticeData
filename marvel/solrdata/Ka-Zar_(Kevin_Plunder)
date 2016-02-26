@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Lord of the Hidden Jungle", 
+            "citizenship": "U.K.", 
+            "content": "By the time he was an adult, Ka-Zar had abandoned his former life of privilege for that of a \"savage,\" surviving in the harsh Savage Land. His brother, who called himself Parnival the Plunderer, finally found his brother and fought Ka-Zar for his half of their father's \"key.\" The key would serve as a catalyst to activate the Vibranium's properties of \"melting\" other metals in its area. Ka-Zar eventually regained his knowledge of his British upbringing, acting like \"an irreverent Americanized adventurer.\" Staying in the Savage Land as its self-proclaimed protector, Ka-Zar had many adventures and teamed up with many super heroes. He later met and married Shanna The She-Devil, and more recently, they had a son, Matthew.Ka-Zar and Shanna only left the Savage Land for a brief time when the two were rescued by the Avengers after a giant alien Terminus succeeded in destroying the Savage Land. They wandered the world, but later found the Savage Land regenerating itself and returned. They were on hand to aid such friends as the X-Men; Magneto, who confronted Zaladane and her Savage Land Mutates; and the Sub-Mariner, who fought various corporations from excavating the Land's resources. More recently, Ka-Zar and Shanna left the Savage Land again to pursue Parnival the Plunderer, who stole alien technology that enabled the Savage Land to maintain its environment. They ultimately defeated Parnival and his master, the cosmic Titan, Thanos (later revealed to be a clone.)Ka-Zar remains protector of the Savage Land.", 
+            "durability": 3, 
+            "education": "Incomplete primary education", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 5, 
+            "firstappearance": "X-Men #10 (1965)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Blonde\n", 
+            "height": 0, 
+            "id": "Ka-Zar_(Kevin_Plunder)", 
+            "identity": "Publicly known", 
+            "intelligence": 2, 
+            "knownrelatives": "Shanna O\u2019Hara (Shanna the She-Devil, wife), Matthew Plunder (son), Lord Robert (father, deceased), Lady Blanche (mother, deceased), Parnival Plunder (Plunderer, brother)", 
+            "occupation": [
+                "Hunter", 
+                "trapper", 
+                "fisherman"
+            ], 
+            "placeofbirth": [
+                "Castle Plunder", 
+                "Kentish Town", 
+                "London", 
+                "England"
+            ], 
+            "powers": "None", 
+            "realname": "Lord Kevin Reginald Plunder", 
+            "speed": 3, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 215
+        }
+    }
+}

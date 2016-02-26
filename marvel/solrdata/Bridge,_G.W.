@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "none", 
+            "content": "Six Pack disbanded and years later, Cable formed a new team, the X-Force. Bridge, now member of the S.H.I.E.L.D., formed the Weapon P.R.I.M.E. to investigate X-Force. The two teams starded a battle and Weapon P.R.I.M.E was defeated.", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "black\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Force (vol.1) #1 (1991)\n", 
+            "groupaffiliation": [
+                "Formerly S.H.I.E.L.D.", 
+                "Six Pack", 
+                "Weapon P.R.I.M.E."
+            ], 
+            "hair": "white\n", 
+            "id": "Bridge,_G.W.", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "occupation": [
+                "Formerly mercenary", 
+                "operative"
+            ], 
+            "placeofbirth": "U.S.A.", 
+            "powers": "none", 
+            "realname": "George Washington Bridge", 
+            "significantissues": [
+                "Left Six Pack again, arrested (Cable & Deadpool #34, 2007)", 
+                "killed by Microchip (Punisher #6, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

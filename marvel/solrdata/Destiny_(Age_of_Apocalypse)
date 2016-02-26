@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Citizen of Avalon", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "No visible sclera\n", 
+            "fighting": 1, 
+            "firstappearance": "(mentioned) Tales from the Age of Apocalypse: By the Light (1995); (seen) X-Calibre #1 (1995)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Grey\n", 
+            "height": 67, 
+            "id": "Destiny_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Douglas Ramsey (adopted son, deceased)", 
+            "occupation": "None", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Destiny has the mutant ability of precognition and can mentally scan alternate futures and foresee probable events.", 
+            "realname": "Irene Adler", 
+            "significantissues": [
+                "Predicts the destruction of Avalon (X-Calibre #1, 1995)", 
+                "helps restore reality back to normal (X-Men: Omega)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 110
+        }
+    }
+}

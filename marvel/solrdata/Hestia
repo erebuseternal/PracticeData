@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Vesta", 
+            "citizenship": "Olympus", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealead", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #301 (1980)\n", 
+            "groupaffiliation": "Gods of Olympus", 
+            "hair": "Blonde\n", 
+            "height": 68, 
+            "id": "Hestia", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Cronus (father); Rhea (mother); Gaea (grandmother), Ouranos (grandfather, deceased); Poseidon, Hades, Zeus (brothers); Chiron (half-brother), Demeter (sister), Hera (sister); Crius, Coeus, Hyperion, Japetus, Oceanus, Ophion (uncles); Dione, Mnemosyne, Phoebe, Tethys, Theia, Themis (aunts); Asteria, Atlas, Eos, Epimetheus, Leto, Prometheus, Selene (cousins), Menoetius (cousin, deceased); Apollo, Ares, Dionysus, Hephaestus, Hercules, Hermes, Triton (nephews), Artemis, Athena, Eilithyia, Discord, Hebe, Persephone, Aphrodite (nieces)", 
+            "occupation": [
+                "Goddess of the home", 
+                "Patron goddess of virgins"
+            ], 
+            "placeofbirth": "Olympus", 
+            "powers": "Hestia possesses the conventional superhuman physical attributes of an Olympian Goddess, including much denser bones and flesh. Virtually immortal, she is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm.", 
+            "realname": "Hestia", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 410
+        }
+    }
+}

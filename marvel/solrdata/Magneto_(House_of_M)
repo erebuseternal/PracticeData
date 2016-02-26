@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "King Magnus", 
+                "Master of Magnetism"
+            ], 
+            "citizenship": "Monarch of the House of M", 
+            "content": "As the only surviving member of his family after an internment at a Nazi prison camp, Magnus saw the kind of inhumanity ruthless, amoral human beings were capable of inflicting upon the world. Never again does he want to face the horror and degradation he and his people faced during World War II.In the years that followed, mutants began to appear across the globe. To the normal humans these mutants were looked upon as time bombs waiting to explode.  Believing they had no other option, the human governments developed mutant-hunting Sentinels to deal with the threat of the genetically superior. Mutants scattered and hid from these robotic monstrosities.Magneto chose a different path. As other mutants hid, Magneto launched an offensive against humankind in an effort to save his people. His first assault against a squadron of Sentinels was seen on television worldwide. It was the rallying cry mutants across the globe needed. With Magneto as their leader, the Homo Superior were able to take their rightful place as the heirs to the planet Earth.", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Bluish-gray\n", 
+            "fighting": 1, 
+            "firstappearance": "House of M #4 (2005)\n", 
+            "groupaffiliation": "House of M", 
+            "hair": "Silver\n", 
+            "height": 74, 
+            "id": "Magneto_(House_of_M)", 
+            "identity": "Known throughout the world as the savior and leader of Mutantkind", 
+            "intelligence": 1, 
+            "knownrelatives": "Lorna (Polaris, daughter), Pietro (Quicksilver, son), Wanda (daughter), Anya (daughter, deceased), Magda (wife, believed deceased), Tyler (grandson), other unnamed grandchildren", 
+            "occupation": "Monarch of Earth", 
+            "origin": "unrevealed", 
+            "placeofbirth": "Somewhere in Europe", 
+            "powers": "Magneto is a mutant with the ability to shape and manipulate magnetic fields. He uses his powers in many different ways including: creating a personal force field, flight, and energy blasts.", 
+            "realname": "Magnus", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "House of M", 
+            "weight": 190
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Spider-Man", 
+                "formerly Scorpion"
+            ], 
+            "citizenship": "U.S.A. with a criminal record", 
+            "content": "Former private investigator Mac Gargan was hired by J. Jonah Jameson to find out how Peter Parker is able to get incredible pictures of Spider-Man. Gargan's efforts to locate Peter in order to find out the truth triggered Parkers's spider sense, making him easily avoidable.Frustrated, Jameson decided to pay $10,000 to Gargan as the subject of an experiment.  An experiment created by Dr. Farley Stillwell, a researcher in animal mutation which endowed the subject with the characteristic of another animal. Unfortunately the process resulted in the loss of Gargan's sanity, and the creation of the super-powered criminal menace known as the Scorpion.Over the years Scorpion fought and was bested by Spider-Man many times. Most of these confrontations were the result of Spider-Man stepping in on an attempt on the life of Jameson, who Gargan hated even more than Spider-Man. With his mechanical tail, speed, and strength, Scorpion has always been more than a match for Spider-Man. Only the skill, experience, and quick wit of the web head helped him defeat Gargan.Later on, Scorpion was recruited by Norman Osborn, informed of Spider-man's real identity, and ordered to kidnap Peter's Aunt May if anything should happen to Osborn. In the middle of his task Scorpion was approached by the recently freed symbiote. Risking Osborn's wrath, Gargan chose the symbiote over Osborn's mission, since the symbiote's potential for power was far greater than any newly designed Scorpion suit could ever be. Thus transforming Scorpion into the even more monstrous Venom.Dying of cancer, Eddie Brock decided to auction for charity to the highest bidder the alien symbiote from which he derives his powers as Venom.After being purchased by New York mobster Don Fortunato to be used by his son Angelo, thinking him weak, the alien symbiote abandoned its new host leaving him to fall to his death after a short and murderous career.It then sought out a new host that shared both its hatred of Spider-Man as well as the will and experience of a seasoned criminal. Mac Gargan returning to his apartment after a recent kidnapping of Aunt May and intimidation of Spider-Man, only to find the symbiote which made Gargan a proposition to be its newest host. The one-time Scorpion eagerly accepted the offer, and was thus transformed into the monstrous Venom.After an elaborate plan paid off and the Green Goblin was out of prison, the Goblin led Spider-Man and the Black Cat into a direct confrontation with the newly formed Sinister Twelve, which included the new, more powerful Venom among its ranks.Venom and the Twelve very nearly defeated Spider-Man before the Fantastic Four and a small faction of the Avengers headed by Captain America joined in, leading to the eventual defeat of the Twelve.In the midst of the battle Osborn escaped, with the full intention to murder Peter's wife, Mary Jane. Spider-Man soon followed only to be stopped by Venom. The two foes continued to battle high above on New York's rooftops. After catching Gargan off balance Spider-Man dropped a condemned building on the new Venom, ending the battle. Venom was arrested and sent to Ryker's. He promised Spider-Man he would never reveal his identity, as that was his only leverage against him.More recently, Gargan has escaped prison. He journeyed to Battleworld, along with a ragtag group of characters including the likes of Henry Pym, Gravity, the Hood, and others, in order to enter a contest arranged by the Stranger posing as the Beyonder. Shortly thereafter, Venom was approached by a joint CSA / S.H.I.E.L.D. task force, and joined the new Thunderbolts team which was formed during the Civil War to stop unregistered heroes.", 
+            "durability": 6, 
+            "education": "High school graduate", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 2, 
+            "firstappearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)\n", 
+            "groupaffiliation": [
+                "Avengers (Osborn's team)", 
+                "formerly Thunderbolts", 
+                "Masters of Evil", 
+                "\"Spider-Man Revenge League\"", 
+                "Sinister Twelve", 
+                "formerly partners with Mister Hyde and Delilah"
+            ], 
+            "hair": "Brown (shaves head)\n", 
+            "height": 75, 
+            "id": "Venom_(Mac_Gargan)", 
+            "identity": "Publicly known", 
+            "intelligence": 2, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "U.S. government agent", 
+                "former professional criminal", 
+                "assassin", 
+                "private detective"
+            ], 
+            "origin": [
+                "(As Scorpion) Amazing Spider-Man #20 (1965)", 
+                "(As Venom) Marvel Knights: Spider-Man #8 & 10 (2005)"
+            ], 
+            "placeofbirth": [
+                "Yonkers", 
+                "New York"
+            ], 
+            "powers": "As Scorpion: enhanced strength, enabling him to lift (press) about 15 tons, speed, endurance and agility (greater than Spider-Man's). As Venom: the symbiote further enhances Gargan's superhuman attributes including his agility and strength (enabling him to lift 60 tons optimally), and granting him the ability to cling to almost any surface, block Spider-Man's spider-sense, and enable him to blend in with the background. The symbiote can also produce organic webs which he can use for web-slinging from building to building or capturing opponents.", 
+            "realname": "MacDonald \"Mac\" Gargan", 
+            "significantissues": [
+                "Confronted by Venom symbiote (Marvel Knights: Spider-Man #9, 2005)", 
+                "bonded with Symbiote, joined Sinister Twelve, vs Spider-Man (Marvel Knights: Spider-Man #10-11, 2005)", 
+                "jailed (Marvel Knights: Spider-Man #12, 2005)", 
+                "alongside Spider-Man & others, sent to Battleworld, seemingly killed Spider-Man (Beyond! #1, 2006)", 
+                "on Battleworld, attempted to kill others for \"Beyonder's\" wish fulfillment, returned to Earth (Beyond! #2-6, 2006)", 
+                "agreed to register with government under Superhuman Registration Act (Civil War: Choosing Sides, 2006)", 
+                "revealed to be outfitted with electrical implants by government to keep in check (Heroes for Hire #2, 2006)", 
+                "Fought Jack Flag (Thunderbolts #111, 2007)"
+            ], 
+            "speed": 3, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": 220
+        }
+    }
+}

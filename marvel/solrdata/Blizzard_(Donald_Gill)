@@ -1,0 +1,53 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "U.S.A. with a criminal record", 
+                "recently paroled"
+            ], 
+            "content": "Before he could be remanded to prison, Gill was rescued by the Rhino on behalf of Hammer, which served to strengthen Gill\u2019s loyalty to him and curtailed Tony Stark\u2019s efforts to lend Gill legal and moral guidance. Gill continued to work with Hammer and his agents, but Hammer knew of Stark\u2019s interest in helping Gill and used him as a bargaining chip to elicit Iron Man\u2019s help in taking down their mutual enemy, the Ghost. Iron Man and agents of Hammer managed to stop the Ghost, but the villains turned on Iron Man, abandoning the Blizzard. Gill still held hope that Hammer would rescue him, until Iron Man played a recording of Hammer's bargaining. Crushed, Gill allowed himself to be placed in custody.Later returning to criminal activities, Gill appeared to hold no interest in reforming. He worked on behalf of the Spymaster once, trying to loot Stark Enterprises but was opposed by the Avengers, and he later turned to a solo career as a criminal. He attended the A.I.M. weapons expo on his own behalf, and later tried a replica of Shapanka\u2019s final Blizzard suit. This suit proved defective, and he managed to use this in court as testimony against its repair man, the Tinkerer, who was being sued by the Trapster. Later still, he tried robbing an armored car and faced the New Warriors, but a rogue Iron Man suit of armor viscously beat him.With this series of failures, the Blizzard tried to be a part of a team again-- an mercenary group working on behalf of the Four Winds crime family.  The group was hired to invade Agent X\u2019s headquarters, but they suffered a humiliating defeat. (Gill was even force-fed a candy apple.) Afterward, Gill joined the Crimson Cowl in one of the largest incarnation of the Masters of Evil, but their plans to hold the world ransom using a weather-controlling device were thwarted by the Thunderbolts.When the Avengers formally disbanded, MACH-4 decided to re-form the Thunderbolts, a team of former superhuman villains who were attempting to reinvent themselves as a team of heroic champions. Gill was recruited as a founding member of the new team and earned a parole.  The Thunderbolts made their debut by saving Manhattan from the terrorist attacks of renegade Atlanteans. Although Gill continually doubted his effectiveness as a hero, he began to grow more confident in the role despite the increasing deterioration of his battlesuit and overwhelming personalities in teammates like Speed Demon. In fact, when Gill discovered Speed Demon moonlighting as a criminal in his old Whizzer identity, he tried to force Speed Demon to stop only to be left hanging from a bridge in his underwear for his efforts.", 
+            "durability": 3, 
+            "education": "Vocational high school graduate with a specialty in air conditioning and refrigerator repair", 
+            "energy": 5, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "Iron Man #223 (1987)\n", 
+            "groupaffiliation": [
+                "Formerly Thunderbolts", 
+                "Hammer Industries"
+            ], 
+            "hair": "Brown\n", 
+            "height": 0, 
+            "id": "Blizzard_(Donald_Gill)", 
+            "identity": "Publicly known", 
+            "intelligence": 2, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "Adventurer", 
+                "former mercenary and professional criminal"
+            ], 
+            "origin": "New Thunderbolts #7 (2005)", 
+            "placeofbirth": [
+                "Newark", 
+                "Delaware"
+            ], 
+            "powers": "The Blizzard battlesuit contains cryogenic circuitry that allows its wearer to generate and focus intense cold on a level beyond that of his predecessor, the original Blizzard. By manipulating this cold, Gill can create blasts of cold, ice missiles and walls of ice from ambient moisture, as well as forming sleet, snow, and freezing rain.", 
+            "realname": "Donald \u201cDonnie\u201d Gill", 
+            "significantissues": [
+                "Became intensely loyal to Hammer, learned Hammer had used him as a bargaining chip in negotiations with Tony Stark, who took an interest in reforming him (Iron Man #238-240, 1989)", 
+                "testified against Tinkerer during Trapster's lawsuit, engaged in courtroom brawl & subdued by She-Hulk (Sensational She-Hulk #59, 1994)", 
+                "in Seagate Prison, Gill participated in Hammer-orchestrated breakout attempt alongside Boomerang & Whirlwind, subdued by ex-Beetle Abe Jenkins (Thunderbolts #26, 1999)", 
+                "as free agent, fought New Warriors, savagely beaten into submission by sentient Iron Man armor, arrested (New Warriors #9, 2000)", 
+                "as part of Four Winds mercenary army, fought Agent X & others (Agent X #6, 2003)", 
+                "paroled, joined Thunderbolts (New Thunderbolts #1, 2005)", 
+                "became acclaimed celebrity hero along with fellow Thunderbolts, helped defeat Purple Man (New Thunderbolts #7-10 & 12, 2005)", 
+                "fired from Thunderbolts, recruited by into Zemo's alliance (New Thunderbolts #13-19, 2005-2006)"
+            ], 
+            "speed": 3, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 170
+        }
+    }
+}

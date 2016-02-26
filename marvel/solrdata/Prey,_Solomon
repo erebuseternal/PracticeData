@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Wakanda", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Harvard university graduate", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Black Panther: Panther\u2019s Prey #1 (1991)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Bald, formerly black\n", 
+            "height": 70, 
+            "id": "Prey,_Solomon", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Criminal", 
+            "origin": [
+                "Solomon's origin revealed (Black Panther: Panther\u2019s Prey #1", 
+                "1991)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Original name unrevealed, name legally changed to Solomon Prey", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 210
+        }
+    }
+}

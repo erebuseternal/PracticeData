@@ -1,0 +1,16 @@
+{
+    "add": {
+        "doc": {
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "fighting": 1, 
+            "id": "Tarantula_(Antonio_Rodriquez)", 
+            "intelligence": 1, 
+            "realname": "Antonio Rodriquez", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

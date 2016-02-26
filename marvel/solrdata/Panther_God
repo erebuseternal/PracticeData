@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Baset", 
+                "Babastis", 
+                "Cat God", 
+                "Cat Goddess", 
+                "Lady of the East", 
+                "Panther Goddess", 
+                "Baast-Hathor"
+            ], 
+            "citizenship": "Celestial Heliopolis", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green (Variable)\n", 
+            "fighting": 1, 
+            "firstappearance": "(Totem only) Fantastic Four #52 (1966); (fully) Black Panther #5 (1999)\n", 
+            "groupaffiliation": [
+                "Formerly affiliated with Gods of Heliopolis", 
+                "Ennead (Gods of Egypt)"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Panther_God", 
+            "identity": "Known to the Wakandans", 
+            "intelligence": 1, 
+            "knownrelatives": "Neith (Gaea, grandmother), Nun (Demiurge, grandfather), Ammon Ra (Atum, father), Thoth (uncle), Shu (brother), Sekhmet (Lion God, brother), Tefnut (sister), Khonshu (Chons, half-brother), Hathor (half-sister), Mahes (Apedemak, son) Geb  (nephew), Nut (niece), Osiris, Seth (grandnephews), others", 
+            "occupation": [
+                "Patron god to Wakandans", 
+                "god of pleasure", 
+                "dancing and music"
+            ], 
+            "placeofbirth": [
+                "Bubastis (near modern-day Zagazig", 
+                "Egypt)"
+            ], 
+            "powers": "Bast has typically godly superhuman strength, durability, longevity, etc. Appearing most commonly as an immense black panther or a humanoid panther, Bast has both male and female forms, and typically empowers others. Empowered by the sun, Bast is one of the most powerful of the Ennead.", 
+            "realname": "Bast", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

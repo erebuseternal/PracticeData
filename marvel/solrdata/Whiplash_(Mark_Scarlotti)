@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Blacklash", 
+                "Mark Scott"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Unfortunately for Mark, his lack of patience and bad temper often got the best of him, and soon he was back in his Blacklash costume. This time he was an operative for Justin Hammer, another rival of Tony Stark. Hammer called on Scarlotti for various reasons even if he had to turn him against another Hammer employee. One such situation happened when the Scorpion double-crossed Hammer. The Scorpion received upgraded weaponry in exchange for abducting an army General. Scorpion changed his mind and wanted to trade the General for one of his enemies, J. Jonah Jameson instead of delivering the package to his employer. Justin Hammer sent Blacklash and the Rhino after his rogue agent which led to a confrontation with Spider-Man. In the end, Rhino and Blacklash fulfilled their mission by retrieving the upgraded costume leaving the Scorpion and Spider-Man behind.", 
+            "durability": 1, 
+            "education": "College degree in engineering", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Tales of Suspense #97 (1968)\n", 
+            "groupaffiliation": [
+                "Formerly worked for the Maggia", 
+                "Death Squad", 
+                "Justin Hammer\u2019s B-Team"
+            ], 
+            "hair": "Blond\n", 
+            "height": 0, 
+            "id": "Whiplash_(Mark_Scarlotti)", 
+            "identity": "Known", 
+            "intelligence": 1, 
+            "knownrelatives": "Anthony Scarlotti (father), Barbara Scarlotti (mother), Trudi Scarlotti (wife, deceased), unidentified son (in foster care)", 
+            "occupation": [
+                "Former agent of Trevor Donohue", 
+                "Justin Hammer", 
+                "weapons designer and agent of the Maggia", 
+                "head of research for Stark International Cincinnati"
+            ], 
+            "origin": "Unrevealed", 
+            "placeofbirth": [
+                "Cleveland", 
+                "Ohio"
+            ], 
+            "powers": "None", 
+            "realname": "Mark Scarlotti", 
+            "significantissues": "Tales of Suspense #97-99, Iron Man and Sub-Mariner #1, Iron Man #1, Iron Man #62, Iron Man #72, Marvel Team-Up #72, Iron Man #123-124, Iron Man #126-127, Iron Man #146-147 (as Blacklash), Marvel Two-In-One #96, Marvel Team-Up #145, Captain America #319, Iron Man #223-224, Iron Man #239-240, Amazing Spider-Man #319, Elektra #5-7, Iron Man #8 (1998, returns to Whiplash), Iron Man #26, Iron Man #28 (killed by sentient Iron Man armor)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 215
+        }
+    }
+}

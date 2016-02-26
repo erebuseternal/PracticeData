@@ -1,0 +1,61 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Giant-Man", 
+                "Black Goliath"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "When the scientific adventurer Henry Pym was trapped at a minimum of ten feet in height, Tony Stark recommended that Foster assist Pym in finding a cure. For several months they worked together in Pym's laboratories in New Jersey and the Avengers Mansion, although Foster often became embroiled in the Avengers\u2019s cases, such as surviving attacks by the Sons of the Serpent and helping to thwart Whirlwind\u2019s attempt to kill Pym and the Wasp in order to claim their estate. The two scientists eventually found a cure.Foster returned to Stark Industries, where he was promoted to head of the biochemistry division at Stark Industries' Los Angeles plant. Fascinated by Pym's research, Foster synthesized the growth compound, hoping to eliminate any side effects. Eventually Foster tested the formula on himself and found he had successfully duplicated Pym's growth powers. Taking a vacation from his duties at Stark Industries, Foster devised a plan by which he might win back the affection of his ex-wife, Claire Temple. He wrote her about how he had worked with Pym and duplicated his powers but deceived her into believing that, like Pym, he was also trapped at giant stature. She agreed to meet him to see what help she could provide. They met at a traveling circus where he said he had to work in order to earn money to continue his research. Foster had outfitted himself in a costume and billed himself as \"Black Goliath.\" Claire's current boyfriend, Luke Cage (then known as the hero Power Man), had followed her, and the two men fought over her. They settled their differences long enough to join forces against the Ringmaster and his Circus of Crime, which Foster had unwittingly joined. Ultimately, however, Claire chose to remain with Cage rather than her ex-husband. Ashamed, Foster returned to Los Angeles.Although he had fashioned a costumed identity for himself, Foster was uncertain whether he should use it to fight crime, considering the circumstances in which he fashioned it. With the encouragement of Henry Pym, he decided to try. On his first outing, Foster encountered the criminal Atom-Smasher (Ronald English), who bombarded him with deadly radiation. This bombardment immediately produced painful side effects, making his size transformations difficult and causing him to occasionally black out. Before Foster was able to defeat the Atom-Smasher, his foe was killed by a mysterious assassin that later turned out to be Atom-Smasher's brother, the second Atom-Smasher. Ignoring the symptoms of radiation poisoning, he continued his career, battling such menaces as Vulcan, the Stilt-Man, and the Hijacker, and aiding the Champions and the Thing. After some time, Foster changed his code-name to Giant-Man.When it became difficult to ignore his illness, Foster took a leave of absence from Stark International to come a consultant at Project: PEGASUS, an upstate New York energy research installation facility. There to do research on the corpse of the Atom-Smasher, he nearly sacrificed his life to stop the mad scheme of the Nth Man. Following the attack, a team of top radiologists were assigned to help cure his condition, including Reed Richards and Walter Langkowski. After their treatments failed, Foster returned to Los Angeles to finish his life's work with Stark Industries, only to be attacked by the new Atom-Smasher (Michael English). The Thing, Spider-Woman, and himself defeated Atom-Smasher. Spider-Woman saved his life with a transfusion of her blood, at the expense of losing her own power of immunity to radiation. However, Foster believed his cell structure had deteriorated to a point that he could never become Giant-Man again. He retired and became a full time researcher. During this time, he became a consultant to the Avengers when they opened their West Coast base.Eventually, Foster found himself working as technician for the High Evolutionary at his Antarctic strong hold. Learning the High Evolutionary's plan to mutate everyone on earth, he managed to release a warning to the West Coast Avengers, who tracked him to the stronghold. But as the Avengers were being defeated, Foster swallowed a chemical that again transformed him into Giant-Man, and he learned that his cellular disintegration had been cured. He then defeated the High Evolutionary in combat. Foster declined joining the Avengers full time, returning to research.Foster renewed his research partnership with Henry Pym for a time, and with it, his occasional association with the Avengers (for instance, he assisted Pym in saving the life of the second Swordsman who was residing at the Avengers Mansion). Later, he and Pym learned of a potential invasion from the dimension of Kosmos, from which their growth powers derived. After thwarting the attempt, Foster found himself powerless once more, and he once again returned to scientific research.", 
+            "durability": 4, 
+            "education": "Ph.D. in Biochemistry from California Technical Institute, D.Sc.", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 4, 
+            "firstappearance": "(As Foster) Avengers #32 (1966); (as Black Goliath) Luke Cage, Power Man #24 (1975); (as Giant-Man) Marvel Two-in-One #55 (1979); (as Goliath) Thing #1 (2006)\n", 
+            "groupaffiliation": [
+                "Formerly Secret Avengers", 
+                "former Avengers associate", 
+                "formerly Stark West", 
+                "Project: PEGASUS", 
+                "\"Defenders for a Day", 
+                "\" Champions (of Los Angeles) (unofficial)", 
+                "Circus of Crime", 
+                "U.S. military"
+            ], 
+            "hair": "Black\n", 
+            "height": 0, 
+            "id": "Goliath_(Bill_Foster)", 
+            "identity": "Secret", 
+            "intelligence": 6, 
+            "knownrelatives": "Claire Temple (ex-wife)", 
+            "occupation": [
+                "Biochemist", 
+                "inventor", 
+                "research scientist", 
+                "adventurer", 
+                "(formerly) circus performer", 
+                "soldier"
+            ], 
+            "origin": [
+                "Luke Cage", 
+                "Power Man #24 (1975)"
+            ], 
+            "placeofbirth": [
+                "Watts", 
+                "Los Angeles", 
+                "California"
+            ], 
+            "powers": "Foster's physiology was enhanced by Pym Particles, which enables him to draw upon mass from another dimension in order to grow in stature and strength.", 
+            "realname": "William \"Bill\" Barrett Foster", 
+            "significantissues": [
+                "Civil War #4 - Killed by Thor", 
+                "See also: The Official Handbook. bibliography."
+            ], 
+            "speed": 3, 
+            "strength": 6, 
+            "universe": "Marvel Universe", 
+            "weight": 200
+        }
+    }
+}

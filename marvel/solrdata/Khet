@@ -1,0 +1,28 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Egyptian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "groupaffiliation": "Gods of Heliopolis", 
+            "hair": "Black (fur)\n", 
+            "id": "Khet", 
+            "identity": "The general populace of Earth believed him to be a myth", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Familiar of Anubis", 
+                "emissary to the Palace of Death and Rebirth"
+            ], 
+            "powers": "Endued with the power of Anubis himself.", 
+            "realname": "Khet", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

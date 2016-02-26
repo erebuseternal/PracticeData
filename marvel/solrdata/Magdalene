@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Lady Magdalene", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue, often blank white\n", 
+            "fighting": 1, 
+            "firstappearance": "Avengers #343 (1992)\n", 
+            "groupaffiliation": [
+                "Avengers (honorary)", 
+                "formerly Queen's Vengeance", 
+                "Gathers"
+            ], 
+            "hair": "Black\n", 
+            "height": 79, 
+            "id": "Magdalene", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Adventurer", 
+            "origin": "Avengers #344 (1992)", 
+            "placeofbirth": "Earth-9021", 
+            "powers": "Magdalene  is superhumanly strong, a formidable unarmed combatant and an expert in the combat use of a staff.", 
+            "realname": "Unrevealed, possibly Marissa Darrow", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-9021", 
+            "weight": 203
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unknown", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "firstappearance": "Uncanny X-Men #298\n", 
+            "groupaffiliation": "Formerly Acolytes", 
+            "hair": "Brown\n", 
+            "id": "Unuscione,_Carmella", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Possibly Unus", 
+            "occupation": "Terrorist", 
+            "placeofbirth": "Italy", 
+            "powers": "Morphing psionoplasmic exoskeleton", 
+            "realname": "Carmela Unuscione", 
+            "significantissues": "Back to Acolytes (X-Men #201)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

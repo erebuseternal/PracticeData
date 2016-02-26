@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Black King", 
+            "citizenship": "U.S.A.", 
+            "content": "Using his own business skills, Shinobi amassed a private fortune of his own and bought out Shaw Industries from under his father's feet. Confronting Sebastian Shaw with this coup at his father\u2019s retreat in Interlaken, Switzerland, Shinobi drove his father into a rage before using his mutant abilities to slay his father. Taking Shaw's ring as the symbol of his victory, he announced his triumph and claimed his father's place as Black King of the Inner Circle of the Hellfire Club.Shinobi quickly took control of Shaw's resources, and began assembling a personal guard of Sentinel-class robots and mercenaries. But Shinobi soon found himself in a deadly game with another rival for control of the club, fellow Upstart and mutant, Trevor Fitzroy. With his own Sentinels, Fitzroy separately defeated Inner Circle members Donald Pierce, Emma Frost, and finally Shinobi himself. Shinobi suffered the humiliation of having Fitzroy cut Shaw's ring from his finger and was left to bleed to death. But Shinobi's personal Sentinels reached him more swiftly than Fitzroy had expected, and they acted quickly to reattach the finger. The operation was successful, although Shinobi still feels a little stiffness.Marshaling his organization's power, Shinobi prepared for vengeance against Fitzroy, who was later confronted and forced to flee by the X-Men and their ally, Bishop. Shinobi sent his men to Fitzroy's hideout, secretly mined the base with powerful explosive charges, and placed Fitzroy under surveillance.When the X-Men and Bishop soon attacked Fitzroy's lair, the X-Men tried to retrieve Jean Grey, whom Fitzroy had captured while Bishop was in pursuit of mutant criminals entering our reality through Fitzroy's time-portal. Fitzroy tried to escape when he realized he was outmatched, but Shinobi's minions were waiting and they took Fitzroy captive. Shinobi retrieved his father's ring, then ordered the explosives detonated to kill the X-Men and destroy Fitzroy's base, although everyone escaped the blast.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "X-Factor #67 (1991)\n", 
+            "groupaffiliation": [
+                "Formerly Hellfire Club", 
+                "Upstarts"
+            ], 
+            "hair": "Black\n", 
+            "height": 71, 
+            "id": "Shaw,_Shinobi", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Sebastian Shaw (father), unidentified mother", 
+            "occupation": "None", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Able to alter the molecular density of his body, allowing him to become intangible. He is able to molecularly disrupt an object or a person he touches while he is phased.", 
+            "realname": "Shinobi Shaw", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

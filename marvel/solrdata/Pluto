@@ -1,0 +1,54 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Hayden P. Hellman", 
+                "Mr. Pluto", 
+                "Link", 
+                "Death-Man", 
+                "Dark Lord", 
+                "Dispater", 
+                "Mantus (Etruscan name)", 
+                "Zeus Katachthonius (\"Zeus of the Underworld)"
+            ], 
+            "citizenship": "Olympus", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Self-educated over the centuries", 
+            "energy": 1, 
+            "eyes": "Gray (pupils are usually invisible)\n", 
+            "fighting": 1, 
+            "firstappearance": "Thor #127 (1966)\n", 
+            "groupaffiliation": [
+                "Ares", 
+                "Hippolyta", 
+                "Cerberus", 
+                "mutates from an alternate future Earth", 
+                "Mephisto", 
+                "Hela", 
+                "Seth Ahpuch", 
+                "Erishkigel II", 
+                "Yama", 
+                "Loki", 
+                "Lorelei"
+            ], 
+            "hair": "Black\n", 
+            "height": 77, 
+            "id": "Pluto", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Persephone (wife), Ouranos (grandfather, deceased); Gaea (grandmother); Cronus, Rhea (parents); Zeus, Neptune (brothers); Hera, Demeter, Hestia (sisters); Apollo, Ares, Dionysus, Hephaestus, Hercules, Hermes (nephews); Athena, Artemis, Venus (nieces); Thor (son of Gaea)", 
+            "occupation": [
+                "Ruler of Hades", 
+                "god of the dead"
+            ], 
+            "placeofbirth": "Olympus", 
+            "powers": "superhuman strength, healing and durability. He is immune to conventional diseases and impervious to most physical attacks.", 
+            "realname": "Hades", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 520
+        }
+    }
+}

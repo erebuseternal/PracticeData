@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Joseph McRooter", 
+            "citizenship": "Unknown", 
+            "content": "Malik later embarked on a scheme to obtain American rockets for the U.S.S.R. by masquerading as a scientist. He subsequently killed and replaced Senator Joseph McRooter, using his identity to recruit war criminals to spread false accusations of communist sympathy. However, Cap and Bucky defeated him on each occasion.Hoping to avoid further battle, Malik eventually moved his operations to Algeria, becoming the mastermind of a criminal organization. Decades after his clashes with the 1950's Captain America, he identified two undercover U.S. government agents, Richard and Mary Parker. He had both of them killed and framed for illicit defection; little is known about his activities for the next twenty-plus years.In recent years, the Parker's son Peter, learned of the charges against his parents and traveled to Algeria to investigate their deaths. Malik sent his assassin the Finisher to stop Spider-Man. Spider-Man defeated the Finisher and forced a confession from him that provided enough evidence to prove his parents weren't traitors.  Apparently driven from Algeria, Malik later obtained a nuclear weapon, but was opposed by le Peregrine, Hawkeye, and the Sandman who were all being employed by the Silver Sable. Malik activated his bomb, but the Sandman was able to prevent it from detonating, and Malik was sentenced to prison in Algeria.", 
+            "durability": 1, 
+            "education": "University graduate", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Young Men #24 (1953)\n", 
+            "groupaffiliation": [
+                "Led his own criminal organization", 
+                "formerly Communist Party"
+            ], 
+            "hair": "White\n", 
+            "height": 67, 
+            "id": "Red_Skull_(Albert_Malik)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "(At time of death) professional criminal", 
+                "(Formerly) Soviet agent"
+            ], 
+            "placeofbirth": [
+                "Leningrad (now St. Petersburg)", 
+                "Russia"
+            ], 
+            "powers": "None", 
+            "realname": "Albert Malik", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 165
+        }
+    }
+}

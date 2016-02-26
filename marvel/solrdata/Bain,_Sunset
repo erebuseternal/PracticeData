@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Madam Menace", 
+            "citizenship": "U.S.A.", 
+            "content": "When Machine Man lost an arm fighting Baron Brimstone, it was stolen and sold to Madam Menace, who intended to reverse engineer it and create her own robot army. When Machine Man came for his limb, Menace personally confronted him, capturing him via her directed EMP technology and an electro-magnetic stasis field. Menace engaged in negotiations to sell the robot, but Machine Man escaped; Bain escaped by blowing up her yacht. Bain adapted a sonic disruptor and recaptured Machine Man, but Alpha Flight freed the robot. When Machine Man was later attacked by a Termini (a larval form of the planet-destroying Terminus), Iron Man brought the damaged Machine Man (and the head of the destroyed Jocasta) to Sunset's Seattle-based Baintronics headquarters. Using her Duplikatron technology, Madam Menace created replicas of Machine Man and Jocasta's head. She returned a slightly defective version of Jocasta's head to Machine Man when he recovered and retained the original Jocasta and duplicate Machine Man for research.", 
+            "durability": 2, 
+            "education": "Ph.D. from Massachusetts Institute of Technology", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 3, 
+            "firstappearance": "Machine Man #17 (1980)\n", 
+            "groupaffiliation": [
+                "Owns Baintronics", 
+                "Inc.", 
+                "former member of Inner Circle of New Enforcers (Controller", 
+                "Fixer", 
+                "Mentallo", 
+                "Mr. Fear)"
+            ], 
+            "hair": "Brown\n", 
+            "height": 66, 
+            "id": "Bain,_Sunset", 
+            "identity": "Secret", 
+            "intelligence": 5, 
+            "knownrelatives": "None", 
+            "occupation": "Industrialist", 
+            "placeofbirth": [
+                "San Diego", 
+                "California"
+            ], 
+            "powers": "Sunset is a genius-level inventor; she controls the resources of Baintronics and other smaller companies, as well as a small army of uniformed criminal hirelings. She rarely uses her inventions herself, preferring to sell them.", 
+            "realname": "Sunset Bain", 
+            "significantissues": [
+                "First time meeting Iron Man in flashback (Iron Man #19, 1999)", 
+                "hired new War Machine (Iron Man #11, 1998)", 
+                "hired Taskmaster to sabotage Stark Enterprises, betrayed Taskmaster (Taskmaster #1, 2002)", 
+                "manipulated the Triads (Taskmaster #2, 2002)", 
+                "teamed up with and killed the Triads (Taskmaster #3, 2002)", 
+                "confronted by Taskmaster about betrayal (Taskmaster #4, 2002)", 
+                ""
+            ], 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 140
+        }
+    }
+}

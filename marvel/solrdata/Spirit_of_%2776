@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Captain America", 
+            "citizenship": "U.S.A.", 
+            "content": "In April of 1945, the Spirit of '76 joined Captain America, the Patriot and the USSR's heroic Red Guardian in a Berlin mission to retrieve Nazi secrets. Their mission ended with the Nazi Red Skull being crushed under the a fallen building. Shortly after Captain America and Bucky were lost in action. In order to hide their disappearance, President Truman appointed Nasland to become the new Captain America and the young Fred Davis to become Bucky. They both served for the rest of the war with the Invaders, and after the war joined the All-Winners Squad.", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Captain America Comics #49, (As Spirit of '76) Invaders #14\n", 
+            "groupaffiliation": [
+                "All-Winners Squad", 
+                "(Formerly) the Crusaders", 
+                "the Invaders", 
+                "partner of Bucky"
+            ], 
+            "hair": "Black\n", 
+            "height": 74, 
+            "id": "Spirit_of_%2776", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": [
+                "(At time of death) adventurer", 
+                "(formerly) teacher"
+            ], 
+            "origin": "(As Captain America) What If #4", 
+            "placeofbirth": [
+                "Philadeliphia", 
+                "PA"
+            ], 
+            "powers": "None", 
+            "realname": "William Nasland", 
+            "significantissues": "Died in combat with Adam II (What If #4)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 215
+        }
+    }
+}

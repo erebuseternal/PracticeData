@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Queen of Skull City", 
+            "citizenship": "Presumably a citizen of Africa", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Unrevealed (as Marinette); Flaming red (as Ghost Rider)\n", 
+            "fighting": 1, 
+            "firstappearance": "Ghost Rider #31 (2009)\n", 
+            "groupaffiliation": "Former partner of Baron Skullfire and leader of the Phantom Riders of the Congo", 
+            "hair": "Unrevealed (as Marinette); None (as Ghost Rider)\n", 
+            "id": "Ghost_Rider_(Marinette_Bwa_Chech)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Former Spirit of Vengeance", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Presumably Africa", 
+            "powers": "It can be assumed Marinette possessed all the powers given to every Spirit of Vengeance, including shooting hellfire from her hands and mouth. Marinette also appeared to be able to control the direction of the flames as well.", 
+            "realname": "Marinette Bwa Chech", 
+            "significantissues": [
+                "Met Blaze and prepared for war against Ketch and the Black Host (Ghost Rider #31, 2009)", 
+                "Fought alongside other Ghost Riders, but Daniel Ketch eventually took her power from her (Ghost Rider #32, 2009)", 
+                "Returned in Heaven when she was needed to battle Zadkiel and Kid Blackheart (Ghost Riders: Heaven\u2019s On Fire #6, 2010)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

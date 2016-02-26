@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Doomsday Machine", 
+                "The Devastator", 
+                "He-Who-Destroys"
+            ], 
+            "content": "The Mandarin eventually discovered Ultimo and altered his programming to suit his needs. He claimed that Ultimo was his own creation; the only thing, however, that the Mandarin actually created (besides the different programming) was an artificial blue skin for the robot. Mandarin utilized Ultimo numerous times against Iron Man, including once in the nation\u2019s capitol, Washington D.C. During that battle, Iron Man trapped Ultimo beneath the Earth\u2019s crust. As a result, the robot meandered through the planet\u2019s magma absorbing an enormous amount of energy. Years later, while Iron Man was in battle with a rock-like creature dubbed the Earth Mover near Mt. Acheron in California, Ultimo re-emerged sans his blue skin, significantly taller and much more powerful. He vaporized the Earth Mover and destroyed a remote unit Iron Man, and then went about destroying anything in his path.Jim Rhodes cobbled together several of Tony Stark\u2019s closest confidantes to wear old suits of Iron Man armor in order to meet the Ultimo threat. This group was dubbed \u201cThe Iron Legion\u201d and proved successful only in slowing down the behemoth robot. It took Tony Stark in a new suit of Iron Man armor to figure out how to stop it; he planted a device on Ultimo\u2019s back which caused lightning to strike it, thereby shutting down all of its systems.Ultimo remained in the possession of Stark Enterprises, and then eventually the new Stark-Fujikawa. Tony Stark was not part of the latter company and hence had no say (nor knowledge) of that company\u2019s plan to use Ultimo as a floating power source. He was quite dismayed when he discovered what had become of the dangerous robot. However, his protests were met with deaf ears by his cousin Morgan Stark, now part of Stark-Fujikawa. Sometime later, two entities known as Sapper and Golden-Blade attacked the Stark-Fujikawa craft which laid atop Ultimo, attempting to siphon energy from it. Their attack unknowingly reactivated Ultimo, even as Sapper \u2013 who turned out to be the sole-surviving Rajaki \u2013 realized what the Stark-Fujikawa ship really was.", 
+            "durability": 7, 
+            "energy": 5, 
+            "eyes": "yellow\n", 
+            "fighting": 7, 
+            "firstappearance": "(shadow only) Tales of Suspense #76 (1966); (fully seen) Tales of Suspense #77 (1966)\n", 
+            "hair": "none\n", 
+            "height": 0, 
+            "id": "Ultimo", 
+            "intelligence": 2, 
+            "occupation": "destroyer of worlds", 
+            "origin": "(in part) Iron Man #24 (2000)", 
+            "placeofbirth": "unknown planet outside solar system", 
+            "powers": "enormous strength (approx. class 100); virtually unlimited endurance and durability", 
+            "realname": "unknown", 
+            "significantissues": [
+                "buried under a volcano (Tales of Suspense #78, 1966)", 
+                "Thor drove Ultimo back into volcano after brief battle (Avengers Annual #1, 1967)", 
+                "re-emerged under the Mandarin\u2019s control, used against Iron Man and the Yellow Claw (Iron Man #69-#71, 1974)", 
+                "sent by Russian sub (in conjunction with the Mandarin) to Washington DC, buried in lava by Iron Man (Iron Man #95-#96, 1977)", 
+                "re-emerged again at Mt. Acheron (Iron Man #298, 1993)", 
+                "destroys remote-controlled Iron Man severely injuring Tony Stark (Iron Man #299, 1993)", 
+                "battled Iron Legion, defeated by Iron Man (Iron Man #300, 1994)", 
+                "reappeared as inert power source for Stark-Fujikawa, became reactivated (Iron Man #23, 1999)", 
+                "defeated by Iron Man, disassembled by SHIELD (Iron Man #25, 2000)"
+            ], 
+            "speed": 3, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": "undetermined\n"
+        }
+    }
+}

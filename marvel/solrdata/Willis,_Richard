@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "fighting": 1, 
+            "firstappearance": "Gravity #1 (2005)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Blond\n", 
+            "id": "Willis,_Richard", 
+            "identity": "Publicly known", 
+            "intelligence": 1, 
+            "knownrelatives": "Mary Willis (wife), Greg Willis (son)", 
+            "occupation": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Richard was a normal human, possessing no known super human powers or abilities.", 
+            "realname": "Richard Willis", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

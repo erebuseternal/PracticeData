@@ -1,0 +1,33 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed, but Morass received military training", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Incredible Hulk #601 (2009)\n", 
+            "groupaffiliation": "Formerly Gamma Corps: Black", 
+            "hair": "Brown\n", 
+            "id": "Morass", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Former Soldier", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Through genetic manipulation Morass was given a malleable clay-like body similar to the Glob (Joseph Timms). The procedure gave her super strength and durability, the ability to reconstitute her body using the ground beneath her feet, and form her hands into various blunt weapons such as a hammer. Tendril-like fingertips enabled her to ensnare her foes, and she could divide into almost two separate halves to avoid being struck by an enemy. Because her composition was comparable to clay, Morass was susceptible to drying out.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Ambushed Lyra with the rest of her group (Incredible Hulk #601, 2009)", 
+                "fought Lyra solo, was tricked and defeated (Incredible Hulk #602, 2009)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

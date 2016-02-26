@@ -1,0 +1,79 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Lucky One", 
+                "Fallen Messiah"
+            ], 
+            "citizenship": "Renegade slave of the Wildways with a criminal record", 
+            "content": "On Earth, he found work as a stunt-man. There, Longshot befriended a stuntwoman co-worker named Ricochet Rita. After Spiral, Gog and Magog failed in capturing Longshot, Mojo had finally decided to find Longshot himself, along with Spiral. Mojo failed in his attempt and was sent back to the Mojoverse by Longshot, with help from Ricochet Rita, Quark, and Doctor Strange. Longshot decided it was time to return to his home planet and free the slaves. This time Ricochet Rita and Quark came along with him. But Longshot's rebelion failed to overthrow the Spinless Ones.Longshot returned to Earth and joined the X-Men. A relationship between fellow X-Man, Dazzler, soon surfaced and the two were later married. The couple returned to Mojoworld to lead another rebellion. This time it seemed they had succeeded in freeing the slaves. The planet was once again at peace, and the couple decided to make the planet their permanent home. While in Mojoworld, Longshot and Dazzler looked after a group of Mojo-manufactured child clones of the X-Men named the X-Babies. Mojo returned to the Mojoverse and reclaimed himeslf as the ruler of the planet. Longshot once again became a rebel leader against the slavemasters. Phoenix  discovered that Dazzler had become pregnant with Longshot\u2019s baby, but the baby's fate remains unrevealed.Dazzler returned from the Mojoverse without Longshot by her side. She claimed Mojoworld was completely destroyed as a result of \"X-Baby\" versions of villains that were spawned from the Age of Apocalypse. The baby versions of Apocalypse, Holocaust, Dark Beast, and the Sugar Man had completely destroyed the entire Mojoverse, including, she claimed, her husband Longshot.", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue (left eye glows when one of his powers is active)\n", 
+            "fighting": 1, 
+            "firstappearance": "Longshot #1 (1985)\n", 
+            "groupaffiliation": [
+                "X-Factor Investigations", 
+                "formerly Exiles", 
+                "Imperial Guard", 
+                "X-Men", 
+                "Cadre Alliance", 
+                "Wildways Rebellion"
+            ], 
+            "hair": "Blond\n", 
+            "height": 74, 
+            "id": "Longshot", 
+            "identity": [
+                "Publicly known in the Wildways", 
+                "secret from the general populace of Earth"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Dazzler (estranged wife), unborn child (presumed deceased)", 
+            "occupation": [
+                "Freedom fighter", 
+                "former rebel leader", 
+                "movie stuntman", 
+                "slave"
+            ], 
+            "origin": "Longshot #1-6 (1985)", 
+            "placeofbirth": "Unidentified world in \"Mojoverse\" dimension", 
+            "powers": "Longshot has genetically engineered hollow bone structure, superhuman speed, endurance, agility and reflexes, leather-like skin, advanced healing abilities, can psionicly affect probability fields which, when his motives are pure, causes good luck for him (at the expense of bad luck occurring elsewhere). He can telepathically \"read\" recent memories of a person via physical contact, and has psychometry, the ability to detect emotional psychic imprints left, or to be left, on objects.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Fled from rebel hunters on Earth (Longshot #1, 1985), first encountered Ricochet Rita (Longshot #2, 1985)", 
+                "turned to child, fought alongside X-Men (X-Men Annual #10, 1986)", 
+                "tended to wounded Morlocks and X-Men as part of the X-Men team (Uncanny X-Men #215, 1987)", 
+                "battled Juggernaut with Dazzler and Psylocke in Edinburgh, Scotland (Uncanny X-Men #218, 1987)", 
+                "faced the challenge of the powerful extraterrestrial mutant, Horde, at the Citadel of Light and Sound (X-Men Annual #11, 1987)", 
+                "battled Marauders in San Francisco (Uncanny X-Men #221, 1987)", 
+                "sacrificed life to banish the Adversary in Dallas (Uncanny X-Men #227, 1988)", 
+                "evicted Reavers from Australian Outback headquarters (Uncanny X-Men #229, 1988)", 
+                "provided psychometric reading of Reavers\u2019 treasure cave objects, returned stolen goods to owners (Uncanny X-Men #230, 1988)", 
+                "fought Harry Palmer and the Brood mutant gang in Denver (Uncanny X-Men #232-234, 1988)", 
+                "transported to Genosha to rescue Wolverine, Rogue and Madelyne Pryor (Uncanny X-Men #237-238, 1988)", 
+                "faced demonic  invasion of New York, became tainted (Uncanny X-Men #240 - 243, 1989, X-Factor #38, 1989)", 
+                "stood alone against Mr. Sinister, stalled him to enable Cyclops to finish battle (X-Factor #39, 1989)", 
+                "recovered from demonic corruption, helped prevent alien invasion, charming the Cosmic Cutie Commandos (Uncanny X-Men #245, 1989)", 
+                "traveled to Iceland and Mr. Jip's lair vs. the Serpent Society (X-Men Annual #13, 1989)", 
+                "faced Nimrod / Master Mold Sentinel merger, Rogue pulled into Siege Perilous portal (Uncanny X-Men #247, 1989)", 
+                "felt incomplete being amnesiac, faded away (Uncanny X-Men #248, 1989)", 
+                "Longshot reunited with amnesiac Dazzler, returned to Mojoverse together, rebellion crushed (X-Men #5-7, 1992)", 
+                "forced with the X-Men to perform in a Wizard of Oz parody (X-Men #10, 1992)", 
+                "seemingly killed Mojo, Xavier announced Dazzler's pregnancy with his baby, Mojo II assumed control of Mojoverse (X-Men #11, 1992)", 
+                "Dazzler no longer pregnant, fate of baby unrevealed, led new rebellion against Mojo II, Mojo II overthrown (Marvel Fanfare #4-5, 1996)", 
+                "future Longshot led X-Force to rescue Cable and Shatterstar (X-Force #60-61, 1996)", 
+                "faced Thingee with the dwarf, Nutt (Longshot #1, 1997)", 
+                "led another rebellion (Exiles #18-19, 2001)", 
+                "traded to Exiles by Mojo in return for rights to Multiverse broadcasts (Exiles #74, 2006)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": [
+                "Wildways (\"Mojoverse\")", 
+                "currently in exile"
+            ], 
+            "weight": 80
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Goblyn", 
+            "citizenship": "Canadian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Alpha Flight #53\n", 
+            "groupaffiliation": "Former Derangers and Beta Flight", 
+            "hair": "Grey and blue\n", 
+            "height": 56, 
+            "id": "Goblyn", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Darby Dean (father), Susan Dean (mother), Laura Dean (sister)", 
+            "occupation": "Adventurer", 
+            "origin": "Alpha Flight #54", 
+            "placeofbirth": "Unidentified city in Canada", 
+            "powers": "Goblyn possesses the normal human strength of a girl her age, height, and build who engages in intensive regular exercise. She also possesses superhuman agility.", 
+            "realname": "No first name last Dean", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 74
+        }
+    }
+}

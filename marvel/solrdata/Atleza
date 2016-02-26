@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "unrevealed", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Data transferred from Atlez's mind; mentored by Adam Warlock", 
+            "energy": 5, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Infinity Abyss #3 (2002)\n", 
+            "groupaffiliation": "Guardians of the Infinity Abyss", 
+            "hair": "Brown\n", 
+            "height": 33, 
+            "id": "Atleza", 
+            "identity": [
+                "No dual identity", 
+                "true nature unknown to general public"
+            ], 
+            "intelligence": 3, 
+            "knownrelatives": "Brian Langunn (father), Debby Langunn (mother), Ruby Langunn (sister)", 
+            "occupation": [
+                "Anchor of Earth-616's reality", 
+                "guardian of the Infinity Abyss"
+            ], 
+            "placeofbirth": [
+                "Pine Bush", 
+                "New York"
+            ], 
+            "powers": "Atleza anchors reality in place, preventing it from being pulled into and destroyed by the Infinity Abyss. She has limited ability to affect events within reality. Her powers will likely increase with age.", 
+            "realname": "Atleza Langunn", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 23
+        }
+    }
+}

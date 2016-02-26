@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "United States of America of Earth-712 with a criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "(as Emil Burbank) Thor #280; (as Master Menace) Squadron Supreme #7\n", 
+            "groupaffiliation": "Currently Master Menace is protected by and works for the Squadron Supreme (Formerly) he was a scientific advisor to the Redeemers", 
+            "hair": "(Currently) Grayish-white, (Formerly) Black\n", 
+            "height": 74, 
+            "id": "Master_Menace_(Earth-712)", 
+            "identity": "Publicly known to the people of Earth-712", 
+            "intelligence": 1, 
+            "knownrelatives": "L. L. Burbank (brother)", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Other then his vast intellect, Master Menace has no known powers.", 
+            "realname": "Emil Burbank", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Earth-712", 
+            "weight": 245
+        }
+    }
+}

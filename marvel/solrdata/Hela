@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Halja", 
+            "citizenship": "Realms of Hel and Niffleheim", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Journey Into Mystery #102 (1964)\n", 
+            "groupaffiliation": "Gods of Asgard", 
+            "hair": "Grey (almost wholly on her right side)\n", 
+            "height": 78, 
+            "id": "Hela", 
+            "identity": [
+                "No dual identity", 
+                "public knowledge of her existence among the citizens of Asgard"
+            ], 
+            "intelligence": 1, 
+            "knownrelatives": "Loki (father), Angrboda (mother), Fenris Wolf, Midgard Serpent, (brothers), Laufey & Farbauti (parental grandparents, deceased), Varolac & Ecchidna (maternal grandparents), Phorcys & Ceto (maternal great-grandparents), Set (maternal great-great grandfather)", 
+            "occupation": [
+                "Goddess of Death", 
+                "ruler of Hel and Niffleheim"
+            ], 
+            "origin": "Hela's origin remains unrevealed", 
+            "placeofbirth": [
+                "Unrevealed", 
+                "allegedly Jotunheim"
+            ], 
+            "powers": "Hela possesses the conventional attributes of an Asgardian  woman (\u201cgoddess\u201d) as well as certain special abilities that pertain to her role as a local death goddess. Like all Asgardians, she is extremely long-lived (though not immortal like the Olympians), super-strong (the average Asgardian female can lift (press) about 25 tons), immune to all diseases, and resistant to conventional injury (Asgardian flesh and bone is about 3 times as dense as similar human tissue, contributing to all Asgardians\u2019 superhuman strength and weight). Her Asgardian metabolism gives her far greater than human endurance at all physical activities tough Hela rarely feels obliged to perform undue exercise.\nAs a goddess of death, Hela holds her power of life and death over her kinsmen, the gods of Asgard. Death for an Asgardian is somewhat different than death for a mortal. In both cases, the corporeal body ceases all functions and activities, but whereas mortal spirit flee the physical form at the moment of death, the spirits of gods remain in their bodies until the death-goddess draws it out and dispatches it to its final resting place. Those spirits (or astral-selves) remain integral for eternity and reside in certain twilight realms in the dimension of Asgard like Hel and Niffleheim, where they take on a quasi-physical tangible existence. Although Hela is usually content to wait until an Asgardian is on the verge of succumbing to wounds before she touches him or her and draws the spirit from the body, she can also touch perfectly healthy Asgardians and kill them with the touch if she so chooses. She also has the power to restore life to recently diseased gods as long as their spirits have not left the sheaths of their bodies. She does not exercise this power often.\nWhile Hela\u2019s touch is also fatal to mortals, she does not generally leave the dimension of Asgard or have much traffic with human lives. The souls of immortals are her province, nor those of mortals.\n\nHela is able to travel about in her astral form, possessing the same powers of death as her physical form has. Because of her Asgardian metabolism, she does not have any limitation on the amount of time she can spend out of her physical form, unlike mortal astral projectionists.", 
+            "realname": "Hela", 
+            "significantissues": [
+                "appeared to Thor while he was on the verge of death after battling the Wrecker (Thor #150)", 
+                "failed to tempt Thor into entering Valhalla (Thor #154)", 
+                "stole a portion of the sleeping Odin's soul, thus creating Infinity (Thor #177)", 
+                "unleashed Infinity upon the universe (Thor #184)", 
+                "slew Thor, who was returned to life by the sacrifice of her servant, the Silent One (Thor #186)", 
+                "slain by Odin to save Thor, then returned to life by him to restore the natural balance and death", 
+                "slew Thor, but restored his life when Sif offered her life in his place (Thor #189-190)", 
+                "battled Pluto for the right to claim Odin's soul (Thor #199)", 
+                "restored Odin to life to prevent Pluto from claiming his soul (Thor #201)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 500
+        }
+    }
+}

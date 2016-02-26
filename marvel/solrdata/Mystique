@@ -1,0 +1,84 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Raven Darkh\u00f6lme", 
+                "Foxx", 
+                "Helmut Stein", 
+                "Mallory Brickman", 
+                "B. Byron Biggs", 
+                "Surge", 
+                "Ronnie Lake", 
+                "Holt Adler", 
+                "Leni Zauber", 
+                "Raven Wagner", 
+                "Randy Green", 
+                "others"
+            ], 
+            "citizenship": [
+                "U.S.A.", 
+                "criminal record"
+            ], 
+            "content": "Mystique had concealed her superhuman powers and criminal intentions so well over the years that, as Raven Darkholme, she was able to rise rapidly through the United States Civil Service to the trusted position of Deputy Director of the Defense Advanced Research Planning Agency (DARPA) in the United States Department of Defense, giving her access to military secrets and advanced weaponry, both of which she used for her own criminal and subversive purposes.Mystique organized the third incarnation of the Brotherhood of Evil Mutants, which originally consisted of herself, Avalanche, the Blob, Destiny, and Pyro. Mystique named her group after the original Brotherhood of Evil Mutants, an organization founded by Magneto.This Brotherhood first became known when it attempted to intimidate the public by assassinating Senator Robert Kelly, who was investigating what he perceived was the possible danger posed by the existence of any superhuman beings. The X-Men thwarted the assassination attempt, and the Brotherhood later clashed with the X-Men on other occasions, as well as the Avengers and other heroes. Rogue was a member of the Brotherhood for a time but finally left to join the X-Men in order to find help in learning how to deal with her superhuman powers.Anti-mutant sentiment among normal human beings had greatly increased, and the federal government launched its own covert anti-mutant program, Project: Wideawake. Believing that the times had become too dangerous for the Brotherhood to continue its criminal activities, Mystique went to Dr. Valerie Cooper, special assistant to the head of the National Security Council, and offered the Brotherhood's services to the government. Cooper agreed to convey the offer to the President, on the condition that the Brotherhood pass a test she imposed: the capture of Magneto. The Brotherhood, now renamed Freedom Force, succeeded in bringing Magneto to the authorities (only because he voluntarily surrendered to them) and soon afterward officially entered the government's employ. In return, and as Freedom Force's leader, Mystique received a Presidential pardon for all criminal charges against her, but the pardon would be revoked if any member of Freedom Force was found committing a crime. During her time with Freedom Force, Mystique faced many new opponents such as the Grip, Avengers West Coast, and several other foes. During this stint, her team was sent to Muir Island and were confronted by the Reavers, who killed her teammate Stonewall. During the battle, Mystique charged Forge with the duty of protecting Destiny, which he did until Destiny convinced him that Mystique needed more help. After Forge left to help Mystique, Destiny was slain by a mind-controlled Legion. Afterward, Mystique swore vengeance on Forge for her friend's death, but a visit by a future version of herself convinced her to take some time off to mourn the death of Destiny. During her time off, she went on a cruise and scattered Destiny's ashes into the ocean.", 
+            "durability": 4, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Yellow, no visible pupils (variable)\n", 
+            "fighting": 5, 
+            "firstappearance": "(as Raven) Ms Marvel #16 (1978); (as Mystique) Ms. Marvel #18 (1978)\n", 
+            "groupaffiliation": [
+                "X-Men (Osborn's team)", 
+                "formerly X-Men", 
+                "Marauders", 
+                "Xavier Institute Student Body", 
+                "X-Corps", 
+                "Brotherhood Of Mutants", 
+                "X-Factor", 
+                "Freedom Force", 
+                "DARPA"
+            ], 
+            "hair": "Red (variable)\n", 
+            "height": 70, 
+            "id": "Mystique", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Christian Wagner (ex-husband, deceased), Kurt Wagner (Nightcrawler, son), Graydon Creed (son, deceased), Anna Marie (Rogue, foster daughter), Miles Ralph Brickman (husband), Gloria Brickman (adopted daughter), Talia Wagner (Nocturne, alternate timeline granddaughter)", 
+            "occupation": [
+                "Mercenary", 
+                "adventurer", 
+                "former terrorist", 
+                "government operative", 
+                "private investigator", 
+                "model", 
+                "journalist"
+            ], 
+            "origin": [
+                "X-Men Unlimited #4 (1994)", 
+                "Uncanny X-Men #428 (2003)", 
+                "Sabretooth: Death Hunt #3 (1993)"
+            ], 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Mystique can psionically shift the atoms of her body to duplicate any humanoid of either sex, wearing any kind of clothing. She can precisely duplicate another person\u2019s retina pattern, finger, palm and skin-pore patterns, and vocal cords. She can increase her volume, but not her mass. Mystique\u2019s power grants her age retardation, increased healing, and immunity to drugs and poisons.", 
+            "realname": "Unrevealed", 
+            "significantissues": [
+                "Hired as detective by Irene (X-Treme X-Men #1, 2002)", 
+                "gave birth to Graydon, abandoned him (Sabretooth: Death Hunt #3, 1993)", 
+                "gave birth to Kurt, abandoned him (X-Men Unlimited #4/Uncanny X-Men #428, 1994/2003)", 
+                "adopted Rogue (Uncanny X-Men #178/Classic X-Men #44/X-Men Unlimited #4, 1984/1990/1994)", 
+                "reformed Brotherhood of Evil Mutants, attempted assassination of Senator Kelly, defeated by X-Men (X-Men #141/Uncanny X-Men #142, 1981)", 
+                "Brotherhood became Freedom Force (Uncanny X-Men #199, 1985)", 
+                "captured by X-Factor, forced to serve on team (X-Men: Prime/X-Factor #112, 1995)", 
+                "assassinated Graydon (X-Factor #130/X-Men Forever #2, 1997/2001)", 
+                "blackmailed by Xavier into becoming field agent (Mystique #1-2, 2003)", 
+                "agreed to become double agent for Quiet Man (Mystique #6-7, 2003)", 
+                "exposed Quiet Man\u2019s identity (Mystique #24, 2005)", 
+                "created Foxx identity to seduce Gambit, asked to join X-Men (X-Men #171-173, 2005)", 
+                "with the Marauders (X-Men #200, 2007)"
+            ], 
+            "speed": 2, 
+            "strength": 2, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

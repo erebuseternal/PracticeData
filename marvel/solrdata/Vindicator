@@ -1,0 +1,57 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Formerly Guardian", 
+            "citizenship": "Canada", 
+            "content": "James formed the super-team Alpha Flight for the Canadian Government\u2019s Department H, and following his death Heather accepted the responsibility of leading Alpha Flight. She was briefly mutated by Loki\u2019s Fire Fountain, serving in the Berserkers as Guardian until turning against the trickster god. She eventually donned a variant of James\u2019s battle-suit as Vindicator; as Alpha Flight\u2019s leader, Heather suffered through a resurrection, a death, and then a second resurrection of her husband. For a time after James\u2019s second return, he and Heather lived and worked happily together on several research projects. After a while, however, the two were forced to confront the fact that they had both changed, and agreed to separate. Heather then took a job working in a flower shop, but was soon after coerced to join a revamped Alpha Flight, led by a surprisingly young James. After an encounter with the original members of Alpha Flight, including the real James, it was discovered that the younger Hudson was a clone created by Department H. The original members rejoined the team, and Heather retired from active duty, taking up a position as Alpha Flight\u2019s official government liaison.Soon after, Heather revealed that she was pregnant with James\u2019 child, and following a brief return to active duty with Alpha Flight she retired to prepare for the birth. Heather was then targeted by one of James\u2019s former co-workers who was jealous of their relationship and sought to take Heather for himself. James was almost killed in the ensuing clash, but both parents were able to welcome their baby girl into the world.", 
+            "durability": 1, 
+            "education": "High-school graduate", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "(As Hudson) X-Men #139 (1980), (in costume) Alpha Flight #32 (1986), (as Guardian) X-Men and Alpha Flight #1 (1986), (as Vindicator) Alpha Flight #34 (1986)\n", 
+            "groupaffiliation": [
+                "Alpha Flight", 
+                "formerly Berserkers", 
+                "Alpha Prime"
+            ], 
+            "hair": "Red\n", 
+            "height": 65, 
+            "id": "Vindicator", 
+            "identity": "Public", 
+            "intelligence": 1, 
+            "knownrelatives": "Ramsey McNeil (father), Claire McNeil (mother), Becky McNeil (sister), six unidentified brothers, James MacDonald Hudson (Guardian, husband), unnamed daughter", 
+            "occupation": [
+                "Adventurer", 
+                "former government liaison", 
+                "florist", 
+                "secretary", 
+                "housewife"
+            ], 
+            "origin": [
+                "Alpha Flight #2-3 (1983)", 
+                "Alpha Flight #24 (1985)", 
+                "Alpha Flight: In the Beginning... #-1 (1997)"
+            ], 
+            "placeofbirth": [
+                "Calgary", 
+                "Alberta", 
+                "Canada"
+            ], 
+            "powers": "None", 
+            "realname": "Heather McNeil-Hudson", 
+            "significantissues": [
+                "Reformed Alpha Flight (Alpha Flight #1, 1983)", 
+                "agreed to lead Alpha Flight (Alpha Flight #17, 1984)", 
+                "stranded in Savage Land, formed Alpha Prime (Alpha Flight Annual #2, 1987)", 
+                "forcibly recruited back into Alpha Flight, given new battle-suit (Alpha Flight #1, 1997)", 
+                "gave birth to daughter (X-Men Unlimited #45, 2003)", 
+                "deceased (New Avengers #16, 2006)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 120
+        }
+    }
+}

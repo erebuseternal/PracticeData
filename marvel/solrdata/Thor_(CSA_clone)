@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Codename Lightning", 
+                "Thor"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "When the New Warriors attempted to gain ratings for their reality show by capturing a group of escaped villains, Nitro used his explosive powers which killed most of the New Warriors and children at a near-by school. The government then proposed the Superhuman Registration Act to have all people with super-human powers register with the government. When the Superhuman Registration Act became law, Tony knew that they would need some serious strength on their side and the time had come to use the strand of hair. Along with Henry Pym and Mister Fantastic, Tony used the hair to create a clone of Thor.The Pro-Registration side eventually set a trap for the Anti-Registration group, who were now known as the Secret Avengers. When the Secret Avengers attempt to escape, the Thor clone used his mechanical hammer to blast a hole through Goliath\u2019s chest, killing him instantly. The Thor clone continued his assault until the Invisible Woman used her powers to protect the Secret Avengers and allow them to escape. The Thor clone was immediately shut down and taken back to base. Once they returned, Reed Richards began to examine what could have gone wrong with the clone.", 
+            "durability": 6, 
+            "education": "Unrevealed", 
+            "energy": 7, 
+            "eyes": "Blue\n", 
+            "fighting": 5, 
+            "firstappearance": "Civil War #3 (2006)\n", 
+            "groupaffiliation": "S.H.I.E.L.D.", 
+            "hair": "Blond\n", 
+            "height": 0, 
+            "id": "Thor_(CSA_clone)", 
+            "identity": "Unrevealed", 
+            "intelligence": 4, 
+            "knownrelatives": "Thor genetic progenitor", 
+            "occupation": "S.H.I.E.L.D. agent", 
+            "origin": "Civil War #4 (2006)", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Much like the original Thor, the Thor clone\u2019s strength, endurance and resistance to injury are greater than the vast majority of his superhuman race. He is immune to conventional disease, and highly resistant to injury. His flesh and bones are several times denser than a human's.", 
+            "realname": "Ragnarok", 
+            "significantissues": "killed Goliath (Bill Foster), revealed to be clone (Civil War #4, 2006)", 
+            "speed": 6, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": 640
+        }
+    }
+}

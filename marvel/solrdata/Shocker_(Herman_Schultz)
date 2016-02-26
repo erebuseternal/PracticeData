@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Schultz was usually involved in theft or extortion; a typical day in the life of the Shocker would find him knocking over armored cars or trying to hawk items he previously stole. On one particularly ambitious day, the Shocker held New York City for ransom when he blacked out portions of the city to spell out his criminal moniker, then threatened to black out the entire city unless he was paid 1 million dollars. On another he terrified a stockbroker into playing the market, for substantial monetary gain.The Shocker has been a member of the Masters Of Evil and has fought Spider-Man many times. He has proved to be one of Spider-Man's more difficult opponents. The Shocker, being very masterful in his equipment, makes changes accordingly to defeat his enemies.", 
+            "durability": 4, 
+            "education": "Trained electrical engineer", 
+            "energy": 6, 
+            "eyes": "Brown\n", 
+            "fighting": 6, 
+            "firstappearance": "Amazing Spider-Man #46\n", 
+            "groupaffiliation": [
+                "Formerly Masters of Evil", 
+                "Sinister Syndicate", 
+                "Sinister Seven", 
+                "Sinister Twelve"
+            ], 
+            "hair": "Brown\n", 
+            "height": 69, 
+            "id": "Shocker_(Herman_Schultz)", 
+            "identity": "Known to authorities", 
+            "intelligence": 4, 
+            "knownrelatives": "Mr. & Mrs. Schultz (parents)", 
+            "occupation": [
+                "Professional thief", 
+                "hired assassin"
+            ], 
+            "origin": "Amazing Spider-Man #46", 
+            "placeofbirth": [
+                "New York", 
+                "New York"
+            ], 
+            "powers": "None", 
+            "realname": "Herman Schultz", 
+            "significantissues": "Web of Spider-Man #10, Deadly Foes of Spider-Man #1-3, Amazing Spider-Man #151", 
+            "speed": 4, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

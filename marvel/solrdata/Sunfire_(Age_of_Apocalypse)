@@ -1,0 +1,38 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Japan", 
+            "content": "As the Samurai continued his evacuation, Sunfire ambushed Apocalypse and his forces. Sunfire fought valiantly but could not stand up to the might of both Apocalypse and his son, Nemesis. Sunfire exploded, releasing a nuclear level blast  that destroyed most of Apocalypse's Infinites and scorched a huge area of Japan. The blast did not kill Nemesis or Apocalypse, but it allowed Sunfire to escape and provided the Samurai with more time to evacuate Japan. Left as a burnt-out shell, Sunfire was found by the X-Men and taken to safety. While Sunfire healed Magneto created a new suit that would keep him safe from his own powers. Sunfire returned to the X-Men's side soon after and continued to fight Apocalypse's forces. In the days leading up to the end of Apocalypse's reign, Sunfire and Blink discovered a culling in Chicago. Magneto sent a team of X-Men including Sunfire, to investigate and they successfully prevented the culling. The team was also able to discover the location of an Infinite Processing Plant in Indianapolis and they destroyed it.", 
+            "durability": 1, 
+            "education": "College", 
+            "energy": 1, 
+            "eyes": "Black\n", 
+            "fighting": 1, 
+            "groupaffiliation": [
+                "X-Men", 
+                "Clan Yashida"
+            ], 
+            "hair": "Bald (formerly black)\n", 
+            "height": 70, 
+            "id": "Sunfire_(Age_of_Apocalypse)", 
+            "identity": "Publicly known in Japan", 
+            "intelligence": 1, 
+            "knownrelatives": "Saburo Yashida (father, missing), Mariko Yashida (cousin, missing), Kenuicho Harada (Silver Samurai, cousin)", 
+            "occupation": [
+                "Adventurer", 
+                "freedom fighter"
+            ], 
+            "placeofbirth": [
+                "Agrashima", 
+                "Japan"
+            ], 
+            "powers": "Sunfire is a mutant who can generate ionized plasma similar to the sun's. He is able to fire blasts of plasma as well as use it to fly. This plasma, while surrounding him, also provides protection against energy and physical attacks.", 
+            "realname": "Shiro Yashida", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 175
+        }
+    }
+}

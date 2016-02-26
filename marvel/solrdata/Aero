@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Various courses at Xavier Institute", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "(Unidentified) New Mutants #42; (identified, as Aero) Uncanny X-Men #444\n", 
+            "groupaffiliation": "Formerly Xavier Institute Student Body", 
+            "hair": "Brown\n", 
+            "id": "Aero", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Samuel (Cannonball, brother), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother), Joelle (sister), Elizabeth (sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)", 
+            "occupation": [
+                "Former student", 
+                "farmer"
+            ], 
+            "placeofbirth": [
+                "Cumberland County", 
+                "Kentucky"
+            ], 
+            "powers": "Melody produced an aura which granted her flight.", 
+            "realname": "Melody Guthrie", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

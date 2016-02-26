@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Warlord Kaa", 
+                "Black Thing", 
+                "the Living Shadow"
+            ], 
+            "citizenship": "Shadow-Realm", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "White\n", 
+            "fighting": 1, 
+            "firstappearance": "Strange Tales #79 (1960)\n", 
+            "groupaffiliation": "Leader of his own army", 
+            "hair": "None\n", 
+            "height": 0, 
+            "id": "Kaa", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Unrevealed", 
+            "occupation": "Alleged planetary master", 
+            "origin": "Incredible Hulk #184 (1974)", 
+            "placeofbirth": "Shadow-Realm", 
+            "powers": "Kaa transformed himself into a two-dimensional shadow, allowing him to camouflage himself in the shadows of others and attack unsuspecting victims. Kaa can become solid at will, but can also remain untouchable if he chooses, and Kaa possesses a certain amount of elasticity in his shadow form. \nAs in the case of the Hulk, Kaa appeared to mimic the brute\u2019s powers when psychically gaining control of his shadow. \n\nDespite his formidable powers, Kaa is still susceptible to the dangers that can overcome an actual shadow.", 
+            "realname": "Kaa", 
+            "significantissues": [
+                "Battled the Hulk (Incredible Hulk #184, 1974)", 
+                "Opposed the Champions (Champions #11, 1977)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

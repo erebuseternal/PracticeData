@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "The Titan", 
+                "the Living Titan", 
+                "Xemnu of the Magic Planet", 
+                "Amos Moses", 
+                "Richmond Wagner", 
+                "The Hulk", 
+                "the Living Hulk"
+            ], 
+            "citizenship": "Xem race", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed (expert in genetic mutation)", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Journey Into Mystery #62 (1960)\n", 
+            "groupaffiliation": "Formerly Phalanx Select", 
+            "hair": "White\n", 
+            "height": 132, 
+            "id": "Xemnu", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Would-be conqueror", 
+                "former Phalanx agent", 
+                "teddy bear", 
+                "television star", 
+                "ruler"
+            ], 
+            "placeofbirth": "Unidentified alien planet", 
+            "powers": "Xemnu possessed very advanced powers of the mind such as telepathy, mind control and telekinesis.", 
+            "realname": "Xemnu", 
+            "significantissues": [
+                "Repulsed by Joe Harper (Journey Into Mystery #62, 66, 1960-1961)", 
+                "fought the Defenders (Marvel Feature #3, 1972/Defenders #12, 1974)", 
+                "fought She-Hulk (Sensational She-Hulk #6-7, 1989)", 
+                "appeared as a Phalanx Select (Annihilation Conquest #1, 2008)", 
+                "was present when Korath was destroyed by Ultron (Annihilation Conquest #2, 2008)"
+            ], 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 1100
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "none", 
+            "citizenship": "U.S.A.", 
+            "content": "Madrox spent the next six years alone caring for his parents' farm. When he was 21, malfunctioning control elements in the suit caused a power surge that released his inhibited power and caused the suit to begin absorbing ambient electrical energy. Confused, frightened, and driven mad by isolation, Madrox felt himself drawn to New York City. There, he clashed with the Fantastic Four until Xavier arrived to defuse the situation. With the help of Xavier and the Fantastic Four's Reed Richards, Madrox's suit was repaired and he accompanied Xavier back to his mansion in Westchester. There, Madrox's temporary madness was cured and, after learning to cope with his powers, he was invited to join the X-Men. He declined, and instead accompanied Xavier to Muir Island where he became a laboratory assistant to mutant researcher Doctor Moira MacTaggert. Madrox's ability proved invaluable to MacTaggert, and he quickly became a regular fixture on Muir. Unfortunately, Madrox also found himself battling against threats such as the alien Eric the Red and the reality-altering mutant Proteus, who possessed one of Madrox's duplicates in order to escape confinement on Muir. Proteus's possession instantly killed the duplicate, and for the first time Madrox felt the severe psychic backlash this caused. After Proteus was defeated, Madrox again declined to join the X-Men, preferring to remain on Muir with Moira and her lover, the X-Man Banshee. Soon after, Banshee's daughter Siryn came to live on Muir, and she and Madrox ultimately grew close.Eventually, one of Madrox's duplicates sought to remain apart from the original and live his own life. To this end, he drugged the original Madrox and joined Moira and Siryn on a trip to the U.S. to search for Sunspot and Warlock, two missing members of the New Mutants. Eventually finding the runaway mutants as members of the Vanisher's teenage gang, the Fallen Angels, the duplicate Madrox and Siryn were persuaded to join by the alien Ariel. During their time with the group, the duplicate Madrox and Siryn engaged in a brief romance. Eventually, the true nature of the Fallen Angels was revealed to be a ruse by aliens from the Coconut Grove dimension who sought to cure their race's stalled evolution by experimenting on mutants. Defeating the aliens, the team returned to Earth, but apparently disbanded soon after. The duplicate and Siryn rejoined Moira at the Xavier Institute to return to Muir; however, the duplicate had no desire to be reabsorbed and so created another duplicate to take his place on the return trip while he secretly remained in the U.S.Later, the original Madrox was possessed by the psionic entity the Shadow King during the villain's takeover of Muir; after his defeat Madrox joined the government-sponsored X-Factor team. Unknown to Madrox, the duplicate that had joined the Fallen Angels years before had since found a place in the Nasty Boys, a team of super-powered mercenaries employed by geneticist Mister Sinister. With the help of Senator Stephen Shaffran, a.k.a. Ricochet, a mutant with the ability to turn other mutants' powers and fears against them, the duplicate convinced the Nasty Boys, and Madrox himself, that he was the original. Madrox merged with the duplicate, but it was a ruse; he \"disassembled\" the duplicate from the inside and remained the dominant personality in order to expose Shaffran and stop Sinister.Later, when most of the team were busy with another assignment, Madrox and his teammate Quicksilver were sent to investigate a murder case in Maine in which the prime suspect was a young mutant named Rachel Argosy, a.k.a. Rhapsody, who had been fired from her music teaching job after turning blue and first manifesting her ability to entrance others with music. The man responsible for terminating her employment was found dead two days later, with Rhapsody apprehended at the scene of the crime. Exposed to the effects of Rhapsody's power, Madrox became convinced of her innocence and was set to break her out of prison when the truth was revealed. Rhapsody had used her power on the victim in an effort to make him see the error of his decision to fire her, only to accidentally cause his death.Following an attempted assassination of Xavier supposedly by the mutant soldier from the future, Cable, X-Factor and the X-Men teamed up to capture Cable's team of young mutants, X-Force. Among X-Force's number was Siryn, who confronted Madrox over their past relationship. Madrox revealed to Siryn that although he retained all the memories of her relationship with his renegade duplicate, he possessed none of the related emotional attachment.Among his X-Factor teammates, Madrox formed a close bond with Guido Carosella, a.k.a. Strong Guy. The pair shared an odd sense of humor and often joked around much to team leader Havok's chagrin. A psychiatric analysis by Doctor Leonard Samson ultimately revealed the reason for Madrox's humorous attitude. His living alone for many years as a child created an almost pathological need for attention to ensure he would never be alone again, and he was willing to do virtually anything - whether it be telling jokes, playing gags, or creative use of dupes - to get people to notice him.", 
+            "durability": 7, 
+            "education": "College-level courses", 
+            "energy": 7, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Giant-Size Fantastic Four #4 (1975)\n", 
+            "groupaffiliation": [
+                "X-Factor Investigations", 
+                "formerly X-Corporation", 
+                "X-Corps", 
+                "X-Factor", 
+                "Nasty Boys (duplicate only)", 
+                "Fallen Angels (duplicate only)"
+            ], 
+            "hair": "Brown\n", 
+            "height": 71, 
+            "id": "Madrox", 
+            "identity": "Publicly known", 
+            "intelligence": 6, 
+            "knownrelatives": "Daniel Madrox (father, deceased), Joan Madrox (mother, deceased)", 
+            "occupation": [
+                "Private investigator", 
+                "adventurer", 
+                "former laboratory assistant", 
+                "farmer"
+            ], 
+            "placeofbirth": [
+                "Los Alamos", 
+                "New Mexico"
+            ], 
+            "powers": "Madrox creates an identical physical living duplicate of himself upon any physical impact, possibly via extradimensional mass acquisition similar to the process used by Ant-Man or the Hulk. This process is spontaneous and cannot be prevented by Madrox. Although he can create multiple duplicates, and the duplicates themselves can also replicate, each is only able to create one duplicate at a time; he has been seen to produce around forty duplicates before no more would be created. The duplicates think, feel, and act independently, though usually guided by the original. Each tends to manifest one aspect of Madrox's personality, which increases in strength with lengthier separation from the original; these traits have recently become more extreme. Madrox is telepathically and empathically linked to his duplicates, suffering severe, potentially fatal, trauma if one dies. Madrox can \"reabsorb\" his duplicates, gaining their new knowledge and skills. Similarly, he will acquire any physical injury - though not any actual toxin - from a duplicate; symptoms are typically lessened by half during absorption. If Madrox himself were killed, it is not known whether any existing duplicates would continue to function independently; it is virtually impossible to distinguish the original from the duplicates.", 
+            "realname": "James Arthur \"Jamie\" Madrox", 
+            "speed": 7, 
+            "strength": 6, 
+            "universe": "Marvel Universe", 
+            "weight": 155
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Ben", 
+                "Uncle Ben", 
+                "Unca' Ben"
+            ], 
+            "citizenship": "U.S.A. (deceased)", 
+            "content": "When Ben's brother Richard and his wife Mary died, Ben and May decided to raise their son Peter as their own. Peter loved his uncle and aunt more than anyone in the world. Ben was killed when a burglar was robbing their house. Ben accidentally surprised him causing the burglar to shoot him. His death sparked the transformation of Peter Parker into Spider-Man.", 
+            "durability": 1, 
+            "education": "High school graduate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Amazing Fantasy #15 (1962)\n", 
+            "groupaffiliation": "None", 
+            "hair": "White\n", 
+            "height": 69, 
+            "id": "Parker,_Ben", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "May Parker (wife), Richard Parker (brother, deceased), Mary Parker (sister-in-law, deceased), Peter Parker (Spider-Man, nephew), Mary Jane Watson Parker (niece-in-law)", 
+            "occupation": [
+                "Retired", 
+                "former textile worker", 
+                "carnival barker"
+            ], 
+            "placeofbirth": [
+                "Brooklyn", 
+                "New York"
+            ], 
+            "powers": "None", 
+            "realname": "Benjamin Parker", 
+            "significantissues": "first appearance, shot by a burglar (Amazing Fantasy #15, 1962)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

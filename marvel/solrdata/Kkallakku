@@ -1,0 +1,27 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Hatch Lord", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Dr. Strange: Sorcerer Supreme #31 (1993)\n", 
+            "groupaffiliation": "Fear Lords", 
+            "hair": "Bald\n", 
+            "id": "Kkallakku", 
+            "identity": "The general populace of Earth is unaware of Kkallakku's existence.", 
+            "intelligence": 1, 
+            "knownrelatives": "The Fear-Eaters (spawn)", 
+            "occupation": "Leader of the Fear-Eaters", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Kkallakku", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Expediter", 
+            "citizenship": "Romania (presumed)", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Private education, LL&L training", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Wolverine #79 (1994)\n", 
+            "groupaffiliation": [
+                "Formerly Landau", 
+                "Luckman & Lake", 
+                "Landau", 
+                "Luckman & Lake and LeQuare"
+            ], 
+            "hair": "Blond\n", 
+            "height": 67, 
+            "id": "Culloden,_Zoe", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": [
+                "Currently unrevealed former Overboss", 
+                "Expediter", 
+                "operative"
+            ], 
+            "placeofbirth": "Presumably Romania", 
+            "powers": "Zoe has not shown any signs of superhuman strength, or any other abnormal human qualities or traits. She is an excellent athlete in superb physical condition, and possessed the strength of a normal women of her size and weight.", 
+            "realname": "Zoe Culloden;original name unrevealed", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 100
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "\"The Edge-Man", 
+                "\" Falconer"
+            ], 
+            "citizenship": "U.S.A.", 
+            "content": "Chris recently came to terms with his teenage superhero past by joining a support group for others like him, called The Loners. With Turbo, Ricochet, Phil Urich, Julie Power, and Chamber (actually an imposter), Darkhawk tracked down the teen super group known as the Runaways, in an attempt to rehabilitate them. The Runaways escaped as The Loners were pitted in battle against the malevolent Ultron. After this, the support group was introduced to their benefactor, none other than the most famous teen sidekick of all, Rick Jones.", 
+            "durability": 4, 
+            "education": "High School undergraduate", 
+            "energy": 4, 
+            "eyes": "(Powell) Brown; (Darkhawk) unrevealed\n", 
+            "fighting": 2, 
+            "firstappearance": "Darkhawk #1 (1991)\n", 
+            "groupaffiliation": [
+                "Project PEGASUS", 
+                "formerly The Loners", 
+                "New Warriors", 
+                "Avengers West Coast", 
+                "Queen's Vengeance", 
+                "Secret Defenders"
+            ], 
+            "hair": "(Powell) Brown; (Darkhawk) unrevealed\n", 
+            "height": 0, 
+            "id": "Darkhawk", 
+            "identity": "Secret", 
+            "intelligence": 3, 
+            "knownrelatives": "Michael Powell (father), Grace Powell (mother), Jonathon and Jason Powell (brothers)", 
+            "occupation": "Security Chief for Project PEGASUS", 
+            "origin": [
+                "Found amulet", 
+                "became Darkhawk (Darkhawk #1", 
+                "1991)"
+            ], 
+            "placeofbirth": "New York City", 
+            "powers": "The Darkhawk possessed superhuman strength and durability, can survive in the cold vacuum of space for extended periods of time. Flight, Gliding, Energy blasts from amulet and visor, grappling hook and cable", 
+            "realname": "Christopher Powell", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 2, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 150
+        }
+    }
+}

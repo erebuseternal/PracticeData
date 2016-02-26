@@ -1,0 +1,40 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "U.S.A.", 
+                "minor"
+            ], 
+            "content": "When the X-Men's hideout was attacked by Apocalypse, Nanny attempted to keep the boy safe by escaping into the tunnels beneath the secret headquarters of the X-Men in Westchester. Unfortunately, Nanny and Charles were discovered and Nanny was destroyed by an X-Men traitor named Guido. Jubilee attempted to escape with Charles but Guido stopped her. He kidnapped the boy and took him to Apocalypse.", 
+            "durability": 1, 
+            "education": "Grade school", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "unknown\n", 
+            "groupaffiliation": "X-Men", 
+            "hair": "Brown.\n", 
+            "height": 48, 
+            "id": "Lensherr,_Charles_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Erik Lensherr (Magneto, father), Rogue (mother), Pietro Maximoff (Quicksilver, half-brother), Wanda Maximoff (Scarlet Witch, half-sister, deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "freedom fighter"
+            ], 
+            "placeofbirth": [
+                "Salem Center", 
+                "Westchester", 
+                "New York"
+            ], 
+            "powers": "Charles has untapped mutant potential. He has yet to demonstrate any significant mutant abilities.\nSpecial Limitations: Although this is not Charles' limitation, Rogue's mutant powers prevent her from touching her son.", 
+            "realname": "Charles Lensherr", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 90
+        }
+    }
+}

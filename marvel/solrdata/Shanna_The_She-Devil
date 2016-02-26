@@ -1,0 +1,43 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "When her father was kidnapped by the Mandrill, Shanna searched for him, but was kidnapped by the wizard Malgato and taken to the Savage Land. She was assisted against Malgato by Ka-Zar, enabling her to resume her search. In Africa Shanna learned that the Mandrill had killed her father; she journeyed to America, aiding Daredevil and the Black Widow in thwarting the Mandrill\u2019s attempted U.S. takeover. After returning to Africa, her panthers were slain by the Cult of Kali priest Raga-Shah; she tracked and eventually fed Raga-Shah to her python Ananta.", 
+            "durability": 2, 
+            "education": "Doctor of Veterinary Medicine", 
+            "energy": 1, 
+            "eyes": "Hazel\n", 
+            "fighting": 3, 
+            "firstappearance": "Shanna The She-Devil #1 (1973)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Red\n", 
+            "height": 70, 
+            "id": "Shanna_The_She-Devil", 
+            "identity": "Public", 
+            "intelligence": 2, 
+            "knownrelatives": "Gerald O'Hara (father, deceased), Patricia O'Hara (mother, deceased), Robert O'Hara (uncle), Mele (ex-husband, deceased), Leila (stepdaughter, deceased), (Lord) Kevin Plunder (Ka-Zar, husband), Matthew Kyle Adam Plunder (son), Parnival Plunder (Plunderer, brother-in-law)", 
+            "occupation": [
+                "Adventurer", 
+                "former veterinarian", 
+                "ecologist"
+            ], 
+            "origin": "Shanna The She-Devil #1 (1973)", 
+            "placeofbirth": "Zaire (now Democratic Republic of the Congo)", 
+            "powers": "None", 
+            "realname": "Shanna Plunder (nee O'Hara)", 
+            "significantissues": [
+                "Opposed Malgato (Ka-Zar #1-2, 1974)", 
+                "vs Mandrill & Black Spectre (Daredevil #110-113, 1974)", 
+                "vs Raga-Shah (Savage Tales #9-10/Rampaging Hulk #9, 1975/1978)", 
+                "vs Belasco, married Ka-Zar (Ka-Zar the Savage #29, 1983)", 
+                "opposed Cross-Wallace (Marvel Comics Presents #68-77, 1991)", 
+                "briefly granted power by High Evolutionary (Ka-Zar #13-14, 1998)"
+            ], 
+            "speed": 3, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 140
+        }
+    }
+}

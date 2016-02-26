@@ -1,0 +1,50 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A.", 
+            "content": "Driving home that night, Carney encountered the time-traveler Cassandra Locke, who had collected information about a Skrull plot to subjugate Earth of her era. Locke was dying, and she passed on the information about the plot and Carney's future to him. She also left him her belt, the source of her time-traveling powers. Although he was only able to use the belt to boost his strength to superhuman levels, Carney used it to create the heroic identity of the Yankee Clipper.With the force of Locke's commission behind him, Carney went on to become America's foremost champion. During his time, Carney met and adventured alongside heroes such as Liberty Girl the Black Fox, and he later founded the First Line, a group of superhuman champions, which his younger brother joined as Kid Justice (later Mister Justice).", 
+            "durability": 2, 
+            "education": "College graduate", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 4, 
+            "firstappearance": "(mentioned) Marvel: The Lost Generation #12 (2000); (seen) Marvel: The Lost Generation #4 (2000)\n", 
+            "groupaffiliation": [
+                "None", 
+                "Formerly First Line"
+            ], 
+            "hair": "Brown\n", 
+            "height": 74, 
+            "id": "Yankee_Clipper", 
+            "identity": "Secret", 
+            "intelligence": 2, 
+            "knownrelatives": "Tim (Mister Justice, brother, deceased), unidentifed parents (deceased)", 
+            "occupation": [
+                "Unrevealed", 
+                "former adventurer", 
+                "engineer", 
+                "baseball player"
+            ], 
+            "origin": [
+                "Marvel: The Lost Generation #1", 
+                "2001"
+            ], 
+            "placeofbirth": [
+                "Scottsbluff", 
+                "Nebraska"
+            ], 
+            "powers": "None", 
+            "realname": "Patrick Carney", 
+            "significantissues": [
+                "Helped form First Line with Effigy, Kid Justice, Liberty Girl, Black Fox and Nightingale (Marvel: The Lost Generation #2, 2000)", 
+                "Lost in timestream (Marvel: The Lost Generation #4, 2000", 
+                "Returns to present (Marvel: The Lost Generation #12, 2000)"
+            ], 
+            "speed": 2, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 180
+        }
+    }
+}

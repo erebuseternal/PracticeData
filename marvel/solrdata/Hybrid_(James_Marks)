@@ -1,0 +1,34 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "John Doe", 
+            "citizenship": "U.S.A.", 
+            "content": "Having deduced Jacob was a Wraith, Rom confronted the boy. Calling himself Hybrid, he attacked Rom and slew his father. While Rom and Hybrid fought, Hybrid informed his foe of his plan to force humans and Wraiths to breed and create a new race. Their battle was interrupted by the X-Men, who had detected a new mutant. Hybrid tricked them into fighting Rom, but soon attacked both sides and was apparently destroyed by Rom\u2019s neutralizer, wielded by the X-Men\u2019s Sprite (Kitty Pryde).Reintegrating himself months later, Hybrid briefly allied with the Brotherhood of Evil Mutants\u2019 Mystique, Rogue and Destiny (Irene Adler) to battle Rom again. Learning of Hybrid\u2019s depraved plans for them, the trio changed sides; Rogue absorbed some of Hybrid\u2019s powers, weakening him enough to allow Rom to disperse his atoms again. Hybrid reformed several months later, soon overpowering Rom and his fellow Spaceknight Starshine, and battling the New Mutants. Magik (Illyana Rasputin) used her soul sword to disrupt Hybrid\u2019s concentration, allowing Starshine (now human again thanks to Hybrid\u2019s magic) to once more disperse him with Rom\u2019s neutralizer.", 
+            "durability": 6, 
+            "education": "High school (unfinished), tutored by Dire Wraith mages", 
+            "energy": 6, 
+            "eyes": "Blue; (Hybrid) yellow\n", 
+            "fighting": 2, 
+            "groupaffiliation": "None", 
+            "hair": "Blond; (Hybrid) none\n", 
+            "height": 64, 
+            "id": "Hybrid_(James_Marks)", 
+            "identity": "Secret", 
+            "intelligence": 4, 
+            "knownrelatives": "Marjorie Seaton Marks (mother, deceased), \u201cJacob Marks\u201d (father, deceased)", 
+            "occupation": "Would-be conqueror", 
+            "origin": "Rom #17 (1981)", 
+            "placeofbirth": [
+                "Clairton", 
+                "West Virginia"
+            ], 
+            "powers": "Hybrid has powerful psionic abilities including telekinesis and telepathy. He can levitate, influence the weather and age people with his mind, though whether these are psionic or magical abilities is unclear. He is a shapeshifter, and superhumanly strong. Unlike regular Wraiths, he was resistant to Rom\u2019s neutralizer on banishment setting, and when forewarned he could generate a forcefield to protect his atoms from its top setting.", 
+            "realname": "James \u201cJimmy\u201d Marks", 
+            "significantissues": "X-Man #31", 
+            "speed": 2, 
+            "strength": 5, 
+            "universe": "Marvel Universe", 
+            "weight": 135
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Ultra Marine", 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Extensive combat training", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "Dark Guard #1 (1993)\n", 
+            "groupaffiliation": "Dark Guard", 
+            "hair": "Black\n", 
+            "id": "Ultra_Marine", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "None", 
+            "occupation": "Adventurer", 
+            "placeofbirth": "Unrevealed", 
+            "powers": "Ultra Marine possessed enhanced reflexes, speed and stamina", 
+            "realname": "Kith Nasca", 
+            "significantissues": "Dark Guard #1-4, (1993-94)", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

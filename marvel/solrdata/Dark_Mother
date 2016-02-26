@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Mother of Night", 
+                "Finality", 
+                "Fiona Reeves", 
+                "Fiona Benedict", 
+                "Fiona Jones"
+            ], 
+            "citizenship": "USA with criminal record", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Cable #88 (2001)\n", 
+            "groupaffiliation": "Dark Sisterhood (Leader)", 
+            "hair": "Red\n", 
+            "height": 66, 
+            "id": "Dark_Mother", 
+            "identity": "Known to authorities", 
+            "intelligence": 1, 
+            "knownrelatives": "John Jones, Andrew Benedict, Bernon Reeves (husbands, deceased), Seventh (real name unrevealed, daughter by Vernon Reeves), three unidentified daughters by John Jones; Hans Knoblach (father, deceased), Gertrude Hunter (mother, deceased), Gloria Knoblach (sister, deceased), William Knoblach (Clarity, brother), unidentified aunts (deceased), 20 unidentified grandchildren, more than 60 unidentified great-grandchildren, Bonita (aka Bonnie, last name unrevealed, descendant, deceased), 30,000 other alleged descendants including Gina Anderson, Jean Grey and Sara Grey-Bailey", 
+            "occupation": "High Priestess of the Dark Sister Hood", 
+            "placeofbirth": "Virgina colony", 
+            "powers": "The Dark Mother possessed the ability to open warp holes or portal through dimensions. She also possessed precognitive mutant psychic powers of the mind.", 
+            "realname": "Fiona Knoblach", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 110
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Germany", 
+            "content": "It was not until Apocalypse appeared that the people of town rose up against the frightening mutant. A group of villagers stormed the house and knocked Kurt out before he was able to teleport.Moments before Kurt would have been sacrificed in a bizarre religious ritual to send all mutant demons back to Hell, Mystique, along with Magneto and Quicksilver, stormed the church. Mystique gunned down the humans who kidnapped her son before Magneto could stop her. Kurt was unable to deal with the sight of his mother's ferocity and teleported away.When Kurt finally returned to his home, Quicksilver informed him that his mother had asked Magneto to look after him. Kurt became a part of the X-Men family that day and spent the next few years becoming a member of the team. Ironically, after seeing the world and the terror it had become in the hands of Apocalypse, Nightcrawler became one of Magneto's most deadly agents.After the appearance of Bishop and his story of a better reality, Magneto desired confirmation. He sent Nightcrawler to find Destiny, a woman who could see into the future. She was located in a place called Avalon; to get there Nightcrawler would have to reunite with his mother.Nightcrawler and Mystique met and made their way to Avalon. Once there, they formed a small group of mutants who nicknamed themselves X-Calibre. The group was able to locate Destiny and prevent the destruction of Avalon by an operative of Apocalypse named the Shadow King.After returning with Destiny, Nightcrawler and the X-Men stormed Apocalypse's base in order to free Magneto and his son. Nightcrawler survived the assault and the X-Men were triumphant. Mystique used the confusion of the battle to disappear.", 
+            "durability": 1, 
+            "education": "High school", 
+            "energy": 1, 
+            "eyes": "Shining yellow, no visible pupils\n", 
+            "fighting": 1, 
+            "firstappearance": "unknown\n", 
+            "groupaffiliation": [
+                "X-Men", 
+                "formerly  X-Calibre"
+            ], 
+            "hair": "Indigo\n", 
+            "height": 69, 
+            "id": "Nightcrawler_(Age_of_Apocalypse)", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Raven Darkholme (Mystique, mother), Abyss (Horseman of Apocalypse, half-brother, presumed dead)", 
+            "occupation": [
+                "Adventurer", 
+                "freedom fighter"
+            ], 
+            "placeofbirth": "Germany", 
+            "powers": "Nightcrawler can teleport by opening a portal into another dimension. He can teleport close to 2 miles at a time and carry 2 to 3 additional people although this leaves a passenger feeling weak and nauseous. Nightcrawler has also developed a nasty trick in which he teleports portions of a person's or robot's mass away, basically performing an amputation of that part.", 
+            "realname": "Kurt Darkholme", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Age of Apocalypse", 
+            "weight": 155
+        }
+    }
+}

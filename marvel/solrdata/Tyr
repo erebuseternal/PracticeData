@@ -1,0 +1,30 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "Asgardian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Journey Into Mystery #85 (1962)\n", 
+            "groupaffiliation": "Gods of Asgard", 
+            "hair": "Black\n", 
+            "height": 79, 
+            "id": "Tyr", 
+            "identity": "Believed fictional by general Earth populace", 
+            "intelligence": 1, 
+            "knownrelatives": "Buri (Tiwaz, great-grandfather); Bor (grandfather, deceased); Bestla (grandmother, deceased); Odin (father, deseaced); Frigga (mother); Balder, Hermod (brothers); Thor, Vidar (half-brothers); Loki (step-brother); Ve, Vili (uncles, deceased); Hoder (cousin); Mimir (granduncle)", 
+            "occupation": "God of war", 
+            "placeofbirth": "Asgard", 
+            "powers": "As well as possessing the superhuman abilities shared by all the Gods of Asgard, Tyr can lift 35 tons which is more than the average Asgardian male", 
+            "realname": "Tyr", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 510
+        }
+    }
+}

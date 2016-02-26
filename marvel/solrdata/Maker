@@ -1,0 +1,47 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Kosmos", 
+                "Cosmos", 
+                "formerly the Beyonder", 
+                "Frank"
+            ], 
+            "citizenship": "Inapplicable", 
+            "content": "The Cube removed its components from Reece, expelled him back to Earth, and evolved into Kosmos, taking a female form in hopes of avoiding the violent tendencies of its past incarnation. Kubik tutored Kosmos in the nature of humanity and the universe, exploring the Celestials and other cosmic entities, as well as performing experiments on the Fantastic Four. After Reece, who had managed to restore his powers, lost his lover, he went mad and assaulted Kosmos, drawing out the essence of the Beyonder and attacking it. Reece nearly destroyed the Beyonder, but Kubik, who was actually falling in love with Kosmos, convinced Reece to restore the Beyonder\u2019s essence to Kosmos to save her life.", 
+            "durability": 7, 
+            "education": "Mentored by Kubik", 
+            "energy": 7, 
+            "eyes": "Variable\n", 
+            "fighting": 3, 
+            "firstappearance": "Fantastic Four Annual #23 (1990)\n", 
+            "groupaffiliation": "Was once in a merged form with the Molecule Man but is no longer merged with him", 
+            "hair": "Variable\n", 
+            "height": 0, 
+            "id": "Maker", 
+            "identity": "No dual identity", 
+            "intelligence": 4, 
+            "knownrelatives": "None", 
+            "occupation": "Former student", 
+            "origin": [
+                "(voice only) Marvel Super Heroes Secret Wars #1", 
+                "(in physical form) Secret Wars II #1", 
+                "(in primary physical form) Secret Wars II #3"
+            ], 
+            "placeofbirth": "Created in the Beyond", 
+            "powers": "Kosmos has vast power to alter reality on a planetary scale. Since taking mortal form her powers are markedly reduced; she is now subject to conventional injury and possibly disease, aging, need for nourishment, etc.", 
+            "realname": "Inapplicable", 
+            "significantissues": [
+                "Kubik & Kosmos explored various levels of reality (Fantastic Four Annual #23, 1990)", 
+                "tested Fantastic Four (Fantastic Four #351)", 
+                "examined Celestials (Fantastic Four Annual #26, 1993)", 
+                "assaulted by Molecule Man (Fantastic Four Annual #27)", 
+                "placed in Kyln, rendered inert by Thanos (Thanos #7-10, 2004)"
+            ], 
+            "speed": 7, 
+            "strength": 7, 
+            "universe": "Marvel Universe", 
+            "weight": "Variable\n"
+        }
+    }
+}

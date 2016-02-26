@@ -1,0 +1,49 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "U.S.A. (legally deceased)", 
+            "content": "Eventually, Proudstar lied about his age to join the United States Marines. Attaining the rank of corporal, he earned a number of medals, including one for rescuing the pilot of a helicopter downed by a thunderstorm during which he witnessed what he believed to be a great bird of lightning in the sky.After his tour of duty was completed, Proudstar returned to the reservation and was soon approached by ex-newspaper reporter Michael Whitecloud for help in investigating a series of mysterious cancer diagnoses, including Proudstar\u2019s mother. The pair uncovered illegal experiments performed by Doctor Edwin Martynec, himself a mutant who could transform into a hybrid coyote creature. Proudstar battled Martynec before he escaped after setting off an explosion that destroyed his laboratory.Later, Professor Charles Xavier, founder of the team of superhuman mutant adventurers known as the X-Men, recruited Proudstar as a member of the second generation of X-Men, giving him the codename Thunderbird. Soon after, the new X-Men opposed Count Nefaria, who had taken over the North American Air Defense (NORAD) command center in Cheyenne Mountain in an international extortion scheme. Defeated by the X-Men, Nefaria attempted to escape in a small aircraft, but Thunderbird jumped onto the plane as it took off. Defying Xavier\u2019s telepathic warnings to get off the plane, Thunderbird sought to prove he was a true Apache warrior and, using his superhuman strength, pummeled the aircraft until it exploded, killing him instantly.Later, just prior to Thunderbird\u2019s funeral, his younger brother James stole his body and gave him a traditional Apache warrior\u2019s funeral rite.", 
+            "durability": 3, 
+            "education": "High-school drop-out", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 5, 
+            "firstappearance": "Giant-Size X-Men #1 (1975)\n", 
+            "groupaffiliation": [
+                "Formerly X-Men", 
+                "U.S. Marine Corps"
+            ], 
+            "hair": "Black\n", 
+            "height": 72, 
+            "id": "Thunderbird_(John_Proudstar)", 
+            "identity": "Secret", 
+            "intelligence": 3, 
+            "knownrelatives": "Unidentified grandfather (deceased), Neal Proudstar (father, deceased), Maria Proudstar (mother, deceased), James Proudstar (Warpath, brother)", 
+            "occupation": [
+                "Former adventurer", 
+                "student", 
+                "Marine"
+            ], 
+            "origin": [
+                "Classic X-Men #3 (1986)", 
+                "X-Force #-1 (1997)"
+            ], 
+            "placeofbirth": [
+                "Camp Verde", 
+                "Arizona"
+            ], 
+            "powers": "Thunderbird\u2019s muscle tissue was several times denser than that of a normal human\u2019s, granting him superhuman strength, stamina, and speed. His skin was also extremely dense, affording him heightened resistance to physical injury.", 
+            "realname": "John Proudstar", 
+            "significantissues": [
+                "Completed military service, returned to reservation, vs Martynec (X-Force #-1, 1997)", 
+                "joined X-Men, helped rescue original members from Krakoa (Giant-Size X-Men #1, 1975)", 
+                "with X-Men, opposed Count Nefaria, killed in plane explosion (X-Men #94-95, 1975)", 
+                "funeral held (Classic X-Men #3, 1986)"
+            ], 
+            "speed": 3, 
+            "strength": 4, 
+            "universe": "Marvel Universe", 
+            "weight": 225
+        }
+    }
+}

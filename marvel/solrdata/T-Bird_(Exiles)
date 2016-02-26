@@ -1,0 +1,52 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "War", 
+                "\"T-Bird\""
+            ], 
+            "citizenship": [
+                "U.S.A.", 
+                "member of the Apache Nation"
+            ], 
+            "content": "In the months that followed, John and James proved their worth. Tragically, James was killed while fighting Count Nefaria. John, feeling responsible, left the X-Men for some time. He returned months later at the same moment as Apocalypse attacked the X-Men. Unleashing his anger on Apocalypse, Thunderbird was able to save the X-Men, but was captured during Apocalypse's retreat.Apocalypse experimented on Thunderbird, transforming him into the Horseman of War. John eventually broke free of Apocalypse's mind control and defeated his master. He then returned to the X-Men and attempted to pick up the pieces of his life.The Timebroker summoned T-Bird, as he was calling himself now (because he felt more like a car than a bird), and met his fellow Exiles in a barren desert. The Timebroker told him that if he did not help the Exiles complete their missions he would remain Apocalypse's servant.During a mission in which the Exiles had to save Alpha Flight from an insane Hulk, T-Bird met an alternate version of himself who had become Shaman. The two bonded and T-Bird was reminded of who he was before Apocalypse took him.T-Bird would also defeat the Hulk by unleashing the full fury of his Apocalypse-created battle mode. Following the battle, John and Nocturne began a relationship that would blossom into love. T-Bird would try to end the relationship, feeling he was not worthy of Nocturne, but she would stick by him. On an Earth ruled by the Skrulls the team was captured. While in captivity, Nocturne told T-Bird she was pregnant. The Exiles eventually escaped but only because the Skrulls evacuated the planet due to the arrival of Galactus.During battle with Galactus, T-Bird sacrificed his own life to save the world. John planted a bomb on Galactus' armor but was caught in the blast and critically injured. Nocturne, believing John would recover, assumed the Exiles would wait for him to get well. That was not the case. Team then teleported away and left James behind.", 
+            "durability": 5, 
+            "education": "Army", 
+            "energy": 2, 
+            "eyes": "Blue\n", 
+            "fighting": 6, 
+            "firstappearance": "Exiles #1 (2001)\n", 
+            "groupaffiliation": [
+                "Formerly Exiles", 
+                "X-Men", 
+                "Horsemen of Apocalypse"
+            ], 
+            "hair": "Brown\n", 
+            "height": 74, 
+            "id": "T-Bird_(Exiles)", 
+            "identity": "Secret", 
+            "intelligence": 3, 
+            "knownrelatives": "Unidentified parents, James Proudstar (brother, deceased)", 
+            "occupation": [
+                "Adventurer", 
+                "reality traveler"
+            ], 
+            "origin": "Exiles #1 (2001)", 
+            "placeofbirth": "Apache Reservation", 
+            "powers": "Originally, John Proudstar was a mutant with super strength, reflexes and senses. After being experimented upon by Apocalypse, John's strength was increased and battle armor plates added to his body.  Apocalypse also made him nearly impervious to the elements, allowing him to survive without breathing and possibly without food.", 
+            "realname": "John Proudstar", 
+            "significantissues": [
+                "defeated Hulk (Exiles #6, 2002)", 
+                "got romantically involved with Nocturne (Exiles #7, 2002)", 
+                "fought Galactus and fell in to a coma (Exiles #10, 2002)", 
+                "revealed to be inside the Stasis Gallery in Crystal Palace (Exiles #83, 2006)", 
+                "woke up from his coma (Exiles #97, 2007)", 
+                "left the Exiles with Nocturne (Exiles #100)"
+            ], 
+            "speed": 4, 
+            "strength": 7, 
+            "universe": "Unknown", 
+            "weight": 230
+        }
+    }
+}

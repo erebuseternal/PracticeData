@@ -1,0 +1,37 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": [
+                "Unrevealed", 
+                "either U.S.A. or Canada"
+            ], 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Green\n", 
+            "fighting": 1, 
+            "firstappearance": "Deadpool #1 (1997)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Red\n", 
+            "height": 81, 
+            "id": "T-Ray", 
+            "identity": "Secret", 
+            "intelligence": 1, 
+            "knownrelatives": "Mercedes Wilson (deceased), Henry (father-in-law)", 
+            "occupation": [
+                "Mercenary/assassin", 
+                "former teacher"
+            ], 
+            "origin": "Deadpool #33 (1999)", 
+            "placeofbirth": "Unrevealed", 
+            "realname": "Wade Wilson (allegedly)", 
+            "significantissues": "See Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 361
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "None", 
+            "citizenship": "U.S.A. with criminal record", 
+            "content": "On more than one occasion Toomes has been in league with several other Spider-Man villains in order to destroy the wall crawler. The Vulture has been in every incarnation of the Sinister Six.The Vulture once stumbled across a plot by the Chameleon and the Green Goblin to drive Spider-Man insane by having shapeshifting androids impersonate his late mother and father; the sham was revealed when the Vulture sought out the Chameleon to find a way to maintain his artificial youth and the androids were ultimately destroyed, leading the wall-crawler to a brief nervous breakdown. The Vulture absorbed the artificial life force from the Mary Parker android, and the effect on the Vulture was two-fold; not only did he become a young man again, but he was instantly cured of the cancer that had been slowly killing him for some time. (The Vulture has since reverted to an old man once again, however.)Toomes' identity as the Vulture has been claimed by impostors on several occasions. The first, \"Blackie\" Drago, was a prison cellmate of Toomes. While he was in prison, Toomes was in an accident and, worried that his revenge against Spider-man would never be fulfilled, told all his secrets to Drago, who stole the Vulture harness and costume, and was subsequently defeated by Toomes. The second, Professor Clifton Shallot, was a vengeful university professor who mutated himself into a Vulture lookalike; his powers were lost in his first and only battle with Spider-Man. The Vulture technology was later copied by a group of thugs called \"The Vulturions\"; Toomes defeated these usurpers as well. Another technology thief, Bluebird was defeated by Spider-Man before Toomes learned of her existence.Recently, It was revealed that Toomes, with the help of Sandman, manipulated several villains Bullseye, Deadpool, Juggernaut, and Sabretooth into laying siege to terrorist group A.I.M. (Advanced Idea Mechanics) headquarters in order to retrieve a disc containing the identities of undercover S.H.I.E.L.D. operatives (including his daughter's).", 
+            "durability": 4, 
+            "education": "College education", 
+            "energy": 3, 
+            "eyes": "Hazel\n", 
+            "fighting": 4, 
+            "firstappearance": "Amazing Spider-Man #2\n", 
+            "groupaffiliation": [
+                "Formerly Sinister Twelve", 
+                "Sinister Six"
+            ], 
+            "hair": "Bald\n", 
+            "height": 60, 
+            "id": "Vulture_(Adrian_Toomes)", 
+            "identity": "Publicly known", 
+            "intelligence": 4, 
+            "knownrelatives": "Marcus Toomes (brother), Malachi Toomes (nephew, deceased), unidentified wife (deceased), unidentified daughter", 
+            "occupation": [
+                "Professional criminal", 
+                "formerly electronics engineer"
+            ], 
+            "origin": "Amazing Spider-Man #2", 
+            "placeofbirth": [
+                "Staten Island", 
+                "New York City"
+            ], 
+            "powers": "It has recently been revealed that, due to his prolonged use of the harness, the Vulture can levitate or float his body even without the harness, however at a very slow speed. Like his other abilities, it is probable that this ability too would fade with time away from the harness.", 
+            "realname": "Adrian Toomes", 
+            "significantissues": "Amazing Spider-Man #2", 
+            "speed": 5, 
+            "strength": 3, 
+            "universe": "Marvel Universe", 
+            "weight": 175
+        }
+    }
+}

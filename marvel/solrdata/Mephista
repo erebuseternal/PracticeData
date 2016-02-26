@@ -1,0 +1,35 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Daughter of Mephisto", 
+                "Ullikumis"
+            ], 
+            "citizenship": "Mephisto's realm", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unknown", 
+            "energy": 1, 
+            "eyes": "Red\n", 
+            "fighting": 1, 
+            "firstappearance": "Doctor Strange: Sorcerer Supreme #6 (1989)\n", 
+            "groupaffiliation": "None", 
+            "hair": "Red\n", 
+            "height": 70, 
+            "id": "Mephista", 
+            "identity": "Existences unknown to the general populaces of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "Mephisto (father), Blackheart (brother); Daimon Hellstrom (Hellstorm, quasi-brother), Satana Hellstrom (quasi-sister), Mikal Drakonmegas (Hellfire, quasi-brother)", 
+            "occupation": "Demon", 
+            "origin": "Unrevealed", 
+            "placeofbirth": "Unknown", 
+            "powers": "A powerful arch-demon, Mephista is nonetheless a relative novice. She wields magical energy for spells such as force blast, possession and demensional travel.", 
+            "realname": "Mephista", 
+            "significantissues": "Official Handbook Bibliography", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 125
+        }
+    }
+}

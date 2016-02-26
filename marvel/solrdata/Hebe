@@ -1,0 +1,29 @@
+{
+    "add": {
+        "doc": {
+            "aliases": "Formerly Juventas", 
+            "citizenship": "Olympus", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Blue\n", 
+            "fighting": 1, 
+            "firstappearance": "Ka-Zar #1 (1970)\n", 
+            "groupaffiliation": "Gods of Olympus", 
+            "hair": "Red\n", 
+            "height": 65, 
+            "id": "Hebe", 
+            "identity": "No dual identity", 
+            "intelligence": 1, 
+            "knownrelatives": "Zeus (father), Hera (mother), Eileithyia, Discord (sisters), Ares, Hephaestus (brothers), Hercules (husband), Apollo, Hermes, Dionysus (half-brothers), Artemis, Athena, Venus (Aphrodite), Helen (half-sisters),", 
+            "occupation": "Goddess of youth and children", 
+            "placeofbirth": "Olympus", 
+            "powers": "Hebe possesses the conventional superhuman physical attributes of an Olympian Goddess, including much denser bones and flesh. Virtually immortal, she is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm.", 
+            "realname": "Hebe", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe"
+        }
+    }
+}

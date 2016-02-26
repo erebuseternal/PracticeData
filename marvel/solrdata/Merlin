@@ -1,0 +1,23 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "British Isles", 
+            "content": "", 
+            "durability": 1, 
+            "energy": 1, 
+            "eyes": "grey\n", 
+            "fighting": 1, 
+            "firstappearance": "Journey into Mystery #96\n", 
+            "hair": "grey-white\n", 
+            "height": 0, 
+            "id": "Merlin", 
+            "intelligence": 1, 
+            "occupation": "Wizard", 
+            "powers": "able to predict the future, vast magical powers, astral projection, wields incredible powers in astral form", 
+            "realname": "Merlin", 
+            "speed": 1, 
+            "strength": 1, 
+            "weight": 210
+        }
+    }
+}

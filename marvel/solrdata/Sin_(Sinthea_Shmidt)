@@ -1,0 +1,51 @@
+{
+    "add": {
+        "doc": {
+            "aliases": [
+                "Skadi", 
+                "formerly Erica Holstein", 
+                "Mother Superior", 
+                "Beast Goddess", 
+                "Avatar of Evil", 
+                "Heir of the Devil"
+            ], 
+            "citizenship": "Unrevealed", 
+            "content": "", 
+            "durability": 2, 
+            "education": "Homed schooled", 
+            "energy": 1, 
+            "eyes": "Brown (often altered with colored contact lenses)\n", 
+            "fighting": 4, 
+            "firstappearance": "Captain America #290 (1984)\n", 
+            "groupaffiliation": [
+                "Serpent Squad", 
+                "partner of Crossbones", 
+                "agent of Red Skull", 
+                "former agent of Red Skull's Division Chiefs", 
+                "Sisters of Sin"
+            ], 
+            "hair": "Brown, dyed red\n", 
+            "height": 65, 
+            "id": "Sin_(Sinthea_Shmidt)", 
+            "identity": "Known to authorities", 
+            "intelligence": 3, 
+            "knownrelatives": "Johann Shmidt (Red Skull, father), unidentified mother (deceased), Herman Shmidt (paternal grandfather, deceased), Martha Shmidt (paternal grandmother, deceased)", 
+            "occupation": [
+                "Red Skull agent", 
+                "professional criminal", 
+                "mass-murderer", 
+                "camp counselor", 
+                "spiritual leader"
+            ], 
+            "placeofbirth": [
+                "Isle of Exiles", 
+                "Sargasso Sea"
+            ], 
+            "realname": "Sinthea Shmidt", 
+            "speed": 2, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 113
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "add": {
+        "doc": {
+            "citizenship": "Xandarian", 
+            "content": "", 
+            "durability": 1, 
+            "education": "Unrevealed", 
+            "energy": 1, 
+            "eyes": "Brown\n", 
+            "fighting": 1, 
+            "firstappearance": "The Man Called Nova #2 (1976)\n", 
+            "groupaffiliation": [
+                "Formerly Nova Corps", 
+                "Champions of Xandar"
+            ], 
+            "hair": "Brown\n", 
+            "height": 75, 
+            "id": "Powerhouse_(Rieg_Davan)", 
+            "identity": "Unknown to the general inhabitants of Earth", 
+            "intelligence": 1, 
+            "knownrelatives": "None known", 
+            "occupation": "Formerly the Syfon Warrior division of the Nova Corps", 
+            "placeofbirth": "Xandar", 
+            "powers": "Powerhouse could adsorb any form of power into his body increasing his own power, this included the powers of other super-powered beings. He only had to make contact with them for his powers to begin working.", 
+            "realname": "Rieg Davan", 
+            "speed": 1, 
+            "strength": 1, 
+            "universe": "Marvel Universe", 
+            "weight": 265
+        }
+    }
+}
