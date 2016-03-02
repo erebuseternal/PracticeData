@@ -124,6 +124,9 @@ def getWeight(dumped_villain):
         if match:
             weight = int(match.group(0))
             dumped_villain['Weight'] = [weight]
+        else:
+            # to make sure if there is a weight that it is numeric
+            del dumped_villain['Weight']
 
 height_expre = re.compile('(?:([0-9]*)\')?(?:([0-9]*)\")?')
 def getHeight(dumped_villain):
