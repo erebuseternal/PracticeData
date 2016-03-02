@@ -5,14 +5,13 @@ root = '/home/ec2-user/PracticeData/marvel/solrdata'
 for filename in os.listdir(root):
 	file = open(root + '/' + filename, 'r')
 	text = file.read()
-	print(text)
+	data = json.loads(text)
 	try:
-		data = json.loads(text)
+		f = data['weight']
 	except:
-		os.remove(root + '/' + filename)
 		continue
-	if 'add' in data:
-		data = data['add']['doc']
+	if type(data['weight']) == unicode:
+		del data['weight']
 		file = open(root + '/' + filename, 'w')
 		text = json.dumps(data, sort_keys=True, indent=4)
 		file.write(text)  
