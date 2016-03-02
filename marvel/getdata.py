@@ -25,8 +25,7 @@ while soup:
     try:
         print(id)
         print(beaten['realname'])
-        document = {"doc" : beaten}
-        export = {"add" : document}
+        export = beaten
         export = json.dumps(export, sort_keys=True, indent=4)
         file = open('solrdata/' + id + '.json', 'w')
         file.write(str(export))
