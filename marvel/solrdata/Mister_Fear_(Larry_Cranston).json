@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Harold Cranstone", 
-            "citizenship": "USA", 
-            "content": "Upon what appeared to be Cranston's demise, the Mister Fear outfit came into the possession of Cranston's nephew, Alan Fagan, a wealthy businessman. Cranston had somehow survived his fall, and later was secretly living as a professor at Columbia University Law School under the assumed name Harold Cranstone. There he used his fear gas to take vengeance on the faculty members who had overlooked him as a student. As Mister Fear, he kidnapped Daily Bugle reporter Ben Urich and held him alongside the kidnapped faculty members in order to draw Daredevil into a trap. Daredevil defeated Mister Fear, and freed his hostages, but Cranston escaped capture, and returned to Columbia to teach as Cranstone.Cranston secretly continued to plot against Daredevil, sending agents such the manic woman Insomnia and the mentally controlled Molten Man against him. Mister Fear then led Murdock to Ryker's Island where Fear initiated a violent revolt, and then sent a new Gladiator against him. Another of Mister Fear's pawns, Victor Grazia, rebelled against Fear, and used a fire hose against the Gladiator enabling Daredevil to gain the upper hand. Meanwhile, Mister Fear escaped capture, breaking out the psychopathic criminal, Charles Boroughs.Under Cranston's guidance, Boroughs went on a killing spree, eventually stalking Murdock's legal secretary, Karen Page, until she was forced to kill him in self-defense. Cranston arranged for Page to he framed for Borough's murder, but Murdock got the charges against Karen dropped when Daredevil linked Mister Fear to the crime. Escaping capture yet again, Cranston still lives his secret life as a professor, waiting for the right time to strike again. He has also been seen frequently at the Bar with No Name.", 
-            "durability": 2, 
-            "education": "Law degree", 
-            "energy": 4, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "Daredevil #91 (1972)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 70, 
-            "id": "Mister_Fear_(Larry_Cranston)", 
-            "identity": "Publicly known", 
-            "intelligence": 2, 
-            "knownrelatives": "Alan Fagan (nephew)", 
-            "occupation": [
-                "Professor", 
-                "former lawyer"
-            ], 
-            "origin": "Daredevil #91 (1972)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Lawrence \"Larry\" Cranston", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": "Harold Cranstone", 
+    "citizenship": "USA", 
+    "content": "Upon what appeared to be Cranston's demise, the Mister Fear outfit came into the possession of Cranston's nephew, Alan Fagan, a wealthy businessman. Cranston had somehow survived his fall, and later was secretly living as a professor at Columbia University Law School under the assumed name Harold Cranstone. There he used his fear gas to take vengeance on the faculty members who had overlooked him as a student. As Mister Fear, he kidnapped Daily Bugle reporter Ben Urich and held him alongside the kidnapped faculty members in order to draw Daredevil into a trap. Daredevil defeated Mister Fear, and freed his hostages, but Cranston escaped capture, and returned to Columbia to teach as Cranstone.Cranston secretly continued to plot against Daredevil, sending agents such the manic woman Insomnia and the mentally controlled Molten Man against him. Mister Fear then led Murdock to Ryker's Island where Fear initiated a violent revolt, and then sent a new Gladiator against him. Another of Mister Fear's pawns, Victor Grazia, rebelled against Fear, and used a fire hose against the Gladiator enabling Daredevil to gain the upper hand. Meanwhile, Mister Fear escaped capture, breaking out the psychopathic criminal, Charles Boroughs.Under Cranston's guidance, Boroughs went on a killing spree, eventually stalking Murdock's legal secretary, Karen Page, until she was forced to kill him in self-defense. Cranston arranged for Page to he framed for Borough's murder, but Murdock got the charges against Karen dropped when Daredevil linked Mister Fear to the crime. Escaping capture yet again, Cranston still lives his secret life as a professor, waiting for the right time to strike again. He has also been seen frequently at the Bar with No Name.", 
+    "durability": 2, 
+    "education": "Law degree", 
+    "energy": 4, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "Daredevil #91 (1972)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 70, 
+    "id": "Mister_Fear_(Larry_Cranston)", 
+    "identity": "Publicly known", 
+    "intelligence": 2, 
+    "knownrelatives": "Alan Fagan (nephew)", 
+    "occupation": [
+        "Professor", 
+        "former lawyer"
+    ], 
+    "origin": "Daredevil #91 (1972)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Lawrence \"Larry\" Cranston", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Great Beast", 
-            "citizenship": "Dual citizenship in Belarus and Russia", 
-            "content": "Later, the government wanted the threat of the Presence eliminated and sent his own children, unaware of their true relationship, to murder him. They learned that he was their father and turned against the Soviet regime. Vanguard, Darkstar, and Ursa Major became agents on their own, fighting for the good of the people.At one point, finally fed up with the Communist system, the three heroes defected to the United States, only to be captured and returned to the Soviet states by the government-sponsored People's Protectorate. There, they were rescued by Blindfaith and his band of mutant exiles in order to form an underground team that would fight for the people under a government that hates and fears them. and, ultimately, the Winter Guard.Later, Vanguard and Darkstar were asked by Quasar in defeating the threat of the alien Starblasters, who coveted the power of the mysterious Starbrand, hosted in the body of Quasar's girlfriend. During the battle, Vanguard was killed, and in her grief, Darkstar blamed Quasar and fled back to Russia. Later encountering her father again, Darkstar shared her feelings with him, and the Presence forced Quasar to flee Earth or risk his vengeance. The Presence visited the memorial to his son and sought to revive him. He shifted his atoms to microscopically enter the body of his son and discovered a trace of his mutant energy remained, keeping him faintly alive. The Presence nearly exhausted his own power, but managed to resurrect his son.A staunch communist despite the fall of the Soviet Union, Vanguard once aided communist sympathizer General Tskarov in his efforts to undermine the American economy and replace it with communism, starting with its businesses on the East Coast. He also agreed to aid Tskarov in order that Tskarov would help him find his then-missing sister. When Ursa Major discovered Tskarov was actually hiding Darkstar from them, Vanguard joined with his friends and Daredevil and the Black Widow in defeating Tskarov. \nUnder circumstances to be revealed, Vanguard agreed to membership in the Russian Federation\u2019s newest super team, the Winter Guard. One of the first adventures of the Winter Guard, with the help of Iron Man, included stopping the Mandarin's giant war machine in the shape of a Chinese dragon.", 
-            "durability": 1, 
-            "education": "Military training; KGB intelligence training", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Iron Man #109\n", 
-            "groupaffiliation": [
-                "Formerly Winter Guard", 
-                "People's Protectorate", 
-                "Siberforce", 
-                "Soviet Super-Soldiers"
-            ], 
-            "hair": "Red\n", 
-            "height": 75, 
-            "id": "Vanguard", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Laynia Petrovna (Darkstar, sister, deceased), Sergei Krylov (Presence, father), Marya Karlova (mother, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former government operative"
-            ], 
-            "placeofbirth": [
-                "Minsk", 
-                "Belarus"
-            ], 
-            "powers": "Vanguard is a mutant with the ability to repel any force which is directed at him. He can construct an invisible force field around his body. He can focus and magnify his powers through the hammer and sickle he carries with him by crossing them over each other. The full potential of his powers has not been tested yet.", 
-            "realname": "Nicolai Krylenko", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 230
-        }
-    }
+    "aliases": "Great Beast", 
+    "citizenship": "Dual citizenship in Belarus and Russia", 
+    "content": "Later, the government wanted the threat of the Presence eliminated and sent his own children, unaware of their true relationship, to murder him. They learned that he was their father and turned against the Soviet regime. Vanguard, Darkstar, and Ursa Major became agents on their own, fighting for the good of the people.At one point, finally fed up with the Communist system, the three heroes defected to the United States, only to be captured and returned to the Soviet states by the government-sponsored People's Protectorate. There, they were rescued by Blindfaith and his band of mutant exiles in order to form an underground team that would fight for the people under a government that hates and fears them. and, ultimately, the Winter Guard.Later, Vanguard and Darkstar were asked by Quasar in defeating the threat of the alien Starblasters, who coveted the power of the mysterious Starbrand, hosted in the body of Quasar's girlfriend. During the battle, Vanguard was killed, and in her grief, Darkstar blamed Quasar and fled back to Russia. Later encountering her father again, Darkstar shared her feelings with him, and the Presence forced Quasar to flee Earth or risk his vengeance. The Presence visited the memorial to his son and sought to revive him. He shifted his atoms to microscopically enter the body of his son and discovered a trace of his mutant energy remained, keeping him faintly alive. The Presence nearly exhausted his own power, but managed to resurrect his son.A staunch communist despite the fall of the Soviet Union, Vanguard once aided communist sympathizer General Tskarov in his efforts to undermine the American economy and replace it with communism, starting with its businesses on the East Coast. He also agreed to aid Tskarov in order that Tskarov would help him find his then-missing sister. When Ursa Major discovered Tskarov was actually hiding Darkstar from them, Vanguard joined with his friends and Daredevil and the Black Widow in defeating Tskarov. \nUnder circumstances to be revealed, Vanguard agreed to membership in the Russian Federation\u2019s newest super team, the Winter Guard. One of the first adventures of the Winter Guard, with the help of Iron Man, included stopping the Mandarin's giant war machine in the shape of a Chinese dragon.", 
+    "durability": 1, 
+    "education": "Military training; KGB intelligence training", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Iron Man #109\n", 
+    "groupaffiliation": [
+        "Formerly Winter Guard", 
+        "People's Protectorate", 
+        "Siberforce", 
+        "Soviet Super-Soldiers"
+    ], 
+    "hair": "Red\n", 
+    "height": 75, 
+    "id": "Vanguard", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Laynia Petrovna (Darkstar, sister, deceased), Sergei Krylov (Presence, father), Marya Karlova (mother, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former government operative"
+    ], 
+    "placeofbirth": [
+        "Minsk", 
+        "Belarus"
+    ], 
+    "powers": "Vanguard is a mutant with the ability to repel any force which is directed at him. He can construct an invisible force field around his body. He can focus and magnify his powers through the hammer and sickle he carries with him by crossing them over each other. The full potential of his powers has not been tested yet.", 
+    "realname": "Nicolai Krylenko", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 230
 }

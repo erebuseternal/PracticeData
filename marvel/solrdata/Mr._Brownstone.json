@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Mysterio (Francis Klum)", 
-            "citizenship": "U.S.A", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High School Graduate.", 
-            "energy": 1, 
-            "eyes": "Unknown\n", 
-            "fighting": 1, 
-            "firstappearance": "Spider-Man & Black Cat: The Evil That Men Do #2 (2002)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Unknown\n", 
-            "id": "Mr._Brownstone", 
-            "identity": "Mr. Brownstone", 
-            "intelligence": 1, 
-            "knownrelatives": "Francis Klum (Brother), unidentified mother (deceased).", 
-            "occupation": "Drug Dealer", 
-            "placeofbirth": [
-                "Red Bank", 
-                "New Jersey"
-            ], 
-            "powers": "Teleportation", 
-            "realname": "Garrison Klum", 
-            "significantissues": [
-                "Was mentally ill (abused his brother, Francis", 
-                "tried to rape Felicia Hardy)", 
-                "Killed by brother"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Mysterio (Francis Klum)", 
+    "citizenship": "U.S.A", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High School Graduate.", 
+    "energy": 1, 
+    "eyes": "Unknown\n", 
+    "fighting": 1, 
+    "firstappearance": "Spider-Man & Black Cat: The Evil That Men Do #2 (2002)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Unknown\n", 
+    "id": "Mr._Brownstone", 
+    "identity": "Mr. Brownstone", 
+    "intelligence": 1, 
+    "knownrelatives": "Francis Klum (Brother), unidentified mother (deceased).", 
+    "occupation": "Drug Dealer", 
+    "placeofbirth": [
+        "Red Bank", 
+        "New Jersey"
+    ], 
+    "powers": "Teleportation", 
+    "realname": "Garrison Klum", 
+    "significantissues": [
+        "Was mentally ill (abused his brother, Francis", 
+        "tried to rape Felicia Hardy)", 
+        "Killed by brother"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

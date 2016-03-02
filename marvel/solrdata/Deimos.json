@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Son of Night", 
-                "terror god"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Dr. Strange #32 (1991)\n", 
-            "groupaffiliation": "Olympians", 
-            "hair": "Blonde\n", 
-            "id": "Deimos", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Nox (mother), Ares (father), Phobos , (brother), Charon, Hypnos,Thanatos (half-brothers) Nemesis, Hemera (half-sisters), numerous others", 
-            "occupation": "God of dread and terror", 
-            "origin": "Dr. Strange #32 (1991)", 
-            "placeofbirth": "Olympus", 
-            "powers": "Deimos possesses the conventional superhuman physical attributes of an Olympian God, including much denser bones and flesh. Virtually immortal, he is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm. Deimos also possesses empathic powers which allow him to manipulate his victim by exploiting their emotions while augmenting his powers.", 
-            "realname": "Deimos", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Son of Night", 
+        "terror god"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Dr. Strange #32 (1991)\n", 
+    "groupaffiliation": "Olympians", 
+    "hair": "Blonde\n", 
+    "id": "Deimos", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Nox (mother), Ares (father), Phobos , (brother), Charon, Hypnos,Thanatos (half-brothers) Nemesis, Hemera (half-sisters), numerous others", 
+    "occupation": "God of dread and terror", 
+    "origin": "Dr. Strange #32 (1991)", 
+    "placeofbirth": "Olympus", 
+    "powers": "Deimos possesses the conventional superhuman physical attributes of an Olympian God, including much denser bones and flesh. Virtually immortal, he is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm. Deimos also possesses empathic powers which allow him to manipulate his victim by exploiting their emotions while augmenting his powers.", 
+    "realname": "Deimos", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Marvel Boy", 
-                "Marvel Man", 
-                "Manglin' John Mahoney", 
-                "the Astounding Astrovik", 
-                "Superhuman Penitentary Prisoner 344678", 
-                "Squire Justice", 
-                "Super Tights"
-            ], 
-            "citizenship": "U.S.A with a criminal record", 
-            "content": "Vance had often been abused by his father throughout his childhood, but his powers led to more abuse from his father, a violent anti-mutant bigot. Vance soon ran away from home and eventually ended up adventuring alongside the Thing, who was taking a leave of absence from the Fantastic Four. Calling himself Marvel Boy, Astrovik joined the Thing as a member of the Unlimited Class Wrestling Federation before finally parting ways.Vance, as Marvel Boy, later tried to join the Avengers, but was told by his hero, Captain America, that he needed more experience. Feeling rejected and embarrassed, Vance was then approached by Night Thrasher and Nova, who were forming their own team called the New Warriors. Vance quickly became one of the Warriors' most stalwart members and met fellow mutant Firestar, with whom he developed a romantic relationship.Returning home for a brief period, Vance was struck again by his father, and, when retaliating with his powers, Vance killed him. His mother pressed charges, and Vance was arrested, serving time for murder. Later released for good behavior, Vance adopted a new guise as Justice, and rejoined the New Warriors, often serving in leadership roles.  Firestar eventually asked Vance to marry her.Vance and Firestar, alongside their teammate Rage, were drawn into conflict with monsters summoned by evil sorceress Morgan Le Fay. Rage, once a member of the Avengers, brought the couple with him as the Avengers reassembled after a period of disbanding to defeat Le Fey. After a strong push to prove himself, Vance, with Firestar, were elected reserve members.After serving several missions, and feeling vastly inferior to be joining the same league as his idols, Vance was elected to full membership. Continually trying to prove himself, Justice eventually won over his insecurities during the Avengers' battle with the robot Ultron. He had researched the Avengers files, discovering a new means of defeating Ultron and using it to help the Avengers destroy him. After seeing the emotional turmoil Hank Pym and the Wasp went through in the battle, Vance finally began to regard the Avengers as people rather than icons and became more relaxed about working with the team.Soon afterward, Vance announced his engagement with Firestar, and the two left active duty, presumably to explore their relationship. In reality, they were asked to secretly infiltrate the headquarters of the Triune Understanding, whose leader, Jonathan Tremont, was surreptitiously attacking the Avengers' public image for his own benefit. Vance and Firestar discovered the true cause of the Understanding-- using the beliefs of its members to sympathetically power a spaceship to battle a cosmic menace. They helped a contingent of Avengers join the battle against the menace, and directly afterwards helped the heroes keep the time-travelling Kang from conquering the world. After the crises were averted, they again parted company with the Avengers.", 
-            "durability": 2, 
-            "education": "College studies in progress", 
-            "energy": 5, 
-            "eyes": "Hazel\n", 
-            "fighting": 3, 
-            "firstappearance": "Giant Sized Defenders #5 (1975)\n", 
-            "groupaffiliation": [
-                "Avengers Resistence", 
-                "formerly The Initiative (trainer)", 
-                "Avengers", 
-                "Triune Understanding", 
-                "Queen's Vengeance", 
-                "Unlimited Class Wrestling Federation", 
-                "Taskmaster's Circus", 
-                "Secret Avengers", 
-                "former partner of Firestar"
-            ], 
-            "hair": "Brown\n", 
-            "height": 70, 
-            "id": "Justice_(Vance_Astrovik)", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Arnold Astrovik (father, deceased), Norma Astrovik (mother), Angelica Jones (Firestar, ex-fianc\u00e9e)", 
-            "occupation": "Adventurer", 
-            "placeofbirth": [
-                "Saugerties", 
-                "New York"
-            ], 
-            "powers": "Vance is an extremely powerful and skilled mutant telekinetic, able to levitate and manipulate objects with his mind. By using his ability on himself, he is capable of flying with great speed and maneuverability, and can carry other people and masses aloft with him. In addition to more complex or subtle operations, he can channel his power into basic feats such as defensive screen or blasts of tremendous force.", 
-            "realname": "Vance Astrovik", 
-            "speed": 3, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": [
+        "Marvel Boy", 
+        "Marvel Man", 
+        "Manglin' John Mahoney", 
+        "the Astounding Astrovik", 
+        "Superhuman Penitentary Prisoner 344678", 
+        "Squire Justice", 
+        "Super Tights"
+    ], 
+    "citizenship": "U.S.A with a criminal record", 
+    "content": "Vance had often been abused by his father throughout his childhood, but his powers led to more abuse from his father, a violent anti-mutant bigot. Vance soon ran away from home and eventually ended up adventuring alongside the Thing, who was taking a leave of absence from the Fantastic Four. Calling himself Marvel Boy, Astrovik joined the Thing as a member of the Unlimited Class Wrestling Federation before finally parting ways.Vance, as Marvel Boy, later tried to join the Avengers, but was told by his hero, Captain America, that he needed more experience. Feeling rejected and embarrassed, Vance was then approached by Night Thrasher and Nova, who were forming their own team called the New Warriors. Vance quickly became one of the Warriors' most stalwart members and met fellow mutant Firestar, with whom he developed a romantic relationship.Returning home for a brief period, Vance was struck again by his father, and, when retaliating with his powers, Vance killed him. His mother pressed charges, and Vance was arrested, serving time for murder. Later released for good behavior, Vance adopted a new guise as Justice, and rejoined the New Warriors, often serving in leadership roles.  Firestar eventually asked Vance to marry her.Vance and Firestar, alongside their teammate Rage, were drawn into conflict with monsters summoned by evil sorceress Morgan Le Fay. Rage, once a member of the Avengers, brought the couple with him as the Avengers reassembled after a period of disbanding to defeat Le Fey. After a strong push to prove himself, Vance, with Firestar, were elected reserve members.After serving several missions, and feeling vastly inferior to be joining the same league as his idols, Vance was elected to full membership. Continually trying to prove himself, Justice eventually won over his insecurities during the Avengers' battle with the robot Ultron. He had researched the Avengers files, discovering a new means of defeating Ultron and using it to help the Avengers destroy him. After seeing the emotional turmoil Hank Pym and the Wasp went through in the battle, Vance finally began to regard the Avengers as people rather than icons and became more relaxed about working with the team.Soon afterward, Vance announced his engagement with Firestar, and the two left active duty, presumably to explore their relationship. In reality, they were asked to secretly infiltrate the headquarters of the Triune Understanding, whose leader, Jonathan Tremont, was surreptitiously attacking the Avengers' public image for his own benefit. Vance and Firestar discovered the true cause of the Understanding-- using the beliefs of its members to sympathetically power a spaceship to battle a cosmic menace. They helped a contingent of Avengers join the battle against the menace, and directly afterwards helped the heroes keep the time-travelling Kang from conquering the world. After the crises were averted, they again parted company with the Avengers.", 
+    "durability": 2, 
+    "education": "College studies in progress", 
+    "energy": 5, 
+    "eyes": "Hazel\n", 
+    "fighting": 3, 
+    "firstappearance": "Giant Sized Defenders #5 (1975)\n", 
+    "groupaffiliation": [
+        "Avengers Resistence", 
+        "formerly The Initiative (trainer)", 
+        "Avengers", 
+        "Triune Understanding", 
+        "Queen's Vengeance", 
+        "Unlimited Class Wrestling Federation", 
+        "Taskmaster's Circus", 
+        "Secret Avengers", 
+        "former partner of Firestar"
+    ], 
+    "hair": "Brown\n", 
+    "height": 70, 
+    "id": "Justice_(Vance_Astrovik)", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Arnold Astrovik (father, deceased), Norma Astrovik (mother), Angelica Jones (Firestar, ex-fianc\u00e9e)", 
+    "occupation": "Adventurer", 
+    "placeofbirth": [
+        "Saugerties", 
+        "New York"
+    ], 
+    "powers": "Vance is an extremely powerful and skilled mutant telekinetic, able to levitate and manipulate objects with his mind. By using his ability on himself, he is capable of flying with great speed and maneuverability, and can carry other people and masses aloft with him. In addition to more complex or subtle operations, he can channel his power into basic feats such as defensive screen or blasts of tremendous force.", 
+    "realname": "Vance Astrovik", 
+    "speed": 3, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

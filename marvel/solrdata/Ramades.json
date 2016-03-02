@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Ancient Egypt", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Scribal school", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Knights 4 #15 (February 2005)\n,  Marvel Knights 4 #15 (2005)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 75, 
-            "id": "Ramades", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Nathaniel Richards (Rama-Tut, father); unnamed mother; Nathaniel & Cassandra Richards, their unnamed son, and matriarch of the Eyriennes (ancestors); Tara (Huntara), Reed (Mr. Fantastic), Franklin and Valeria Richards, various Eyriennes (common ancestry); Victor von Doom (alleged ancestor); Marcus Kang I-XXIII (half-brothers, deceased); Immortus, Iron Lad, numerous others (alternate dimensional counterparts of his father) and their offspring", 
-            "occupation": [
-                "Prince of Egypt", 
-                "conqueror"
-            ], 
-            "origin": "Marvel Knights 4 #16 (2005)", 
-            "placeofbirth": "Ancient Egypt (2945 B.C.)", 
-            "realname": "Ramades", 
-            "significantissues": [
-                "Sabotaged Fantastic Four's Time Platform (Marvel Knights 4 #15, 2005)", 
-                "conquered Earth in the absence of Fantastic Four and Avengers (Marvel Knights 4 #16, 2005)", 
-                "trapped in endlessly repeating chronal loop by Fantastic Four (Marvel Knights 4 #18, 2005)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 225
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Ancient Egypt", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Scribal school", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Knights 4 #15 (February 2005)\n,  Marvel Knights 4 #15 (2005)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 75, 
+    "id": "Ramades", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Nathaniel Richards (Rama-Tut, father); unnamed mother; Nathaniel & Cassandra Richards, their unnamed son, and matriarch of the Eyriennes (ancestors); Tara (Huntara), Reed (Mr. Fantastic), Franklin and Valeria Richards, various Eyriennes (common ancestry); Victor von Doom (alleged ancestor); Marcus Kang I-XXIII (half-brothers, deceased); Immortus, Iron Lad, numerous others (alternate dimensional counterparts of his father) and their offspring", 
+    "occupation": [
+        "Prince of Egypt", 
+        "conqueror"
+    ], 
+    "origin": "Marvel Knights 4 #16 (2005)", 
+    "placeofbirth": "Ancient Egypt (2945 B.C.)", 
+    "realname": "Ramades", 
+    "significantissues": [
+        "Sabotaged Fantastic Four's Time Platform (Marvel Knights 4 #15, 2005)", 
+        "conquered Earth in the absence of Fantastic Four and Avengers (Marvel Knights 4 #16, 2005)", 
+        "trapped in endlessly repeating chronal loop by Fantastic Four (Marvel Knights 4 #18, 2005)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 225
 }

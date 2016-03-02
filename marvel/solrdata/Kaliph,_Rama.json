@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Egypt", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Extensive studies of sorcery", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #136 (1965)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Kaliph,_Rama", 
-            "identity": "No dual Identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Sorcerer", 
-                "teacher", 
-                "antiquarian"
-            ], 
-            "placeofbirth": [
-                "Alexandria", 
-                "Egypt"
-            ], 
-            "powers": "Rama Kaliph possessed extensive knowledge of mystic lore and demonstrated telepathy and the skill of performing exorcisms.", 
-            "realname": "Rama Kaliph", 
-            "significantissues": [
-                "Rendered comatose by Baron Mordo (Strange Tales #136, 1965)", 
-                "came to Doctor Strange's aid, remained at Sanctum Sanctorum for several weeks (Doctor Strange #7, 9-11 & 15-17, 1975-1976)", 
-                "killed by Silver Dagger (Over the Edge #2, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 158
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Egypt", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Extensive studies of sorcery", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #136 (1965)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Kaliph,_Rama", 
+    "identity": "No dual Identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Sorcerer", 
+        "teacher", 
+        "antiquarian"
+    ], 
+    "placeofbirth": [
+        "Alexandria", 
+        "Egypt"
+    ], 
+    "powers": "Rama Kaliph possessed extensive knowledge of mystic lore and demonstrated telepathy and the skill of performing exorcisms.", 
+    "realname": "Rama Kaliph", 
+    "significantissues": [
+        "Rendered comatose by Baron Mordo (Strange Tales #136, 1965)", 
+        "came to Doctor Strange's aid, remained at Sanctum Sanctorum for several weeks (Doctor Strange #7, 9-11 & 15-17, 1975-1976)", 
+        "killed by Silver Dagger (Over the Edge #2, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 158
 }

@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Prisoner #3774", 
-            "citizenship": "U.S.A. (presumed)", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Factor X #2 (1995)\n", 
-            "groupaffiliation": "Former partner of Rogue", 
-            "hair": "Green\n", 
-            "height": 67, 
-            "id": "Polaris_(Age_of_Apocalypse)", 
-            "identity": [
-                "Secret", 
-                "known to Apocalypse's forces"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unnamed parents", 
-            "occupation": "None", 
-            "origin": "Factor X #2 (1995)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Polaris has the mutant power to manipulate magnetism but the full extent of these abilities are not yet known.", 
-            "realname": "Lorna Dane", 
-            "significantissues": "rescued from the breeding pens by Cyclops (Factor X #2, 1995)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 115
-        }
-    }
+    "aliases": "Prisoner #3774", 
+    "citizenship": "U.S.A. (presumed)", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Factor X #2 (1995)\n", 
+    "groupaffiliation": "Former partner of Rogue", 
+    "hair": "Green\n", 
+    "height": 67, 
+    "id": "Polaris_(Age_of_Apocalypse)", 
+    "identity": [
+        "Secret", 
+        "known to Apocalypse's forces"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unnamed parents", 
+    "occupation": "None", 
+    "origin": "Factor X #2 (1995)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Polaris has the mutant power to manipulate magnetism but the full extent of these abilities are not yet known.", 
+    "realname": "Lorna Dane", 
+    "significantissues": "rescued from the breeding pens by Cyclops (Factor X #2, 1995)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 115
 }

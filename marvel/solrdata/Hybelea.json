@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Negative Zone", 
-            "content": "Eventually Galactus destroyed the Annihilation Wave and Annilus himself was slain by Nova. Annihilus' second-in-command, Ravenous, agreed to a truce and Annihilus' Negative Zone forces occupied most of the former Skrull Empire as well as a number of former Kree worlds. Hybelea was among the Centurions that began to question their involvement in the destruction wrought by the Annihilation Wave and began leaving Ravenous, although many of the Centurions remained loyal to his rule and enjoyed the spoils of war, by obtaining governorships of conquered worlds. The Herald known as Firelord took up his own vigilante campaign against Ravenous and his forces, by traveling world to world and slaying the allies of Ravenous.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "Annihilation #2 (2006)\n", 
-            "groupaffiliation": "Centurions", 
-            "hair": "Unrevealed\n", 
-            "id": "Hybelea", 
-            "identity": "Unknown to the general inhabitants of Earth.", 
-            "intelligence": 1, 
-            "knownrelatives": "None Known", 
-            "occupation": [
-                "Protector", 
-                "adventurer"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Hybelea possessed superhuman strength and durability, and he was able to withstand a brutal attack by the Ex-Herald of Galactus known as Firelord. He was able to project bolts of force from his hands.", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Negative Zone", 
+    "content": "Eventually Galactus destroyed the Annihilation Wave and Annilus himself was slain by Nova. Annihilus' second-in-command, Ravenous, agreed to a truce and Annihilus' Negative Zone forces occupied most of the former Skrull Empire as well as a number of former Kree worlds. Hybelea was among the Centurions that began to question their involvement in the destruction wrought by the Annihilation Wave and began leaving Ravenous, although many of the Centurions remained loyal to his rule and enjoyed the spoils of war, by obtaining governorships of conquered worlds. The Herald known as Firelord took up his own vigilante campaign against Ravenous and his forces, by traveling world to world and slaying the allies of Ravenous.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "Annihilation #2 (2006)\n", 
+    "groupaffiliation": "Centurions", 
+    "hair": "Unrevealed\n", 
+    "id": "Hybelea", 
+    "identity": "Unknown to the general inhabitants of Earth.", 
+    "intelligence": 1, 
+    "knownrelatives": "None Known", 
+    "occupation": [
+        "Protector", 
+        "adventurer"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Hybelea possessed superhuman strength and durability, and he was able to withstand a brutal attack by the Ex-Herald of Galactus known as Firelord. He was able to project bolts of force from his hands.", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Kronos", 
-            "citizenship": "None", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Inapplicable\n", 
-            "fighting": 1, 
-            "firstappearance": "Iron Man #55 (1973)\n", 
-            "groupaffiliation": "Eternals of Earth", 
-            "hair": "Inapplicable\n", 
-            "height": 0, 
-            "id": "Kronos", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Diana (wife), Zuras (son, deceased), Cybele (daughter-in-law), Azura (aka Thena, granddaughter), Alars (aka Mentor, son), Sui-San (daughter-in-law, deceased), Eros (aka Starfox, grandson), Thanos (grandson)", 
-            "occupation": [
-                "Philosopher", 
-                "embodiment of time", 
-                "former scientist"
-            ], 
-            "origin": "Captain Marvel #29 (1973)", 
-            "placeofbirth": [
-                "City of Titanos", 
-                "Northern Asia (destroyed)"
-            ], 
-            "powers": "Exponential augmentation of the cosmic  life force common to the race of super-humans known as the Eternals.", 
-            "realname": "Chronos", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Negligible\n"
-        }
-    }
+    "aliases": "Kronos", 
+    "citizenship": "None", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Inapplicable\n", 
+    "fighting": 1, 
+    "firstappearance": "Iron Man #55 (1973)\n", 
+    "groupaffiliation": "Eternals of Earth", 
+    "hair": "Inapplicable\n", 
+    "height": 0, 
+    "id": "Kronos", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Diana (wife), Zuras (son, deceased), Cybele (daughter-in-law), Azura (aka Thena, granddaughter), Alars (aka Mentor, son), Sui-San (daughter-in-law, deceased), Eros (aka Starfox, grandson), Thanos (grandson)", 
+    "occupation": [
+        "Philosopher", 
+        "embodiment of time", 
+        "former scientist"
+    ], 
+    "origin": "Captain Marvel #29 (1973)", 
+    "placeofbirth": [
+        "City of Titanos", 
+        "Northern Asia (destroyed)"
+    ], 
+    "powers": "Exponential augmentation of the cosmic  life force common to the race of super-humans known as the Eternals.", 
+    "realname": "Chronos", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Negligible\n"
 }

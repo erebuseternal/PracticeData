@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Crimson Cowl", 
-            "citizenship": "U.S.A.", 
-            "content": "The Starks' son, Tony, called the first meeting of the Avengers as Iron Man and donated the house as headquarters, so that it became Avengers Mansion. Jarvis grew accustomed to the guests and served the Avengers for many years on, acting as a father figure to some newcomers. He is the only person who has been with the Avengers for their entire existence, a distinction not even Captain America can claim.Aside from serving and supporting the Avengers, Jarvis has also had his share of various adventures. Once, early in his association with the team, Jarvis became desperate for money due to his mother's extreme illness. He accepted the money from the original Crimson Cowl (soon revealed to be the robot Ultron) in exchange for providing blueprints to the Avengers' mansion. Ultron captured the Avengers and hypnotized Jarvis to believe he was the Crimson Cowl. The Avengers soon turned the tables on Ultron and helped Jarvis regain his identity and restore his mother to health.At other times, Jarvis helped rescue the hapless captive Judy Parks from Graviton and helped the Avengers subdue a time-displaced D'Artagnan. Once, Jarvis stood up to and fought the Bruiser, a neighborhood bully who robbed his mother. He further inspired her neighbors to join him in driving Bruiser out of the neighborhood.During the fourth Masters of Evil attack on the mansion, Jarvis was savagely beaten and almost lost an eye to the marauders, brutally tortured by Mister Hyde. Jarvis was rescued by the Avengers and took a leave of absence to recuperate. Jarvis later returned once he had sufficiently healed from his injuries. Soon after, the Avengers temporarily disbanded from active duty, and Jarvis was temporarily relieved, until the Avengers reassembled. During the Avengers temporary disbanding, Jarvis met and began dating Glory Garsen.Upon reassembling, the Avengers expanded their \"ground crew\" to include other non-superhuman job dutites, of which Jarvis enjoyed a senior position as \"Chief of Staff.\" At one point, the Ground Crew was brainwashed by the Skeleton Crew into attacking the Avengers, although they were easily defeated and freed from the Skeleton Crew's control. When Crystal took up residence in the mansion with her daughter Luna, she brought with her a nanny, Marilla. The two became rivals over various domestic duties but over time became fond of each other. Eventually, the Avengers' Ground Crew was dismissed and Jarvis remained the sole domestic worker for the mansion once more.Later still, Jarvis was relieved of duty when the Avengers disbanded again, this time presumably permanently due to the perceived death of many members by the entity known as Onslaught. Jarvis felt extremely displaced and sank into a depression, living off his pension from the Stark Foundation. Even so, he helped his former co-Ground Crew member Fabian Stankowicz deactivate his Protectorate robots, robots meant to replace the Avengers but had gone renegade. When the Avengers returned and reassembled, Jarvis also returned to service, with a renewed sense of duty.Jarvis recently revealed that he had been sponsoring a foreign child, Maria de Guadalupe \"Lupe\" Santiago, and had the opportunity to meet her in person as she came to New York for college. The Avengers soon discovered Lupe was the superhuman adventurer Silverclaw and was placed in Jarvis' sponsorship precisely because of his connection to the Avengers. Silverclaw aided the Avengers against the arms dealer Moses Magnum, and was later offered provisional membership in the group.", 
-            "durability": 1, 
-            "education": "University graduate", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales of Suspense #59 (1964)\n", 
-            "groupaffiliation": "Employee of Anthony Stark and the Avengers", 
-            "hair": "Black\n", 
-            "height": 71, 
-            "id": "Jarvis,_Edwin", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Mrs. Jarvis (mother)", 
-            "occupation": [
-                "Butler to Anthony Stark and the Avengers", 
-                "Former Royal Air Force (RAF) pilot"
-            ], 
-            "origin": "Avengers #280 (1987)", 
-            "placeofbirth": [
-                "Brooklyn", 
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Edwin Jarvis", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 160
-        }
-    }
+    "aliases": "Crimson Cowl", 
+    "citizenship": "U.S.A.", 
+    "content": "The Starks' son, Tony, called the first meeting of the Avengers as Iron Man and donated the house as headquarters, so that it became Avengers Mansion. Jarvis grew accustomed to the guests and served the Avengers for many years on, acting as a father figure to some newcomers. He is the only person who has been with the Avengers for their entire existence, a distinction not even Captain America can claim.Aside from serving and supporting the Avengers, Jarvis has also had his share of various adventures. Once, early in his association with the team, Jarvis became desperate for money due to his mother's extreme illness. He accepted the money from the original Crimson Cowl (soon revealed to be the robot Ultron) in exchange for providing blueprints to the Avengers' mansion. Ultron captured the Avengers and hypnotized Jarvis to believe he was the Crimson Cowl. The Avengers soon turned the tables on Ultron and helped Jarvis regain his identity and restore his mother to health.At other times, Jarvis helped rescue the hapless captive Judy Parks from Graviton and helped the Avengers subdue a time-displaced D'Artagnan. Once, Jarvis stood up to and fought the Bruiser, a neighborhood bully who robbed his mother. He further inspired her neighbors to join him in driving Bruiser out of the neighborhood.During the fourth Masters of Evil attack on the mansion, Jarvis was savagely beaten and almost lost an eye to the marauders, brutally tortured by Mister Hyde. Jarvis was rescued by the Avengers and took a leave of absence to recuperate. Jarvis later returned once he had sufficiently healed from his injuries. Soon after, the Avengers temporarily disbanded from active duty, and Jarvis was temporarily relieved, until the Avengers reassembled. During the Avengers temporary disbanding, Jarvis met and began dating Glory Garsen.Upon reassembling, the Avengers expanded their \"ground crew\" to include other non-superhuman job dutites, of which Jarvis enjoyed a senior position as \"Chief of Staff.\" At one point, the Ground Crew was brainwashed by the Skeleton Crew into attacking the Avengers, although they were easily defeated and freed from the Skeleton Crew's control. When Crystal took up residence in the mansion with her daughter Luna, she brought with her a nanny, Marilla. The two became rivals over various domestic duties but over time became fond of each other. Eventually, the Avengers' Ground Crew was dismissed and Jarvis remained the sole domestic worker for the mansion once more.Later still, Jarvis was relieved of duty when the Avengers disbanded again, this time presumably permanently due to the perceived death of many members by the entity known as Onslaught. Jarvis felt extremely displaced and sank into a depression, living off his pension from the Stark Foundation. Even so, he helped his former co-Ground Crew member Fabian Stankowicz deactivate his Protectorate robots, robots meant to replace the Avengers but had gone renegade. When the Avengers returned and reassembled, Jarvis also returned to service, with a renewed sense of duty.Jarvis recently revealed that he had been sponsoring a foreign child, Maria de Guadalupe \"Lupe\" Santiago, and had the opportunity to meet her in person as she came to New York for college. The Avengers soon discovered Lupe was the superhuman adventurer Silverclaw and was placed in Jarvis' sponsorship precisely because of his connection to the Avengers. Silverclaw aided the Avengers against the arms dealer Moses Magnum, and was later offered provisional membership in the group.", 
+    "durability": 1, 
+    "education": "University graduate", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales of Suspense #59 (1964)\n", 
+    "groupaffiliation": "Employee of Anthony Stark and the Avengers", 
+    "hair": "Black\n", 
+    "height": 71, 
+    "id": "Jarvis,_Edwin", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Mrs. Jarvis (mother)", 
+    "occupation": [
+        "Butler to Anthony Stark and the Avengers", 
+        "Former Royal Air Force (RAF) pilot"
+    ], 
+    "origin": "Avengers #280 (1987)", 
+    "placeofbirth": [
+        "Brooklyn", 
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Edwin Jarvis", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 160
 }

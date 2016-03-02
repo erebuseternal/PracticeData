@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Lemuria", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Sub-Mariner #9 (1969)\n", 
-            "groupaffiliation": "None", 
-            "hair": "None\n", 
-            "height": 66, 
-            "id": "Naga", 
-            "identity": [
-                "Publicly known in Lemuria", 
-                "the general populace of Earth was unaware of Naga existence."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Married at least once (husband unknown), Merro (son, deceased), Llyra (daughter-in-law)", 
-            "occupation": "At the time of his death Naga was the Emperor of Lemuria.", 
-            "origin": "Sub-Mariner #10 (1969)", 
-            "placeofbirth": "Lemuria", 
-            "powers": "Without the Serpent Crown Naga had the strength of an enhanced human, while wearing the Crown he possessed superhuman strength and abilities.", 
-            "realname": "Naga", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 135
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Lemuria", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Sub-Mariner #9 (1969)\n", 
+    "groupaffiliation": "None", 
+    "hair": "None\n", 
+    "height": 66, 
+    "id": "Naga", 
+    "identity": [
+        "Publicly known in Lemuria", 
+        "the general populace of Earth was unaware of Naga existence."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Married at least once (husband unknown), Merro (son, deceased), Llyra (daughter-in-law)", 
+    "occupation": "At the time of his death Naga was the Emperor of Lemuria.", 
+    "origin": "Sub-Mariner #10 (1969)", 
+    "placeofbirth": "Lemuria", 
+    "powers": "Without the Serpent Crown Naga had the strength of an enhanced human, while wearing the Crown he possessed superhuman strength and abilities.", 
+    "realname": "Naga", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 135
 }

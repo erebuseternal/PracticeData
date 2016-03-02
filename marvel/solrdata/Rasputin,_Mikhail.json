@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Russia", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "(Mentioned) X-Men #99 (1976); (seen) Uncanny X-Men #285 (1992)\n", 
-            "groupaffiliation": [
-                "Formerly Gene Nation (leader)", 
-                "Morlocks (leader)"
-            ], 
-            "hair": "Black\n", 
-            "height": 73, 
-            "id": "Rasputin,_Mikhail", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Grigory Efimovich (great-grandfather, deceased), Elena (great-grandmother, deceased), Ivan (great-grand uncle, deceased), Grigory (grandfather, deceased), Nikolai (father, deceased), Alexandra (mother, deceased), Vladimir (uncle, deceased), unidentified aunt & uncle (deceased), Illyana Nikolievna (Magik, sister, deceased), Piotr Nikolaievitch (Colossus, brother), Peter Jr. (nephew), Larissa  Mishchenko (cousin), Konstantin (cousin, deceased), Klara (cousin, deceased), Dimitriy (cousin, deceased)", 
-            "occupation": [
-                "Former terrorist", 
-                "cosmonaut"
-            ], 
-            "placeofbirth": [
-                "Ust-Ordynski Collective", 
-                "near Lake Baikal", 
-                "Siberia", 
-                "Russia"
-            ], 
-            "powers": "High-level energy manipulation; creation of interdimensional portals", 
-            "realname": "Mikhail Nikolaievitch Rasputin", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 225
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Russia", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "(Mentioned) X-Men #99 (1976); (seen) Uncanny X-Men #285 (1992)\n", 
+    "groupaffiliation": [
+        "Formerly Gene Nation (leader)", 
+        "Morlocks (leader)"
+    ], 
+    "hair": "Black\n", 
+    "height": 73, 
+    "id": "Rasputin,_Mikhail", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Grigory Efimovich (great-grandfather, deceased), Elena (great-grandmother, deceased), Ivan (great-grand uncle, deceased), Grigory (grandfather, deceased), Nikolai (father, deceased), Alexandra (mother, deceased), Vladimir (uncle, deceased), unidentified aunt & uncle (deceased), Illyana Nikolievna (Magik, sister, deceased), Piotr Nikolaievitch (Colossus, brother), Peter Jr. (nephew), Larissa  Mishchenko (cousin), Konstantin (cousin, deceased), Klara (cousin, deceased), Dimitriy (cousin, deceased)", 
+    "occupation": [
+        "Former terrorist", 
+        "cosmonaut"
+    ], 
+    "placeofbirth": [
+        "Ust-Ordynski Collective", 
+        "near Lake Baikal", 
+        "Siberia", 
+        "Russia"
+    ], 
+    "powers": "High-level energy manipulation; creation of interdimensional portals", 
+    "realname": "Mikhail Nikolaievitch Rasputin", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 225
 }

@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Michael Gula", 
-            "citizenship": [
-                "Expatriated citizen of Rudyarda", 
-                "South Africa"
-            ], 
-            "content": "While he voted not guilty during Diamondback's trial, he was later sent by King Cobra to wait at her apartment after she escaped her punishment.  He was confronted by Captain America, but Rock Python was able to defeat the hero and dropped him from the roof of Diamondback's apartment building.  However, he was ordered by King Cobra to leave the area immediately, and was unable to see if he had killed his enemy.", 
-            "durability": 1, 
-            "education": "Attended vocational school", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Captain America #342\n", 
-            "groupaffiliation": "Serpent Society", 
-            "hair": "Brown\n", 
-            "height": 74, 
-            "id": "Rock_Python", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "None known", 
-            "occupation": "Professional criminal", 
-            "placeofbirth": [
-                "Viceroy", 
-                "Rudyarda"
-            ], 
-            "powers": "Rock Python's major attribute is his rock-hard skin, and muscle tissue, and bones.  His body is impervious to high caliber arms fire, explosions up to at least 1000 pounds of TNT, heat up to at least 500 degrees fahrenheit, and impacts equivalent to a 200 foot tall.", 
-            "realname": "M'Gula", 
-            "significantissues": [
-                "Aided Viper in her invasion (Captain America #342)", 
-                "Participated in initiation test into the Society alongside Puff Adder and Coachwhip (Captain America #355)", 
-                "Battled the X-Men (Uncanny X-Men Annual #13)", 
-                "Defeated Captain America, dropped him off the roof of Diamondback's apartment (Captain America #380-382)", 
-                "Ambushed Diamondback with Anaconda and Puff Adder (Captain America #385-386)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 192
-        }
-    }
+    "aliases": "Michael Gula", 
+    "citizenship": [
+        "Expatriated citizen of Rudyarda", 
+        "South Africa"
+    ], 
+    "content": "While he voted not guilty during Diamondback's trial, he was later sent by King Cobra to wait at her apartment after she escaped her punishment.  He was confronted by Captain America, but Rock Python was able to defeat the hero and dropped him from the roof of Diamondback's apartment building.  However, he was ordered by King Cobra to leave the area immediately, and was unable to see if he had killed his enemy.", 
+    "durability": 1, 
+    "education": "Attended vocational school", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Captain America #342\n", 
+    "groupaffiliation": "Serpent Society", 
+    "hair": "Brown\n", 
+    "height": 74, 
+    "id": "Rock_Python", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "None known", 
+    "occupation": "Professional criminal", 
+    "placeofbirth": [
+        "Viceroy", 
+        "Rudyarda"
+    ], 
+    "powers": "Rock Python's major attribute is his rock-hard skin, and muscle tissue, and bones.  His body is impervious to high caliber arms fire, explosions up to at least 1000 pounds of TNT, heat up to at least 500 degrees fahrenheit, and impacts equivalent to a 200 foot tall.", 
+    "realname": "M'Gula", 
+    "significantissues": [
+        "Aided Viper in her invasion (Captain America #342)", 
+        "Participated in initiation test into the Society alongside Puff Adder and Coachwhip (Captain America #355)", 
+        "Battled the X-Men (Uncanny X-Men Annual #13)", 
+        "Defeated Captain America, dropped him off the roof of Diamondback's apartment (Captain America #380-382)", 
+        "Ambushed Diamondback with Anaconda and Puff Adder (Captain America #385-386)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 192
 }

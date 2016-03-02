@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Tecumotzin", 
-                "Lord of Flight"
-            ], 
-            "citizenship": "Polaria", 
-            "content": "When the Fourth Host finally came, Ikaris and Ajak greeted them alongside the human archaeologist Doctor Daniel Damian and his daughter Margo, but the Deviants hoped to turn humanity against the Celestials by tricking them into an attack. The Eternals revealed their existence to humanity for the first time in order to quell the humans' fear of the Celestials and Deviants, and they made close friends of the anthropologist Doctor Samuel Holden. Warlord Kro introduced Thena to the Deviants Karkas and Ransak while she visited Lemuria, and Thena brought them back to Olympia with her to escape the prejudice of their own people. Ajak joined the rest of the Eternals in forming a Uni-Mind to analyze the Fourth Host.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Grey\n", 
-            "fighting": 1, 
-            "firstappearance": "Eternals #2 (1976)\n", 
-            "groupaffiliation": [
-                "Eternals", 
-                "God Squad"
-            ], 
-            "hair": "Black\n", 
-            "height": 73, 
-            "id": "Ajak", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "(Formerly) archaeologist", 
-                "servant to the Celestials"
-            ], 
-            "origin": "Yet to be revealed", 
-            "placeofbirth": [
-                "Polaria (now known as Siberia)", 
-                "U.S.S.R."
-            ], 
-            "powers": "Ajak is an Eternal and like all Eternals he can manipulate cosmic energy for a variety of effects. He has total mastery over his physical form granting him virtually immortality and the ability to recover from most wounds except for injuries which dis-corporate a majority of his body. He has superhuman strength enabling him to lift 25 tons. He can use his energy to levitate and fly at Mach One. He can convert his cosmic energy into heat, light, or concussive force which he can discharge from his hands or his eyes. Ajak also has the ability to molecularly rearrange  the structure of objects. Like all Eternals, Ajak has the ability to join other Eternal minds and form the Uni-Mind.", 
-            "realname": "Ajak", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": [
+        "Tecumotzin", 
+        "Lord of Flight"
+    ], 
+    "citizenship": "Polaria", 
+    "content": "When the Fourth Host finally came, Ikaris and Ajak greeted them alongside the human archaeologist Doctor Daniel Damian and his daughter Margo, but the Deviants hoped to turn humanity against the Celestials by tricking them into an attack. The Eternals revealed their existence to humanity for the first time in order to quell the humans' fear of the Celestials and Deviants, and they made close friends of the anthropologist Doctor Samuel Holden. Warlord Kro introduced Thena to the Deviants Karkas and Ransak while she visited Lemuria, and Thena brought them back to Olympia with her to escape the prejudice of their own people. Ajak joined the rest of the Eternals in forming a Uni-Mind to analyze the Fourth Host.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Grey\n", 
+    "fighting": 1, 
+    "firstappearance": "Eternals #2 (1976)\n", 
+    "groupaffiliation": [
+        "Eternals", 
+        "God Squad"
+    ], 
+    "hair": "Black\n", 
+    "height": 73, 
+    "id": "Ajak", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "(Formerly) archaeologist", 
+        "servant to the Celestials"
+    ], 
+    "origin": "Yet to be revealed", 
+    "placeofbirth": [
+        "Polaria (now known as Siberia)", 
+        "U.S.S.R."
+    ], 
+    "powers": "Ajak is an Eternal and like all Eternals he can manipulate cosmic energy for a variety of effects. He has total mastery over his physical form granting him virtually immortality and the ability to recover from most wounds except for injuries which dis-corporate a majority of his body. He has superhuman strength enabling him to lift 25 tons. He can use his energy to levitate and fly at Mach One. He can convert his cosmic energy into heat, light, or concussive force which he can discharge from his hands or his eyes. Ajak also has the ability to molecularly rearrange  the structure of objects. Like all Eternals, Ajak has the ability to join other Eternal minds and form the Uni-Mind.", 
+    "realname": "Ajak", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

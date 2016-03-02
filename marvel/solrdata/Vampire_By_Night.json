@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Nina traveled the world, using her father's money to seek mystics who could remove the curse. In a Transylvanian village in the Carpathian Mountains, Nina encountered a vampire who attempted to make her his mate rather than drain her life completely; but after Nina arose from her catatonic state as a unique werewolf/vampire hybrid, she transformed into an arctic timber wolf, nearly devouring her vampiric suitor before he escaped. She did not develop the perverse erotic attraction that most victims develop toward the vampire that bit them. Nina noticed several changes with her new nature. Rather than \"blacking-out,\" she now remembered everything that happened while in wolf-form, which she could assume at will after sundown. She now craved blood every night and would lose more self-control the longer she went without killing. Unable to satiate her bloodthirst with blood bags or plasma, Nina traveled the world, frequenting high-crime areas so that she could feed on muggers and rapists.", 
-            "durability": 5, 
-            "education": "Various boarding schools", 
-            "energy": 1, 
-            "eyes": "(Vampire red; (human) blue\n", 
-            "fighting": 5, 
-            "firstappearance": "Amazing Fantasy #10 (2005)\n", 
-            "groupaffiliation": "Howling Commandos", 
-            "hair": "Blonde\n", 
-            "height": 65, 
-            "id": "Vampire_By_Night", 
-            "identity": "Known to authorities", 
-            "intelligence": 4, 
-            "knownrelatives": "Mr. Price (father), Lissa Russell Price (mother), Jack Russell (Jacob Russoff, Werewolf By Night, uncle), others (see Werewolf By Night)", 
-            "occupation": [
-                "Media empire heiress", 
-                "location scout"
-            ], 
-            "placeofbirth": [
-                "Hollywood", 
-                "California"
-            ], 
-            "powers": "Nina's unique werewolf/vampire physiology grants her powers and abilities not possessed by conventional werewolves and vampires. Nina is not undead like other vampires and can withstand the direct rays of the sun. Since being bitten by a vampire, she no longer transforms into an anthropoid-style werewolf under a full moon, but can transform into an arctic timber wolf at will once the sun goes down. Under a full moon, Nina becomes bloodthirsty and out of control. Like other vampires, her image cannot be captured on film.", 
-            "realname": "Nina Price", 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 119
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Nina traveled the world, using her father's money to seek mystics who could remove the curse. In a Transylvanian village in the Carpathian Mountains, Nina encountered a vampire who attempted to make her his mate rather than drain her life completely; but after Nina arose from her catatonic state as a unique werewolf/vampire hybrid, she transformed into an arctic timber wolf, nearly devouring her vampiric suitor before he escaped. She did not develop the perverse erotic attraction that most victims develop toward the vampire that bit them. Nina noticed several changes with her new nature. Rather than \"blacking-out,\" she now remembered everything that happened while in wolf-form, which she could assume at will after sundown. She now craved blood every night and would lose more self-control the longer she went without killing. Unable to satiate her bloodthirst with blood bags or plasma, Nina traveled the world, frequenting high-crime areas so that she could feed on muggers and rapists.", 
+    "durability": 5, 
+    "education": "Various boarding schools", 
+    "energy": 1, 
+    "eyes": "(Vampire red; (human) blue\n", 
+    "fighting": 5, 
+    "firstappearance": "Amazing Fantasy #10 (2005)\n", 
+    "groupaffiliation": "Howling Commandos", 
+    "hair": "Blonde\n", 
+    "height": 65, 
+    "id": "Vampire_By_Night", 
+    "identity": "Known to authorities", 
+    "intelligence": 4, 
+    "knownrelatives": "Mr. Price (father), Lissa Russell Price (mother), Jack Russell (Jacob Russoff, Werewolf By Night, uncle), others (see Werewolf By Night)", 
+    "occupation": [
+        "Media empire heiress", 
+        "location scout"
+    ], 
+    "placeofbirth": [
+        "Hollywood", 
+        "California"
+    ], 
+    "powers": "Nina's unique werewolf/vampire physiology grants her powers and abilities not possessed by conventional werewolves and vampires. Nina is not undead like other vampires and can withstand the direct rays of the sun. Since being bitten by a vampire, she no longer transforms into an anthropoid-style werewolf under a full moon, but can transform into an arctic timber wolf at will once the sun goes down. Under a full moon, Nina becomes bloodthirsty and out of control. Like other vampires, her image cannot be captured on film.", 
+    "realname": "Nina Price", 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 119
 }

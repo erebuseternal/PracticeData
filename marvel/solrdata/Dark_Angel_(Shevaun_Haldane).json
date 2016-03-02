@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Dark Angel", 
-                "Hell's Angel"
-            ], 
-            "citizenship": "United Kingdom", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Extensive training in the bio-occult, degrees in chemistry, physics, biology and mathematics", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Hell's Angel #1 (1992)\n", 
-            "groupaffiliation": [
-                "Dark Guard", 
-                "formerly Mys-Tech"
-            ], 
-            "hair": "Red\n", 
-            "height": 67, 
-            "id": "Dark_Angel_(Shevaun_Haldane)", 
-            "identity": "It was not known to the general populace of Earth that Shevaun Haldane was the Dark Angel.", 
-            "intelligence": 1, 
-            "knownrelatives": "Ranulph Haldane (father, deceased); unnamed brother (deceased)", 
-            "occupation": [
-                "Formerly researcher", 
-                "adventurer", 
-                "Guardian of the Universe"
-            ], 
-            "placeofbirth": [
-                "Darkmoor", 
-                "Northern England"
-            ], 
-            "powers": "Shevaun's body contains a shard of the fabric of the universe, allowing her access to power on a cosmic scale. She can transform her body into a portal that grants a thoroughfare into a pocket dimension known as the Void.", 
-            "realname": "Shevaun Haldane", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "Dark Angel", 
+        "Hell's Angel"
+    ], 
+    "citizenship": "United Kingdom", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Extensive training in the bio-occult, degrees in chemistry, physics, biology and mathematics", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Hell's Angel #1 (1992)\n", 
+    "groupaffiliation": [
+        "Dark Guard", 
+        "formerly Mys-Tech"
+    ], 
+    "hair": "Red\n", 
+    "height": 67, 
+    "id": "Dark_Angel_(Shevaun_Haldane)", 
+    "identity": "It was not known to the general populace of Earth that Shevaun Haldane was the Dark Angel.", 
+    "intelligence": 1, 
+    "knownrelatives": "Ranulph Haldane (father, deceased); unnamed brother (deceased)", 
+    "occupation": [
+        "Formerly researcher", 
+        "adventurer", 
+        "Guardian of the Universe"
+    ], 
+    "placeofbirth": [
+        "Darkmoor", 
+        "Northern England"
+    ], 
+    "powers": "Shevaun's body contains a shard of the fabric of the universe, allowing her access to power on a cosmic scale. She can transform her body into a portal that grants a thoroughfare into a pocket dimension known as the Void.", 
+    "realname": "Shevaun Haldane", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

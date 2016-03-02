@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Canada", 
-            "content": "Sasquatch and Wolverine stayed with Alpha Flight and eventually married. Alpha Flight became a major force throughout the world but things would eventually deteriorate. Wolverine went insane when a chip in his adrenal gland was activated. Heather tried to reason with him but was forced to kill her husband.Heather was devastated. Eventually, James Hudson was able to draw her out of her shell. She missed Logan but she and James eventually married. Heather would become Alpha Flight's leader.In time Heather was ripped from her reality by the mysterious man known as the Timebroker. He told her she had become unhinged from time and would have to help fix the broken chains of reality. If she didn't help, Hudson would be burned to death in a tragic accident in her reality.As Sasquatch, Heather would help the Exiles complete many missions. Following a fight with vampire versions of the Avengers, the team was separated by a magical spell. Sasquatch and Morph were dropped into a reality at the exact moment that reality's Wolverine escaped from the Weapon X Program. Afraid for Morph's life, Sasquatch knocked him out and hid him. Wolverine quickly tracked Sasquatch, but before the two could fight, Heather reverted to her human form. Wolverine stopped dead in his tracks. Before they could harm each other, Heather was teleported away and reunited with the Exiles.During a mission when the Exiles were forced to face off against their reality-hopping counterparts, Weapon X, Sasquatch was mortally wounded by her teammate, Magik. Heather saved Nocturne's life, pushing her out of the way of Magik's sword slash. Bleeding to death, Nocturne possessed Heather and transformed her into Sasquatch, allowing her healing powers to kick in.", 
-            "durability": 5, 
-            "education": "MD, Ph.D in Genetics and Robotics", 
-            "energy": 1, 
-            "eyes": "Brown (blue as Sasquatch)\n", 
-            "fighting": 3, 
-            "firstappearance": "Exiles #10 (2002)\n", 
-            "groupaffiliation": [
-                "Exiles", 
-                "formerly Alpha Flight"
-            ], 
-            "hair": "Black (white as Sasquatch)\n", 
-            "height": 68, 
-            "id": "Hudson,_Heather_(Earth-3470)", 
-            "identity": "Publicly known", 
-            "intelligence": 5, 
-            "knownrelatives": "James MacDonald Hudson (husband), Wolverine (husband, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "reality traveler"
-            ], 
-            "origin": [
-                "Exiles #33 (2003)", 
-                "Exiles #57 (2005)"
-            ], 
-            "placeofbirth": "Canada", 
-            "powers": "Currently Heather Hudson has no superhuman abilities. Heather Hudson formerly had the ability to take on the form of Canada's legendary creature, the Sasquatch. In that form she had an amazing healing factor and the ability to lift close to 70 tons. As well as being resistant to many forms of injury.", 
-            "realname": "Heather Hudson", 
-            "significantissues": [
-                "changed in to Tanaraq (Exiles #57, 2005)", 
-                "managed to fight her way out of Tanaraq (Exiles #58, 2005)", 
-                "revealed to be in Crystal Palace's Stasis Gallery (Exiles #66, 2006)", 
-                "recruited Longshot (Exiles #74, 2006)", 
-                "recruited Psylocke (Exiles #91, 2007)", 
-                "left the Exiles (Exiles #95, 2007)", 
-                "rejoin Exiles (Exiles vol.2 #6, 2009)"
-            ], 
-            "speed": 3, 
-            "strength": 5, 
-            "universe": "Earth-3470", 
-            "weight": 135
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Canada", 
+    "content": "Sasquatch and Wolverine stayed with Alpha Flight and eventually married. Alpha Flight became a major force throughout the world but things would eventually deteriorate. Wolverine went insane when a chip in his adrenal gland was activated. Heather tried to reason with him but was forced to kill her husband.Heather was devastated. Eventually, James Hudson was able to draw her out of her shell. She missed Logan but she and James eventually married. Heather would become Alpha Flight's leader.In time Heather was ripped from her reality by the mysterious man known as the Timebroker. He told her she had become unhinged from time and would have to help fix the broken chains of reality. If she didn't help, Hudson would be burned to death in a tragic accident in her reality.As Sasquatch, Heather would help the Exiles complete many missions. Following a fight with vampire versions of the Avengers, the team was separated by a magical spell. Sasquatch and Morph were dropped into a reality at the exact moment that reality's Wolverine escaped from the Weapon X Program. Afraid for Morph's life, Sasquatch knocked him out and hid him. Wolverine quickly tracked Sasquatch, but before the two could fight, Heather reverted to her human form. Wolverine stopped dead in his tracks. Before they could harm each other, Heather was teleported away and reunited with the Exiles.During a mission when the Exiles were forced to face off against their reality-hopping counterparts, Weapon X, Sasquatch was mortally wounded by her teammate, Magik. Heather saved Nocturne's life, pushing her out of the way of Magik's sword slash. Bleeding to death, Nocturne possessed Heather and transformed her into Sasquatch, allowing her healing powers to kick in.", 
+    "durability": 5, 
+    "education": "MD, Ph.D in Genetics and Robotics", 
+    "energy": 1, 
+    "eyes": "Brown (blue as Sasquatch)\n", 
+    "fighting": 3, 
+    "firstappearance": "Exiles #10 (2002)\n", 
+    "groupaffiliation": [
+        "Exiles", 
+        "formerly Alpha Flight"
+    ], 
+    "hair": "Black (white as Sasquatch)\n", 
+    "height": 68, 
+    "id": "Hudson,_Heather_(Earth-3470)", 
+    "identity": "Publicly known", 
+    "intelligence": 5, 
+    "knownrelatives": "James MacDonald Hudson (husband), Wolverine (husband, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "reality traveler"
+    ], 
+    "origin": [
+        "Exiles #33 (2003)", 
+        "Exiles #57 (2005)"
+    ], 
+    "placeofbirth": "Canada", 
+    "powers": "Currently Heather Hudson has no superhuman abilities. Heather Hudson formerly had the ability to take on the form of Canada's legendary creature, the Sasquatch. In that form she had an amazing healing factor and the ability to lift close to 70 tons. As well as being resistant to many forms of injury.", 
+    "realname": "Heather Hudson", 
+    "significantissues": [
+        "changed in to Tanaraq (Exiles #57, 2005)", 
+        "managed to fight her way out of Tanaraq (Exiles #58, 2005)", 
+        "revealed to be in Crystal Palace's Stasis Gallery (Exiles #66, 2006)", 
+        "recruited Longshot (Exiles #74, 2006)", 
+        "recruited Psylocke (Exiles #91, 2007)", 
+        "left the Exiles (Exiles #95, 2007)", 
+        "rejoin Exiles (Exiles vol.2 #6, 2009)"
+    ], 
+    "speed": 3, 
+    "strength": 5, 
+    "universe": "Earth-3470", 
+    "weight": 135
 }

@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Cardinal", 
-            "citizenship": "U.S.A. with criminal record", 
-            "content": "Clendenon was the leader of the mercenary group known as the Air Force, a band of individuals using winged body armor as their signature motif. The Air Force clashed with the New Warriors during the course of their missions and were repeatedly defeated.At one point, the Warriors' leader, Night Thrasher, blackmailed the Air Force into participating in African relief efforts. During his time in Africa, Clendenon was genuinely moved by the suffering of the continent's starving refugees and worked diligently to aid the needy, but his work ended disastrously when the radical right-wing organization Undertow tried to massacre the refugees. During the battle with Undertow's superhuman Soldiers of Misfortune, Clendenon was badly wounded. His close friend Sparrow was captured, and the rest of the Air Force was killed. Subsequent attempts by Clendenon and the New Warriors to rescue Sparrow were unsuccessful, though the Warriors did eventually succeed in freeing one of their own members, Namorita, from Undertow's custody.Embittered by these experiences, Clendenon decided to abandon his flirtation with heroism and dedicate himself exclusively to the pursuit of profit. This led him to join the Crimson Cowl's Masters of Evil in their plot to blackmail the world's governments with a weather control device, but he was defeated and captured by the Thunderbolts along with most of the other Masters.Later, when the Thunderbolts' leader Hawkeye was incarcerated at Seagate prison for illegal vigilante activities, Clendenon was one of many inmates who tried in vain to kill the resourceful hero. More recently, Clendenon was freed from prison by the Crimson Cowl to rejoin the Masters, participating in their new world conquest scheme; in return, the Cowl promised Clendenon she would destroy Hawkeye, whom Clendenon held responsible for the recent death of his daughter Valerie Barnes, who as Meteorite had joined the Thunderbolt's interim team called the Redeemers but was killed in the line of duty.The Masters of Evil were confronted by Hawkeye and his allies Songbird and Plantman (as Blackheath) who were searching for the legacy of criminal industrialist Justin Hammer. Their search ended with Hammer's daughter, Justine, who turned out to be the Crimson Cowl. Hawkeye convinced Clandenon and other members of the Masters of Evil to side with him against Crimson Cowl and their former allies, pointing out the dangers of the super-weapon, a biological toxin that threatened to kill any villain who had ever worked with Hammer, which included Clendenon. Hoping to throw off suspicion, Hawkeye made the villains reinvent their costumed identities, and Clendenon joined his new team of Thunderbolts as Harrier, although he still harbored a grudge against Hawkeye over the fate of his daughter.The group ultimately defeated the Cowl and her Masters of Evil, and Blackheath managed to release an antidote into the atmosphere instead. During the battle, Clendenon appeared to drop Hawkeye from a great height, but this was proved to be the work of the villain Machinesmith who controlled the Harrier armor. The Thunderbolts immediately fought against the Elite Agents of SHIELD who caught up with them and wanted the remains of Blackheath's body, although he soon revived himself. The Thunderbolts were aided by the arrival of the true Citizen V, who needed the team's immediate help with his agency's ship-- the engines of which were made of alien technology that had began distorting, threatening to suck the Earth into the null space of a white hole. Hawkeye's Thunderbolts were asked to move a great quantity of mass to plug the hole. In so doing, the Thunderbolts encountered the original Thunderbolts, who emerged from the void after severing the alien ship's presence from where they had been trapped on Counter-Earth. The two teams of Thunderbolts combined forces to plug the void and shunt the alien ship from Earth, similar to the manner in which Zemo's team stopped the threat on Counter-Earth.", 
-            "durability": 5, 
-            "education": "Unrevealed; some military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 4, 
-            "firstappearance": "(as Cardinal) New Warriors #28 (1992); (as Harrier, in shadow) Thunderbolts #65 (2002); (as Harrier, fully) Thunderbolts #67 (2002)\n", 
-            "groupaffiliation": [
-                "None", 
-                "(formerly) Thunderbolts", 
-                "Masters of Evil", 
-                "Air Force"
-            ], 
-            "hair": "Black\n", 
-            "height": 74, 
-            "id": "Harrier", 
-            "identity": "Known to the authorities", 
-            "intelligence": 2, 
-            "knownrelatives": "Unidentified father, Valerie Barnhardt (Meteorite, daughter, deceased)", 
-            "occupation": [
-                "Inmate", 
-                "former adventurer", 
-                "criminal", 
-                "mercenary"
-            ], 
-            "origin": "Thunderbolts #67 (2002)", 
-            "placeofbirth": [
-                "Birmingham", 
-                "Alabama"
-            ], 
-            "powers": "None", 
-            "realname": "Donald Joshua Clendenon", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 3, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 257
-        }
-    }
+    "aliases": "Cardinal", 
+    "citizenship": "U.S.A. with criminal record", 
+    "content": "Clendenon was the leader of the mercenary group known as the Air Force, a band of individuals using winged body armor as their signature motif. The Air Force clashed with the New Warriors during the course of their missions and were repeatedly defeated.At one point, the Warriors' leader, Night Thrasher, blackmailed the Air Force into participating in African relief efforts. During his time in Africa, Clendenon was genuinely moved by the suffering of the continent's starving refugees and worked diligently to aid the needy, but his work ended disastrously when the radical right-wing organization Undertow tried to massacre the refugees. During the battle with Undertow's superhuman Soldiers of Misfortune, Clendenon was badly wounded. His close friend Sparrow was captured, and the rest of the Air Force was killed. Subsequent attempts by Clendenon and the New Warriors to rescue Sparrow were unsuccessful, though the Warriors did eventually succeed in freeing one of their own members, Namorita, from Undertow's custody.Embittered by these experiences, Clendenon decided to abandon his flirtation with heroism and dedicate himself exclusively to the pursuit of profit. This led him to join the Crimson Cowl's Masters of Evil in their plot to blackmail the world's governments with a weather control device, but he was defeated and captured by the Thunderbolts along with most of the other Masters.Later, when the Thunderbolts' leader Hawkeye was incarcerated at Seagate prison for illegal vigilante activities, Clendenon was one of many inmates who tried in vain to kill the resourceful hero. More recently, Clendenon was freed from prison by the Crimson Cowl to rejoin the Masters, participating in their new world conquest scheme; in return, the Cowl promised Clendenon she would destroy Hawkeye, whom Clendenon held responsible for the recent death of his daughter Valerie Barnes, who as Meteorite had joined the Thunderbolt's interim team called the Redeemers but was killed in the line of duty.The Masters of Evil were confronted by Hawkeye and his allies Songbird and Plantman (as Blackheath) who were searching for the legacy of criminal industrialist Justin Hammer. Their search ended with Hammer's daughter, Justine, who turned out to be the Crimson Cowl. Hawkeye convinced Clandenon and other members of the Masters of Evil to side with him against Crimson Cowl and their former allies, pointing out the dangers of the super-weapon, a biological toxin that threatened to kill any villain who had ever worked with Hammer, which included Clendenon. Hoping to throw off suspicion, Hawkeye made the villains reinvent their costumed identities, and Clendenon joined his new team of Thunderbolts as Harrier, although he still harbored a grudge against Hawkeye over the fate of his daughter.The group ultimately defeated the Cowl and her Masters of Evil, and Blackheath managed to release an antidote into the atmosphere instead. During the battle, Clendenon appeared to drop Hawkeye from a great height, but this was proved to be the work of the villain Machinesmith who controlled the Harrier armor. The Thunderbolts immediately fought against the Elite Agents of SHIELD who caught up with them and wanted the remains of Blackheath's body, although he soon revived himself. The Thunderbolts were aided by the arrival of the true Citizen V, who needed the team's immediate help with his agency's ship-- the engines of which were made of alien technology that had began distorting, threatening to suck the Earth into the null space of a white hole. Hawkeye's Thunderbolts were asked to move a great quantity of mass to plug the hole. In so doing, the Thunderbolts encountered the original Thunderbolts, who emerged from the void after severing the alien ship's presence from where they had been trapped on Counter-Earth. The two teams of Thunderbolts combined forces to plug the void and shunt the alien ship from Earth, similar to the manner in which Zemo's team stopped the threat on Counter-Earth.", 
+    "durability": 5, 
+    "education": "Unrevealed; some military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 4, 
+    "firstappearance": "(as Cardinal) New Warriors #28 (1992); (as Harrier, in shadow) Thunderbolts #65 (2002); (as Harrier, fully) Thunderbolts #67 (2002)\n", 
+    "groupaffiliation": [
+        "None", 
+        "(formerly) Thunderbolts", 
+        "Masters of Evil", 
+        "Air Force"
+    ], 
+    "hair": "Black\n", 
+    "height": 74, 
+    "id": "Harrier", 
+    "identity": "Known to the authorities", 
+    "intelligence": 2, 
+    "knownrelatives": "Unidentified father, Valerie Barnhardt (Meteorite, daughter, deceased)", 
+    "occupation": [
+        "Inmate", 
+        "former adventurer", 
+        "criminal", 
+        "mercenary"
+    ], 
+    "origin": "Thunderbolts #67 (2002)", 
+    "placeofbirth": [
+        "Birmingham", 
+        "Alabama"
+    ], 
+    "powers": "None", 
+    "realname": "Donald Joshua Clendenon", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 3, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 257
 }

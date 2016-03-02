@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Jaz", 
-                "impersonated Darqon Par", 
-                "General Eng", 
-                "Jenifer Walters", 
-                "Mrs. Murphy", 
-                "others"
-            ], 
-            "citizenship": "Skrull Empire", 
-            "content": "During the arrest of Hi-Lite, Jazinda locked horns with the Absorbing Man, who broke her neck; little did she know that the Absorbing Man was Hi-Lite's cousin. Having no way to know that Jazinda was only impersonating Jennifer Walters, he attempted to kill her for payback, for all the misery she had caused his wife, Titania. Jazinda quickly healed from her injuries and took Hi-Lite into custody before joining the real She-Hulk in the fight against The Absorbing Man and Titania.She later received an angry message from her father, Kl'rt the Super-Skrull. He called Jazinda a traitor to her race, and swore that if they would ever meet each other again, he would kill her. During the Skrulls' Secret Invasion, Super-Skrull traveled to Earth to fulfill his promise to his daughter, only to find her locked in battle with the Talisman known as Sacrosant. She-Hulk intervened, and battled the Super-Skrull. Jazinda's tussle with the Talisman ended with them smashing the ship's console, which sent them plummeting to the Earth. Jazinda survived the crash, but the resolution of the battle came when the Super-Skrull departed with the Talisman instead of fulfilling his promise to kill his daughter.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "She-Hulk #22 (2007)\n", 
-            "groupaffiliation": [
-                "Freeman Bonding Inc. (F.B.I.)", 
-                "Lady Liberators (honorary member)"
-            ], 
-            "hair": "Black (variable)\n", 
-            "height": 66, 
-            "id": "Jazinda", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Kl'rt (Super Skrull, father), Mother (unknown), Sarnogg (brother, presumed deceased)", 
-            "occupation": [
-                "Bail enforcement agent", 
-                "galactic bounty hunter", 
-                "former agent of the Skrull empire"
-            ], 
-            "placeofbirth": [
-                "Tarnax VI", 
-                "Andromeda galaxy"
-            ], 
-            "powers": "Jazinda possesses the natural shape-shifting abilities of the Skrull race, although she prefers her human disguise. As with many Skrulls, her strength and stamina is greater than that of the average human being.", 
-            "realname": "Jazinda Kl'rt-spawn", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 135
-        }
-    }
+    "aliases": [
+        "Jaz", 
+        "impersonated Darqon Par", 
+        "General Eng", 
+        "Jenifer Walters", 
+        "Mrs. Murphy", 
+        "others"
+    ], 
+    "citizenship": "Skrull Empire", 
+    "content": "During the arrest of Hi-Lite, Jazinda locked horns with the Absorbing Man, who broke her neck; little did she know that the Absorbing Man was Hi-Lite's cousin. Having no way to know that Jazinda was only impersonating Jennifer Walters, he attempted to kill her for payback, for all the misery she had caused his wife, Titania. Jazinda quickly healed from her injuries and took Hi-Lite into custody before joining the real She-Hulk in the fight against The Absorbing Man and Titania.She later received an angry message from her father, Kl'rt the Super-Skrull. He called Jazinda a traitor to her race, and swore that if they would ever meet each other again, he would kill her. During the Skrulls' Secret Invasion, Super-Skrull traveled to Earth to fulfill his promise to his daughter, only to find her locked in battle with the Talisman known as Sacrosant. She-Hulk intervened, and battled the Super-Skrull. Jazinda's tussle with the Talisman ended with them smashing the ship's console, which sent them plummeting to the Earth. Jazinda survived the crash, but the resolution of the battle came when the Super-Skrull departed with the Talisman instead of fulfilling his promise to kill his daughter.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "She-Hulk #22 (2007)\n", 
+    "groupaffiliation": [
+        "Freeman Bonding Inc. (F.B.I.)", 
+        "Lady Liberators (honorary member)"
+    ], 
+    "hair": "Black (variable)\n", 
+    "height": 66, 
+    "id": "Jazinda", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Kl'rt (Super Skrull, father), Mother (unknown), Sarnogg (brother, presumed deceased)", 
+    "occupation": [
+        "Bail enforcement agent", 
+        "galactic bounty hunter", 
+        "former agent of the Skrull empire"
+    ], 
+    "placeofbirth": [
+        "Tarnax VI", 
+        "Andromeda galaxy"
+    ], 
+    "powers": "Jazinda possesses the natural shape-shifting abilities of the Skrull race, although she prefers her human disguise. As with many Skrulls, her strength and stamina is greater than that of the average human being.", 
+    "realname": "Jazinda Kl'rt-spawn", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 135
 }

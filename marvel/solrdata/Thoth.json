@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Ibis", 
-                "God of Wisdom", 
-                "former God of the Moon"
-            ], 
-            "citizenship": "Celestial Heliopolis", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, extensively self-taught", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "(Mentioned) Captain America Comics #20 (1942); (shown as Ibis) Marvel Feature #6 (1976); (appeared as Thoth) Thor: Blood Oath #6 (2006)\n", 
-            "groupaffiliation": "Gods of Heliopolis", 
-            "hair": "Unknown\n", 
-            "height": 76, 
-            "id": "Thoth", 
-            "identity": "The general populace of Earth was unaware of Thorth's existence", 
-            "intelligence": 1, 
-            "knownrelatives": "Nun (Demiurge, father); Neith (Gaea, mother),  Ammon-Ra (Atum, brother), Seshat (wife), Bast (Panther God, nephew), Bes (nephew), Sekhmet (Lion God, nephew), Shu (nephew), Khonshu (Chons, nephew); Hathor, Tefnut (nieces), Mahes (Apedemak, grandnephew), Geb (grandnephew), Nut (grandniece), Osiris, Seth (great-grandnephews); Isis, Nepthys (great-grandnieces); Anubis, Horus (great-great-grand-nephews)", 
-            "occupation": [
-                "Former God of the Moon", 
-                "God of Wisdom"
-            ], 
-            "placeofbirth": "Khemennu (Egypt)", 
-            "powers": "Thoth possessed superhuman strength, stamina, reflexes and agility, and he also had an extended life-span. Thoth was also immune to conventional diseases", 
-            "realname": "Thoth", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 280
-        }
-    }
+    "aliases": [
+        "Ibis", 
+        "God of Wisdom", 
+        "former God of the Moon"
+    ], 
+    "citizenship": "Celestial Heliopolis", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, extensively self-taught", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "(Mentioned) Captain America Comics #20 (1942); (shown as Ibis) Marvel Feature #6 (1976); (appeared as Thoth) Thor: Blood Oath #6 (2006)\n", 
+    "groupaffiliation": "Gods of Heliopolis", 
+    "hair": "Unknown\n", 
+    "height": 76, 
+    "id": "Thoth", 
+    "identity": "The general populace of Earth was unaware of Thorth's existence", 
+    "intelligence": 1, 
+    "knownrelatives": "Nun (Demiurge, father); Neith (Gaea, mother),  Ammon-Ra (Atum, brother), Seshat (wife), Bast (Panther God, nephew), Bes (nephew), Sekhmet (Lion God, nephew), Shu (nephew), Khonshu (Chons, nephew); Hathor, Tefnut (nieces), Mahes (Apedemak, grandnephew), Geb (grandnephew), Nut (grandniece), Osiris, Seth (great-grandnephews); Isis, Nepthys (great-grandnieces); Anubis, Horus (great-great-grand-nephews)", 
+    "occupation": [
+        "Former God of the Moon", 
+        "God of Wisdom"
+    ], 
+    "placeofbirth": "Khemennu (Egypt)", 
+    "powers": "Thoth possessed superhuman strength, stamina, reflexes and agility, and he also had an extended life-span. Thoth was also immune to conventional diseases", 
+    "realname": "Thoth", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 280
 }

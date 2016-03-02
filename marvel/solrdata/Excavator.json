@@ -1,22 +1,18 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "U.S.A", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "RUNAWAYS #1\n", 
-            "groupaffiliation": "Former Wrecking Crew member", 
-            "hair": "Brown\n", 
-            "id": "Excavator", 
-            "intelligence": 1, 
-            "knownrelatives": "Brian Calusky (father)", 
-            "powers": "None, although Piledriver intended to convince Wrecker to grant Excavator a portion of his power", 
-            "realname": "Ricky Calusky", 
-            "speed": 1, 
-            "strength": 1
-        }
-    }
+    "citizenship": "U.S.A", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "RUNAWAYS #1\n", 
+    "groupaffiliation": "Former Wrecking Crew member", 
+    "hair": "Brown\n", 
+    "id": "Excavator", 
+    "intelligence": 1, 
+    "knownrelatives": "Brian Calusky (father)", 
+    "powers": "None, although Piledriver intended to convince Wrecker to grant Excavator a portion of his power", 
+    "realname": "Ricky Calusky", 
+    "speed": 1, 
+    "strength": 1
 }

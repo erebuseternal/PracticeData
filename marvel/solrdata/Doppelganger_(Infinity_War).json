@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Spider-Man Doppelganger", 
-                "Spider-Doppelganger", 
-                "Mindless One"
-            ], 
-            "citizenship": "None", 
-            "content": "Following the battle, the Doppelganger was retrieved by the demonic Demogoblin, who unknowingly infused it with supernatural energy, enabling it to remain in the Earth dimension following the Magus' defeat. Demogoblin directed the Doppelganger in a grudge against Hobgoblin, whom the altruistic Spider-Man protected. The foursome's fight brought them to another battle, where the supernatural heroes Ghost Rider and Blaze were fighting a group of demonic Deathspawn and Spider-Man's murderous nemesis Venom. Both the Doppelganger and Demogoblin were subsequently pulled underground by the Deathspawn, with two Deathspawn briefly taking up silent residence within the Doppelganger's body.", 
-            "durability": 7, 
-            "education": "Limited mental conditioning, slight capacity for behavioral changes", 
-            "energy": 7, 
-            "eyes": "White\n", 
-            "fighting": 7, 
-            "firstappearance": "Infinity War #1 (1992)\n", 
-            "groupaffiliation": [
-                "Formerly Carnage Family", 
-                "Magus' doppelgangers", 
-                "operative of Demogoblin"
-            ], 
-            "hair": "None\n", 
-            "height": 77, 
-            "id": "Doppelganger_(Infinity_War)", 
-            "identity": "Unknown to the general populace of Earth", 
-            "intelligence": 1, 
-            "knownrelatives": "Anthropomorpho (creator); Hellspawn, Moonshade, many other doppelgangers (brethren)", 
-            "occupation": "Pawn", 
-            "placeofbirth": "The Dimension of Manifestations", 
-            "powers": "The Doppelganger possesses superhuman strength without limit , speed, and agility. It could climb walls with its claws, which could also rend most substances, as could its teeth. It could shoot razor-sharp webbing from its hands. Its innate ability to reshape its body in a virtually infinite manner enabled it to recover from all but the most severe injuries. It had the potential to duplicate others and take on their attributes, but it never demonstrated such power in the Earth dimension. The Doppelganger was created for the express purpose of fighting Spider-Man and held an innate hostility toward him. Roughly as intelligent as a wild beast, it was incapable of speech but achieved some level of learned response and primitive emotional attachment.", 
-            "realname": "Unrevealed, possibly inapplicable", 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 230
-        }
-    }
+    "aliases": [
+        "The Spider-Man Doppelganger", 
+        "Spider-Doppelganger", 
+        "Mindless One"
+    ], 
+    "citizenship": "None", 
+    "content": "Following the battle, the Doppelganger was retrieved by the demonic Demogoblin, who unknowingly infused it with supernatural energy, enabling it to remain in the Earth dimension following the Magus' defeat. Demogoblin directed the Doppelganger in a grudge against Hobgoblin, whom the altruistic Spider-Man protected. The foursome's fight brought them to another battle, where the supernatural heroes Ghost Rider and Blaze were fighting a group of demonic Deathspawn and Spider-Man's murderous nemesis Venom. Both the Doppelganger and Demogoblin were subsequently pulled underground by the Deathspawn, with two Deathspawn briefly taking up silent residence within the Doppelganger's body.", 
+    "durability": 7, 
+    "education": "Limited mental conditioning, slight capacity for behavioral changes", 
+    "energy": 7, 
+    "eyes": "White\n", 
+    "fighting": 7, 
+    "firstappearance": "Infinity War #1 (1992)\n", 
+    "groupaffiliation": [
+        "Formerly Carnage Family", 
+        "Magus' doppelgangers", 
+        "operative of Demogoblin"
+    ], 
+    "hair": "None\n", 
+    "height": 77, 
+    "id": "Doppelganger_(Infinity_War)", 
+    "identity": "Unknown to the general populace of Earth", 
+    "intelligence": 1, 
+    "knownrelatives": "Anthropomorpho (creator); Hellspawn, Moonshade, many other doppelgangers (brethren)", 
+    "occupation": "Pawn", 
+    "placeofbirth": "The Dimension of Manifestations", 
+    "powers": "The Doppelganger possesses superhuman strength without limit , speed, and agility. It could climb walls with its claws, which could also rend most substances, as could its teeth. It could shoot razor-sharp webbing from its hands. Its innate ability to reshape its body in a virtually infinite manner enabled it to recover from all but the most severe injuries. It had the potential to duplicate others and take on their attributes, but it never demonstrated such power in the Earth dimension. The Doppelganger was created for the express purpose of fighting Spider-Man and held an innate hostility toward him. Roughly as intelligent as a wild beast, it was incapable of speech but achieved some level of learned response and primitive emotional attachment.", 
+    "realname": "Unrevealed, possibly inapplicable", 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 230
 }

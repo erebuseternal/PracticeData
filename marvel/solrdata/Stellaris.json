@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Leah Princess", 
-            "citizenship": [
-                "Unrevealed", 
-                "but she is the sole survivor of her world"
-            ], 
-            "content": "Following Thor and Hercules, Stellaris soon found herself in New Wundagore, home of the High Evolutionary. She modified her armor to something stealthier and stowed away on his ship to find some new weapons she could use in her crusade against the Celestials. After disposing of a few guards, Stellaris freed the imprisoned Nobilus, one of the High Evolutionary\u2019s New Immortals. Thor tried to stop the rampaging godling as Stellaris used her armor to tap into the ship\u2019s computer system. Learning all she needed to, Stellaris grabbed Nobilus and exited the ship. She thought she now had an ally in her quest to eliminate the Celestials, but Nobilus was more concerned with his master\u2019s wishes and obeyed his commands instead. As Nobilus and the other New Immortals contended with Thor, a new Celestial was about to be born, and Stellaris would not let this happen. She reconfigured her armor and attacked the Celestial where she thought it was most vulnerable, but the resulting explosion was the final catalyst necessary to allow this Celestial to be born.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #419 (1990)\n", 
-            "groupaffiliation": "The Graces", 
-            "hair": "Black\n", 
-            "id": "Stellaris", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Celestial slayer", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "significantissues": "Thor #419-424, Thor #438-439, Thunderstrike #1-6, Thunderstrike #12-21, Ronan: Annihilation #1-2", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Leah Princess", 
+    "citizenship": [
+        "Unrevealed", 
+        "but she is the sole survivor of her world"
+    ], 
+    "content": "Following Thor and Hercules, Stellaris soon found herself in New Wundagore, home of the High Evolutionary. She modified her armor to something stealthier and stowed away on his ship to find some new weapons she could use in her crusade against the Celestials. After disposing of a few guards, Stellaris freed the imprisoned Nobilus, one of the High Evolutionary\u2019s New Immortals. Thor tried to stop the rampaging godling as Stellaris used her armor to tap into the ship\u2019s computer system. Learning all she needed to, Stellaris grabbed Nobilus and exited the ship. She thought she now had an ally in her quest to eliminate the Celestials, but Nobilus was more concerned with his master\u2019s wishes and obeyed his commands instead. As Nobilus and the other New Immortals contended with Thor, a new Celestial was about to be born, and Stellaris would not let this happen. She reconfigured her armor and attacked the Celestial where she thought it was most vulnerable, but the resulting explosion was the final catalyst necessary to allow this Celestial to be born.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #419 (1990)\n", 
+    "groupaffiliation": "The Graces", 
+    "hair": "Black\n", 
+    "id": "Stellaris", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Celestial slayer", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "significantissues": "Thor #419-424, Thor #438-439, Thunderstrike #1-6, Thunderstrike #12-21, Ronan: Annihilation #1-2", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

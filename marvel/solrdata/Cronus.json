@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Saturn (Roman name)", 
-                "Chronus", 
-                "Kronus"
-            ], 
-            "citizenship": "Formerly Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Self-educated", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(Mentioned) Official Handbook of the Marvel Universe #5 (1983); (seen) Hulk vs. Hercules: When Titans Collide #1 (2008)\n", 
-            "groupaffiliation": "Olympian Titans", 
-            "hair": "Gray (formerly black}\n", 
-            "height": 182, 
-            "id": "Cronus", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Rhea (wife), Poseidon, Pluto/Hades, Zeus (sons), Demeter, Hera]], Vesta/Hestia (daughters), Uranus/Ouranos (father, deceased), Gaea (mother), Coeus, Crius, Hyperion, Lapetus, Oceanus (brothers), Mnemosyne, Phoebe, Tethys, Theia, Themis (sisters), numerous others", 
-            "occupation": [
-                "Ruler of the Titans", 
-                "former Sky Father of Olympus"
-            ], 
-            "placeofbirth": "Mount Othrys", 
-            "powers": "Cronus possesses superhuman strength (lifting 100 tons), durability, plus undefined energy casting powers.", 
-            "realname": "Cronus", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 1210
-        }
-    }
+    "aliases": [
+        "Saturn (Roman name)", 
+        "Chronus", 
+        "Kronus"
+    ], 
+    "citizenship": "Formerly Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Self-educated", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(Mentioned) Official Handbook of the Marvel Universe #5 (1983); (seen) Hulk vs. Hercules: When Titans Collide #1 (2008)\n", 
+    "groupaffiliation": "Olympian Titans", 
+    "hair": "Gray (formerly black}\n", 
+    "height": 182, 
+    "id": "Cronus", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Rhea (wife), Poseidon, Pluto/Hades, Zeus (sons), Demeter, Hera]], Vesta/Hestia (daughters), Uranus/Ouranos (father, deceased), Gaea (mother), Coeus, Crius, Hyperion, Lapetus, Oceanus (brothers), Mnemosyne, Phoebe, Tethys, Theia, Themis (sisters), numerous others", 
+    "occupation": [
+        "Ruler of the Titans", 
+        "former Sky Father of Olympus"
+    ], 
+    "placeofbirth": "Mount Othrys", 
+    "powers": "Cronus possesses superhuman strength (lifting 100 tons), durability, plus undefined energy casting powers.", 
+    "realname": "Cronus", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 1210
 }

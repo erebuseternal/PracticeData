@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Planet Xandar", 
-            "content": "Firelord decided to remain on Earth for some reason that eluded him, and during his time he had encounters with beings such as Jean Grey and the Avengers. Firelord has also fought beside and against Thor on more than one occasion too. One such instance was sparked because of a televised battle between Thor and another former herald of Galactus, Air-Walker. Seeing the familiar face of his friend in distress ignited the rage within Firelord and he quickly flew to his aid. However, he arrived too late and his long lost companion was dead at Thor\u2019s feet. The fury inside Firelord had nowhere to go, so he directed it at the Asgardian. The battle was fierce and brutal until Firelord told of his past and what Gabriel, the Air-Walker, meant to him. His tale ended with his confrontation with Galactus and his demands of releasing Gabriel from servitude. Galactus was so impressed with the audacity of this stranger that he offered him the opportunity to become herald, and Firelord was born. After he calmed down considerably, Firelord took the remains of Air-Walker, returned to space and buried him on an asteroid near their homeworld.Eventually, Firelord returned to Earth, and in an attempt to enjoy earthly pleasures, his arrogance got in the way again. He was attacked by several construction workers, and the commotion drew the attention of Spider-Man. Unfamiliar with Firelord, Spider-Man attacked but was quickly put on the defensive once the former herald of Galactus had enough. In the end, after pursuing Spider-Man throughout Queens and into Manhattan, Spider-Man managed to defeat Firelord just by running on pure adrenaline from his fear of being demolished. Firelord ultimately recovered and had other meetings with Earth\u2019s heroes like Quasar before returning to space and starting a brief romance with another herald of Galactus, Nova. This could be one of the reasons why he chose to aid Nova and the Silver Surfer, along with the other former Heralds of Galactus, against the deranged Morg. That conflict ended with Morg\u2019s defeat and Nova\u2019s death, but Firelord, and the newly resurrected Air-Walker, agreed to act as heralds once again.Time had passed, and Firelord was released from service but was called back into action when the forces of Annihilus destroyed his homeworld of Xandar in an attempt to draw him and Air-Walker out into the open. The plot worked, but the Annihilus got more than he bargained for because Firelord would not go down easy. In fact, with Red Shift and Stardust at his side, he didn\u2019t go down at all. After the Annihilation Wave was defeated, Firelord sought revenge for the destruction of the Xandar Cluster and hunted down the remaining forces of Annihilus known as the Centurions. Although his hatred for the Centurions is strong, Firelord allowed a small group that claimed to change their ways to survive, but warned that if they did not do right, they would die by his hand.", 
-            "durability": 3, 
-            "education": "Xandarian Nova Corps Academy", 
-            "energy": 5, 
-            "eyes": "White\n", 
-            "fighting": 2, 
-            "firstappearance": "Thor #225 (1974)\n", 
-            "groupaffiliation": [
-                "Formerly United Front", 
-                "Heralds of Galactus", 
-                "Xandarian Nova Corps"
-            ], 
-            "hair": "Blond but tinged with cosmic fire\n", 
-            "height": 0, 
-            "id": "Firelord", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Former Herald of Galactus", 
-                "Captain of Xandarian starship"
-            ], 
-            "origin": "Thor #306 (1981)", 
-            "placeofbirth": [
-                "Planet Xandar", 
-                "Tranta system", 
-                "Andromeda Galaxy"
-            ], 
-            "powers": "Firelord was given a portion of the power cosmic and has the power to control cosmic energy in the form of stellar fire, making him equal to a miniature sun. Like a star, Firelord can project any form of energy possessed by a star such as heat, light, gravity, radio waves and charged particles. He can fly under his own power at light speed and can even travel through hyperspace. Firelord has superhuman strength, god-like stamina and is nearly invulnerable. He can survive indefinitely in the vacuum of space without food, water, or air.", 
-            "realname": "Pyreus Kril", 
-            "significantissues": "Thor #225-228 (traveled to Earth in search of Thor, battled alongside Galactus, Thor and Hercules against Ego, the Living Planet, released from service when Thor offers the Destroyer as a replacement herald, 1974), Thor #234 (Firelord aided the Thunder god against the forces of Loki, 1975), Thor #306 (fought Thor to avenge Air-Walker, buried Air-Walker\u2019s remains near their homeworld, 1981), Amazing Spider-Man #269-270 (battled Spider-Man, 1985), Avengers Annual #18 (fought Quasar, 1989), Silver Surfer #71-75 (helped Silver Surfer and all former heralds combat Morg, Firelord took over as herald along with Air-Walker, 1992), Silver Surfer: Annihilation #2-4 (Firelord and other heralds take on the Annihilation Wave, 2006), Annihilation #1-6 (Firelord joined the United Front against Annihilus, 2006), Annihilation: Heralds of Galactus #2 (Firelord hunted down the remaining Centurions so he can have his revenge on the forces of Annihilus, 2007)", 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Planet Xandar", 
+    "content": "Firelord decided to remain on Earth for some reason that eluded him, and during his time he had encounters with beings such as Jean Grey and the Avengers. Firelord has also fought beside and against Thor on more than one occasion too. One such instance was sparked because of a televised battle between Thor and another former herald of Galactus, Air-Walker. Seeing the familiar face of his friend in distress ignited the rage within Firelord and he quickly flew to his aid. However, he arrived too late and his long lost companion was dead at Thor\u2019s feet. The fury inside Firelord had nowhere to go, so he directed it at the Asgardian. The battle was fierce and brutal until Firelord told of his past and what Gabriel, the Air-Walker, meant to him. His tale ended with his confrontation with Galactus and his demands of releasing Gabriel from servitude. Galactus was so impressed with the audacity of this stranger that he offered him the opportunity to become herald, and Firelord was born. After he calmed down considerably, Firelord took the remains of Air-Walker, returned to space and buried him on an asteroid near their homeworld.Eventually, Firelord returned to Earth, and in an attempt to enjoy earthly pleasures, his arrogance got in the way again. He was attacked by several construction workers, and the commotion drew the attention of Spider-Man. Unfamiliar with Firelord, Spider-Man attacked but was quickly put on the defensive once the former herald of Galactus had enough. In the end, after pursuing Spider-Man throughout Queens and into Manhattan, Spider-Man managed to defeat Firelord just by running on pure adrenaline from his fear of being demolished. Firelord ultimately recovered and had other meetings with Earth\u2019s heroes like Quasar before returning to space and starting a brief romance with another herald of Galactus, Nova. This could be one of the reasons why he chose to aid Nova and the Silver Surfer, along with the other former Heralds of Galactus, against the deranged Morg. That conflict ended with Morg\u2019s defeat and Nova\u2019s death, but Firelord, and the newly resurrected Air-Walker, agreed to act as heralds once again.Time had passed, and Firelord was released from service but was called back into action when the forces of Annihilus destroyed his homeworld of Xandar in an attempt to draw him and Air-Walker out into the open. The plot worked, but the Annihilus got more than he bargained for because Firelord would not go down easy. In fact, with Red Shift and Stardust at his side, he didn\u2019t go down at all. After the Annihilation Wave was defeated, Firelord sought revenge for the destruction of the Xandar Cluster and hunted down the remaining forces of Annihilus known as the Centurions. Although his hatred for the Centurions is strong, Firelord allowed a small group that claimed to change their ways to survive, but warned that if they did not do right, they would die by his hand.", 
+    "durability": 3, 
+    "education": "Xandarian Nova Corps Academy", 
+    "energy": 5, 
+    "eyes": "White\n", 
+    "fighting": 2, 
+    "firstappearance": "Thor #225 (1974)\n", 
+    "groupaffiliation": [
+        "Formerly United Front", 
+        "Heralds of Galactus", 
+        "Xandarian Nova Corps"
+    ], 
+    "hair": "Blond but tinged with cosmic fire\n", 
+    "height": 0, 
+    "id": "Firelord", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Former Herald of Galactus", 
+        "Captain of Xandarian starship"
+    ], 
+    "origin": "Thor #306 (1981)", 
+    "placeofbirth": [
+        "Planet Xandar", 
+        "Tranta system", 
+        "Andromeda Galaxy"
+    ], 
+    "powers": "Firelord was given a portion of the power cosmic and has the power to control cosmic energy in the form of stellar fire, making him equal to a miniature sun. Like a star, Firelord can project any form of energy possessed by a star such as heat, light, gravity, radio waves and charged particles. He can fly under his own power at light speed and can even travel through hyperspace. Firelord has superhuman strength, god-like stamina and is nearly invulnerable. He can survive indefinitely in the vacuum of space without food, water, or air.", 
+    "realname": "Pyreus Kril", 
+    "significantissues": "Thor #225-228 (traveled to Earth in search of Thor, battled alongside Galactus, Thor and Hercules against Ego, the Living Planet, released from service when Thor offers the Destroyer as a replacement herald, 1974), Thor #234 (Firelord aided the Thunder god against the forces of Loki, 1975), Thor #306 (fought Thor to avenge Air-Walker, buried Air-Walker\u2019s remains near their homeworld, 1981), Amazing Spider-Man #269-270 (battled Spider-Man, 1985), Avengers Annual #18 (fought Quasar, 1989), Silver Surfer #71-75 (helped Silver Surfer and all former heralds combat Morg, Firelord took over as herald along with Air-Walker, 1992), Silver Surfer: Annihilation #2-4 (Firelord and other heralds take on the Annihilation Wave, 2006), Annihilation #1-6 (Firelord joined the United Front against Annihilus, 2006), Annihilation: Heralds of Galactus #2 (Firelord hunted down the remaining Centurions so he can have his revenge on the forces of Annihilus, 2007)", 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

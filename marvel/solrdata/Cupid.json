@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Love-god", 
-                "formerly Himeros", 
-                "Anteros"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #283 (1987)\n", 
-            "groupaffiliation": "The Gods of Olympus", 
-            "hair": "Blonde\n", 
-            "height": 74, 
-            "id": "Cupid", 
-            "identity": "No dual Identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Hephaestus (father), Aphrodite (mother), Psyche (wife), Voluptua (daughter), Harmonia, (half-sister), Deimos, Phobos (half brothers), Aeneas (half-brother,deceased), Hercules, Apollo, Ares, Hermes, Dionysus (uncles). Athena, Artemis, Eileithyia, Hebe, Discord, Persephone, Helen (aunts); Asclepius, Pan (cousins), Zeus (grandfather); Dione (grandmother), Hades, Poseidon (grand-uncles); Demeter, Hera, Hestia (grand-aunts)", 
-            "occupation": [
-                "God of Lust and love", 
-                "archer to Aphrodite"
-            ], 
-            "realname": "Eros", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 425
-        }
-    }
+    "aliases": [
+        "The Love-god", 
+        "formerly Himeros", 
+        "Anteros"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #283 (1987)\n", 
+    "groupaffiliation": "The Gods of Olympus", 
+    "hair": "Blonde\n", 
+    "height": 74, 
+    "id": "Cupid", 
+    "identity": "No dual Identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Hephaestus (father), Aphrodite (mother), Psyche (wife), Voluptua (daughter), Harmonia, (half-sister), Deimos, Phobos (half brothers), Aeneas (half-brother,deceased), Hercules, Apollo, Ares, Hermes, Dionysus (uncles). Athena, Artemis, Eileithyia, Hebe, Discord, Persephone, Helen (aunts); Asclepius, Pan (cousins), Zeus (grandfather); Dione (grandmother), Hades, Poseidon (grand-uncles); Demeter, Hera, Hestia (grand-aunts)", 
+    "occupation": [
+        "God of Lust and love", 
+        "archer to Aphrodite"
+    ], 
+    "realname": "Eros", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 425
 }

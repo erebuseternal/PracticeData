@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Huntara", 
-                "Warrior-Princess of Elsewhen"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "Huntara appeared on the New York streets, declaring that she was the Warrior-Princess of Elsewhen who had come after the Four who must be destroyed. Klaw showed up and fought off the police for her and offered to direct her to the Fantastic Four. She joined up with Klaw, Paibok, and Devos to try and kill the Fantastic Four at the trial of the Human Torch. She fought with Mister Fantastic, explaining that she was a guardian of the time lines, and that he and his group threatened them. After dodging Daredevil\u2019s attacks, she stabbed Reed from behind with her staff. When the Avengers joined the battle, Huntara used her scythe again, this time to tear a hole in the fabric of the universe and transport her allies. Daredevil also jumped in and floated in nothingness until Spider-Man saved him at the last moment with a well-placed webline.The rest transported to Paibok\u2019s ship where Devos questioned her about her people, mining her for information in case he should want to destroy her people in his continued quest towards galactic peace. Shortly afterwards, she teleported them to Four Freedoms Plaza, where they searched Reed\u2019s lab for something to use against the four, finding the mutated Ms. Marvel. When the team returned home, Huntara fought with Franklin, calling him the disciple of the Great Traitor, Nathaniel Richards, and urging him to destroy his family to save the timelines. When he refused, she opened a rift and pulled him in. They fought again in another dimension and then back to New York, where she tried to convince him that he already knew who the greatest threat was. When he realized, she left him to his choices and teleported out with her scythe.", 
-            "durability": 2, 
-            "education": "Training in Elsewhen in combat", 
-            "energy": 2, 
-            "eyes": "Brown\n", 
-            "fighting": 5, 
-            "firstappearance": "Fantastic Four #377\n", 
-            "groupaffiliation": "Former member of Fantastic Force", 
-            "hair": "Black\n", 
-            "id": "Huntara", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Nathaniel Richards (father), Reed Richards (half-brother), Susan Richards (sister-in-law), Franklin Richards (nephew), Valeria Richards (niece), Major John Richards (grandfather), unnamed Richards child (half-brother), Kristoff Vernard (alleged half-brother); Kang, his divergent counterparts, and offspring (common ancestry)", 
-            "occupation": "Former guardian of the sacred timestream", 
-            "origin": "Fantastic Four #390", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "She is capable of creating a psionic scythe with her mind.", 
-            "realname": "Tara Richards", 
-            "significantissues": "Fantastic Four #377 (intro), Fantastic Four #390 (tells origin), Fantastic Force #1 (first debut of team)", 
-            "speed": 7, 
-            "strength": 3, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Huntara", 
+        "Warrior-Princess of Elsewhen"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "Huntara appeared on the New York streets, declaring that she was the Warrior-Princess of Elsewhen who had come after the Four who must be destroyed. Klaw showed up and fought off the police for her and offered to direct her to the Fantastic Four. She joined up with Klaw, Paibok, and Devos to try and kill the Fantastic Four at the trial of the Human Torch. She fought with Mister Fantastic, explaining that she was a guardian of the time lines, and that he and his group threatened them. After dodging Daredevil\u2019s attacks, she stabbed Reed from behind with her staff. When the Avengers joined the battle, Huntara used her scythe again, this time to tear a hole in the fabric of the universe and transport her allies. Daredevil also jumped in and floated in nothingness until Spider-Man saved him at the last moment with a well-placed webline.The rest transported to Paibok\u2019s ship where Devos questioned her about her people, mining her for information in case he should want to destroy her people in his continued quest towards galactic peace. Shortly afterwards, she teleported them to Four Freedoms Plaza, where they searched Reed\u2019s lab for something to use against the four, finding the mutated Ms. Marvel. When the team returned home, Huntara fought with Franklin, calling him the disciple of the Great Traitor, Nathaniel Richards, and urging him to destroy his family to save the timelines. When he refused, she opened a rift and pulled him in. They fought again in another dimension and then back to New York, where she tried to convince him that he already knew who the greatest threat was. When he realized, she left him to his choices and teleported out with her scythe.", 
+    "durability": 2, 
+    "education": "Training in Elsewhen in combat", 
+    "energy": 2, 
+    "eyes": "Brown\n", 
+    "fighting": 5, 
+    "firstappearance": "Fantastic Four #377\n", 
+    "groupaffiliation": "Former member of Fantastic Force", 
+    "hair": "Black\n", 
+    "id": "Huntara", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Nathaniel Richards (father), Reed Richards (half-brother), Susan Richards (sister-in-law), Franklin Richards (nephew), Valeria Richards (niece), Major John Richards (grandfather), unnamed Richards child (half-brother), Kristoff Vernard (alleged half-brother); Kang, his divergent counterparts, and offspring (common ancestry)", 
+    "occupation": "Former guardian of the sacred timestream", 
+    "origin": "Fantastic Four #390", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "She is capable of creating a psionic scythe with her mind.", 
+    "realname": "Tara Richards", 
+    "significantissues": "Fantastic Four #377 (intro), Fantastic Four #390 (tells origin), Fantastic Force #1 (first debut of team)", 
+    "speed": 7, 
+    "strength": 3, 
+    "universe": "Marvel Universe"
 }

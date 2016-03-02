@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "College graduate", 
-            "energy": 1, 
-            "eyes": "Brown (Utrecht), White (Vector)\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #254\n", 
-            "groupaffiliation": "U-Foes", 
-            "hair": "Grey (Utrecht), None (Vector)\n", 
-            "height": 72, 
-            "id": "Vector", 
-            "identity": "Known to the authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Criminal", 
-                "(formerly) industrialist"
-            ], 
-            "origin": "Incredible Hulk #254", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Telekinetically propels matter away from himself, can fly by using his power against the ground or any other object of greater mass then himself", 
-            "realname": "Simon Utrecht", 
-            "significantissues": [
-                "Avengers #304", 
-                "Avengers West Coast #53", 
-                "Incredible Hulk Vol. 1 #254, 275-277, 304-305", 
-                "Spider-Man: Breakout #1-5"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 195
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "College graduate", 
+    "energy": 1, 
+    "eyes": "Brown (Utrecht), White (Vector)\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #254\n", 
+    "groupaffiliation": "U-Foes", 
+    "hair": "Grey (Utrecht), None (Vector)\n", 
+    "height": 72, 
+    "id": "Vector", 
+    "identity": "Known to the authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Criminal", 
+        "(formerly) industrialist"
+    ], 
+    "origin": "Incredible Hulk #254", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Telekinetically propels matter away from himself, can fly by using his power against the ground or any other object of greater mass then himself", 
+    "realname": "Simon Utrecht", 
+    "significantissues": [
+        "Avengers #304", 
+        "Avengers West Coast #53", 
+        "Incredible Hulk Vol. 1 #254, 275-277, 304-305", 
+        "Spider-Man: Breakout #1-5"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 195
 }

@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Following the advent of \"M-Day\", Laurie was one of the remaining mutants who retained their powers. Kevin Ford, however, believed his powers were gone, and grabbed Laurie's arm in celebration. Unfortunately, he was wrong, and Laurie's arm shriveled. Even Elixir's powers could not restore her, though it did seem to bring Laurie closer to Josh. Laurie was obviously excluded from training activities for this period. Then, after the human ex-students's bus was bombed, Laurie was speaking with Josh, trying to find out why he was so angry, and she was shot in the head by a Purifier sniper working for Reverend Stryker.", 
-            "durability": 1, 
-            "education": "Currently in high school level classes", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "New Mutants #2 (2003)\n", 
-            "groupaffiliation": [
-                "Formerly Xavier Institute Student Body", 
-                "New Mutants Squad"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 64, 
-            "id": "Wallflower", 
-            "identity": "Known to certain government officials", 
-            "intelligence": 1, 
-            "knownrelatives": "Sean Garrison (father), Gail Collins (mother)", 
-            "occupation": "Former student", 
-            "origin": "New Mutants #11", 
-            "placeofbirth": [
-                "Kent", 
-                "Connecticut"
-            ], 
-            "powers": "Able to control the emotional states of others via pheromones", 
-            "realname": "Laurie Collins", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 118
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Following the advent of \"M-Day\", Laurie was one of the remaining mutants who retained their powers. Kevin Ford, however, believed his powers were gone, and grabbed Laurie's arm in celebration. Unfortunately, he was wrong, and Laurie's arm shriveled. Even Elixir's powers could not restore her, though it did seem to bring Laurie closer to Josh. Laurie was obviously excluded from training activities for this period. Then, after the human ex-students's bus was bombed, Laurie was speaking with Josh, trying to find out why he was so angry, and she was shot in the head by a Purifier sniper working for Reverend Stryker.", 
+    "durability": 1, 
+    "education": "Currently in high school level classes", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "New Mutants #2 (2003)\n", 
+    "groupaffiliation": [
+        "Formerly Xavier Institute Student Body", 
+        "New Mutants Squad"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 64, 
+    "id": "Wallflower", 
+    "identity": "Known to certain government officials", 
+    "intelligence": 1, 
+    "knownrelatives": "Sean Garrison (father), Gail Collins (mother)", 
+    "occupation": "Former student", 
+    "origin": "New Mutants #11", 
+    "placeofbirth": [
+        "Kent", 
+        "Connecticut"
+    ], 
+    "powers": "Able to control the emotional states of others via pheromones", 
+    "realname": "Laurie Collins", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 118
 }

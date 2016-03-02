@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Glorian", 
-                "the Dreamer"
-            ], 
-            "citizenship": [
-                "United States of America", 
-                "Earth"
-            ], 
-            "content": "While at the hospital they were informed that they were dying of radiation poisoning. The Gregory spent his remaining months designing a device, that would tap the mutated genes of the Fantastic Four. The device would reverse their cellular decay. The only side effect of this experiment would be the lives of the Fantastic Four. The Fantastic Four foiled his scheme.Gregory Gideon lost his life, when his pawn, the Dragon Man broke free of his control. In the midst of the wreckage appeared the being known as Shaper of Worlds, he had been attracted to the site by the dreams of one of Gideon's henchmen. Though the henchman's dreams proved inadequate, the Shaper took young Thomas Gideon and cured him of his fatal disease. This transformed him into a golden being, unleashing his true potential. As Glorian, the young Gideon committed himself to learning the Shaper's skills.Unlike the Shaper, who is cold and unimaginative, Gideon is an Earthling at heart. He has all the curiosities and weaknesses associated with the humans of Earth. Glorian has attempted to cure the monster known as the Hulk by giving him his heart's desire. This effort failed miserably. The Hulk was manipulated by the demon Satannish, who was after Glorian's soul. In the end, the Hulk intervened on behalf of Glorian, and saved him from Satannish's devilish scheme. Glorian left Earth for a while, trying to contemplate the full scope of his powers, he later returned to Earth and helped a group of young mutants called Generation X, who were lost at sea.Recently Glorian appeared on the planet of Godthab Omega. The planet had become the home to some of the universes\u2019 most powerful beings. Glorian felt the need to transform this world into his greatest creation. It would be through this accomplishment that he would prove himself to the Shaper of Worlds.In order to transform the planet he needed more power. He thought that he had found that power source in the exiled Kree, Ronan the Accuser. Ronan had traveled to Gothab Omega in search of the Rigellian, Tana Nile. Glorian wanted Ronan to give into rage and righteous fury. The plan was to use the unbridled power to sculpt the world in his own image. After Ronan\u2019s vicious battle with Gamora leader of the Graces, Glorian gained the necessary power to complete his plan.", 
-            "durability": 1, 
-            "education": "Eudcated by private tutors hired by his father and later taught by the Shaper of Worlds", 
-            "energy": 1, 
-            "eyes": "Pink\n", 
-            "fighting": 1, 
-            "firstappearance": "Thomas Gideon (Fantastic Four #134 (1973):As Glorian (Incredible Hulk #191, 1975)\n", 
-            "groupaffiliation": "Apprentice to the Shaper of Worlds", 
-            "hair": "Orange\n", 
-            "height": 60, 
-            "id": "Glorian", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Gregory (father, deceased), Claire (mother, deceased)", 
-            "occupation": "Apprentice Dream Shaper", 
-            "origin": "Incredible Hulk #190 (1975)", 
-            "placeofbirth": [
-                "Rochester", 
-                "New York"
-            ], 
-            "powers": "He is a reality shifter; Glorian is capable of restructuring pockets of reality to his liking. Glorian can transform reality, in distances of up to ten earth miles for a full day. While the change is real enough, it is often referred to as an illusion because the restructuring is only temporary. This new reality is not an illusion and the results of the transformations are dangerous.", 
-            "realname": "Thomas Gideon", 
-            "significantissues": "(Annihilation: Ronan #2-4,2006)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 155
-        }
-    }
+    "aliases": [
+        "Glorian", 
+        "the Dreamer"
+    ], 
+    "citizenship": [
+        "United States of America", 
+        "Earth"
+    ], 
+    "content": "While at the hospital they were informed that they were dying of radiation poisoning. The Gregory spent his remaining months designing a device, that would tap the mutated genes of the Fantastic Four. The device would reverse their cellular decay. The only side effect of this experiment would be the lives of the Fantastic Four. The Fantastic Four foiled his scheme.Gregory Gideon lost his life, when his pawn, the Dragon Man broke free of his control. In the midst of the wreckage appeared the being known as Shaper of Worlds, he had been attracted to the site by the dreams of one of Gideon's henchmen. Though the henchman's dreams proved inadequate, the Shaper took young Thomas Gideon and cured him of his fatal disease. This transformed him into a golden being, unleashing his true potential. As Glorian, the young Gideon committed himself to learning the Shaper's skills.Unlike the Shaper, who is cold and unimaginative, Gideon is an Earthling at heart. He has all the curiosities and weaknesses associated with the humans of Earth. Glorian has attempted to cure the monster known as the Hulk by giving him his heart's desire. This effort failed miserably. The Hulk was manipulated by the demon Satannish, who was after Glorian's soul. In the end, the Hulk intervened on behalf of Glorian, and saved him from Satannish's devilish scheme. Glorian left Earth for a while, trying to contemplate the full scope of his powers, he later returned to Earth and helped a group of young mutants called Generation X, who were lost at sea.Recently Glorian appeared on the planet of Godthab Omega. The planet had become the home to some of the universes\u2019 most powerful beings. Glorian felt the need to transform this world into his greatest creation. It would be through this accomplishment that he would prove himself to the Shaper of Worlds.In order to transform the planet he needed more power. He thought that he had found that power source in the exiled Kree, Ronan the Accuser. Ronan had traveled to Gothab Omega in search of the Rigellian, Tana Nile. Glorian wanted Ronan to give into rage and righteous fury. The plan was to use the unbridled power to sculpt the world in his own image. After Ronan\u2019s vicious battle with Gamora leader of the Graces, Glorian gained the necessary power to complete his plan.", 
+    "durability": 1, 
+    "education": "Eudcated by private tutors hired by his father and later taught by the Shaper of Worlds", 
+    "energy": 1, 
+    "eyes": "Pink\n", 
+    "fighting": 1, 
+    "firstappearance": "Thomas Gideon (Fantastic Four #134 (1973):As Glorian (Incredible Hulk #191, 1975)\n", 
+    "groupaffiliation": "Apprentice to the Shaper of Worlds", 
+    "hair": "Orange\n", 
+    "height": 60, 
+    "id": "Glorian", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Gregory (father, deceased), Claire (mother, deceased)", 
+    "occupation": "Apprentice Dream Shaper", 
+    "origin": "Incredible Hulk #190 (1975)", 
+    "placeofbirth": [
+        "Rochester", 
+        "New York"
+    ], 
+    "powers": "He is a reality shifter; Glorian is capable of restructuring pockets of reality to his liking. Glorian can transform reality, in distances of up to ten earth miles for a full day. While the change is real enough, it is often referred to as an illusion because the restructuring is only temporary. This new reality is not an illusion and the results of the transformations are dangerous.", 
+    "realname": "Thomas Gideon", 
+    "significantissues": "(Annihilation: Ronan #2-4,2006)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 155
 }

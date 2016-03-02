@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Calibre #1 (1995)\n", 
-            "groupaffiliation": "Pale Riders", 
-            "hair": "Black\n", 
-            "height": 68, 
-            "id": "Moonstar_(Age_of_Apocalypse)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Spy", 
-                "mercenary"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Moonstar has the ability to generate astral energy and release it as any shape that can cause psychic backlash upon contact with another person leaving them incapacitated.", 
-            "realname": "Danielle Moonstar", 
-            "significantissues": "Killed by Damask (X-Calibre #2, 1995)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 125
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Calibre #1 (1995)\n", 
+    "groupaffiliation": "Pale Riders", 
+    "hair": "Black\n", 
+    "height": 68, 
+    "id": "Moonstar_(Age_of_Apocalypse)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Spy", 
+        "mercenary"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Moonstar has the ability to generate astral energy and release it as any shape that can cause psychic backlash upon contact with another person leaving them incapacitated.", 
+    "realname": "Danielle Moonstar", 
+    "significantissues": "Killed by Damask (X-Calibre #2, 1995)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 125
 }

@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Hogun the Grim", 
-            "citizenship": "Asgardian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Trained in Asgardian medicine.", 
-            "energy": 1, 
-            "eyes": "Grey-blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Journey Into Mystery #119\n", 
-            "groupaffiliation": [
-                "Warriors Three", 
-                "formerly the Lost Gods"
-            ], 
-            "hair": "Black\n", 
-            "id": "Hogun", 
-            "identity": [
-                "Unknown to the general populace of Earth", 
-                "however he is known publicly on Asgard."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Warrior of Asgard", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "As an Asgardian Hogun possesses superhuman strength, and enhanced durability and endurance.", 
-            "realname": "Hogun", 
-            "significantissues": [
-                "First appearance (Journey into Mystery #119, 1966)", 
-                "Hogun was among the Asgardians that left Asgard, in search of the missing Odin (Thor #255-263,1977)", 
-                "his soul found by Thor after Ragnarok and brought back alive (Thor #4, 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Hogun the Grim", 
+    "citizenship": "Asgardian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Trained in Asgardian medicine.", 
+    "energy": 1, 
+    "eyes": "Grey-blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Journey Into Mystery #119\n", 
+    "groupaffiliation": [
+        "Warriors Three", 
+        "formerly the Lost Gods"
+    ], 
+    "hair": "Black\n", 
+    "id": "Hogun", 
+    "identity": [
+        "Unknown to the general populace of Earth", 
+        "however he is known publicly on Asgard."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Warrior of Asgard", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "As an Asgardian Hogun possesses superhuman strength, and enhanced durability and endurance.", 
+    "realname": "Hogun", 
+    "significantissues": [
+        "First appearance (Journey into Mystery #119, 1966)", 
+        "Hogun was among the Asgardians that left Asgard, in search of the missing Odin (Thor #255-263,1977)", 
+        "his soul found by Thor after Ragnarok and brought back alive (Thor #4, 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

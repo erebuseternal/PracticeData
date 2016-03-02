@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Nicholas Macabes", 
-                "Rudolph Hines", 
-                "Gerdes", 
-                "Doctor Ludwig Rinehart"
-            ], 
-            "citizenship": "U.S.A with a criminal record", 
-            "content": "In yet another plan of revenge, Beck teamed up with the Wizard against Spider-Man and the Human Torch; after that failed, he bided his time in jail until he was able to escape. He then devised a series of elaborate traps in an abandoned amusement park, convincing Spider-Man that he was only six inches high. Back in prison, Beck had an epiphany of sorts; he realized that master criminals spent more time avoiding capture and battling foes than they did accumulating wealth and gaining power. He devised a quiet, long-term plan, a nursing home scam whereby he would trick the infirm into signing all their wealth over to him. To this end, he made use of his cellmate, Daniel Berkhart, taking him into his confidence, teaching him all his secrets and training him to replace him as Mysterio, even as he engineered his own \"death\". Berkhart was released and he confronted Spider-Man, but was defeated eventually.These plans failed and Beck rejoined the Sinister Six but bailed out when he realized that Dr. Octopus was using the group for his own ends. Later, the other five met, intending to get revenge on Dr. Octopus but Octavius anticipated such an attack and instead had another proposition for them involving the appropriation of Hydra's satellite control station. The others reluctantly accepted, though Beck secretly planned to take over once they had obtained their goal. During a heated battle with a number of different heroes, Beck made his play, causing the heroes to fight each other, but he was knocked unconscious by Deathlok, who literally saw through the illusions.Now unhinged, possibly due to exposure to his own hallucinogenic mist, Beck posed as Mr. Gerde, Dr. Octopus's attorney (after the multi-armed criminal's apparent death) and forged a videotaped will, that used Octavius's relative Elias Hargrove as a pawn along with the remainder of the Sinister Six. Using misdirection and Spider-Man, Beck stole a data disk containing details on underground figures. He needed Hargrove to get the right code, but Hargrove had worked out that the tape was a fake. Before he could coerce Hargrove, the Scarlet Spider stopped Beck. Beck undid the booby-trapped data disk, but the Scarlet Spider managed to escape with Hargrove just before the building exploded, with Beck apparently caught in the blast.", 
-            "durability": 1, 
-            "education": "High-school level", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man #13 (1964)\n", 
-            "groupaffiliation": [
-                "None", 
-                "Former Sinister Six"
-            ], 
-            "hair": "Black\n", 
-            "height": 71, 
-            "id": "Mysterio_(Quentin_Beck)", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Henrietta Beck (mother), Elmore Beck (father), Vincent (uncle), Maguire Beck (cousin)", 
-            "occupation": "Former stunt man and special effects designer", 
-            "placeofbirth": [
-                "New York", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Quentin Beck", 
-            "significantissues": [
-                "Debut (Amazing Spider-Man #13, 1964)", 
-                "first joined Sinister Six (Amazing Spider-Man Annual #1, 1964)", 
-                "posed as Ludwig Reinhart (Amazing Spider-Man #24, 1965)", 
-                "proposed to Betsy Schneider (Webspinners: Tales of Spider-Man #1, 1999)", 
-                "ran nursing home scam partnered with the burglar who shot Uncle Ben, faked Aunt May's death (Amazing Spider-Man #193-199, 1979)", 
-                "committed suicide (Daredevil #7, 1999)", 
-                "revealed to work for a unknown cosmic being (Friendly Neighborhood Spider-Man #13, 2006)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": [
+        "Nicholas Macabes", 
+        "Rudolph Hines", 
+        "Gerdes", 
+        "Doctor Ludwig Rinehart"
+    ], 
+    "citizenship": "U.S.A with a criminal record", 
+    "content": "In yet another plan of revenge, Beck teamed up with the Wizard against Spider-Man and the Human Torch; after that failed, he bided his time in jail until he was able to escape. He then devised a series of elaborate traps in an abandoned amusement park, convincing Spider-Man that he was only six inches high. Back in prison, Beck had an epiphany of sorts; he realized that master criminals spent more time avoiding capture and battling foes than they did accumulating wealth and gaining power. He devised a quiet, long-term plan, a nursing home scam whereby he would trick the infirm into signing all their wealth over to him. To this end, he made use of his cellmate, Daniel Berkhart, taking him into his confidence, teaching him all his secrets and training him to replace him as Mysterio, even as he engineered his own \"death\". Berkhart was released and he confronted Spider-Man, but was defeated eventually.These plans failed and Beck rejoined the Sinister Six but bailed out when he realized that Dr. Octopus was using the group for his own ends. Later, the other five met, intending to get revenge on Dr. Octopus but Octavius anticipated such an attack and instead had another proposition for them involving the appropriation of Hydra's satellite control station. The others reluctantly accepted, though Beck secretly planned to take over once they had obtained their goal. During a heated battle with a number of different heroes, Beck made his play, causing the heroes to fight each other, but he was knocked unconscious by Deathlok, who literally saw through the illusions.Now unhinged, possibly due to exposure to his own hallucinogenic mist, Beck posed as Mr. Gerde, Dr. Octopus's attorney (after the multi-armed criminal's apparent death) and forged a videotaped will, that used Octavius's relative Elias Hargrove as a pawn along with the remainder of the Sinister Six. Using misdirection and Spider-Man, Beck stole a data disk containing details on underground figures. He needed Hargrove to get the right code, but Hargrove had worked out that the tape was a fake. Before he could coerce Hargrove, the Scarlet Spider stopped Beck. Beck undid the booby-trapped data disk, but the Scarlet Spider managed to escape with Hargrove just before the building exploded, with Beck apparently caught in the blast.", 
+    "durability": 1, 
+    "education": "High-school level", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man #13 (1964)\n", 
+    "groupaffiliation": [
+        "None", 
+        "Former Sinister Six"
+    ], 
+    "hair": "Black\n", 
+    "height": 71, 
+    "id": "Mysterio_(Quentin_Beck)", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Henrietta Beck (mother), Elmore Beck (father), Vincent (uncle), Maguire Beck (cousin)", 
+    "occupation": "Former stunt man and special effects designer", 
+    "placeofbirth": [
+        "New York", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Quentin Beck", 
+    "significantissues": [
+        "Debut (Amazing Spider-Man #13, 1964)", 
+        "first joined Sinister Six (Amazing Spider-Man Annual #1, 1964)", 
+        "posed as Ludwig Reinhart (Amazing Spider-Man #24, 1965)", 
+        "proposed to Betsy Schneider (Webspinners: Tales of Spider-Man #1, 1999)", 
+        "ran nursing home scam partnered with the burglar who shot Uncle Ben, faked Aunt May's death (Amazing Spider-Man #193-199, 1979)", 
+        "committed suicide (Daredevil #7, 1999)", 
+        "revealed to work for a unknown cosmic being (Friendly Neighborhood Spider-Man #13, 2006)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

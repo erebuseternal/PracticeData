@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Mummy", 
-                "\"Captain Ace Bandages\""
-            ], 
-            "citizenship": "Swarili tribe", 
-            "content": "In recent times, N'Kantu finally burst forth from his prison. Half-mad from the lengthy immobility, he rampaged in Cairo, tracing the energies of Dr. Alexi Skarab, a descendant of Nephrus. Finally brought down after a massive battle with local police, N'Kantu was rendered immobile and shipped to a New York museum. He soon awoke and attracted the attention of the Elementals (Zephyr, Hellfire, Hydron and Magnum), who used him as a pawn in their attempts to control the Ruby Scarab. During this period, he became an ally of Skarab, a thief known as the Asp (Richard Harper), the Asp's partner Miles Olddan, and two of Skarab's students, Ron McAllister and Janice Carr. The group eventually defeated the Elementals and parted ways.N'Kantu became a wanderer, befriending Ulysses Bloodstone and observing the Grandmaster's Contest of Champions. He also helped the Thing rescue Alicia Masters from Gamal Hassan, another descendant of Nephrus, who sought the Spirit Gem of Nephrus. Later, N'Kantu sought to use a fragment of the Bloodgem to restore his humanity. He eventually gave the fragment to Captain America during the hero's quest to prevent the shards from falling into the hands of criminals. Once more adrift, N'Kantu briefly found acceptance as part of Doctor Druid's Shock Troop, a group of mystic-oriented heroes, battling the Antibodies alongside Quasar. Since then, he has aided Elsa Bloodstone and the Frankenstein's Monster against the necromancer Rakses. Of late, he has served as guardian to a mystical artifact known as the Orb of Ra. He also briefly recruited against his will to S.H.I.E.L.D.'s team made of mythical and monstrous individuals called Howling Commandos until he rebelled against them.", 
-            "durability": 6, 
-            "education": "S.H.I.E.L.D. covert operations training", 
-            "energy": 4, 
-            "eyes": "Brown\n", 
-            "fighting": 3, 
-            "firstappearance": "Supernatural Thrillers #5 (1973)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly: S.H.I.E.L.D.", 
-                "Howling Commandos", 
-                "Shock Troop"
-            ], 
-            "hair": "None (formerly black)\n", 
-            "height": 90, 
-            "id": "Living_Mummy", 
-            "identity": "No dual identity", 
-            "intelligence": 4, 
-            "knownrelatives": "T'Chombi (father, deceased), V'Leema (wife, deceased)", 
-            "occupation": [
-                "Wanderer", 
-                "formerly: S.H.I.E.L.D. agent", 
-                "warrior", 
-                "Swarili chieftain-king", 
-                "slave"
-            ], 
-            "placeofbirth": [
-                "Swarili Nation", 
-                "Northern Africa"
-            ], 
-            "powers": "The Living Mummy has superhuman strength and rock-hard skin. The preservative fluid that keeps him alive makes him resistant to the effects of disease and drugs, but highly susceptible to fire. He can go thousands of years without food or water. The Living Mummy also seems to possess certain energy-sensing abilities, especially those related to Nephrus. He has been able to pinpoint descendants of Nephrus on sight.", 
-            "realname": "N'Kantu", 
-            "speed": 3, 
-            "strength": 5, 
-            "universe": "Marvel Universe", 
-            "weight": 650
-        }
-    }
+    "aliases": [
+        "The Mummy", 
+        "\"Captain Ace Bandages\""
+    ], 
+    "citizenship": "Swarili tribe", 
+    "content": "In recent times, N'Kantu finally burst forth from his prison. Half-mad from the lengthy immobility, he rampaged in Cairo, tracing the energies of Dr. Alexi Skarab, a descendant of Nephrus. Finally brought down after a massive battle with local police, N'Kantu was rendered immobile and shipped to a New York museum. He soon awoke and attracted the attention of the Elementals (Zephyr, Hellfire, Hydron and Magnum), who used him as a pawn in their attempts to control the Ruby Scarab. During this period, he became an ally of Skarab, a thief known as the Asp (Richard Harper), the Asp's partner Miles Olddan, and two of Skarab's students, Ron McAllister and Janice Carr. The group eventually defeated the Elementals and parted ways.N'Kantu became a wanderer, befriending Ulysses Bloodstone and observing the Grandmaster's Contest of Champions. He also helped the Thing rescue Alicia Masters from Gamal Hassan, another descendant of Nephrus, who sought the Spirit Gem of Nephrus. Later, N'Kantu sought to use a fragment of the Bloodgem to restore his humanity. He eventually gave the fragment to Captain America during the hero's quest to prevent the shards from falling into the hands of criminals. Once more adrift, N'Kantu briefly found acceptance as part of Doctor Druid's Shock Troop, a group of mystic-oriented heroes, battling the Antibodies alongside Quasar. Since then, he has aided Elsa Bloodstone and the Frankenstein's Monster against the necromancer Rakses. Of late, he has served as guardian to a mystical artifact known as the Orb of Ra. He also briefly recruited against his will to S.H.I.E.L.D.'s team made of mythical and monstrous individuals called Howling Commandos until he rebelled against them.", 
+    "durability": 6, 
+    "education": "S.H.I.E.L.D. covert operations training", 
+    "energy": 4, 
+    "eyes": "Brown\n", 
+    "fighting": 3, 
+    "firstappearance": "Supernatural Thrillers #5 (1973)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly: S.H.I.E.L.D.", 
+        "Howling Commandos", 
+        "Shock Troop"
+    ], 
+    "hair": "None (formerly black)\n", 
+    "height": 90, 
+    "id": "Living_Mummy", 
+    "identity": "No dual identity", 
+    "intelligence": 4, 
+    "knownrelatives": "T'Chombi (father, deceased), V'Leema (wife, deceased)", 
+    "occupation": [
+        "Wanderer", 
+        "formerly: S.H.I.E.L.D. agent", 
+        "warrior", 
+        "Swarili chieftain-king", 
+        "slave"
+    ], 
+    "placeofbirth": [
+        "Swarili Nation", 
+        "Northern Africa"
+    ], 
+    "powers": "The Living Mummy has superhuman strength and rock-hard skin. The preservative fluid that keeps him alive makes him resistant to the effects of disease and drugs, but highly susceptible to fire. He can go thousands of years without food or water. The Living Mummy also seems to possess certain energy-sensing abilities, especially those related to Nephrus. He has been able to pinpoint descendants of Nephrus on sight.", 
+    "realname": "N'Kantu", 
+    "speed": 3, 
+    "strength": 5, 
+    "universe": "Marvel Universe", 
+    "weight": 650
 }

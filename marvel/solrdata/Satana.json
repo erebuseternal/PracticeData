@@ -1,55 +1,51 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Devil's Daughter", 
-                "Judith Camber", 
-                "Julia", 
-                "Mistress of the Basilisk"
-            ], 
-            "citizenship": [
-                "U.S.A.", 
-                "Hell"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tutored by demons", 
-            "energy": 1, 
-            "eyes": "Black with red highlights\n", 
-            "fighting": 1, 
-            "firstappearance": "Vampire Tales #2 (1973)\n", 
-            "groupaffiliation": "Witches", 
-            "hair": "Red\n", 
-            "height": 67, 
-            "id": "Satana", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Marduk Kurios (Satan, father), Victoria Wingate Hellstrom (mother, deceased), Daimon Hellstrom (Hellstorm, brother), Patsy Walker (former sister-in-law); Gene, Paul Camber (false husband, son)", 
-            "occupation": "Adventurer", 
-            "origin": [
-                "Marvel Spotlight #13 (1974)", 
-                "Hellstorm #16", 
-                "18 (1994)"
-            ], 
-            "placeofbirth": [
-                "Fire Lake", 
-                "Greentown", 
-                "Massachusetts"
-            ], 
-            "powers": "Satana is a succubus, draining souls to survive. She can fire energy bolts, form shields, levitate, cast illusions, and mesmerize others. She is immune to human needs and frailties. She was formerly assisted by Exiter and the Basilisk, a demon cat and an immensely powerful arch demon.", 
-            "realname": "Satana Hellstrom", 
-            "significantissues": [
-                "Opposed the Four (Haunt of Horror #2-5, 1974-1975)", 
-                "battled Camarilla of the N'Garai (Marvel Preview #7, 1976)", 
-                "fought Basilisk (Marvel Team-Up Vol. 1 #80-81, 1979)", 
-                "resurrected by Crowe, plotted war on brother (Hellstorm #8, 10, 12, 20, 21", 
-                "1993-1994)", 
-                "returned to Earth, battled Hellphyr (Witches #1-4, 2004)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "The Devil's Daughter", 
+        "Judith Camber", 
+        "Julia", 
+        "Mistress of the Basilisk"
+    ], 
+    "citizenship": [
+        "U.S.A.", 
+        "Hell"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tutored by demons", 
+    "energy": 1, 
+    "eyes": "Black with red highlights\n", 
+    "fighting": 1, 
+    "firstappearance": "Vampire Tales #2 (1973)\n", 
+    "groupaffiliation": "Witches", 
+    "hair": "Red\n", 
+    "height": 67, 
+    "id": "Satana", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Marduk Kurios (Satan, father), Victoria Wingate Hellstrom (mother, deceased), Daimon Hellstrom (Hellstorm, brother), Patsy Walker (former sister-in-law); Gene, Paul Camber (false husband, son)", 
+    "occupation": "Adventurer", 
+    "origin": [
+        "Marvel Spotlight #13 (1974)", 
+        "Hellstorm #16", 
+        "18 (1994)"
+    ], 
+    "placeofbirth": [
+        "Fire Lake", 
+        "Greentown", 
+        "Massachusetts"
+    ], 
+    "powers": "Satana is a succubus, draining souls to survive. She can fire energy bolts, form shields, levitate, cast illusions, and mesmerize others. She is immune to human needs and frailties. She was formerly assisted by Exiter and the Basilisk, a demon cat and an immensely powerful arch demon.", 
+    "realname": "Satana Hellstrom", 
+    "significantissues": [
+        "Opposed the Four (Haunt of Horror #2-5, 1974-1975)", 
+        "battled Camarilla of the N'Garai (Marvel Preview #7, 1976)", 
+        "fought Basilisk (Marvel Team-Up Vol. 1 #80-81, 1979)", 
+        "resurrected by Crowe, plotted war on brother (Hellstorm #8, 10, 12, 20, 21", 
+        "1993-1994)", 
+        "returned to Earth, battled Hellphyr (Witches #1-4, 2004)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

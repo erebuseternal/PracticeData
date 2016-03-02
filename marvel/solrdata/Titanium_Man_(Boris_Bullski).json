@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Boris the Merciless", 
-                "The Commander", 
-                "Andy Stockwell"
-            ], 
-            "citizenship": "Soviet Union", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales of Suspense #69 (1965)\n", 
-            "groupaffiliation": [
-                "The Hammer", 
-                "Former member of Remont 4", 
-                "the Green Liberation Front and the Titanic Three", 
-                "Former partner of Black Widow", 
-                "Defenders (Thanos' team)"
-            ], 
-            "hair": "Black (later brown)\n", 
-            "height": 85, 
-            "id": "Titanium_Man_(Boris_Bullski)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified wife, unidentified father", 
-            "occupation": [
-                "Mercenary", 
-                "former adventurer", 
-                "Russian operative", 
-                "Russian government official"
-            ], 
-            "origin": "Became Titanium Man to rival Iron Man", 
-            "placeofbirth": "Russia", 
-            "powers": "Underwent experiments in altering his physical appearance to help him use the Titanium Man armor", 
-            "realname": "Boris Bullski", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 425
-        }
-    }
+    "aliases": [
+        "Boris the Merciless", 
+        "The Commander", 
+        "Andy Stockwell"
+    ], 
+    "citizenship": "Soviet Union", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales of Suspense #69 (1965)\n", 
+    "groupaffiliation": [
+        "The Hammer", 
+        "Former member of Remont 4", 
+        "the Green Liberation Front and the Titanic Three", 
+        "Former partner of Black Widow", 
+        "Defenders (Thanos' team)"
+    ], 
+    "hair": "Black (later brown)\n", 
+    "height": 85, 
+    "id": "Titanium_Man_(Boris_Bullski)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified wife, unidentified father", 
+    "occupation": [
+        "Mercenary", 
+        "former adventurer", 
+        "Russian operative", 
+        "Russian government official"
+    ], 
+    "origin": "Became Titanium Man to rival Iron Man", 
+    "placeofbirth": "Russia", 
+    "powers": "Underwent experiments in altering his physical appearance to help him use the Titanium Man armor", 
+    "realname": "Boris Bullski", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 425
 }

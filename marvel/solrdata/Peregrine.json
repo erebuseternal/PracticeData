@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Le Peregrine", 
-            "citizenship": "France", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Super Hero Contest of Champions #1 (1989)\n", 
-            "groupaffiliation": "Occasional freelance operative for Silver Sable International", 
-            "hair": "Brown\n", 
-            "height": 0, 
-            "id": "Peregrine", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Writer", 
-                "adventurer", 
-                "mercenary"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": [
-                "Moulins", 
-                "France"
-            ], 
-            "powers": "None", 
-            "realname": "Alaine Racine", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "Le Peregrine", 
+    "citizenship": "France", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Super Hero Contest of Champions #1 (1989)\n", 
+    "groupaffiliation": "Occasional freelance operative for Silver Sable International", 
+    "hair": "Brown\n", 
+    "height": 0, 
+    "id": "Peregrine", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Writer", 
+        "adventurer", 
+        "mercenary"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": [
+        "Moulins", 
+        "France"
+    ], 
+    "powers": "None", 
+    "realname": "Alaine Racine", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

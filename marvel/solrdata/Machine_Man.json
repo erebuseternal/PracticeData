@@ -1,61 +1,57 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Aaron Stack", 
-                "Jack Kubrick", 
-                "Sentinel Supreme", 
-                "Mister Machine"
-            ], 
-            "citizenship": "Undetermined", 
-            "content": "Vowing to fulfill Dr. Stack's dream, Machine Man adopted a human identity, Aaron Stack, and tried to find his place in the world of human beings. He eventually met psychiatrist Peter Spaulding and mechanic \"Gears\" Garyin, who would become his friends. He worked for a time as an insurance investigator for the Delmar Insurance Company, although his employer and fellow employees were unaware he was a robot.Machine Man fought to preserve himself in a world that feared the machine, especially against Senator Miles Brickman and the costumed villain Madame Menace. The U.S. government attempted to hunt down Aaron, but eventually pardoned him after he stopped one of the Hulk\u2019s rampages.On a later adventure, he met and fell in love with the robot Jocasta, but she was destroyed in battle with her creator Ultron. Later still, Machine Man was contacted by the robot Super-Adaptoid in joining Heavy Metal, a team of robots in order to fight the heroes known as the Avengers, although he then aided the Avengers in their fight against the Adaptoid.Machine Man later aided the Avengers again, this time against the threat of the alien known as Terminus. At the time, the robot had acquired the head of Jocasta, which had been recovered and lost by agents of the villainous High Evolutionary. In the course of this battle, Machine Man narrowly avoided a confrontation with Madame Menace, who ultimately ended up with the Jocasta head. Machine Man again aided the Avengers West Coast branch, being accepted as one of their member so he could join them in the fight against the villains Doctor Demonicus and the Pacific Overlords. As a provisional member of the Avengers, he joined them on a couple more adventures, and was peripherally involved in the battle between the villain Graviton and the heroes of the Thunderbolts.After several months, Machine Man was then captured by the international espionage agency S.H.I.E.L.D. who wanted to use his technology to further the creation of the new Deathlok cyborg. At the same time, the villainous Red Skull captured the techno-organic being Douglock and took over the S.H.I.E.L.D.'s Helicarrier transport. Machine Man assisted the heroes of the X-Men in rescuing Douglock and the SHIELD agents trapped onboard, seemingly at the cost of his own life.However, the evil mutant team called the Brotherhood recovered what was left of Machine Man and captured SHIELD Agent Jack Kubrick who was also searching for the robot. After discovering the remains, Brotherhood members Mimic, Blob, Mystique, Toad, and Post were attacked by the recently resurrected Machine Man. During the battle Post shot and seemingly killed Kubrick, but the agent merged with Machine Man`s head and claimed that he was, in fact, X-51 in a new body. As X-51, he discovered his new body contained microscopic nanotech machines called \"nanites\" that could repair any damage instantly. X-51 also found that his new programming included remnants of mutant-hunting Sentinel programming, and thus felt compelled to attack and destroy any mutants that he came into contact with. He immediately tried to destroy the Brotherhood and then, afterward, Sebastian Shaw of Shaw Industries and the world-dominating Hellfire Club. When he sought the Avengers for help, he attacked their newest members Justice and Firestar before retreating.X-51 recognized his internal systems were somehow affected and he sought help from his friends in the past, Peter Spaulding and his wife, Jill. The two tried to help the robot but X-51 had become targeted by the Sentinels, the same mutant-hunting machines that had corrupted his systems. The fight between X-51 and the Sentinels threatened to destroy the town if not for the timely arrival of the X-Men. Unfortunately, during the fight, the Sentinels' technology overwhelmed X-51, and he turned on the X-Men. The X-Men battled X-51 until he experienced a moment of mental clarity. In his final act of heroism, X-51, unbeknownst to the X-Men, willingly gave up his own life to stop the battle, allowing his robotic body to explode.At the same time, the United States government had deemed X-51 a threat and ordered Jack Kubrick, agent of the Commission on Superhuman Activities, to investigate. Kubrick was presumably assigned the case because X-51 had been using his identity since presumably merging with Kubrick during X-51's encounter with the mutant Brotherhood. It seemed that the Kubrick absorbed by X-51 was in fact an android (a Life Model Decoy.) The real agent Kubrick investigated the circumstances of X-51's death and returned to the Commission with his report.In fact, X-51 did not truly perish. The nanotechnology in his system rebuilt his body, this time free of Sentinel technology, as well as his mind. X-51's memories were lost, except for those of his father, which he purposefully retained. X-51 began wandering the country, but he soon encountered an alien monolith. The monolith somehow transported itself and X-51 away to an unknown destination.X-51 has since reappeared and taken on a more human appearance than ever before, despite the fact that he is more open to criticize the lifestyles of the \u201cfleshy ones\u201d around him. Calling himself simply \u201cAaron Stack,\u201d he joined the H.A.T.E. organization, under circumstances yet to be revealed, working with other heroes such as Monica Rambeau (Photon) and Tabitha Smith (Meltdown) in Nextwave. When the heroes discovered H.A.T.E. was actually funding the terrorists they hoped to stop, Aaron joined Nextwave in dedicating themselves to stopping H.A.T.E. once and for all.", 
-            "durability": 6, 
-            "education": "None", 
-            "energy": 6, 
-            "eyes": "Red\n", 
-            "fighting": 4, 
-            "firstappearance": "2001: A Space Odyssey #6\n", 
-            "groupaffiliation": [
-                "Formerly Nextwave", 
-                "Secret Avengers", 
-                "Avengers", 
-                "Avengers West Coast", 
-                "Heavy Metal"
-            ], 
-            "hair": "Black (artificial)\n", 
-            "height": 0, 
-            "id": "Machine_Man", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Abel Stack (creator), X.E.R.O. (\"brother\")", 
-            "occupation": [
-                "Counter terrorist", 
-                "former adventurer", 
-                "insurance investigator"
-            ], 
-            "origin": "2001: A Space Odyssey #6", 
-            "placeofbirth": [
-                "Broadhurst Center for the Advancement of Mechanized Research", 
-                "Central City", 
-                "California"
-            ], 
-            "powers": "The robot X-51's most notable ability is his extendable hands and legs, telescoping outward to 100 feet. He can also hover or fly silently by means of anti-gravity generators, maintain internal temperature to radiate great amounts of heat or cold through his hands, and can channel electrical energy through his circuits and release it at a touch. He has a pair of modified .357 Magnum pistols installed in his index fingers, which has since been revealed as only part of an arsenal that includes a gas chromatograph, a laser interferometer, micro-pulse radar, an audiometer, a seismometer, a gravity wave detector, a pulse-code modulator, standard computer input/outputs, a radio beacon, an all-wave radio transceiver, and a laser cutting torch/ weapon. X-51 is highly dependent on solar receptors for energy, and if not exposed to light, he will shut down.", 
-            "realname": "X-51", 
-            "significantissues": [
-                "Pressed into service of Super-Adaptoid, aided Avengers against Adaptoid (Avengers #287-290)", 
-                "granted reserve Avengers status (Avengers West Coast #83)", 
-                "infused with Sentinel technology (Marvel Comics 1998 Annual Starring Cable & Machine Man/Marvel Comics 1998 Annual Starring Machine Man & Bastion, 1998)", 
-                "captured by S.H.I.E.L.D. agents, helped X-Men rescue Douglock, seemingly destroyed (Uncanny X-Men #371/X-Men #99/X-Men '99 Annual, 1999)", 
-                "rebuilt by nanites (X-51 #1-2)", 
-                "Sentinel", 
-                "programming took over, destroyed self, purged of Sentinel programming (X-51 #6-8, 2000)", 
-                "transported away by monolith (X-51 #12, 2000)", 
-                "reappeared as member of Nextwave (Nextwave #1, 2006)"
-            ], 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 850
-        }
-    }
+    "aliases": [
+        "Aaron Stack", 
+        "Jack Kubrick", 
+        "Sentinel Supreme", 
+        "Mister Machine"
+    ], 
+    "citizenship": "Undetermined", 
+    "content": "Vowing to fulfill Dr. Stack's dream, Machine Man adopted a human identity, Aaron Stack, and tried to find his place in the world of human beings. He eventually met psychiatrist Peter Spaulding and mechanic \"Gears\" Garyin, who would become his friends. He worked for a time as an insurance investigator for the Delmar Insurance Company, although his employer and fellow employees were unaware he was a robot.Machine Man fought to preserve himself in a world that feared the machine, especially against Senator Miles Brickman and the costumed villain Madame Menace. The U.S. government attempted to hunt down Aaron, but eventually pardoned him after he stopped one of the Hulk\u2019s rampages.On a later adventure, he met and fell in love with the robot Jocasta, but she was destroyed in battle with her creator Ultron. Later still, Machine Man was contacted by the robot Super-Adaptoid in joining Heavy Metal, a team of robots in order to fight the heroes known as the Avengers, although he then aided the Avengers in their fight against the Adaptoid.Machine Man later aided the Avengers again, this time against the threat of the alien known as Terminus. At the time, the robot had acquired the head of Jocasta, which had been recovered and lost by agents of the villainous High Evolutionary. In the course of this battle, Machine Man narrowly avoided a confrontation with Madame Menace, who ultimately ended up with the Jocasta head. Machine Man again aided the Avengers West Coast branch, being accepted as one of their member so he could join them in the fight against the villains Doctor Demonicus and the Pacific Overlords. As a provisional member of the Avengers, he joined them on a couple more adventures, and was peripherally involved in the battle between the villain Graviton and the heroes of the Thunderbolts.After several months, Machine Man was then captured by the international espionage agency S.H.I.E.L.D. who wanted to use his technology to further the creation of the new Deathlok cyborg. At the same time, the villainous Red Skull captured the techno-organic being Douglock and took over the S.H.I.E.L.D.'s Helicarrier transport. Machine Man assisted the heroes of the X-Men in rescuing Douglock and the SHIELD agents trapped onboard, seemingly at the cost of his own life.However, the evil mutant team called the Brotherhood recovered what was left of Machine Man and captured SHIELD Agent Jack Kubrick who was also searching for the robot. After discovering the remains, Brotherhood members Mimic, Blob, Mystique, Toad, and Post were attacked by the recently resurrected Machine Man. During the battle Post shot and seemingly killed Kubrick, but the agent merged with Machine Man`s head and claimed that he was, in fact, X-51 in a new body. As X-51, he discovered his new body contained microscopic nanotech machines called \"nanites\" that could repair any damage instantly. X-51 also found that his new programming included remnants of mutant-hunting Sentinel programming, and thus felt compelled to attack and destroy any mutants that he came into contact with. He immediately tried to destroy the Brotherhood and then, afterward, Sebastian Shaw of Shaw Industries and the world-dominating Hellfire Club. When he sought the Avengers for help, he attacked their newest members Justice and Firestar before retreating.X-51 recognized his internal systems were somehow affected and he sought help from his friends in the past, Peter Spaulding and his wife, Jill. The two tried to help the robot but X-51 had become targeted by the Sentinels, the same mutant-hunting machines that had corrupted his systems. The fight between X-51 and the Sentinels threatened to destroy the town if not for the timely arrival of the X-Men. Unfortunately, during the fight, the Sentinels' technology overwhelmed X-51, and he turned on the X-Men. The X-Men battled X-51 until he experienced a moment of mental clarity. In his final act of heroism, X-51, unbeknownst to the X-Men, willingly gave up his own life to stop the battle, allowing his robotic body to explode.At the same time, the United States government had deemed X-51 a threat and ordered Jack Kubrick, agent of the Commission on Superhuman Activities, to investigate. Kubrick was presumably assigned the case because X-51 had been using his identity since presumably merging with Kubrick during X-51's encounter with the mutant Brotherhood. It seemed that the Kubrick absorbed by X-51 was in fact an android (a Life Model Decoy.) The real agent Kubrick investigated the circumstances of X-51's death and returned to the Commission with his report.In fact, X-51 did not truly perish. The nanotechnology in his system rebuilt his body, this time free of Sentinel technology, as well as his mind. X-51's memories were lost, except for those of his father, which he purposefully retained. X-51 began wandering the country, but he soon encountered an alien monolith. The monolith somehow transported itself and X-51 away to an unknown destination.X-51 has since reappeared and taken on a more human appearance than ever before, despite the fact that he is more open to criticize the lifestyles of the \u201cfleshy ones\u201d around him. Calling himself simply \u201cAaron Stack,\u201d he joined the H.A.T.E. organization, under circumstances yet to be revealed, working with other heroes such as Monica Rambeau (Photon) and Tabitha Smith (Meltdown) in Nextwave. When the heroes discovered H.A.T.E. was actually funding the terrorists they hoped to stop, Aaron joined Nextwave in dedicating themselves to stopping H.A.T.E. once and for all.", 
+    "durability": 6, 
+    "education": "None", 
+    "energy": 6, 
+    "eyes": "Red\n", 
+    "fighting": 4, 
+    "firstappearance": "2001: A Space Odyssey #6\n", 
+    "groupaffiliation": [
+        "Formerly Nextwave", 
+        "Secret Avengers", 
+        "Avengers", 
+        "Avengers West Coast", 
+        "Heavy Metal"
+    ], 
+    "hair": "Black (artificial)\n", 
+    "height": 0, 
+    "id": "Machine_Man", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Abel Stack (creator), X.E.R.O. (\"brother\")", 
+    "occupation": [
+        "Counter terrorist", 
+        "former adventurer", 
+        "insurance investigator"
+    ], 
+    "origin": "2001: A Space Odyssey #6", 
+    "placeofbirth": [
+        "Broadhurst Center for the Advancement of Mechanized Research", 
+        "Central City", 
+        "California"
+    ], 
+    "powers": "The robot X-51's most notable ability is his extendable hands and legs, telescoping outward to 100 feet. He can also hover or fly silently by means of anti-gravity generators, maintain internal temperature to radiate great amounts of heat or cold through his hands, and can channel electrical energy through his circuits and release it at a touch. He has a pair of modified .357 Magnum pistols installed in his index fingers, which has since been revealed as only part of an arsenal that includes a gas chromatograph, a laser interferometer, micro-pulse radar, an audiometer, a seismometer, a gravity wave detector, a pulse-code modulator, standard computer input/outputs, a radio beacon, an all-wave radio transceiver, and a laser cutting torch/ weapon. X-51 is highly dependent on solar receptors for energy, and if not exposed to light, he will shut down.", 
+    "realname": "X-51", 
+    "significantissues": [
+        "Pressed into service of Super-Adaptoid, aided Avengers against Adaptoid (Avengers #287-290)", 
+        "granted reserve Avengers status (Avengers West Coast #83)", 
+        "infused with Sentinel technology (Marvel Comics 1998 Annual Starring Cable & Machine Man/Marvel Comics 1998 Annual Starring Machine Man & Bastion, 1998)", 
+        "captured by S.H.I.E.L.D. agents, helped X-Men rescue Douglock, seemingly destroyed (Uncanny X-Men #371/X-Men #99/X-Men '99 Annual, 1999)", 
+        "rebuilt by nanites (X-51 #1-2)", 
+        "Sentinel", 
+        "programming took over, destroyed self, purged of Sentinel programming (X-51 #6-8, 2000)", 
+        "transported away by monolith (X-51 #12, 2000)", 
+        "reappeared as member of Nextwave (Nextwave #1, 2006)"
+    ], 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 850
 }

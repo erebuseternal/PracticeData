@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man #546 (2008)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "height": 74, 
-            "id": "William_%22Bill%22_Hollister", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Lily Hollister (daughter)", 
-            "occupation": [
-                "Councilman", 
-                "former district attorney", 
-                "mayoral candidate"
-            ], 
-            "placeofbirth": [
-                "East New York", 
-                "Brooklyn", 
-                "New York"
-            ], 
-            "powers": "William possessed no superhuman powers or attributes.", 
-            "realname": "William \"Bill\" Hollister", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man #546 (2008)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "height": 74, 
+    "id": "William_%22Bill%22_Hollister", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Lily Hollister (daughter)", 
+    "occupation": [
+        "Councilman", 
+        "former district attorney", 
+        "mayoral candidate"
+    ], 
+    "placeofbirth": [
+        "East New York", 
+        "Brooklyn", 
+        "New York"
+    ], 
+    "powers": "William possessed no superhuman powers or attributes.", 
+    "realname": "William \"Bill\" Hollister", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

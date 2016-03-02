@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Titan", 
-                "moon of Saturn"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, knowledge of science and technology far in advance of present day Earth.", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Iron Man #55 (1973)\n", 
-            "groupaffiliation": "Eternals of Titan", 
-            "hair": "White\n", 
-            "height": 73, 
-            "id": "Mentor_(Alars)", 
-            "identity": "The general populace of Earth is unaware of Mentor's existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "Kronos (father), Daina (mother), Sui-San (wife, deceased), Eros (son), Thanos (son), Zuras (brother,deceased), Thena (niece), Nebula (alleged great-granddaughter)", 
-            "occupation": [
-                "Former scientist", 
-                "ruler of the Eternals of Titan"
-            ], 
-            "origin": [
-                "Captain Marvel #29 (1973)", 
-                "What If #25"
-            ], 
-            "placeofbirth": [
-                "City of Titanos", 
-                "northern Asia"
-            ], 
-            "powers": "Mentor is an enhanced human, with advanced speed and reflexes. Mentor has God-like durability and is able to overcome fatal injuries and has appeared to even be restored after being slain by Thanos.", 
-            "realname": "Alars", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Titan", 
+        "moon of Saturn"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, knowledge of science and technology far in advance of present day Earth.", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Iron Man #55 (1973)\n", 
+    "groupaffiliation": "Eternals of Titan", 
+    "hair": "White\n", 
+    "height": 73, 
+    "id": "Mentor_(Alars)", 
+    "identity": "The general populace of Earth is unaware of Mentor's existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "Kronos (father), Daina (mother), Sui-San (wife, deceased), Eros (son), Thanos (son), Zuras (brother,deceased), Thena (niece), Nebula (alleged great-granddaughter)", 
+    "occupation": [
+        "Former scientist", 
+        "ruler of the Eternals of Titan"
+    ], 
+    "origin": [
+        "Captain Marvel #29 (1973)", 
+        "What If #25"
+    ], 
+    "placeofbirth": [
+        "City of Titanos", 
+        "northern Asia"
+    ], 
+    "powers": "Mentor is an enhanced human, with advanced speed and reflexes. Mentor has God-like durability and is able to overcome fatal injuries and has appeared to even be restored after being slain by Thanos.", 
+    "realname": "Alars", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

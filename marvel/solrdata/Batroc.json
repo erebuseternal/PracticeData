@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Leaper", 
-            "citizenship": "France", 
-            "content": "He once worked with an (as he called it) demon, actually a being from another planet. With him, he fought against Captain America and Spider-Man.", 
-            "durability": 1, 
-            "education": "Military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales of Suspense #75\n", 
-            "groupaffiliation": [
-                "Formerly Thunderbolts Army", 
-                "Batroc\u2019s Brigade", 
-                "former employed by the Red Skull and Obadiah Stane"
-            ], 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Batroc", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Batroc (daughter, full name unrevealed)", 
-            "occupation": [
-                "Mercenary", 
-                "former soldier"
-            ], 
-            "placeofbirth": [
-                "Marseilles", 
-                "France"
-            ], 
-            "powers": "None", 
-            "realname": "Georges Batroc", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 225
-        }
-    }
+    "aliases": "The Leaper", 
+    "citizenship": "France", 
+    "content": "He once worked with an (as he called it) demon, actually a being from another planet. With him, he fought against Captain America and Spider-Man.", 
+    "durability": 1, 
+    "education": "Military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales of Suspense #75\n", 
+    "groupaffiliation": [
+        "Formerly Thunderbolts Army", 
+        "Batroc\u2019s Brigade", 
+        "former employed by the Red Skull and Obadiah Stane"
+    ], 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Batroc", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Batroc (daughter, full name unrevealed)", 
+    "occupation": [
+        "Mercenary", 
+        "former soldier"
+    ], 
+    "placeofbirth": [
+        "Marseilles", 
+        "France"
+    ], 
+    "powers": "None", 
+    "realname": "Georges Batroc", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 225
 }

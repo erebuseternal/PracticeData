@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Unrevealed", 
-            "citizenship": "The Negative Zone", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "He appeared on his throne in the shadows (Warlock Vol.2, #1 1998)\n", 
-            "groupaffiliation": [
-                "He allied himself with Annihilus", 
-                "Blastaar and a group of unknown alien minions"
-            ], 
-            "hair": "None\n", 
-            "id": "Syphonn", 
-            "identity": "He is unknown to the inhabitants of Earth.", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Warlord", 
-                "Conqueror"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "An Unknown planet in the Negative Zone.", 
-            "powers": "Syphonn is a being with the power to animate the tissue of dead beings, and he has shown that he can control living beings that were once dead. He can absorb energy to empower himself. He can also generate deadly, life-draining energy spikes from his hands.", 
-            "realname": "Unrevealed", 
-            "significantissues": "The story of Syphonn takes place in (Warlock #1-4, 1998-1999)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Unrevealed", 
+    "citizenship": "The Negative Zone", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "He appeared on his throne in the shadows (Warlock Vol.2, #1 1998)\n", 
+    "groupaffiliation": [
+        "He allied himself with Annihilus", 
+        "Blastaar and a group of unknown alien minions"
+    ], 
+    "hair": "None\n", 
+    "id": "Syphonn", 
+    "identity": "He is unknown to the inhabitants of Earth.", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Warlord", 
+        "Conqueror"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "An Unknown planet in the Negative Zone.", 
+    "powers": "Syphonn is a being with the power to animate the tissue of dead beings, and he has shown that he can control living beings that were once dead. He can absorb energy to empower himself. He can also generate deadly, life-draining energy spikes from his hands.", 
+    "realname": "Unrevealed", 
+    "significantissues": "The story of Syphonn takes place in (Warlock #1-4, 1998-1999)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

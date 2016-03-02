@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Scientist Supreme", 
-                "\"Floating -Man\""
-            ], 
-            "citizenship": "The planet Yann in the Geuliscwarz System of an unidentified dimension", 
-            "content": "Developing enough mystic ability to reach Earth, Yandroth used both science and magic to create Omegatron, an artificial intelligence capable of detonating Earth's nuclear stockpiles; Yandroth intended to channel the energies of Earth's destruction and, following his physical death, be reborn in his own dimension with a new omnipotent body. Yandroth mocked Strange with his knowledge before succumbing to self-inflicted death, but Strange, newly allied with the Hulk and the Sub-Mariner as the Defenders, prevented Omegatran's full activation. Unable to destroy Yandroth's creation, Strange cast a time-manipulating spell to prevent it from reaching activation point. Days later, Omegatron reactivated when Strange's spell weakened, even assuming gigantic humanoid form, but Defenders Hulk (Bruce Banner), Sub-Mariner, Valkyrie and their ally Namorita again deactivated it.Due to his Yannian nature, Yandroth survived in astral form. Eventually he took possession of the chemist Stephanie Doral, whose brain patterns chanced to be identical to his own, but she overwhelmed his consciousness and, using his genius to build advance weaponry, mentally controlled Defenders Hulk, Nighthawk, Valkyrie, Hellcat and Clea. Strange manipulated her into overtaxing her new powers, and Yandroth's psyche was driven out. Days later, veterinarian Jeff Colt became linked to Omegatron and obtained superhuman powers, inadvertently threatening to fully activate it, but Strange served his connection and restored Omegatron to inertness.", 
-            "durability": 1, 
-            "education": "Ph.D in physics (extradimensional equivalent)", 
-            "energy": 1, 
-            "eyes": "Grey; (Donal) blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #164 (1968)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly Masters of the Mental Arts"
-            ], 
-            "hair": "None; (Donal) brown\n", 
-            "height": 72, 
-            "id": "Yandroth", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Would-be conqueror", 
-                "former planetary ruler", 
-                "scientist"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "He can manipulate mystic energy for various effects, including levitation and mind-bolts.", 
-            "realname": "Yandroth", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": [
+        "Scientist Supreme", 
+        "\"Floating -Man\""
+    ], 
+    "citizenship": "The planet Yann in the Geuliscwarz System of an unidentified dimension", 
+    "content": "Developing enough mystic ability to reach Earth, Yandroth used both science and magic to create Omegatron, an artificial intelligence capable of detonating Earth's nuclear stockpiles; Yandroth intended to channel the energies of Earth's destruction and, following his physical death, be reborn in his own dimension with a new omnipotent body. Yandroth mocked Strange with his knowledge before succumbing to self-inflicted death, but Strange, newly allied with the Hulk and the Sub-Mariner as the Defenders, prevented Omegatran's full activation. Unable to destroy Yandroth's creation, Strange cast a time-manipulating spell to prevent it from reaching activation point. Days later, Omegatron reactivated when Strange's spell weakened, even assuming gigantic humanoid form, but Defenders Hulk (Bruce Banner), Sub-Mariner, Valkyrie and their ally Namorita again deactivated it.Due to his Yannian nature, Yandroth survived in astral form. Eventually he took possession of the chemist Stephanie Doral, whose brain patterns chanced to be identical to his own, but she overwhelmed his consciousness and, using his genius to build advance weaponry, mentally controlled Defenders Hulk, Nighthawk, Valkyrie, Hellcat and Clea. Strange manipulated her into overtaxing her new powers, and Yandroth's psyche was driven out. Days later, veterinarian Jeff Colt became linked to Omegatron and obtained superhuman powers, inadvertently threatening to fully activate it, but Strange served his connection and restored Omegatron to inertness.", 
+    "durability": 1, 
+    "education": "Ph.D in physics (extradimensional equivalent)", 
+    "energy": 1, 
+    "eyes": "Grey; (Donal) blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #164 (1968)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly Masters of the Mental Arts"
+    ], 
+    "hair": "None; (Donal) brown\n", 
+    "height": 72, 
+    "id": "Yandroth", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Would-be conqueror", 
+        "former planetary ruler", 
+        "scientist"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "He can manipulate mystic energy for various effects, including levitation and mind-bolts.", 
+    "realname": "Yandroth", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

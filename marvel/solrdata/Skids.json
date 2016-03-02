@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Before the evil mutants could take them in, a mob of humans attacked the Freedom Force. In the confusion, Skids and Rusty escaped. She tried to get him to the safety of the Morlocks, but the Freedom Force caught up with them again, this time in the sewers beneath New York. Fortunately, the young mutants were saved by the timely arrival of the original X-Factor. After a brief skirmish, Freedom Force retreated.Skids and Rusty began to learn more about their powers with X-Factor\u2019s mentorship, becoming the first of several X-Factor \u201ctrainees\u201d as well as developing a romantic relationship. They shared other adventures alongside the rest of the trainees, at one point calling themselves the X-Terminators. In this capacity, the team helped stop a demonic invasion of New York.Eventually, X-Factor was disbanded and most of their trainees were inducted into the membership of the New Mutants. Rusty and Skids, however, learned instead that Freedom Force were taking mutant infants that were abducting during the demonic invasion into government custody. They tried to save the children but were imprisoned. The other New Mutants were unable to rescue their friends due to their concurrent adventures.Rusty was able to break himself and Skids out of prison, in order to prevent the Vulture from releasing another villain, Nitro, from captivity. The couple were returned to custody, however.A mutant terrorist group, the Mutant Liberation Front, took notice of Rusty and Skids and freed them. In the process, they had a brief run-in with the Cable, who was also trying to rescue the couple at the same time. For reasons of their own, the couple voluntarily joined the Front and served with them for a brief time.Rusty and Skids were kidnapped, however, by the Acolytes of Magneto when that team of self-styled mutant saviors attacked and decimated the ranks of the Front. The Acolytes took the couple to the orbiting space-station Avalon and inducted them into their group. Later, however, Holocaust attacked the Acolytes and destroyed their space station headquarters. Rusty Collins was killed and Skids was injured. Holocaust was stopped by the X-Men, and Skids was taken to the X-Men's mansion for medical attention. Upon recuperation, she left the mansion without being noticed.Skids became a college student in Boulder, Colorado, studying biological sciences. She was eventually contacted by her friends of the New Mutants who had long since become X-Force, but they were soon all attacked by Reignfire and his incarnation of the Mutant Liberation Front. During the adventure, Skids\u2019 force field disrupted the teleportation abilities of Locus, causing both of them to be caught in a trans-spatial backlash which deposited them in the Balkan country of Latveria. Skids and Locus were then captured by an age-old sorceress named Pandemonia, the self-styled Queen of Chaos, who sought to recruit mutants into her own personal army. With the assistance of the young sorceress Jennifer Kale, X-Force managed to defeat Pandemonia and rescue their friends, whereupon Skids returned to university life.", 
-            "durability": 6, 
-            "education": "Some college", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "X-Factor #7 (1986)\n", 
-            "groupaffiliation": [
-                "Formerly  S.H.I.E.L.D.", 
-                "Morlocks", 
-                "198", 
-                "New Mutants", 
-                "X-Terminators/ X-Factor (trainee)", 
-                "Acolytes", 
-                "Mutant Liberation Front", 
-                "X-Corporation"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 65, 
-            "id": "Skids", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Bill Blevins (father), Matilda Blevins (mother, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former terrorist"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Skids can create protective force fields around herself and others. The force fields are also frictionless which allows her to slide across it with ease.", 
-            "realname": "Sally Blevins", 
-            "speed": 3, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 115
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Before the evil mutants could take them in, a mob of humans attacked the Freedom Force. In the confusion, Skids and Rusty escaped. She tried to get him to the safety of the Morlocks, but the Freedom Force caught up with them again, this time in the sewers beneath New York. Fortunately, the young mutants were saved by the timely arrival of the original X-Factor. After a brief skirmish, Freedom Force retreated.Skids and Rusty began to learn more about their powers with X-Factor\u2019s mentorship, becoming the first of several X-Factor \u201ctrainees\u201d as well as developing a romantic relationship. They shared other adventures alongside the rest of the trainees, at one point calling themselves the X-Terminators. In this capacity, the team helped stop a demonic invasion of New York.Eventually, X-Factor was disbanded and most of their trainees were inducted into the membership of the New Mutants. Rusty and Skids, however, learned instead that Freedom Force were taking mutant infants that were abducting during the demonic invasion into government custody. They tried to save the children but were imprisoned. The other New Mutants were unable to rescue their friends due to their concurrent adventures.Rusty was able to break himself and Skids out of prison, in order to prevent the Vulture from releasing another villain, Nitro, from captivity. The couple were returned to custody, however.A mutant terrorist group, the Mutant Liberation Front, took notice of Rusty and Skids and freed them. In the process, they had a brief run-in with the Cable, who was also trying to rescue the couple at the same time. For reasons of their own, the couple voluntarily joined the Front and served with them for a brief time.Rusty and Skids were kidnapped, however, by the Acolytes of Magneto when that team of self-styled mutant saviors attacked and decimated the ranks of the Front. The Acolytes took the couple to the orbiting space-station Avalon and inducted them into their group. Later, however, Holocaust attacked the Acolytes and destroyed their space station headquarters. Rusty Collins was killed and Skids was injured. Holocaust was stopped by the X-Men, and Skids was taken to the X-Men's mansion for medical attention. Upon recuperation, she left the mansion without being noticed.Skids became a college student in Boulder, Colorado, studying biological sciences. She was eventually contacted by her friends of the New Mutants who had long since become X-Force, but they were soon all attacked by Reignfire and his incarnation of the Mutant Liberation Front. During the adventure, Skids\u2019 force field disrupted the teleportation abilities of Locus, causing both of them to be caught in a trans-spatial backlash which deposited them in the Balkan country of Latveria. Skids and Locus were then captured by an age-old sorceress named Pandemonia, the self-styled Queen of Chaos, who sought to recruit mutants into her own personal army. With the assistance of the young sorceress Jennifer Kale, X-Force managed to defeat Pandemonia and rescue their friends, whereupon Skids returned to university life.", 
+    "durability": 6, 
+    "education": "Some college", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "X-Factor #7 (1986)\n", 
+    "groupaffiliation": [
+        "Formerly  S.H.I.E.L.D.", 
+        "Morlocks", 
+        "198", 
+        "New Mutants", 
+        "X-Terminators/ X-Factor (trainee)", 
+        "Acolytes", 
+        "Mutant Liberation Front", 
+        "X-Corporation"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 65, 
+    "id": "Skids", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Bill Blevins (father), Matilda Blevins (mother, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former terrorist"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Skids can create protective force fields around herself and others. The force fields are also frictionless which allows her to slide across it with ease.", 
+    "realname": "Sally Blevins", 
+    "speed": 3, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 115
 }

@@ -1,54 +1,50 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "X-Force, led by a jealous Siryn, hunted Risque down to an amusement park called Wackyworld.  She nearly successfully evaded the group, but she reluctantly aided X-Force's Caliban when he seemed to suffer from a nervous system attack and was eventually captured.  Risque then led the group to Warpath's, who angrily rejected Risque upon the discovery of her deceptive ways.  Risque subsequently checked on Warpath, but he was on a mission for Sledge.  Later, Risque teamed with the Vanisher to steal the Heart of Pele, a sacred jewel, in Hawaii.  Risque was then impersonated by the goddess Pele, but the true Risque was discovered and reunited with X-Force, who no longer seemed to bear hard feelings on the troublesome mutant.Risque aided X-Force several other times, including battles against the ethereal Demon Bear where Risque and Warpath finally had a chance to reunite.Risque later joined X-Corporation, an international version of the X-Men created by Charles Xavier.  Stationed in Hong Kong alongside former X-Force member Domino, Risque was killed shortly after joining when the U-Men murdered her after she attempted to stop the selling of mutant body parts to be transplanted into regular humans.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 4, 
-            "eyes": "Brown\n", 
-            "fighting": 2, 
-            "firstappearance": "(In shadow) X-Force #51; (fully) X-Force #55 (1996)\n", 
-            "groupaffiliation": [
-                "Formerly X-Corporation", 
-                "X-Force ally"
-            ], 
-            "hair": "Black\n", 
-            "height": 67, 
-            "id": "Risque", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Unidentified Cuban father, Seminole mother, brothers, and grandparents", 
-            "occupation": [
-                "Thief", 
-                "mercenary"
-            ], 
-            "origin": "X-Force #65 (1997)", 
-            "placeofbirth": [
-                "Miami", 
-                "Florida"
-            ], 
-            "powers": "Risque could implode, compress, and disintegrate inorganic objects.  She could use her powers to project concussive blasts.  Her powers also hinted at low-level telekinesis.", 
-            "realname": "Gloria Dolores Mu\u00f1oz", 
-            "significantissues": [
-                "Sought out Warpath (X-Force #51, 1996)", 
-                "pulled Warpath away from X-Force's battle with Selene (X-Force #53, 1996)", 
-                "vacationed with Warpath in Florida (X-Force #55, 1996)", 
-                "vs Friends of Humanity (X-Force #56, 1996)", 
-                "confronted by Blob & Mimic in South Beach (X-Force #60, 1996)", 
-                "vs Blob & Mimic at nightclub, sedated Warpath (X-Force #65, 1997)", 
-                "evaded X-Force in Wackyworld, helped Caliban, left by Warpath (X-Force #66, 1997)", 
-                "tracked Warpath to Detroit, confronted Sledge (X-Force #69, 1997)", 
-                "impersonated by Pele (X-Force #81, 1998)", 
-                "alongside X-Force, vs Demon Bear, traveled to alternate reality with Warpath, helped defeat alternate Moonstar (X-Force #99-100, 2000)", 
-                "revealed to have joined X-Corporation, reportedly murdered by U-Men (New X-Men 2001 Annual, 2001)", 
-                "return (X-Force #21, 2009)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 127
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "X-Force, led by a jealous Siryn, hunted Risque down to an amusement park called Wackyworld.  She nearly successfully evaded the group, but she reluctantly aided X-Force's Caliban when he seemed to suffer from a nervous system attack and was eventually captured.  Risque then led the group to Warpath's, who angrily rejected Risque upon the discovery of her deceptive ways.  Risque subsequently checked on Warpath, but he was on a mission for Sledge.  Later, Risque teamed with the Vanisher to steal the Heart of Pele, a sacred jewel, in Hawaii.  Risque was then impersonated by the goddess Pele, but the true Risque was discovered and reunited with X-Force, who no longer seemed to bear hard feelings on the troublesome mutant.Risque aided X-Force several other times, including battles against the ethereal Demon Bear where Risque and Warpath finally had a chance to reunite.Risque later joined X-Corporation, an international version of the X-Men created by Charles Xavier.  Stationed in Hong Kong alongside former X-Force member Domino, Risque was killed shortly after joining when the U-Men murdered her after she attempted to stop the selling of mutant body parts to be transplanted into regular humans.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 4, 
+    "eyes": "Brown\n", 
+    "fighting": 2, 
+    "firstappearance": "(In shadow) X-Force #51; (fully) X-Force #55 (1996)\n", 
+    "groupaffiliation": [
+        "Formerly X-Corporation", 
+        "X-Force ally"
+    ], 
+    "hair": "Black\n", 
+    "height": 67, 
+    "id": "Risque", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Unidentified Cuban father, Seminole mother, brothers, and grandparents", 
+    "occupation": [
+        "Thief", 
+        "mercenary"
+    ], 
+    "origin": "X-Force #65 (1997)", 
+    "placeofbirth": [
+        "Miami", 
+        "Florida"
+    ], 
+    "powers": "Risque could implode, compress, and disintegrate inorganic objects.  She could use her powers to project concussive blasts.  Her powers also hinted at low-level telekinesis.", 
+    "realname": "Gloria Dolores Mu\u00f1oz", 
+    "significantissues": [
+        "Sought out Warpath (X-Force #51, 1996)", 
+        "pulled Warpath away from X-Force's battle with Selene (X-Force #53, 1996)", 
+        "vacationed with Warpath in Florida (X-Force #55, 1996)", 
+        "vs Friends of Humanity (X-Force #56, 1996)", 
+        "confronted by Blob & Mimic in South Beach (X-Force #60, 1996)", 
+        "vs Blob & Mimic at nightclub, sedated Warpath (X-Force #65, 1997)", 
+        "evaded X-Force in Wackyworld, helped Caliban, left by Warpath (X-Force #66, 1997)", 
+        "tracked Warpath to Detroit, confronted Sledge (X-Force #69, 1997)", 
+        "impersonated by Pele (X-Force #81, 1998)", 
+        "alongside X-Force, vs Demon Bear, traveled to alternate reality with Warpath, helped defeat alternate Moonstar (X-Force #99-100, 2000)", 
+        "revealed to have joined X-Corporation, reportedly murdered by U-Men (New X-Men 2001 Annual, 2001)", 
+        "return (X-Force #21, 2009)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 127
 }

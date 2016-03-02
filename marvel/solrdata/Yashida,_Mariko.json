@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Japan", 
-            "content": "However, Mariko was forced by her father to marry one of his criminal associates, Noburu-Hideki, a cruel man who beat her. When Wolverine learned of the abuse, she refused to leave with him, feeling duty-bound to obey her father\u2019s wishes. Wolverine was subsequently drugged and challenged by Shingen to a duel, during which Mariko was unaware that Shingen was actually trying to kill Wolverine and was shocked when Wolverine retaliated with deadly force. Noticing her dismay, Wolverine lost heart and was defeated.Shingen then ordered his operative Yukio to slay a rival crimelord, Katsuyori, who was himself intending to kill Hideki. Wolverine, having accompanied Yukio, battled the assassins in a berserker rage. Horrified, Mariko fled back to her father\u2019s stronghold. Repulsed by Shingen\u2019s crimes, she vowed to kill him to prevent further dishonor from falling on Clan Yashida. When Wolverine attacked the stronghold, Hideki attempted to flee with Mariko, threatening to kill her unless he was allowed to escape. Mariko was saved by Yukio who slew Hideki. Wolverine then slew Shingen in a savage duel, making Mariko head of Clan Yashida, and the two reunited lovers announced their engagement.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men #118 (1979)\n", 
-            "groupaffiliation": "Formerly Clan Yashida (oyabun)", 
-            "hair": "Black\n", 
-            "height": 60, 
-            "id": "Yashida,_Mariko", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Shingen Harada (father, deceased), Noburu-Hideki (husband, deceased), Kenuichio Harada (Silver Samurai, half-brother), Shiro Yoshida (Sunfire, cousin), Saburo Yashida (cousin, deceased), Tomo Yashida (cousin, deceased), Leyu Yoshida (Sunpyre, cousin, deceased), Amiko Kobayashi (foster daughter)", 
-            "occupation": "Former head of Clan Yashida", 
-            "origin": [
-                "X-Men #118-120 (1979)", 
-                "Wolverine #1-4 (1982)"
-            ], 
-            "placeofbirth": [
-                "Agarashima", 
-                "Japan"
-            ], 
-            "powers": "None", 
-            "realname": "Mariko Yashida", 
-            "significantissues": [
-                "First met Wolverine, became attracted to him (X-Men #118-120, 1979)", 
-                "forced into marriage, protected by Wolverine, became engaged to him (Wolverine #1-4, 1982)", 
-                "influenced by Mastermind/Jason Wyngarde to cancel wedding (Uncanny X-Men #173, 1983)", 
-                "reconciled with Wolverine, vowed to restore family honor (Uncanny X-Men #176, 1983)", 
-                "led Clan Yashida against the Hand, faced challenge for leadership, poisoned by the Hand, given a quick death by Wolverine (Wolverine #55-57, 1992)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 100
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Japan", 
+    "content": "However, Mariko was forced by her father to marry one of his criminal associates, Noburu-Hideki, a cruel man who beat her. When Wolverine learned of the abuse, she refused to leave with him, feeling duty-bound to obey her father\u2019s wishes. Wolverine was subsequently drugged and challenged by Shingen to a duel, during which Mariko was unaware that Shingen was actually trying to kill Wolverine and was shocked when Wolverine retaliated with deadly force. Noticing her dismay, Wolverine lost heart and was defeated.Shingen then ordered his operative Yukio to slay a rival crimelord, Katsuyori, who was himself intending to kill Hideki. Wolverine, having accompanied Yukio, battled the assassins in a berserker rage. Horrified, Mariko fled back to her father\u2019s stronghold. Repulsed by Shingen\u2019s crimes, she vowed to kill him to prevent further dishonor from falling on Clan Yashida. When Wolverine attacked the stronghold, Hideki attempted to flee with Mariko, threatening to kill her unless he was allowed to escape. Mariko was saved by Yukio who slew Hideki. Wolverine then slew Shingen in a savage duel, making Mariko head of Clan Yashida, and the two reunited lovers announced their engagement.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men #118 (1979)\n", 
+    "groupaffiliation": "Formerly Clan Yashida (oyabun)", 
+    "hair": "Black\n", 
+    "height": 60, 
+    "id": "Yashida,_Mariko", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Shingen Harada (father, deceased), Noburu-Hideki (husband, deceased), Kenuichio Harada (Silver Samurai, half-brother), Shiro Yoshida (Sunfire, cousin), Saburo Yashida (cousin, deceased), Tomo Yashida (cousin, deceased), Leyu Yoshida (Sunpyre, cousin, deceased), Amiko Kobayashi (foster daughter)", 
+    "occupation": "Former head of Clan Yashida", 
+    "origin": [
+        "X-Men #118-120 (1979)", 
+        "Wolverine #1-4 (1982)"
+    ], 
+    "placeofbirth": [
+        "Agarashima", 
+        "Japan"
+    ], 
+    "powers": "None", 
+    "realname": "Mariko Yashida", 
+    "significantissues": [
+        "First met Wolverine, became attracted to him (X-Men #118-120, 1979)", 
+        "forced into marriage, protected by Wolverine, became engaged to him (Wolverine #1-4, 1982)", 
+        "influenced by Mastermind/Jason Wyngarde to cancel wedding (Uncanny X-Men #173, 1983)", 
+        "reconciled with Wolverine, vowed to restore family honor (Uncanny X-Men #176, 1983)", 
+        "led Clan Yashida against the Hand, faced challenge for leadership, poisoned by the Hand, given a quick death by Wolverine (Wolverine #55-57, 1992)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 100
 }

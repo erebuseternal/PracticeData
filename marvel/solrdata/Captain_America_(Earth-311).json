@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Rojhaz", 
-            "citizenship": "U.S.A.", 
-            "content": "When Virginia was 8 years old, she wandered off with her friends to the marshes where she discovered a strange white light glittering in the air. When she touched it she turned into a white fawn and ran off. Rojhaz hunted the fawn and waited until nightfall when Virginia turned back to herself once again. Rojhaz and Virginia decided to keep this a secret from the rest of the colonists so as not to startle them. Unfortunately Virginia had changed into animals twice more since then but each time Rojhaz found her and brought her back to safety. Eventually Virginia was sent to England by her father to ask for aid from the Queen for the colonists. Rojhaz accompanied her to ensure her safety. When they arrived in England, Peter Parquagh was sent to escort Virginia to the Queen, but Rojhaz refused to let go alone. Arriving at he Queen\u2019s court, Rojhaz was asked to leave his weapons behind while in the presence of the Queen. However, an assassin of  Otto von Doom\u2019s kidnapped Virginia and flew off with her. Rojhaz picked up a tray and threw it into the sky, knocking her abductor from the sky. However, unnoticed by the others, Virginia had changed into a gryphon. Climbing to the roof, Rojhaz met Dr. Strange who gave him a net to capture Virginia with. Together, they managed to successfully capture her and return her to normal. While attending to Virginia, Rojhaz told Strange about her transformations and the illnesses she usually felt afterwards. In return, Strange told Rojhaz that the source of the strange weather affecting the world was in this room. Rojhaz barely left Virginia\u2019s side until the moment she woke up.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "1602 # 1 (2003)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Blond\n", 
-            "height": 74, 
-            "id": "Captain_America_(Earth-311)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Guardian to Virginia Dare", 
-            "placeofbirth": [
-                "New York", 
-                "New York"
-            ], 
-            "powers": "The super-soldier serum he ingested has enhanced his bodily functions to the peak of human effciency making him stronger, faster and more durable than a normal person. He also remained youthful looking due to the serum.", 
-            "realname": "Steve Rogers", 
-            "significantissues": "Sent back to his own time (1602 # 8, 2003)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-460 formerly Earth-311", 
-            "weight": 240
-        }
-    }
+    "aliases": "Rojhaz", 
+    "citizenship": "U.S.A.", 
+    "content": "When Virginia was 8 years old, she wandered off with her friends to the marshes where she discovered a strange white light glittering in the air. When she touched it she turned into a white fawn and ran off. Rojhaz hunted the fawn and waited until nightfall when Virginia turned back to herself once again. Rojhaz and Virginia decided to keep this a secret from the rest of the colonists so as not to startle them. Unfortunately Virginia had changed into animals twice more since then but each time Rojhaz found her and brought her back to safety. Eventually Virginia was sent to England by her father to ask for aid from the Queen for the colonists. Rojhaz accompanied her to ensure her safety. When they arrived in England, Peter Parquagh was sent to escort Virginia to the Queen, but Rojhaz refused to let go alone. Arriving at he Queen\u2019s court, Rojhaz was asked to leave his weapons behind while in the presence of the Queen. However, an assassin of  Otto von Doom\u2019s kidnapped Virginia and flew off with her. Rojhaz picked up a tray and threw it into the sky, knocking her abductor from the sky. However, unnoticed by the others, Virginia had changed into a gryphon. Climbing to the roof, Rojhaz met Dr. Strange who gave him a net to capture Virginia with. Together, they managed to successfully capture her and return her to normal. While attending to Virginia, Rojhaz told Strange about her transformations and the illnesses she usually felt afterwards. In return, Strange told Rojhaz that the source of the strange weather affecting the world was in this room. Rojhaz barely left Virginia\u2019s side until the moment she woke up.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "1602 # 1 (2003)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Blond\n", 
+    "height": 74, 
+    "id": "Captain_America_(Earth-311)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Guardian to Virginia Dare", 
+    "placeofbirth": [
+        "New York", 
+        "New York"
+    ], 
+    "powers": "The super-soldier serum he ingested has enhanced his bodily functions to the peak of human effciency making him stronger, faster and more durable than a normal person. He also remained youthful looking due to the serum.", 
+    "realname": "Steve Rogers", 
+    "significantissues": "Sent back to his own time (1602 # 8, 2003)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-460 formerly Earth-311", 
+    "weight": 240
 }

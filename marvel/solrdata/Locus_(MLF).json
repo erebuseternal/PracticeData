@@ -1,22 +1,18 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Locus", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "X-Force #27\n", 
-            "groupaffiliation": "Mutant Liberation Front", 
-            "id": "Locus_(MLF)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "occupation": "Former terrorist", 
-            "powers": "Teleportation, self-levitation", 
-            "realname": "Unknown", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Locus", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "X-Force #27\n", 
+    "groupaffiliation": "Mutant Liberation Front", 
+    "id": "Locus_(MLF)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "occupation": "Former terrorist", 
+    "powers": "Teleportation, self-levitation", 
+    "realname": "Unknown", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

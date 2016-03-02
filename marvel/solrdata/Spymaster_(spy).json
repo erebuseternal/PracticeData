@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Ted Calloway", 
-                "Jake Jordan", 
-                "Anthony Stark", 
-                "Harmon Taylor"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Iron Man #33 (1968)\n", 
-            "groupaffiliation": [
-                "Espionage Elite", 
-                "former operative of Justin Hammer"
-            ], 
-            "hair": "Blond\n", 
-            "height": 72, 
-            "id": "Spymaster_(spy)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Industrial spy", 
-                "saboteur", 
-                "former student of Taskmaster"
-            ], 
-            "origin": "Iron Man #33 (1968)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "significantissues": "First appearance (Iron Man #33, 1968), final appearance (Iron Man #220, 1968)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 195
-        }
-    }
+    "aliases": [
+        "Ted Calloway", 
+        "Jake Jordan", 
+        "Anthony Stark", 
+        "Harmon Taylor"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Iron Man #33 (1968)\n", 
+    "groupaffiliation": [
+        "Espionage Elite", 
+        "former operative of Justin Hammer"
+    ], 
+    "hair": "Blond\n", 
+    "height": 72, 
+    "id": "Spymaster_(spy)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Industrial spy", 
+        "saboteur", 
+        "former student of Taskmaster"
+    ], 
+    "origin": "Iron Man #33 (1968)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "significantissues": "First appearance (Iron Man #33, 1968), final appearance (Iron Man #220, 1968)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 195
 }

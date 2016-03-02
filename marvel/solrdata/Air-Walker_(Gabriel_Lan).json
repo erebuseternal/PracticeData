@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Nova Centurion", 
-                "the Archangel Gabriel"
-            ], 
-            "citizenship": "Planet Xandar", 
-            "content": "Mistakenly assumed to be the Archangel Gabriel upon first arriving on Earth, Air-Walker sent the world into chaos after sounding his Trumpet of Gabriel and proclaiming the imminent destruction of mankind. The Fantastic Four attempted to peacefully reason with him, but when Gabriel refused to listen, they resorted to force. Turning the city of New York against the heroes by telling the masses the way to avert their destruction was by killing the heroes, Air-Walker only delayed the inevitable confrontation as the Fantastic Four evaded angry mobs. Stronger than the Thing, unfazed by Human Torch's fire (including a near-nova flame), and unimpeded by Mister Fantastic's gadgets, Air-Walker appeared unstoppable until the Surfer witnessed the Fantastic Four's plight. The Surfer matched Gabriel's power and determination, but was paused when Gabriel told him of Galactus' intentions. The Surfer refused to return as herald, and Gabriel enveloped him in his Cape of Destiny, boasting no one had the power to escape the cape's grip. The Surfer did escape and destroyed the cape doing so. Air-Walker declared the cape was his source of power and life as he plummeted to the ground and was deactivated on impact.Gabriel's body was recovered by the Machinesmith, and his self-repair systems were activated. Once resurrected, he was spotted leaving the Machinesmith\u2019s lair by a young child, Kevin. Remembering his past encounter with the Silver Surfer and the Fantastic Four, he went to the Baxter Building to ask his enemies what transpired since he was offline. Taking Kevin with him, hoping the boy could enlighten him about his new environment, the Fantastic Four believed Kevin was a hostage and wanted to rescue him, but Air-Walker used his power to seal them within their headquarters. Discovering Galactus left Earth and abandoned him, Gabriel was enraged at being discarded and having his mind placed within an android shell without his consent. He created a cosmic storm, hoping to renew his conflict with the Surfer, but it was Thor who confronted Air-Walker after ending the tempest. Also thinking the boy to be a prisoner, Thor attacked but was defeated when Air-Walker smothered him within the Cape of Destiny and wrestled his enchanted hammer, Mjolnir, away from him, rendering Thor unconscious with it. Kevin believed Gabriel was a noble entity and inspired him to rethink his actions. Gabriel dropped Thor to the ground, but when he recovered, Thor hurled Mjolnir through the robot's chest, deactivating him. Firelord saw the televised battle and went to aid his old friend, attacking Thor. Calming himself, Firelord told Thor the tale of Gabriel Lan, and afterward buried Gabriel on an asteroid in Xandar\u2019s solar system.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #120 (1971, as android); Thor #306 (1981, true form)\n", 
-            "groupaffiliation": [
-                "Formerly Heralds of Galactus", 
-                "Xandarian Nova Corps"
-            ], 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Air-Walker_(Gabriel_Lan)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Former herald of Galactus", 
-                "Captain of Xandarian starship"
-            ], 
-            "origin": "Thor #306 (1981)", 
-            "placeofbirth": [
-                "Planet Xandar in the Tranta system", 
-                "Andromeda Galaxy"
-            ], 
-            "powers": "Air-Walker had been given a portion of the Power Cosmic, and with it he could absorb and manipulate cosmic energies for a variety of purposes. It gave him god-like strength, speed, durability, endurance and agility. Air-Walker could fire blasts of heat, concussive force, magnetism, anti-gravity, and electricity. Using his power at peak capacity, Air-Walker could function for months before succumbing to fatigue. He was immune to extreme temperature changes, most radiation and can survive in the vacuum of space indefinitely without food, water, or air as well as navigate hyperspace unaided. The Power Cosmic also granted him the ability to analyze and rearrange matter and energy. When entering planetary atmospheres, he would curtail his speed as to not cause devastating side effects. \nHe could manipulate the forces of nature, altering weather patterns, generate such states as rain or fog, produce winds of varying degrees and intensities up to hurricane force, raise or lower humidity and temperature, induce lightning or other electrical atmospheric phenomena, and dispense natural storms. Air-Walker could direct the path of certain atmospheric effects, such as bolts of lightning and could manipulate ocean currents by creating hurricanes and tidal waves. He also had \"Cosmic Awareness\" in the sense that he could detect various energy signatures throughout space.\n\nGabriel's android form could replicate all his original powers at approximately the same levels by channeling the cosmic energy through its fiery cloak, which acted as a receptor, into its cosmic cells. If drained, the cells could be recharged by an outside source. The automatic self-repair circuitry within its chest cavity would function as long as 35% of the total system was intact. Combined with the Power Cosmic, his android body could withstand large amounts of physical damage and possessed a homing beacon in tune with Galactus' worldship, Taa II.", 
-            "realname": "Gabriel Lan", 
-            "significantissues": [
-                "Air-Walker\u2019s first appearance, battled FF and Silver Surfer, was defeated and revealed to be a robot (Fantastic Four #120-121, 1971)", 
-                "battled Thor, robot was destroyed again, Firelord buried remains on an asteroid in Xandar system (Thor #305-306, 1981)", 
-                "Air-Walker robot was resurrected to aid all of Galactus\u2019 former heralds in battle against Morg, Air-Walker became herald to Galactus once again (Silver Surfer #72-75, 1992)", 
-                "Air-Walker was hunted by the forces of Annihilus, expired from injuries (Silver Surfer: Annihilation #1, 2006)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 240
-        }
-    }
+    "aliases": [
+        "Nova Centurion", 
+        "the Archangel Gabriel"
+    ], 
+    "citizenship": "Planet Xandar", 
+    "content": "Mistakenly assumed to be the Archangel Gabriel upon first arriving on Earth, Air-Walker sent the world into chaos after sounding his Trumpet of Gabriel and proclaiming the imminent destruction of mankind. The Fantastic Four attempted to peacefully reason with him, but when Gabriel refused to listen, they resorted to force. Turning the city of New York against the heroes by telling the masses the way to avert their destruction was by killing the heroes, Air-Walker only delayed the inevitable confrontation as the Fantastic Four evaded angry mobs. Stronger than the Thing, unfazed by Human Torch's fire (including a near-nova flame), and unimpeded by Mister Fantastic's gadgets, Air-Walker appeared unstoppable until the Surfer witnessed the Fantastic Four's plight. The Surfer matched Gabriel's power and determination, but was paused when Gabriel told him of Galactus' intentions. The Surfer refused to return as herald, and Gabriel enveloped him in his Cape of Destiny, boasting no one had the power to escape the cape's grip. The Surfer did escape and destroyed the cape doing so. Air-Walker declared the cape was his source of power and life as he plummeted to the ground and was deactivated on impact.Gabriel's body was recovered by the Machinesmith, and his self-repair systems were activated. Once resurrected, he was spotted leaving the Machinesmith\u2019s lair by a young child, Kevin. Remembering his past encounter with the Silver Surfer and the Fantastic Four, he went to the Baxter Building to ask his enemies what transpired since he was offline. Taking Kevin with him, hoping the boy could enlighten him about his new environment, the Fantastic Four believed Kevin was a hostage and wanted to rescue him, but Air-Walker used his power to seal them within their headquarters. Discovering Galactus left Earth and abandoned him, Gabriel was enraged at being discarded and having his mind placed within an android shell without his consent. He created a cosmic storm, hoping to renew his conflict with the Surfer, but it was Thor who confronted Air-Walker after ending the tempest. Also thinking the boy to be a prisoner, Thor attacked but was defeated when Air-Walker smothered him within the Cape of Destiny and wrestled his enchanted hammer, Mjolnir, away from him, rendering Thor unconscious with it. Kevin believed Gabriel was a noble entity and inspired him to rethink his actions. Gabriel dropped Thor to the ground, but when he recovered, Thor hurled Mjolnir through the robot's chest, deactivating him. Firelord saw the televised battle and went to aid his old friend, attacking Thor. Calming himself, Firelord told Thor the tale of Gabriel Lan, and afterward buried Gabriel on an asteroid in Xandar\u2019s solar system.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #120 (1971, as android); Thor #306 (1981, true form)\n", 
+    "groupaffiliation": [
+        "Formerly Heralds of Galactus", 
+        "Xandarian Nova Corps"
+    ], 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Air-Walker_(Gabriel_Lan)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Former herald of Galactus", 
+        "Captain of Xandarian starship"
+    ], 
+    "origin": "Thor #306 (1981)", 
+    "placeofbirth": [
+        "Planet Xandar in the Tranta system", 
+        "Andromeda Galaxy"
+    ], 
+    "powers": "Air-Walker had been given a portion of the Power Cosmic, and with it he could absorb and manipulate cosmic energies for a variety of purposes. It gave him god-like strength, speed, durability, endurance and agility. Air-Walker could fire blasts of heat, concussive force, magnetism, anti-gravity, and electricity. Using his power at peak capacity, Air-Walker could function for months before succumbing to fatigue. He was immune to extreme temperature changes, most radiation and can survive in the vacuum of space indefinitely without food, water, or air as well as navigate hyperspace unaided. The Power Cosmic also granted him the ability to analyze and rearrange matter and energy. When entering planetary atmospheres, he would curtail his speed as to not cause devastating side effects. \nHe could manipulate the forces of nature, altering weather patterns, generate such states as rain or fog, produce winds of varying degrees and intensities up to hurricane force, raise or lower humidity and temperature, induce lightning or other electrical atmospheric phenomena, and dispense natural storms. Air-Walker could direct the path of certain atmospheric effects, such as bolts of lightning and could manipulate ocean currents by creating hurricanes and tidal waves. He also had \"Cosmic Awareness\" in the sense that he could detect various energy signatures throughout space.\n\nGabriel's android form could replicate all his original powers at approximately the same levels by channeling the cosmic energy through its fiery cloak, which acted as a receptor, into its cosmic cells. If drained, the cells could be recharged by an outside source. The automatic self-repair circuitry within its chest cavity would function as long as 35% of the total system was intact. Combined with the Power Cosmic, his android body could withstand large amounts of physical damage and possessed a homing beacon in tune with Galactus' worldship, Taa II.", 
+    "realname": "Gabriel Lan", 
+    "significantissues": [
+        "Air-Walker\u2019s first appearance, battled FF and Silver Surfer, was defeated and revealed to be a robot (Fantastic Four #120-121, 1971)", 
+        "battled Thor, robot was destroyed again, Firelord buried remains on an asteroid in Xandar system (Thor #305-306, 1981)", 
+        "Air-Walker robot was resurrected to aid all of Galactus\u2019 former heralds in battle against Morg, Air-Walker became herald to Galactus once again (Silver Surfer #72-75, 1992)", 
+        "Air-Walker was hunted by the forces of Annihilus, expired from injuries (Silver Surfer: Annihilation #1, 2006)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 240
 }

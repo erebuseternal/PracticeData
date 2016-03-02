@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Dark Reign: Young Avengers #1 (2009)\n", 
-            "groupaffiliation": "Young Masters (formerly called Young Avengers)", 
-            "hair": "Blonde\n", 
-            "height": 0, 
-            "id": "Big_Zero", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Adventurer", 
-                "soldier"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "a fascist microscopic universe", 
-            "powers": "Big Zero has the ability to grow in size, the limits of which are unrevealed, but apparently as her size increases so does her strength and durability", 
-            "realname": "Amity Hunter", 
-            "significantissues": [
-                "First time in action and confronted by Young Avengers (Dark Reign: Young Avengers #1, 2009)", 
-                "defeated Stature in battle (Dark Reign: Young Avengers #2, 2009) partnered with Stature as part of recruiting session (Dark Reign: Young Avengers #3, 2009)", 
-                "declined membership into Young Avengers (Dark Reign: Young Avengers #4, 2009)", 
-                "rematch with Stature and escaped with teammates (Dark Reign: Young Avengers #5, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Variable\n"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Dark Reign: Young Avengers #1 (2009)\n", 
+    "groupaffiliation": "Young Masters (formerly called Young Avengers)", 
+    "hair": "Blonde\n", 
+    "height": 0, 
+    "id": "Big_Zero", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Adventurer", 
+        "soldier"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "a fascist microscopic universe", 
+    "powers": "Big Zero has the ability to grow in size, the limits of which are unrevealed, but apparently as her size increases so does her strength and durability", 
+    "realname": "Amity Hunter", 
+    "significantissues": [
+        "First time in action and confronted by Young Avengers (Dark Reign: Young Avengers #1, 2009)", 
+        "defeated Stature in battle (Dark Reign: Young Avengers #2, 2009) partnered with Stature as part of recruiting session (Dark Reign: Young Avengers #3, 2009)", 
+        "declined membership into Young Avengers (Dark Reign: Young Avengers #4, 2009)", 
+        "rematch with Stature and escaped with teammates (Dark Reign: Young Avengers #5, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Variable\n"
 }

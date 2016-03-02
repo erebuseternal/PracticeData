@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Princess Pearla", 
-                "Queen Pearla"
-            ], 
-            "citizenship": "Citizen of Mirwood", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #16 (1963)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Auburn\n", 
-            "height": 67, 
-            "id": "Pearla", 
-            "identity": [
-                "Known publicly on the planet Mirwood", 
-                "The general populace of Earth are unaware of her existence."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unnamed father (deceased)", 
-            "occupation": "Ruler of Mirwood", 
-            "placeofbirth": "Unknown location on Mirwood", 
-            "powers": "Pearla has not been shown to have any superhuman powers or strength.", 
-            "realname": "Pearla (last name unknown)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "Princess Pearla", 
+        "Queen Pearla"
+    ], 
+    "citizenship": "Citizen of Mirwood", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #16 (1963)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Auburn\n", 
+    "height": 67, 
+    "id": "Pearla", 
+    "identity": [
+        "Known publicly on the planet Mirwood", 
+        "The general populace of Earth are unaware of her existence."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unnamed father (deceased)", 
+    "occupation": "Ruler of Mirwood", 
+    "placeofbirth": "Unknown location on Mirwood", 
+    "powers": "Pearla has not been shown to have any superhuman powers or strength.", 
+    "realname": "Pearla (last name unknown)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

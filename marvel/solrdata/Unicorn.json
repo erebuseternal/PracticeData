@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Slovakia", 
-            "content": "The Unicorn later became a free agent, appearing as an agent to Count Nefaria claiming the need to raise funds for subversive activities. However, when Nefaria was defeated by the X-Men, the Unicorn escaped.After this, he returned to Slovakia, where his superiors performed experimental conditioning on him to augment his powers. In addition to superhuman powers, he found himself free of the psychological conditioning the government had given him. He fled, destroying the \u201chyper-activator\u201d device as he left. Unfortunately, he was also left with \"accelerated cellular deterioration,\" a side-effect of the experiment. He immediately tried to raise funds by posing as a scientist and fooling the United States Congress into giving him a grant, but he was exposed by Iron Man. He then sought help from another former Soviet villain, the Red Ghost, only to be used as a henchman.He then sought help from the Mandarin, but again was merely used as a pawn, once again against Iron Man. The Mandarin had used a device to mentally control the Unicorn in battle, and a later tussle with Iron Man actually trapped Mandarin\u2019s mind in the Unicorn\u2019s body, although they later recovered.The Unicorn next sought the Titanium Man, who would agreed to find a cure for Milos in return for various \"favors.\" Iron Man, during one such Titanium Man-\"favored\" battle, captured the Unicorn. He managed to cure the disease, but unfortunately, the process finally unhinged the Unicorn\u2019s already-unstable mind; he had become insane. He battled Iron Man again but escaped, walking into the waves of the sea, claiming the Titanium Man was waiting for him.At some point, Milos Masayrk was discovered by Valentin Shatalov, the then-current Crimson Dynamo, and recruited for a secret project: the \u201cRemont\u201d plan to restore Russia to the glory days of Stalin. The Unicorn, clearly insane and beyond rationality, was defeated by the People's Protectorate and placed in another Soviet lab, where his eyestalk/third eye was revealed. Going on a subsequent berserk rampage, he was defeated by Synthesizer and Titanium Man and impressed into the service of Shatalov\u2019s Remont-4.The Unicorn apparently recovered, and in his next appearance was wearing his headpiece again. He was recruited into the Stockpile, a group of super-powered villains hired by Morgan Stark, Tony Stark's \"evil cousin.\" After a battle with Iron Man (during the time when he was replaced by an alternate version of his younger self), the group was basically wiped out, with the Unicorn being the only member of the group who definitely escaped to parts unknown.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales of Suspense #56\n", 
-            "groupaffiliation": [
-                "Thunderbolts", 
-                "(formerly) Remont-4", 
-                "Stockpile", 
-                "(formerly) agent of Count Nefaria", 
-                "Red Ghost", 
-                "Mandarin", 
-                "Titanium Man"
-            ], 
-            "hair": "Red\n", 
-            "height": 0, 
-            "id": "Unicorn", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Criminal", 
-                "(formerly) espionage agent", 
-                "subversive"
-            ], 
-            "placeofbirth": [
-                "Bratislava", 
-                "Slovakia"
-            ], 
-            "powers": "The Unicorn's body underwent an experimental \"hyper-activator\" process that augmented his strength and endurance, and his body was toughened enough to resist powerful physical damage. \nWhile undergoing scientific examination, the Unicorn's helmet was lifted to reveal a stalk growing from his forehead sporting a third eye. The eye proved capable of projecting energies in a manner similar to his original harness, although it is uncertain to what extent he relies upon this eye or upon his equipment for his powers.", 
-            "realname": "Milos Masaryk", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Slovakia", 
+    "content": "The Unicorn later became a free agent, appearing as an agent to Count Nefaria claiming the need to raise funds for subversive activities. However, when Nefaria was defeated by the X-Men, the Unicorn escaped.After this, he returned to Slovakia, where his superiors performed experimental conditioning on him to augment his powers. In addition to superhuman powers, he found himself free of the psychological conditioning the government had given him. He fled, destroying the \u201chyper-activator\u201d device as he left. Unfortunately, he was also left with \"accelerated cellular deterioration,\" a side-effect of the experiment. He immediately tried to raise funds by posing as a scientist and fooling the United States Congress into giving him a grant, but he was exposed by Iron Man. He then sought help from another former Soviet villain, the Red Ghost, only to be used as a henchman.He then sought help from the Mandarin, but again was merely used as a pawn, once again against Iron Man. The Mandarin had used a device to mentally control the Unicorn in battle, and a later tussle with Iron Man actually trapped Mandarin\u2019s mind in the Unicorn\u2019s body, although they later recovered.The Unicorn next sought the Titanium Man, who would agreed to find a cure for Milos in return for various \"favors.\" Iron Man, during one such Titanium Man-\"favored\" battle, captured the Unicorn. He managed to cure the disease, but unfortunately, the process finally unhinged the Unicorn\u2019s already-unstable mind; he had become insane. He battled Iron Man again but escaped, walking into the waves of the sea, claiming the Titanium Man was waiting for him.At some point, Milos Masayrk was discovered by Valentin Shatalov, the then-current Crimson Dynamo, and recruited for a secret project: the \u201cRemont\u201d plan to restore Russia to the glory days of Stalin. The Unicorn, clearly insane and beyond rationality, was defeated by the People's Protectorate and placed in another Soviet lab, where his eyestalk/third eye was revealed. Going on a subsequent berserk rampage, he was defeated by Synthesizer and Titanium Man and impressed into the service of Shatalov\u2019s Remont-4.The Unicorn apparently recovered, and in his next appearance was wearing his headpiece again. He was recruited into the Stockpile, a group of super-powered villains hired by Morgan Stark, Tony Stark's \"evil cousin.\" After a battle with Iron Man (during the time when he was replaced by an alternate version of his younger self), the group was basically wiped out, with the Unicorn being the only member of the group who definitely escaped to parts unknown.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales of Suspense #56\n", 
+    "groupaffiliation": [
+        "Thunderbolts", 
+        "(formerly) Remont-4", 
+        "Stockpile", 
+        "(formerly) agent of Count Nefaria", 
+        "Red Ghost", 
+        "Mandarin", 
+        "Titanium Man"
+    ], 
+    "hair": "Red\n", 
+    "height": 0, 
+    "id": "Unicorn", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Criminal", 
+        "(formerly) espionage agent", 
+        "subversive"
+    ], 
+    "placeofbirth": [
+        "Bratislava", 
+        "Slovakia"
+    ], 
+    "powers": "The Unicorn's body underwent an experimental \"hyper-activator\" process that augmented his strength and endurance, and his body was toughened enough to resist powerful physical damage. \nWhile undergoing scientific examination, the Unicorn's helmet was lifted to reveal a stalk growing from his forehead sporting a third eye. The eye proved capable of projecting energies in a manner similar to his original harness, although it is uncertain to what extent he relies upon this eye or upon his equipment for his powers.", 
+    "realname": "Milos Masaryk", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

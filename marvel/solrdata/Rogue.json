@@ -1,74 +1,70 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Anna Raven", 
-                "Doctor Kellogg", 
-                "Mutate #9602", 
-                "Irene Adler", 
-                "Miss Smith"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Distraught over her lack of control, Rogue turned to her enemies, the X-Men. Convinced of her sincerity, Professor Xavier accepted her onto the team; however, it wasn't until Rogue risked her own life to save Wolverine's fianc\u00e9e Mariko Yashida that she began to gain her teammates' trust.Rogue and teammate Gambit fell in love despite her inability to safely touch him. Eventually, he and Rogue formed a splinter group with four other X-Men to search for Destiny's diaries, which predicted the future of mutant kind. During their quest, Rogue and Gambit were rendered powerless, and the pair seized the opportunity to pursue living a normal life together in the mutant-friendly community of Valle Soleada in California. Soon after, they came to the X-Men's aid against the mutant predator Elias Bogan and subsequently rejoined the team. Regaining her power of absorption thanks to the jumpstarting ability of her teammate Sage, Rogue set out on a personal quest to rediscover her past.Soon after, a woman named Blindspot revealed her shared past with Rogue, dating from before the formation of Mystique's Brotherhood of Evil Mutants, when they were a team, and Blindspot was the only one who could touch Rogue, due to the similar nature of their powers.Rogue and Sunfire were later defeated and captured by Mystique. In captivity, Sunfire forced Rogue to take his remaining power to avenge his immanent death. She has absorbed his powers, perhaps permanently.", 
-            "durability": 7, 
-            "education": "College-level courses at Xavier's School, partial law degree", 
-            "energy": 4, 
-            "eyes": "Green\n", 
-            "fighting": 6, 
-            "firstappearance": "Avengers Annual #10 (1981)\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly X.S.E", 
-                "Brotherhood of Evil Mutants"
-            ], 
-            "hair": "Brown with white streak\n", 
-            "height": 68, 
-            "id": "Rogue", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Owen (father), Priscilla (mother), Carrie (aunt), Raven Darkh\u00f6lme (Mystique, foster mother), Irene Adler (Destiny, foster mother),  Kurt Wagner (Nightcrawler, foster brother), Graydon Creed (foster brother, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former mechanic", 
-                "waitress", 
-                "terrorist"
-            ], 
-            "origin": [
-                "Rogue #2 (2004)", 
-                "Uncanny X-Men #185 (1984)", 
-                "Cable #87 (2001)", 
-                "Classic X-Men #44 (1990)"
-            ], 
-            "placeofbirth": [
-                "Caldecott County", 
-                "Mississippi"
-            ], 
-            "powers": "Rogue is a mutant who formerly possessed the ability to absorb the memories, abilities, personality, and outward physical characteristics of other beings through skin-to-skin contact. Such transfers lasted for 60 times longer than the contact time, with extended contact resulting in the possibility of permanent absorption. No upper limit had been determined for the number of beings Rogue could simultaneously imprint.\nUpon absorbing another's memories, Rogue also gained any associated emotional responses. Rogue was typically able to control such emotions, however absorbing psyches more powerful than her own resulted in Rogue\u2019s psyche being supplanted.\nAfter permanently absorbing the powers of Ms. Marvel, Rogue possessed an amalgamated mutant human/alien Kree physiology that granted her a degree of immunity to poisons, and a virtually indestructible body. Rogue also possessed Ms. Marvel's above normal reflexes and psychic \"seventh sense\" that enabled her to subconsciously anticipate an opponent\u2019s moves. Whilst Rogue possessed Ms. Marvel's psyche, her \"double\" consciousness made her resistant to telepathic probes from even the most powerful mind readers. She also gained Ms. Marvel's incredible strength, and supersonic flight.\nAfter absorbing the powers of an alien Skrull, Rogue began to spontaneously reactivate previously absorbed abilities. Rogue could also tap into the residual psychic energy of those she had imprinted to determine their status and to relive past events from their perspective.\n\nRecently, Rogue has seemingly permanently absorbed the fire-based powers of Sunfire.", 
-            "realname": "Anna Marie (full name unrevealed)", 
-            "significantissues": [
-                "Began criminal activities (Marvel Fanfare #60, 1992)", 
-                "permanently absorbed Ms. Marvel's powers (Marvel Super-Heroes #11, 1992)", 
-                "first encountered Avengers (Avengers Annual #10, 1981)", 
-                "first encountered X-Men (Uncanny X-Men #158, 1982)", 
-                "joined X-Men (Uncanny X-Men #171, 1983)", 
-                "Danvers' psyche first assumed control (Uncanny X-Men #182, 1984)", 
-                "separated from Danvers' psyche (Uncanny X-Men #269, 1990)", 
-                "brief romance with Magneto (Uncanny X-Men #274-275, 1991)", 
-                "began romance with Gambit (X-Men #4, 1992)", 
-                "made peace with Cody (Rogue #4, 1995)", 
-                "first kissed Gambit (X-Men #41, 1995)", 
-                "learned of Gambit's past, abandoned him in Antarctica (Uncanny X-Men #350-351, 1997-1998)", 
-                "imprinted Skrull (X-Men #107, 2000)", 
-                "joined X-Treme X-Men (X-Men #109, 2001)", 
-                "first able to control past imprints (X-Treme X-Men #13, 2002)", 
-                "lost powers (X-Treme X-Men #17-18, 2002)", 
-                "rejoined X-Men (X-Treme X-Men #46, 2004)", 
-                "first returned home, learned of mother's fate (Rogue #1-6, 2004)"
-            ], 
-            "speed": 2, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "Anna Raven", 
+        "Doctor Kellogg", 
+        "Mutate #9602", 
+        "Irene Adler", 
+        "Miss Smith"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Distraught over her lack of control, Rogue turned to her enemies, the X-Men. Convinced of her sincerity, Professor Xavier accepted her onto the team; however, it wasn't until Rogue risked her own life to save Wolverine's fianc\u00e9e Mariko Yashida that she began to gain her teammates' trust.Rogue and teammate Gambit fell in love despite her inability to safely touch him. Eventually, he and Rogue formed a splinter group with four other X-Men to search for Destiny's diaries, which predicted the future of mutant kind. During their quest, Rogue and Gambit were rendered powerless, and the pair seized the opportunity to pursue living a normal life together in the mutant-friendly community of Valle Soleada in California. Soon after, they came to the X-Men's aid against the mutant predator Elias Bogan and subsequently rejoined the team. Regaining her power of absorption thanks to the jumpstarting ability of her teammate Sage, Rogue set out on a personal quest to rediscover her past.Soon after, a woman named Blindspot revealed her shared past with Rogue, dating from before the formation of Mystique's Brotherhood of Evil Mutants, when they were a team, and Blindspot was the only one who could touch Rogue, due to the similar nature of their powers.Rogue and Sunfire were later defeated and captured by Mystique. In captivity, Sunfire forced Rogue to take his remaining power to avenge his immanent death. She has absorbed his powers, perhaps permanently.", 
+    "durability": 7, 
+    "education": "College-level courses at Xavier's School, partial law degree", 
+    "energy": 4, 
+    "eyes": "Green\n", 
+    "fighting": 6, 
+    "firstappearance": "Avengers Annual #10 (1981)\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly X.S.E", 
+        "Brotherhood of Evil Mutants"
+    ], 
+    "hair": "Brown with white streak\n", 
+    "height": 68, 
+    "id": "Rogue", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Owen (father), Priscilla (mother), Carrie (aunt), Raven Darkh\u00f6lme (Mystique, foster mother), Irene Adler (Destiny, foster mother),  Kurt Wagner (Nightcrawler, foster brother), Graydon Creed (foster brother, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former mechanic", 
+        "waitress", 
+        "terrorist"
+    ], 
+    "origin": [
+        "Rogue #2 (2004)", 
+        "Uncanny X-Men #185 (1984)", 
+        "Cable #87 (2001)", 
+        "Classic X-Men #44 (1990)"
+    ], 
+    "placeofbirth": [
+        "Caldecott County", 
+        "Mississippi"
+    ], 
+    "powers": "Rogue is a mutant who formerly possessed the ability to absorb the memories, abilities, personality, and outward physical characteristics of other beings through skin-to-skin contact. Such transfers lasted for 60 times longer than the contact time, with extended contact resulting in the possibility of permanent absorption. No upper limit had been determined for the number of beings Rogue could simultaneously imprint.\nUpon absorbing another's memories, Rogue also gained any associated emotional responses. Rogue was typically able to control such emotions, however absorbing psyches more powerful than her own resulted in Rogue\u2019s psyche being supplanted.\nAfter permanently absorbing the powers of Ms. Marvel, Rogue possessed an amalgamated mutant human/alien Kree physiology that granted her a degree of immunity to poisons, and a virtually indestructible body. Rogue also possessed Ms. Marvel's above normal reflexes and psychic \"seventh sense\" that enabled her to subconsciously anticipate an opponent\u2019s moves. Whilst Rogue possessed Ms. Marvel's psyche, her \"double\" consciousness made her resistant to telepathic probes from even the most powerful mind readers. She also gained Ms. Marvel's incredible strength, and supersonic flight.\nAfter absorbing the powers of an alien Skrull, Rogue began to spontaneously reactivate previously absorbed abilities. Rogue could also tap into the residual psychic energy of those she had imprinted to determine their status and to relive past events from their perspective.\n\nRecently, Rogue has seemingly permanently absorbed the fire-based powers of Sunfire.", 
+    "realname": "Anna Marie (full name unrevealed)", 
+    "significantissues": [
+        "Began criminal activities (Marvel Fanfare #60, 1992)", 
+        "permanently absorbed Ms. Marvel's powers (Marvel Super-Heroes #11, 1992)", 
+        "first encountered Avengers (Avengers Annual #10, 1981)", 
+        "first encountered X-Men (Uncanny X-Men #158, 1982)", 
+        "joined X-Men (Uncanny X-Men #171, 1983)", 
+        "Danvers' psyche first assumed control (Uncanny X-Men #182, 1984)", 
+        "separated from Danvers' psyche (Uncanny X-Men #269, 1990)", 
+        "brief romance with Magneto (Uncanny X-Men #274-275, 1991)", 
+        "began romance with Gambit (X-Men #4, 1992)", 
+        "made peace with Cody (Rogue #4, 1995)", 
+        "first kissed Gambit (X-Men #41, 1995)", 
+        "learned of Gambit's past, abandoned him in Antarctica (Uncanny X-Men #350-351, 1997-1998)", 
+        "imprinted Skrull (X-Men #107, 2000)", 
+        "joined X-Treme X-Men (X-Men #109, 2001)", 
+        "first able to control past imprints (X-Treme X-Men #13, 2002)", 
+        "lost powers (X-Treme X-Men #17-18, 2002)", 
+        "rejoined X-Men (X-Treme X-Men #46, 2004)", 
+        "first returned home, learned of mother's fate (Rogue #1-6, 2004)"
+    ], 
+    "speed": 2, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

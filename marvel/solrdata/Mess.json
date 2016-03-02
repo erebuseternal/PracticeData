@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "USA", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "World War Hulk: Gamma Corps #1 (2007)\n", 
-            "groupaffiliation": "Gamma Corps", 
-            "hair": "Red\n", 
-            "id": "Mess", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Johnny Martin (son, deceased), Steve and Patty (last names unrevealed, relatives)", 
-            "occupation": "Soldier holding the rank of Sergeant", 
-            "origin": "World War Hulk: Gamma Corps #2 and 4 (2007)", 
-            "placeofbirth": "Florida", 
-            "powers": "Nichole Martin agreed to have cloned parts from the Abomination grafted onto severely burned sections of her body, giving her super strength in one arm the limits of which are unknown. She has a superb healing factor in that arm as well as durability.", 
-            "realname": "Nichole Martin", 
-            "significantissues": [
-                "First appearance, origin, and recruitment into Gamma Corps leading to her ultimate confrontation with the Hulk and realization that Hulk was not to blame for her misfortune (World War Hulk: Gamma Corps #1-4, 2007)", 
-                "went from fugitive to Norman Osborn's bounty hunter (Dark Reign: Made Men #1, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "USA", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "World War Hulk: Gamma Corps #1 (2007)\n", 
+    "groupaffiliation": "Gamma Corps", 
+    "hair": "Red\n", 
+    "id": "Mess", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Johnny Martin (son, deceased), Steve and Patty (last names unrevealed, relatives)", 
+    "occupation": "Soldier holding the rank of Sergeant", 
+    "origin": "World War Hulk: Gamma Corps #2 and 4 (2007)", 
+    "placeofbirth": "Florida", 
+    "powers": "Nichole Martin agreed to have cloned parts from the Abomination grafted onto severely burned sections of her body, giving her super strength in one arm the limits of which are unknown. She has a superb healing factor in that arm as well as durability.", 
+    "realname": "Nichole Martin", 
+    "significantissues": [
+        "First appearance, origin, and recruitment into Gamma Corps leading to her ultimate confrontation with the Hulk and realization that Hulk was not to blame for her misfortune (World War Hulk: Gamma Corps #1-4, 2007)", 
+        "went from fugitive to Norman Osborn's bounty hunter (Dark Reign: Made Men #1, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Grand Inquisitor", 
-                "Brother Kray-Tor"
-            ], 
-            "citizenship": [
-                "Judan", 
-                "currently Soulworld"
-            ], 
-            "content": "Kray-Tor used his strange power to blast the floor beneath the feat of h golden warrior causing him to submerge into the floor. At that time Judge pronounced his verdict of the death sentence. The large Judge began to glow with a strange power that struck fear into Warlock. Sensing that his life could be extinguished by this being, Warlock absorbed the soul of the Judge into the Soul Gem. This caused a backlash of memories to attack the mind of Warlock that revealed the Judge was not acting out of any evil religious belief but a strong moral conviction that he was doing the right thing. Later when Warlock himself journeyed into the pocket dimension of the Soul Gem, Kray-Tor and Captain Autolycus were among of the group of inhabitants that welcomed him to this peaceful place.During the event known as the Infinity War the Silver Surfer and Drax the Destroyer traveled to Soulworld seeking the help of Adam Warlock against the universal menace known as Thanos of Titan. Warlock showed very little interest in their plight, which infuriated Drax who began slugging the golden warrior. Kray-Tor and the other inhabitants of Soulworld managed to calm Drax down. During the defeat of Thanos, the Magus which was a fraction of Warlock's own soul was exiled into Soulworld, but since he was only a fragment of a soul none of the other inhabitants even notice his presence, both Kray-Tor and Captain Autolycus walked through his ghost-like soul fragment.", 
-            "durability": 1, 
-            "education": "Formal education in the church's laws and doctrine", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #180 (1975)\n", 
-            "groupaffiliation": "Universal Church of Truth", 
-            "hair": "None\n", 
-            "id": "Kray-Tor", 
-            "identity": "The general inhabitants of the Earth are unaware of Kray-tor's existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "None known", 
-            "occupation": "Judge of the Universal Church of Truth", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Judge Kray-Tor possessed superhuman strength, and durability.", 
-            "realname": "Kray-tor", 
-            "significantissues": [
-                "Presided over the trial of the heretic Warlock (Strange Tales #180, 1975)", 
-                "Kray-Tor and Captain Autolycus were among of the group of inhabitants that welcomed Warlock to Soulworld (Avengers Annual #7, 1977 & Marvel Two-In-One Annual #2 \u2013 Part 2, 1977)", 
-                "Kray-Tor and the other inhabitants of Soulworld managed to calm Drax down ((Silver Surfer #48, 1991)", 
-                "Kray-Tor and Captain Autolycus walked through his ghost-like soul fragment of the Magus (Infinity War #6, 1992)", 
-                "Warlock used the righteous soul of Judge Kray-Tor to torment the evil Count Abyss (Warlock and the Infinity Watch #33, 1994)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Grand Inquisitor", 
+        "Brother Kray-Tor"
+    ], 
+    "citizenship": [
+        "Judan", 
+        "currently Soulworld"
+    ], 
+    "content": "Kray-Tor used his strange power to blast the floor beneath the feat of h golden warrior causing him to submerge into the floor. At that time Judge pronounced his verdict of the death sentence. The large Judge began to glow with a strange power that struck fear into Warlock. Sensing that his life could be extinguished by this being, Warlock absorbed the soul of the Judge into the Soul Gem. This caused a backlash of memories to attack the mind of Warlock that revealed the Judge was not acting out of any evil religious belief but a strong moral conviction that he was doing the right thing. Later when Warlock himself journeyed into the pocket dimension of the Soul Gem, Kray-Tor and Captain Autolycus were among of the group of inhabitants that welcomed him to this peaceful place.During the event known as the Infinity War the Silver Surfer and Drax the Destroyer traveled to Soulworld seeking the help of Adam Warlock against the universal menace known as Thanos of Titan. Warlock showed very little interest in their plight, which infuriated Drax who began slugging the golden warrior. Kray-Tor and the other inhabitants of Soulworld managed to calm Drax down. During the defeat of Thanos, the Magus which was a fraction of Warlock's own soul was exiled into Soulworld, but since he was only a fragment of a soul none of the other inhabitants even notice his presence, both Kray-Tor and Captain Autolycus walked through his ghost-like soul fragment.", 
+    "durability": 1, 
+    "education": "Formal education in the church's laws and doctrine", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #180 (1975)\n", 
+    "groupaffiliation": "Universal Church of Truth", 
+    "hair": "None\n", 
+    "id": "Kray-Tor", 
+    "identity": "The general inhabitants of the Earth are unaware of Kray-tor's existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "None known", 
+    "occupation": "Judge of the Universal Church of Truth", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Judge Kray-Tor possessed superhuman strength, and durability.", 
+    "realname": "Kray-tor", 
+    "significantissues": [
+        "Presided over the trial of the heretic Warlock (Strange Tales #180, 1975)", 
+        "Kray-Tor and Captain Autolycus were among of the group of inhabitants that welcomed Warlock to Soulworld (Avengers Annual #7, 1977 & Marvel Two-In-One Annual #2 \u2013 Part 2, 1977)", 
+        "Kray-Tor and the other inhabitants of Soulworld managed to calm Drax down ((Silver Surfer #48, 1991)", 
+        "Kray-Tor and Captain Autolycus walked through his ghost-like soul fragment of the Magus (Infinity War #6, 1992)", 
+        "Warlock used the righteous soul of Judge Kray-Tor to torment the evil Count Abyss (Warlock and the Infinity Watch #33, 1994)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

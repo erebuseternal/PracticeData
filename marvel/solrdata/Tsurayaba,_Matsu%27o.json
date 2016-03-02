@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Matta", 
-            "citizenship": "Japan (criminal record)", 
-            "content": "Tsurayaba subsequently forged an alliance with the terrorist organization Fenris and revived the Russian super-soldier Omega Red. Tsurayaba hoped to use Wolverine\u2019s memories and healing factor to stabilize the dangerous mutant, but the X-Men foiled his plans. He escaped and, cybernetically augmenting members of the Hand as the Death Touch Cult, attempted a takeover of Clan Yashida, led by Wolverine\u2019s lover Mariko Yashida. Wolverine and his allies intervened, but not before Tsurayaba had Yashida fatally poisoned. Wolverine swore a prolonged vengeance, gouging out Tsurayaba\u2019s right eye and promising to gradually disfigure him in future.Tsurayaba next surfaced at a criminal summit to divide the territories of the Kingpin of crime, but the bargaining was interrupted by costumed crimefighters Daredevil, Nomad, and the Punisher. Returning to Japan, Tsurayaba was confronted by Kwannon, whose consciousness inhabited Psylocke\u2019s original body. Now calling herself Revanche, she was dying of the mutant-killing Legacy Virus and had come seeking a swift death. The grieving Tsurayaba obliged her, and then threw himself back into his work. He led an alliance between the Hand and the terrorist organization Hydra in an attempted takeover of the island nation of Madripoor, but his plan was foiled once again by Wolverine and his allies.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Uncanny X-Men #255 (1989)\n", 
-            "groupaffiliation": [
-                "Hand (leader)", 
-                "Yakuza", 
-                "formerly Upstarts", 
-                "Death Touch Cult (leader)", 
-                "former ally of the Mandarin"
-            ], 
-            "hair": "Black\n", 
-            "height": 69, 
-            "id": "Tsurayaba,_Matsu%27o", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Crimelord", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed location in Japan", 
-            "powers": "None", 
-            "realname": "Matsu'o Tsurayaba", 
-            "significantissues": [
-                "Attempted to remake Psylocke as assassin, sought alliance with the Mandarin, defeated by Psylocke, Jubilee, & Wolverine (Uncanny X-Men #255-258, 1989-1990)", 
-                "allied with Fenris, revived Omega Red (X-Men #4-7, 1992)", 
-                "attacked Clan Yashida, poisoned Mariko Yashida (Wolverine #55-57, 1992)", 
-                "received vow of vengeance from Wolverine (Wolverine #60, 1992)", 
-                "confronted by Revanche, slew her (X-Men #31, 1994)", 
-                "led failed Hand/Hydra alliance against Madripoor (Wolverine #127-128, 1998)", 
-                "awaited Wolverine's arrival, planned suicide (Wolverine #175, 2002)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 182
-        }
-    }
+    "aliases": "Matta", 
+    "citizenship": "Japan (criminal record)", 
+    "content": "Tsurayaba subsequently forged an alliance with the terrorist organization Fenris and revived the Russian super-soldier Omega Red. Tsurayaba hoped to use Wolverine\u2019s memories and healing factor to stabilize the dangerous mutant, but the X-Men foiled his plans. He escaped and, cybernetically augmenting members of the Hand as the Death Touch Cult, attempted a takeover of Clan Yashida, led by Wolverine\u2019s lover Mariko Yashida. Wolverine and his allies intervened, but not before Tsurayaba had Yashida fatally poisoned. Wolverine swore a prolonged vengeance, gouging out Tsurayaba\u2019s right eye and promising to gradually disfigure him in future.Tsurayaba next surfaced at a criminal summit to divide the territories of the Kingpin of crime, but the bargaining was interrupted by costumed crimefighters Daredevil, Nomad, and the Punisher. Returning to Japan, Tsurayaba was confronted by Kwannon, whose consciousness inhabited Psylocke\u2019s original body. Now calling herself Revanche, she was dying of the mutant-killing Legacy Virus and had come seeking a swift death. The grieving Tsurayaba obliged her, and then threw himself back into his work. He led an alliance between the Hand and the terrorist organization Hydra in an attempted takeover of the island nation of Madripoor, but his plan was foiled once again by Wolverine and his allies.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Uncanny X-Men #255 (1989)\n", 
+    "groupaffiliation": [
+        "Hand (leader)", 
+        "Yakuza", 
+        "formerly Upstarts", 
+        "Death Touch Cult (leader)", 
+        "former ally of the Mandarin"
+    ], 
+    "hair": "Black\n", 
+    "height": 69, 
+    "id": "Tsurayaba,_Matsu%27o", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Crimelord", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed location in Japan", 
+    "powers": "None", 
+    "realname": "Matsu'o Tsurayaba", 
+    "significantissues": [
+        "Attempted to remake Psylocke as assassin, sought alliance with the Mandarin, defeated by Psylocke, Jubilee, & Wolverine (Uncanny X-Men #255-258, 1989-1990)", 
+        "allied with Fenris, revived Omega Red (X-Men #4-7, 1992)", 
+        "attacked Clan Yashida, poisoned Mariko Yashida (Wolverine #55-57, 1992)", 
+        "received vow of vengeance from Wolverine (Wolverine #60, 1992)", 
+        "confronted by Revanche, slew her (X-Men #31, 1994)", 
+        "led failed Hand/Hydra alliance against Madripoor (Wolverine #127-128, 1998)", 
+        "awaited Wolverine's arrival, planned suicide (Wolverine #175, 2002)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 182
 }

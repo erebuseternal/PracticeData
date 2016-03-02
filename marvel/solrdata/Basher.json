@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Basher presumably received some training from the Springdale Police Department before he dropped out of the force", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Speedball #5 (1989)\n", 
-            "groupaffiliation": "Formerly \"Speedball Revenge Squad\"", 
-            "hair": "Brown\n", 
-            "id": "Basher", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Professional criminal", 
-                "former diner employee", 
-                "rookie police officer"
-            ], 
-            "origin": "Speedball #5 (1989)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Basher hunted police officers until the interference of Speedball got him caught (Speedball #5, 1989)", 
-                "Basher teamed with other Springdale villains but was defeated a second time and sent to jail again (New Warriors #66, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Basher presumably received some training from the Springdale Police Department before he dropped out of the force", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Speedball #5 (1989)\n", 
+    "groupaffiliation": "Formerly \"Speedball Revenge Squad\"", 
+    "hair": "Brown\n", 
+    "id": "Basher", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Professional criminal", 
+        "former diner employee", 
+        "rookie police officer"
+    ], 
+    "origin": "Speedball #5 (1989)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Basher hunted police officers until the interference of Speedball got him caught (Speedball #5, 1989)", 
+        "Basher teamed with other Springdale villains but was defeated a second time and sent to jail again (New Warriors #66, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

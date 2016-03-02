@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "After a strung out vagrant known only as Freak stole the donation box from the Homeless Shelter and accidentally fell through the skylight of Professor Connors' lab, totally desperate for a fix he injected himself with syringes of what he thought was methamphetamine. It turned out that he had injected himself with serums of various animal stem cells, causing him to be engulfed into a large flesh like chrysalis. Carlie ran test on the chrysalis and discovered that it was highly corrosive and destroyed whatever it came into contact with, although when Freak emerged from the chrysalis lost its corrosive abilities and she was able to gather samples. Carlie would later share the samples with Professor Connors.", 
-            "durability": 1, 
-            "education": "B.S. in biochemistry, M.S. in forensic science, various NYPD Training Academy courses", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man #545 (2007)\n", 
-            "groupaffiliation": "NYPD", 
-            "hair": "Brown\n", 
-            "height": 68, 
-            "id": "Cooper,_Carlie", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Ray Cooper (father, deceased)", 
-            "occupation": "NYPD Forensic Specialist", 
-            "placeofbirth": [
-                "Jackson Heights", 
-                "Queens", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Carlie Cooper", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 134
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "After a strung out vagrant known only as Freak stole the donation box from the Homeless Shelter and accidentally fell through the skylight of Professor Connors' lab, totally desperate for a fix he injected himself with syringes of what he thought was methamphetamine. It turned out that he had injected himself with serums of various animal stem cells, causing him to be engulfed into a large flesh like chrysalis. Carlie ran test on the chrysalis and discovered that it was highly corrosive and destroyed whatever it came into contact with, although when Freak emerged from the chrysalis lost its corrosive abilities and she was able to gather samples. Carlie would later share the samples with Professor Connors.", 
+    "durability": 1, 
+    "education": "B.S. in biochemistry, M.S. in forensic science, various NYPD Training Academy courses", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man #545 (2007)\n", 
+    "groupaffiliation": "NYPD", 
+    "hair": "Brown\n", 
+    "height": 68, 
+    "id": "Cooper,_Carlie", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Ray Cooper (father, deceased)", 
+    "occupation": "NYPD Forensic Specialist", 
+    "placeofbirth": [
+        "Jackson Heights", 
+        "Queens", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Carlie Cooper", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 134
 }

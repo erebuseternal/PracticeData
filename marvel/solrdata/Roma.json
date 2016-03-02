@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Lady of the Northern Skies", 
-            "citizenship": "Otherworld (former ruler)", 
-            "content": "Though more compassionate than her sire, Roma proved no less manipulative, following plans Merlyn had set in motion before his demise. After Brian's sister Betsy joined the X-Men, Roma used the mutant heroes in her battle against the Adversary, then sent them through the Siege Perilous, letting the world believe them dead. She used Brian's grief over his sister's death as a catalyst in creating the U.K. superteam Excalibur, jinxing him so he could no longer work alone effectively and allying him with some of the surviving X-Men. Even Roma seemed surprised, though, when Merlyn revealed he was alive moments before Excalibur's battle with Necrom, the foe they had been created to defeat. Seemingly angered at Merlyn's manipulation, she telepathically informed the heroes how to destroy his main power source.", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "Captain Britain Vol. 1 #1 (1976)\n,  (as The Lady of the Northern Skies) Captain Britain Vol. 1 #1 (1976); (as Roma) The Daredevils #1 (1981)\n", 
-            "groupaffiliation": "Commanded the Captain Britain Corps", 
-            "hair": "Black (variable)\n", 
-            "height": 71, 
-            "id": "Roma", 
-            "identity": [
-                "Publicly known on Otherworld", 
-                "existence unknown to general populace of Earth"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Merlyn (father)", 
-            "occupation": "Guardian of the multiverse", 
-            "origin": "None", 
-            "placeofbirth": "(presumably) Otherworld", 
-            "powers": "Roma is a master scientist/sorceress, capable of utilizing virtually any power imaginable.", 
-            "realname": "Roma", 
-            "significantissues": [
-                "Empowered Brian Braddock (Captain Britain Vol. 1 #1-2, 1976)", 
-                "reconstructed Captain Britain after his death (The Daredevils #1, 1981)", 
-                "conducted Merlin's funeral (Mighty World of Marvel #13, 1984)", 
-                "her hand in the creation of Excalibur revealed (Excalibur Vol. 1 #47, 1992)", 
-                "appeared to be killed by Abraxas (Fantastic Four Vol. 3 #48, 2001)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": "Lady of the Northern Skies", 
+    "citizenship": "Otherworld (former ruler)", 
+    "content": "Though more compassionate than her sire, Roma proved no less manipulative, following plans Merlyn had set in motion before his demise. After Brian's sister Betsy joined the X-Men, Roma used the mutant heroes in her battle against the Adversary, then sent them through the Siege Perilous, letting the world believe them dead. She used Brian's grief over his sister's death as a catalyst in creating the U.K. superteam Excalibur, jinxing him so he could no longer work alone effectively and allying him with some of the surviving X-Men. Even Roma seemed surprised, though, when Merlyn revealed he was alive moments before Excalibur's battle with Necrom, the foe they had been created to defeat. Seemingly angered at Merlyn's manipulation, she telepathically informed the heroes how to destroy his main power source.", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "Captain Britain Vol. 1 #1 (1976)\n,  (as The Lady of the Northern Skies) Captain Britain Vol. 1 #1 (1976); (as Roma) The Daredevils #1 (1981)\n", 
+    "groupaffiliation": "Commanded the Captain Britain Corps", 
+    "hair": "Black (variable)\n", 
+    "height": 71, 
+    "id": "Roma", 
+    "identity": [
+        "Publicly known on Otherworld", 
+        "existence unknown to general populace of Earth"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Merlyn (father)", 
+    "occupation": "Guardian of the multiverse", 
+    "origin": "None", 
+    "placeofbirth": "(presumably) Otherworld", 
+    "powers": "Roma is a master scientist/sorceress, capable of utilizing virtually any power imaginable.", 
+    "realname": "Roma", 
+    "significantissues": [
+        "Empowered Brian Braddock (Captain Britain Vol. 1 #1-2, 1976)", 
+        "reconstructed Captain Britain after his death (The Daredevils #1, 1981)", 
+        "conducted Merlin's funeral (Mighty World of Marvel #13, 1984)", 
+        "her hand in the creation of Excalibur revealed (Excalibur Vol. 1 #47, 1992)", 
+        "appeared to be killed by Abraxas (Fantastic Four Vol. 3 #48, 2001)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

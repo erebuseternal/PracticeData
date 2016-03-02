@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Jade Giantess", 
-                "Shulkie"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Although Jennifer was at first savage while in her form as She-Hulk, she eventually gained the same intelligence she had as the normal Jennifer Walters. She quickly came to appreciate the confidence and assertiveness that had come with being She-Hulk. For a long time, she felt more comfortable in her form as She-Hulk than in her \"normal\" form as Jennifer. But she has gradually grown comfortable in both forms, and realized that she has much to offer the world in both her forms. After a brief solo career, she joined the Avengers and temporarily replaced the Thing in the Fantastic Four.During her tenure with the Fantastic Four, the She-Hulk had to prevent a radiation leak in a downed S.H.I.E.L.D. Helicarrier. This radiation exposure apparently mutated Jennifer to the point that she could not transform back into her original form. But this was an agreeable turn of events for her, since she preferred her She-Hulk form anyway. It was revealed much later that the \"genetic block\" was in fact purely psychological, shortly before a similar block locked her in non-Hulk form. That block proved to be temporary.After the Fantastic Four , the She-Hulk rejoined the Avengers and joined the staff of District Attorney Blake Tower, where she met Louise \"Weezi\" Mason, formerly the Golden Age super heroine called the Blonde Phantom; during this period, she discovered that Mason had manipulated Towers into hiring She-Hulk so that Mason could again star in a comic book and thus avoid dying of old age. Mason's husband, also a former comic book character, had passed away three years ago, but other, more popular characters from the era, such as Captain America and Namor the Sub-Mariner, were still around.While doing some legal work for Heroes for Hire, she also went on a few adventures with them and spent some time dating Luke Cage. Later She-Hulk was a member of the short lived hero group the Fantastic Force.", 
-            "durability": 7, 
-            "education": "Degree in Criminal Law", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 6, 
-            "firstappearance": "Savage She-Hulk #1 (1980)\n", 
-            "groupaffiliation": [
-                "Lady Liberators", 
-                "employee of Goodman", 
-                "Lieber", 
-                "Kurtzberg", 
-                "& Holliway", 
-                "formerly Defenders", 
-                "Avengers", 
-                "Brides of Set", 
-                "Fantastic Four", 
-                "Fantastic Force", 
-                "Heroes for Hire"
-            ], 
-            "hair": "Brown (in human form) Green (as She-Hulk)\n", 
-            "height": 70, 
-            "id": "She-Hulk", 
-            "identity": "Public", 
-            "intelligence": 5, 
-            "knownrelatives": "Morris Walters (father), Robert Bruce Banner (Hulk, cousin)", 
-            "occupation": [
-                "Lawyer", 
-                "Magistra of the Living Tribunal"
-            ], 
-            "placeofbirth": [
-                "Los Angeles", 
-                "California"
-            ], 
-            "powers": "Like her cousin, Jennifer possesses great strength, durability, endurance and a healing factor. Unlike her cousin, she almost always retains her full intelligence and personality as She-Hulk. She is also able to switch from She-Hulk to Jennifer Walters, but does not always have control of her transformation. In the past, Jennifer's inability to switch forms was due to a psychological block. Jennifer has learned a Ovid body-switching technique, but rarely uses it.\nThe Scarlet Witch also put an enchantment on She-Hulk so that anyone who wishes to harm She-Hulk will not be able to perceive her while she's in the form of Jen Walters. While useful it later backfired and was removed by Doctor Strange.", 
-            "realname": "Jennifer \"Jen\" Walters", 
-            "speed": 4, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Jade Giantess", 
+        "Shulkie"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Although Jennifer was at first savage while in her form as She-Hulk, she eventually gained the same intelligence she had as the normal Jennifer Walters. She quickly came to appreciate the confidence and assertiveness that had come with being She-Hulk. For a long time, she felt more comfortable in her form as She-Hulk than in her \"normal\" form as Jennifer. But she has gradually grown comfortable in both forms, and realized that she has much to offer the world in both her forms. After a brief solo career, she joined the Avengers and temporarily replaced the Thing in the Fantastic Four.During her tenure with the Fantastic Four, the She-Hulk had to prevent a radiation leak in a downed S.H.I.E.L.D. Helicarrier. This radiation exposure apparently mutated Jennifer to the point that she could not transform back into her original form. But this was an agreeable turn of events for her, since she preferred her She-Hulk form anyway. It was revealed much later that the \"genetic block\" was in fact purely psychological, shortly before a similar block locked her in non-Hulk form. That block proved to be temporary.After the Fantastic Four , the She-Hulk rejoined the Avengers and joined the staff of District Attorney Blake Tower, where she met Louise \"Weezi\" Mason, formerly the Golden Age super heroine called the Blonde Phantom; during this period, she discovered that Mason had manipulated Towers into hiring She-Hulk so that Mason could again star in a comic book and thus avoid dying of old age. Mason's husband, also a former comic book character, had passed away three years ago, but other, more popular characters from the era, such as Captain America and Namor the Sub-Mariner, were still around.While doing some legal work for Heroes for Hire, she also went on a few adventures with them and spent some time dating Luke Cage. Later She-Hulk was a member of the short lived hero group the Fantastic Force.", 
+    "durability": 7, 
+    "education": "Degree in Criminal Law", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 6, 
+    "firstappearance": "Savage She-Hulk #1 (1980)\n", 
+    "groupaffiliation": [
+        "Lady Liberators", 
+        "employee of Goodman", 
+        "Lieber", 
+        "Kurtzberg", 
+        "& Holliway", 
+        "formerly Defenders", 
+        "Avengers", 
+        "Brides of Set", 
+        "Fantastic Four", 
+        "Fantastic Force", 
+        "Heroes for Hire"
+    ], 
+    "hair": "Brown (in human form) Green (as She-Hulk)\n", 
+    "height": 70, 
+    "id": "She-Hulk", 
+    "identity": "Public", 
+    "intelligence": 5, 
+    "knownrelatives": "Morris Walters (father), Robert Bruce Banner (Hulk, cousin)", 
+    "occupation": [
+        "Lawyer", 
+        "Magistra of the Living Tribunal"
+    ], 
+    "placeofbirth": [
+        "Los Angeles", 
+        "California"
+    ], 
+    "powers": "Like her cousin, Jennifer possesses great strength, durability, endurance and a healing factor. Unlike her cousin, she almost always retains her full intelligence and personality as She-Hulk. She is also able to switch from She-Hulk to Jennifer Walters, but does not always have control of her transformation. In the past, Jennifer's inability to switch forms was due to a psychological block. Jennifer has learned a Ovid body-switching technique, but rarely uses it.\nThe Scarlet Witch also put an enchantment on She-Hulk so that anyone who wishes to harm She-Hulk will not be able to perceive her while she's in the form of Jen Walters. While useful it later backfired and was removed by Doctor Strange.", 
+    "realname": "Jennifer \"Jen\" Walters", 
+    "speed": 4, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

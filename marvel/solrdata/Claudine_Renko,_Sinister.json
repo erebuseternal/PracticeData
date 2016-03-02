@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Miss Sinister", 
-                "Black Queen", 
-                "Mercedes", 
-                "Miss Claudine"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men: Legacy #214 (2008)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "id": "Claudine_Renko,_Sinister", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Mister Sinister (creator)", 
-            "occupation": [
-                "Telepath", 
-                "Would-be-conqueror"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Miss sinister is a very powerful telepath, it is said that her powers of the mind may even surpass those of the White Queen (Emma Frost).", 
-            "realname": "Claudine Renko", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Miss Sinister", 
+        "Black Queen", 
+        "Mercedes", 
+        "Miss Claudine"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men: Legacy #214 (2008)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "id": "Claudine_Renko,_Sinister", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Mister Sinister (creator)", 
+    "occupation": [
+        "Telepath", 
+        "Would-be-conqueror"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Miss sinister is a very powerful telepath, it is said that her powers of the mind may even surpass those of the White Queen (Emma Frost).", 
+    "realname": "Claudine Renko", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

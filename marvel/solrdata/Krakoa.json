@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Island That Walks Like A Man", 
-                "The Living Island"
-            ], 
-            "citizenship": "none", 
-            "content": "Recruiting a new band of X-Men, Cyclops returned and defeated the island. Polaris caused a magnetic pulse from the Earth that was so powerful it shot Krakoa into space.", 
-            "durability": 1, 
-            "education": "none", 
-            "energy": 1, 
-            "eyes": "inapplicable\n", 
-            "fighting": 1, 
-            "firstappearance": "Giant Sized X-Men #1\n", 
-            "groupaffiliation": "none", 
-            "hair": "None\n", 
-            "height": 0, 
-            "id": "Krakoa", 
-            "identity": "public", 
-            "intelligence": 1, 
-            "knownrelatives": "none", 
-            "occupation": "none", 
-            "origin": [
-                "Giant Sized X-Men #1", 
-                "X-Men: Deadly Genesis #6"
-            ], 
-            "placeofbirth": "none", 
-            "powers": "Krakoa was a living ecosystem. It had control over all of the elements and geographical formations attached to it, and was able to sap the power out of mutants if they remained on the island too long. Krakoa also had immense psi powers.", 
-            "realname": "Krakoa", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "As an island, Krakoa presumably weighs several hundred tons\n"
-        }
-    }
+    "aliases": [
+        "The Island That Walks Like A Man", 
+        "The Living Island"
+    ], 
+    "citizenship": "none", 
+    "content": "Recruiting a new band of X-Men, Cyclops returned and defeated the island. Polaris caused a magnetic pulse from the Earth that was so powerful it shot Krakoa into space.", 
+    "durability": 1, 
+    "education": "none", 
+    "energy": 1, 
+    "eyes": "inapplicable\n", 
+    "fighting": 1, 
+    "firstappearance": "Giant Sized X-Men #1\n", 
+    "groupaffiliation": "none", 
+    "hair": "None\n", 
+    "height": 0, 
+    "id": "Krakoa", 
+    "identity": "public", 
+    "intelligence": 1, 
+    "knownrelatives": "none", 
+    "occupation": "none", 
+    "origin": [
+        "Giant Sized X-Men #1", 
+        "X-Men: Deadly Genesis #6"
+    ], 
+    "placeofbirth": "none", 
+    "powers": "Krakoa was a living ecosystem. It had control over all of the elements and geographical formations attached to it, and was able to sap the power out of mutants if they remained on the island too long. Krakoa also had immense psi powers.", 
+    "realname": "Krakoa", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "As an island, Krakoa presumably weighs several hundred tons\n"
 }

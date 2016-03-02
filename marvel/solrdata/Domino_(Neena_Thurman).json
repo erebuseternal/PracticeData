@@ -1,61 +1,57 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Beatrice", 
-                "Tamara Winter", 
-                "Samantha Wu", 
-                "Elena Vladescu", 
-                "Jessica Marie Costello", 
-                "Luisa Mendoza", 
-                "Christina Elizabeth Aliosa", 
-                "others"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Neena forged a distinguished career in many fields of covert activity, both as an agent of various organizations and governments, and as a freelance mercenary. Early on Domino was assigned to bodyguard Milo Thurman - a prodigy in predicting world events. She and Thurman fell in love and eventually married, and he coined her nickname \u201cDomino.\u201d Their relationship was short-lived, however, as a raid by A.I.M. forced Thurman into even deeper government cover, and his superiors told him that Domino had been killed. Domino joined the mercenary Six Pack, meeting Cable and forging a lasting and often intimate friendship. Domino was once captured by the arms dealer Tolliver, secretly Cable\u2019s estranged son Tyler, who had one of his agents impersonate Domino in Cable\u2019s new strike-team X-Force. Cable ultimately freed her and she came to aid him in his role as X-Force\u2019s leader.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Force #8 (1992)\n", 
-            "groupaffiliation": [
-                "X-Force", 
-                "formerly Underground", 
-                "X-Corporation", 
-                "Six Pack"
-            ], 
-            "hair": "Black\n", 
-            "height": 68, 
-            "id": "Domino_(Neena_Thurman)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Beatrice (mother), Lazarus (brother), Milo Thurman (husband, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "mercenary"
-            ], 
-            "origin": "Domino #1-4 (2003)", 
-            "placeofbirth": [
-                "Project: Armageddon base", 
-                "Florida"
-            ], 
-            "powers": "Domino is a mutant with the ability to subliminally and psionically initiate random telekinetic acts that affect probability in her favor by making improbable (but not impossible) things to occur within her line of sight, thus causing her to have \"good luck\" and her opponents to have \"bad luck.\" This phenomenon can be anything from an enemy's equipment failure to hitting just the right switch with a stray shot to shut down an overloading nuclear reactor. \n\nThis unconsciously controlled talent is triggered when she is in a stressful situation (such as fighting or escaping). This effect constantly emanates from her body at all times and is completely subconscious. However, it is also largely participatory - in order for the luck to take effect, Domino herself must engage in an action whose chance she can affect. \nFor example, if debris falling from the sky was about to hit her in the head, she would still be hurt if she stood still. However, if she tried to avoid them, she would move perfectly to avoid each and every piece about to hit her. In addition if Domino were to stand before a hail of bullets she would be a bullet-ridden corpse. Instead, she must take action, attempting to avoid the gunfire and will miraculously bob and weave just perfectly to avoid every single shot. As a byproduct of her probability abilities, Domino's cerebral cortex emits a current of bio-electric pulses down her spine to instinctively guide her movements during such situations, which has the added effect of augmenting her natural reflexes and agility to near-superhuman levels. \n\nAlthough Domino cannot consciously control her ability, she can activate it by putting herself in a position in which she could be harmed. The full extent of her powers is still unknown.", 
-            "realname": "Neena Thurman", 
-            "significantissues": [
-                "Revealed to have been Tolliver\u2019s prisoner, rescued by Cable (X-Force #11-15, 1992)", 
-                "opposed Reavers to rescue husband (Domino #1-3, 1997)", 
-                "joined X-Corporation (New X-Men 2001 Annual, 2001)", 
-                "with Underground, opposed Neverland (Weapon X #6-13, 2003)", 
-                "rejoined X-Force (X-Force #1, 2004)", 
-                "rejoined Six Pack (Cable & Deadpool #8, 2004)", 
-                "led 198 and X-Force (Civil War: X-Men #1-4, 2006)", 
-                "left Six Pack (Cable & Deadpool #34, 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "Beatrice", 
+        "Tamara Winter", 
+        "Samantha Wu", 
+        "Elena Vladescu", 
+        "Jessica Marie Costello", 
+        "Luisa Mendoza", 
+        "Christina Elizabeth Aliosa", 
+        "others"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Neena forged a distinguished career in many fields of covert activity, both as an agent of various organizations and governments, and as a freelance mercenary. Early on Domino was assigned to bodyguard Milo Thurman - a prodigy in predicting world events. She and Thurman fell in love and eventually married, and he coined her nickname \u201cDomino.\u201d Their relationship was short-lived, however, as a raid by A.I.M. forced Thurman into even deeper government cover, and his superiors told him that Domino had been killed. Domino joined the mercenary Six Pack, meeting Cable and forging a lasting and often intimate friendship. Domino was once captured by the arms dealer Tolliver, secretly Cable\u2019s estranged son Tyler, who had one of his agents impersonate Domino in Cable\u2019s new strike-team X-Force. Cable ultimately freed her and she came to aid him in his role as X-Force\u2019s leader.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Force #8 (1992)\n", 
+    "groupaffiliation": [
+        "X-Force", 
+        "formerly Underground", 
+        "X-Corporation", 
+        "Six Pack"
+    ], 
+    "hair": "Black\n", 
+    "height": 68, 
+    "id": "Domino_(Neena_Thurman)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Beatrice (mother), Lazarus (brother), Milo Thurman (husband, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "mercenary"
+    ], 
+    "origin": "Domino #1-4 (2003)", 
+    "placeofbirth": [
+        "Project: Armageddon base", 
+        "Florida"
+    ], 
+    "powers": "Domino is a mutant with the ability to subliminally and psionically initiate random telekinetic acts that affect probability in her favor by making improbable (but not impossible) things to occur within her line of sight, thus causing her to have \"good luck\" and her opponents to have \"bad luck.\" This phenomenon can be anything from an enemy's equipment failure to hitting just the right switch with a stray shot to shut down an overloading nuclear reactor. \n\nThis unconsciously controlled talent is triggered when she is in a stressful situation (such as fighting or escaping). This effect constantly emanates from her body at all times and is completely subconscious. However, it is also largely participatory - in order for the luck to take effect, Domino herself must engage in an action whose chance she can affect. \nFor example, if debris falling from the sky was about to hit her in the head, she would still be hurt if she stood still. However, if she tried to avoid them, she would move perfectly to avoid each and every piece about to hit her. In addition if Domino were to stand before a hail of bullets she would be a bullet-ridden corpse. Instead, she must take action, attempting to avoid the gunfire and will miraculously bob and weave just perfectly to avoid every single shot. As a byproduct of her probability abilities, Domino's cerebral cortex emits a current of bio-electric pulses down her spine to instinctively guide her movements during such situations, which has the added effect of augmenting her natural reflexes and agility to near-superhuman levels. \n\nAlthough Domino cannot consciously control her ability, she can activate it by putting herself in a position in which she could be harmed. The full extent of her powers is still unknown.", 
+    "realname": "Neena Thurman", 
+    "significantissues": [
+        "Revealed to have been Tolliver\u2019s prisoner, rescued by Cable (X-Force #11-15, 1992)", 
+        "opposed Reavers to rescue husband (Domino #1-3, 1997)", 
+        "joined X-Corporation (New X-Men 2001 Annual, 2001)", 
+        "with Underground, opposed Neverland (Weapon X #6-13, 2003)", 
+        "rejoined X-Force (X-Force #1, 2004)", 
+        "rejoined Six Pack (Cable & Deadpool #8, 2004)", 
+        "led 198 and X-Force (Civil War: X-Men #1-4, 2006)", 
+        "left Six Pack (Cable & Deadpool #34, 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

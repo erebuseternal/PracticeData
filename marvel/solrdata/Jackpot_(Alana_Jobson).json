@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Sara Ehret", 
-            "citizenship": "Presumably USA", 
-            "content": "Jackpot's adventures soon led her to meet Spider-Man and become tangled up in his dealing with super-powered criminals such as Menace. During one encounter, Jackpot interfered in a battle high over the city streets between the two characters, and her actions resulted in the death of council-woman, Lisa Parfrey. The events of that day weighed heavily on her mind, but Jackpot wasn't one to admit defeat so easily. She went on to defend the city of New York during the  Skrull invasion, and she even began her own investigation into the criminal activity of Walter Declun, now calling himself the Mogul.Spider-Man needed to know what Jackpot's real name was - after being lied to once already - since he was almost convinced she was  Mary Jane Watson because of the uncanny resemblance to his former love. He eventually found out Jackpot's real name through a fingerprint left on a cup. Alana was arrested three years earlier for driving under the influence of alcohol. Somewhat hypocritically, Spider-Man invaded Alana's apartment and found her super-powered cocktail. Before he could make his exit, Alana came home with serious injuries, and Spider-Man couldn't help but to confront her about them and protest her actions for injecting herself with powerful toxins in order to achieve her abilities. Spider-Man took her files on Declun, and told Jackpot to make a difference another way besides crime fighting.Jackpot's information led Spider-Man to one of Declun's operatives, Blindside, a scientist who developed a method of causing temporary blindness in a person by injecting a synthetic neurotoxin called Oedipus into their system. Having already fallen victim to Blindside's poison, Spider-Man had Reed Richards produce an antidote, but that didn't help when Blindside's girlfriend, Commanda ambushed him from behind. Jackpot, ignoring Spider-Man's advice to give up the hero business, swooped in to lend a helping hand, but was temporarily blinded when Blindside touched the back of her head. Spider-Man gave Jackpot the antidote, and then made quick work of Commanda and Blindside. Outside Blindside's house, Jackpot suffered a fatal myocardial infarction due to the combination of the drugs in her system mixed with the Oedipus neurotoxin. Reed Richards absolved Spider-Man from thinking it was his fault because of the antidote he gave her to cure her temporary blindness.", 
-            "durability": 1, 
-            "education": "Unrevealed; possibly received some training from the Initiative", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man: Swing Shift (2007)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Red (as Jackpot); Unrevealed (as Alana)\n", 
-            "id": "Jackpot_(Alana_Jobson)", 
-            "identity": [
-                "Known to authorities (as Alana)", 
-                "registered under the Superhuman Registration Act as Sara Ehret"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former crime fighter", 
-            "origin": [
-                "Amazing Spider-Man Annual (#1", 
-                "2007)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Jackpot injected herself with a human growth hormone coupled with mutant growth hormone, anabolic steroids, amphetamines, epinephrine, paracetamol, and a cox-2 inhibitor which gave her artificial powers such as superhuman strength, the level of which is unknown, enhanced speed and agility, and a level of invulnerability", 
-            "realname": "Alana Jobson", 
-            "significantissues": [
-                "Jackpot interferes in a brawl between Spider-Man and Menace and a council-woman dies (Amazing Spider-Man #551, 2007)", 
-                "Comes to Spider-Man's rescue but Jackpot ends up dying in the end (Amazing Spider-Man Annual #1, 2008)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Sara Ehret", 
+    "citizenship": "Presumably USA", 
+    "content": "Jackpot's adventures soon led her to meet Spider-Man and become tangled up in his dealing with super-powered criminals such as Menace. During one encounter, Jackpot interfered in a battle high over the city streets between the two characters, and her actions resulted in the death of council-woman, Lisa Parfrey. The events of that day weighed heavily on her mind, but Jackpot wasn't one to admit defeat so easily. She went on to defend the city of New York during the  Skrull invasion, and she even began her own investigation into the criminal activity of Walter Declun, now calling himself the Mogul.Spider-Man needed to know what Jackpot's real name was - after being lied to once already - since he was almost convinced she was  Mary Jane Watson because of the uncanny resemblance to his former love. He eventually found out Jackpot's real name through a fingerprint left on a cup. Alana was arrested three years earlier for driving under the influence of alcohol. Somewhat hypocritically, Spider-Man invaded Alana's apartment and found her super-powered cocktail. Before he could make his exit, Alana came home with serious injuries, and Spider-Man couldn't help but to confront her about them and protest her actions for injecting herself with powerful toxins in order to achieve her abilities. Spider-Man took her files on Declun, and told Jackpot to make a difference another way besides crime fighting.Jackpot's information led Spider-Man to one of Declun's operatives, Blindside, a scientist who developed a method of causing temporary blindness in a person by injecting a synthetic neurotoxin called Oedipus into their system. Having already fallen victim to Blindside's poison, Spider-Man had Reed Richards produce an antidote, but that didn't help when Blindside's girlfriend, Commanda ambushed him from behind. Jackpot, ignoring Spider-Man's advice to give up the hero business, swooped in to lend a helping hand, but was temporarily blinded when Blindside touched the back of her head. Spider-Man gave Jackpot the antidote, and then made quick work of Commanda and Blindside. Outside Blindside's house, Jackpot suffered a fatal myocardial infarction due to the combination of the drugs in her system mixed with the Oedipus neurotoxin. Reed Richards absolved Spider-Man from thinking it was his fault because of the antidote he gave her to cure her temporary blindness.", 
+    "durability": 1, 
+    "education": "Unrevealed; possibly received some training from the Initiative", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man: Swing Shift (2007)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Red (as Jackpot); Unrevealed (as Alana)\n", 
+    "id": "Jackpot_(Alana_Jobson)", 
+    "identity": [
+        "Known to authorities (as Alana)", 
+        "registered under the Superhuman Registration Act as Sara Ehret"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former crime fighter", 
+    "origin": [
+        "Amazing Spider-Man Annual (#1", 
+        "2007)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Jackpot injected herself with a human growth hormone coupled with mutant growth hormone, anabolic steroids, amphetamines, epinephrine, paracetamol, and a cox-2 inhibitor which gave her artificial powers such as superhuman strength, the level of which is unknown, enhanced speed and agility, and a level of invulnerability", 
+    "realname": "Alana Jobson", 
+    "significantissues": [
+        "Jackpot interferes in a brawl between Spider-Man and Menace and a council-woman dies (Amazing Spider-Man #551, 2007)", 
+        "Comes to Spider-Man's rescue but Jackpot ends up dying in the end (Amazing Spider-Man Annual #1, 2008)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

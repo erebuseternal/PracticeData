@@ -1,62 +1,58 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Arkady Rossovich", 
-                "Vasyliev Arkady"
-            ], 
-            "citizenship": "Russia (legally deceased)", 
-            "content": "Decades later, Omega Red was mystically revived by the ninja clan the Hand, and he allied himself with their leader, Matsu\u2019o Tsurayaba, in exchange for the whereabouts of Wolverine and the C-Synthesizer. Omega Red clashed with both Maverick and Wolverine, but was defeated by Wolverine\u2019s teammates in the mutant super-team the X-Men. Omega Red later fell under the psionic control of the mutant Soul Skinner who forced him to battle against Wolverine and the X-Men until the telepath\u2019s death.Omega Red then sought to kill the cyborg M.O.D.A.M., whom he believed was a former KGB operative that had betrayed him, but was opposed by the armored Avenger Iron Man. Omega Red subsequently clashed with the team of mutant trainees Generation X as well as the costumed crimefighter Daredevil and the Russian super-spy the Black Widow.", 
-            "durability": 5, 
-            "education": "Unrevealed", 
-            "energy": 4, 
-            "eyes": "Red\n", 
-            "fighting": 6, 
-            "firstappearance": "X-Men #4 (1992)\n", 
-            "groupaffiliation": [
-                "Red Mafia (kingpin)", 
-                "former employee of Sabretooth", 
-                "The General", 
-                "Ivan Pushkin", 
-                "and Matsu'o Tsurayaba", 
-                "formerly KGB", 
-                "Upstarts"
-            ], 
-            "hair": "Blond\n", 
-            "height": 83, 
-            "id": "Omega_Red", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Crimelord", 
-                "former mercenary", 
-                "KGB agent"
-            ], 
-            "origin": [
-                "X-Men #6 (1992)", 
-                "Wolverine #61 (1992)", 
-                "Generation X #7-8 (1995)"
-            ], 
-            "placeofbirth": "Unrevealed location in Russia", 
-            "powers": "Omega Red is a mutant with the ability to secrete bodily pheromones deadly to anyone in his immediate vicinity. This power greatly drains his energy, requiring him to absorb the life force of others. Omega Red was also granted superhuman strength from the KGB enhancement.", 
-            "realname": "Arkady Gregorivich", 
-            "significantissues": [
-                "Revived from suspended animation, vs X-Men & Maverick, defeated, escaped (X-Men #4-7, 1992)", 
-                "possessed by Soul Skinner, vs X-Men, escaped (X-Men #18-19, 1993)", 
-                "hunted M.O.D.A.M., vs Iron Man (Iron Man #295-296, 1993)", 
-                "vs Chamber (Generation X #10-11, 1995)", 
-                "vs Sabretooth (X-Factor #138, 1997)", 
-                "vs Daredevil & Black Widow (Daredevil #368, 1997)", 
-                "employed by Pushkin, vs Maverick (Maverick #10-12, 1998)", 
-                "recruited & betrayed by Sabretooth (Wolverine #173-175, 2002)", 
-                "became kingpin of Red Mafia (Weapon X #3, 2003)", 
-                "killed by Wolverine in Russia (Wolverine: Origins #39, 2009)"
-            ], 
-            "speed": 3, 
-            "strength": 5, 
-            "universe": "Marvel Universe", 
-            "weight": 425
-        }
-    }
+    "aliases": [
+        "Arkady Rossovich", 
+        "Vasyliev Arkady"
+    ], 
+    "citizenship": "Russia (legally deceased)", 
+    "content": "Decades later, Omega Red was mystically revived by the ninja clan the Hand, and he allied himself with their leader, Matsu\u2019o Tsurayaba, in exchange for the whereabouts of Wolverine and the C-Synthesizer. Omega Red clashed with both Maverick and Wolverine, but was defeated by Wolverine\u2019s teammates in the mutant super-team the X-Men. Omega Red later fell under the psionic control of the mutant Soul Skinner who forced him to battle against Wolverine and the X-Men until the telepath\u2019s death.Omega Red then sought to kill the cyborg M.O.D.A.M., whom he believed was a former KGB operative that had betrayed him, but was opposed by the armored Avenger Iron Man. Omega Red subsequently clashed with the team of mutant trainees Generation X as well as the costumed crimefighter Daredevil and the Russian super-spy the Black Widow.", 
+    "durability": 5, 
+    "education": "Unrevealed", 
+    "energy": 4, 
+    "eyes": "Red\n", 
+    "fighting": 6, 
+    "firstappearance": "X-Men #4 (1992)\n", 
+    "groupaffiliation": [
+        "Red Mafia (kingpin)", 
+        "former employee of Sabretooth", 
+        "The General", 
+        "Ivan Pushkin", 
+        "and Matsu'o Tsurayaba", 
+        "formerly KGB", 
+        "Upstarts"
+    ], 
+    "hair": "Blond\n", 
+    "height": 83, 
+    "id": "Omega_Red", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Crimelord", 
+        "former mercenary", 
+        "KGB agent"
+    ], 
+    "origin": [
+        "X-Men #6 (1992)", 
+        "Wolverine #61 (1992)", 
+        "Generation X #7-8 (1995)"
+    ], 
+    "placeofbirth": "Unrevealed location in Russia", 
+    "powers": "Omega Red is a mutant with the ability to secrete bodily pheromones deadly to anyone in his immediate vicinity. This power greatly drains his energy, requiring him to absorb the life force of others. Omega Red was also granted superhuman strength from the KGB enhancement.", 
+    "realname": "Arkady Gregorivich", 
+    "significantissues": [
+        "Revived from suspended animation, vs X-Men & Maverick, defeated, escaped (X-Men #4-7, 1992)", 
+        "possessed by Soul Skinner, vs X-Men, escaped (X-Men #18-19, 1993)", 
+        "hunted M.O.D.A.M., vs Iron Man (Iron Man #295-296, 1993)", 
+        "vs Chamber (Generation X #10-11, 1995)", 
+        "vs Sabretooth (X-Factor #138, 1997)", 
+        "vs Daredevil & Black Widow (Daredevil #368, 1997)", 
+        "employed by Pushkin, vs Maverick (Maverick #10-12, 1998)", 
+        "recruited & betrayed by Sabretooth (Wolverine #173-175, 2002)", 
+        "became kingpin of Red Mafia (Weapon X #3, 2003)", 
+        "killed by Wolverine in Russia (Wolverine: Origins #39, 2009)"
+    ], 
+    "speed": 3, 
+    "strength": 5, 
+    "universe": "Marvel Universe", 
+    "weight": 425
 }

@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Accuser", 
-                "Ronan the Accuser"
-            ], 
-            "citizenship": "Exiled from Kree Empire", 
-            "content": "One of Ronan's missions was to punish the Fantastic Four when they defeated a Sentry left on Earth. But when he traveled to Earth and faced the four heroes, he was soon forced to use his own weapon on himself, giving himself the same sentence that he intended to mete out upon them. Unable to seek revenge due to the Supremor's orders, Ronan joined with Imperial Minister Zarek to depose the Supremor but was defeated by the Avengers.Later Ronan made another attack against the Four when he attempted to gain possession of a Universal Power Core from Uatu The Watcher's house. With the aid of a mind-controlled Invisible Woman he was able to breach the dome but was only able to obtain the plans to one of them.", 
-            "durability": 7, 
-            "education": "Unrevealed", 
-            "energy": 7, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "Fantastic Four #65 (1967)\n", 
-            "groupaffiliation": [
-                "Formerly Accuser Corps", 
-                "Starforce"
-            ], 
-            "hair": "Brown\n", 
-            "height": 89, 
-            "id": "Ronan_the_Accuser", 
-            "identity": "Publicly known in the Kree Empire", 
-            "intelligence": 4, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Exile", 
-                "former Supreme Public Accuser"
-            ], 
-            "placeofbirth": [
-                "Hala", 
-                "Pama System", 
-                "Kree Empire", 
-                "Greater Magellanic Cloud"
-            ], 
-            "powers": "Can currently adapt his body to survive any hostile environment. Strength-enhancing armor. Generate cold to put certain lifeforms into suspended animation. Render himself  'invisible'.", 
-            "realname": "Ronan", 
-            "significantissues": "Fantastic Four #65 (intro/first defeat)", 
-            "speed": 4, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 480
-        }
-    }
+    "aliases": [
+        "The Accuser", 
+        "Ronan the Accuser"
+    ], 
+    "citizenship": "Exiled from Kree Empire", 
+    "content": "One of Ronan's missions was to punish the Fantastic Four when they defeated a Sentry left on Earth. But when he traveled to Earth and faced the four heroes, he was soon forced to use his own weapon on himself, giving himself the same sentence that he intended to mete out upon them. Unable to seek revenge due to the Supremor's orders, Ronan joined with Imperial Minister Zarek to depose the Supremor but was defeated by the Avengers.Later Ronan made another attack against the Four when he attempted to gain possession of a Universal Power Core from Uatu The Watcher's house. With the aid of a mind-controlled Invisible Woman he was able to breach the dome but was only able to obtain the plans to one of them.", 
+    "durability": 7, 
+    "education": "Unrevealed", 
+    "energy": 7, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "Fantastic Four #65 (1967)\n", 
+    "groupaffiliation": [
+        "Formerly Accuser Corps", 
+        "Starforce"
+    ], 
+    "hair": "Brown\n", 
+    "height": 89, 
+    "id": "Ronan_the_Accuser", 
+    "identity": "Publicly known in the Kree Empire", 
+    "intelligence": 4, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Exile", 
+        "former Supreme Public Accuser"
+    ], 
+    "placeofbirth": [
+        "Hala", 
+        "Pama System", 
+        "Kree Empire", 
+        "Greater Magellanic Cloud"
+    ], 
+    "powers": "Can currently adapt his body to survive any hostile environment. Strength-enhancing armor. Generate cold to put certain lifeforms into suspended animation. Render himself  'invisible'.", 
+    "realname": "Ronan", 
+    "significantissues": "Fantastic Four #65 (intro/first defeat)", 
+    "speed": 4, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 480
 }

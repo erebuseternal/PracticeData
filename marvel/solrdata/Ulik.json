@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "\"Ulik", 
-                "the Unstoppable Troll\"", 
-                "\"Ulik", 
-                "the Unconquerable Troll\""
-            ], 
-            "citizenship": "Rock Troll", 
-            "content": "Ulik was also responsible for the release of Mangog, a monster that was said to possess the combined hatred of billions of beings killed by Odin and the Norse Gods. Mangog was nearly unstoppable and had aided various evil beings, most recently the mad Titan Thanos. Ulik may have appeared to be a mindless bruiser, but he was ambitious. Ulik Proclaimed that only Geirrodur could command him, Ulik had tried to wrest the throne from him more than once. He led several invasions of Earth through interdimensional portals, only to suffer defeat at the hands of Thor and Earth's other heroes. Once, after failing in an invasion attempt, Thor sealed the portal with molten rock. Geirrodur then banished Ulik to the furnaces of the Rock Troll Kingdom. After escaping, Ulik found another realm of trolls. By dispatching of their ruler, Ulik took control of this realm and continues his pursuit of revenge upon Thor and the other Asgardians.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #137 (1968)\n", 
-            "groupaffiliation": [
-                "Ulik has been known to partner alongside Loki", 
-                "Enchantress and the Wrecking Crew"
-            ], 
-            "hair": "Brownish orange\n", 
-            "height": 72, 
-            "id": "Ulik", 
-            "identity": "The general populace of Earth is unaware of Ulik's existence", 
-            "intelligence": 1, 
-            "knownrelatives": "Horth (brother)", 
-            "occupation": [
-                "Warrior", 
-                "would be conqueror"
-            ], 
-            "placeofbirth": "Nornheim (subterranean realm of Asgard)", 
-            "powers": "Ulik is stronger than most Rock Trolls, possessing superhuman strength nearly equal to that of Thor. It is estimated that he can lift approximately 90 tons. Ulik also is incredibly durable and can see in near total darkness.", 
-            "realname": "Ulik", 
-            "significantissues": "Geirrodur orders Ulik to steal Mjolnir (Thor #137, 1968), Ulik frees Mangog (Thor #154, 1968), Defeated and arrested by Lt. Marcus Stone (Thor #414, 1990)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 780
-        }
-    }
+    "aliases": [
+        "\"Ulik", 
+        "the Unstoppable Troll\"", 
+        "\"Ulik", 
+        "the Unconquerable Troll\""
+    ], 
+    "citizenship": "Rock Troll", 
+    "content": "Ulik was also responsible for the release of Mangog, a monster that was said to possess the combined hatred of billions of beings killed by Odin and the Norse Gods. Mangog was nearly unstoppable and had aided various evil beings, most recently the mad Titan Thanos. Ulik may have appeared to be a mindless bruiser, but he was ambitious. Ulik Proclaimed that only Geirrodur could command him, Ulik had tried to wrest the throne from him more than once. He led several invasions of Earth through interdimensional portals, only to suffer defeat at the hands of Thor and Earth's other heroes. Once, after failing in an invasion attempt, Thor sealed the portal with molten rock. Geirrodur then banished Ulik to the furnaces of the Rock Troll Kingdom. After escaping, Ulik found another realm of trolls. By dispatching of their ruler, Ulik took control of this realm and continues his pursuit of revenge upon Thor and the other Asgardians.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #137 (1968)\n", 
+    "groupaffiliation": [
+        "Ulik has been known to partner alongside Loki", 
+        "Enchantress and the Wrecking Crew"
+    ], 
+    "hair": "Brownish orange\n", 
+    "height": 72, 
+    "id": "Ulik", 
+    "identity": "The general populace of Earth is unaware of Ulik's existence", 
+    "intelligence": 1, 
+    "knownrelatives": "Horth (brother)", 
+    "occupation": [
+        "Warrior", 
+        "would be conqueror"
+    ], 
+    "placeofbirth": "Nornheim (subterranean realm of Asgard)", 
+    "powers": "Ulik is stronger than most Rock Trolls, possessing superhuman strength nearly equal to that of Thor. It is estimated that he can lift approximately 90 tons. Ulik also is incredibly durable and can see in near total darkness.", 
+    "realname": "Ulik", 
+    "significantissues": "Geirrodur orders Ulik to steal Mjolnir (Thor #137, 1968), Ulik frees Mangog (Thor #154, 1968), Defeated and arrested by Lt. Marcus Stone (Thor #414, 1990)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 780
 }

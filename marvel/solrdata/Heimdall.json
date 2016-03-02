@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Donald Velez", 
-            "citizenship": "Realm of Asgard", 
-            "content": "Shortly afterwards, when Odin was about to enter his Odinsleep, he passed the Odinpower on to Heimdall to rule Asgard until he awoke. Heimdall had to deal with a major crisis in the life of Thor, as Thor had been banished into the subconsciousness of the mortal Eric Masterson, who had assumed Thor's responsibilities. Sif was determined to find the real Thor, and her determination drove a wedge between her and Heimdall. When Karnilla conspired with Loki to rule Asgard by having Odin awaken with Loki's soul possessing him, Heimdall was branded a traitor and banished to the Dream Dimension, where he was saved from the demon Nightmare by Amora. Eric Masterson helped restore Odin and later Thor as well, but Heimdall and Amora drifted apart when Amora realized that his duty to Asgard was greater than his love for her.When Odin cast the Asgardians into the guises of mortals to protect them from a false Ragnarok, Heimdall became Donald Velez, and joined the other \"Lost Gods\" in attempting to rediscover who they were and battling the Egyptian death-god Seth. Heimdall and the others regained their true forms and defeated Seth just as Asgard was attacked by the Dark Gods, and they were all taken prisoner. They were finally rescued by Thor.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Gray\n", 
-            "fighting": 1, 
-            "firstappearance": "Journey Into Mystery #85 (1962)\n", 
-            "groupaffiliation": [
-                "Gods of Asgard", 
-                "Lost Gods"
-            ], 
-            "hair": "Brown\n", 
-            "height": 86, 
-            "id": "Heimdall", 
-            "identity": [
-                "The general populace of Earth is unaware of Heimdall's existence", 
-                "except as a mythological character"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Sif (deseaced, sister)", 
-            "occupation": "Sentry of Asgard", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Asgard", 
-            "powers": "Heimdall has the typical powers of an Asgardian god, including superhuman strength, stamina, and durability. He also possesses superhuman senses, most notably his vision and hearing. His senses are said to be so acute that he could hear sap running through trees and see events occurring miles away. Heimdall also briefly possessed the Odinpower, which granted him the power to channel cosmic energies.", 
-            "realname": "Heimdall", 
-            "significantissues": [
-                "Fought Surtur at the gates of Asgard (Thor #351, 1985)", 
-                "became custodian of the Odinpower (Thor #432, 1991)", 
-                "lost Odinpower (Thor #450, 1992)", 
-                "became Donald Velez, fought Seth with other Lost Gods (Journey Into Mystery #508-513, 1997)", 
-                "soul found inside a mortal and brought back to life by Thor (Thor #3, 2007)", 
-                "agrees to help Thor to locate other Asgardians souls (Thor #4, 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 575
-        }
-    }
+    "aliases": "Donald Velez", 
+    "citizenship": "Realm of Asgard", 
+    "content": "Shortly afterwards, when Odin was about to enter his Odinsleep, he passed the Odinpower on to Heimdall to rule Asgard until he awoke. Heimdall had to deal with a major crisis in the life of Thor, as Thor had been banished into the subconsciousness of the mortal Eric Masterson, who had assumed Thor's responsibilities. Sif was determined to find the real Thor, and her determination drove a wedge between her and Heimdall. When Karnilla conspired with Loki to rule Asgard by having Odin awaken with Loki's soul possessing him, Heimdall was branded a traitor and banished to the Dream Dimension, where he was saved from the demon Nightmare by Amora. Eric Masterson helped restore Odin and later Thor as well, but Heimdall and Amora drifted apart when Amora realized that his duty to Asgard was greater than his love for her.When Odin cast the Asgardians into the guises of mortals to protect them from a false Ragnarok, Heimdall became Donald Velez, and joined the other \"Lost Gods\" in attempting to rediscover who they were and battling the Egyptian death-god Seth. Heimdall and the others regained their true forms and defeated Seth just as Asgard was attacked by the Dark Gods, and they were all taken prisoner. They were finally rescued by Thor.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Gray\n", 
+    "fighting": 1, 
+    "firstappearance": "Journey Into Mystery #85 (1962)\n", 
+    "groupaffiliation": [
+        "Gods of Asgard", 
+        "Lost Gods"
+    ], 
+    "hair": "Brown\n", 
+    "height": 86, 
+    "id": "Heimdall", 
+    "identity": [
+        "The general populace of Earth is unaware of Heimdall's existence", 
+        "except as a mythological character"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Sif (deseaced, sister)", 
+    "occupation": "Sentry of Asgard", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Asgard", 
+    "powers": "Heimdall has the typical powers of an Asgardian god, including superhuman strength, stamina, and durability. He also possesses superhuman senses, most notably his vision and hearing. His senses are said to be so acute that he could hear sap running through trees and see events occurring miles away. Heimdall also briefly possessed the Odinpower, which granted him the power to channel cosmic energies.", 
+    "realname": "Heimdall", 
+    "significantissues": [
+        "Fought Surtur at the gates of Asgard (Thor #351, 1985)", 
+        "became custodian of the Odinpower (Thor #432, 1991)", 
+        "lost Odinpower (Thor #450, 1992)", 
+        "became Donald Velez, fought Seth with other Lost Gods (Journey Into Mystery #508-513, 1997)", 
+        "soul found inside a mortal and brought back to life by Thor (Thor #3, 2007)", 
+        "agrees to help Thor to locate other Asgardians souls (Thor #4, 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 575
 }

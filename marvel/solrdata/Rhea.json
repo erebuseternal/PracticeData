@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Mother goddess", 
-            "citizenship": "none", 
-            "content": "", 
-            "durability": 1, 
-            "education": "unknown", 
-            "energy": 1, 
-            "eyes": "red\n", 
-            "fighting": 1, 
-            "groupaffiliation": "none", 
-            "hair": "brown\n", 
-            "height": 108, 
-            "id": "Rhea", 
-            "identity": "Rhea", 
-            "intelligence": 1, 
-            "knownrelatives": "So many i dont have a enough room to put them on!!!!!", 
-            "occupation": "Mount Olymbus", 
-            "placeofbirth": "Earth", 
-            "powers": "none", 
-            "realname": "Rhea", 
-            "speed": 1, 
-            "strength": 1
-        }
-    }
+    "aliases": "Mother goddess", 
+    "citizenship": "none", 
+    "content": "", 
+    "durability": 1, 
+    "education": "unknown", 
+    "energy": 1, 
+    "eyes": "red\n", 
+    "fighting": 1, 
+    "groupaffiliation": "none", 
+    "hair": "brown\n", 
+    "height": 108, 
+    "id": "Rhea", 
+    "identity": "Rhea", 
+    "intelligence": 1, 
+    "knownrelatives": "So many i dont have a enough room to put them on!!!!!", 
+    "occupation": "Mount Olymbus", 
+    "placeofbirth": "Earth", 
+    "powers": "none", 
+    "realname": "Rhea", 
+    "speed": 1, 
+    "strength": 1
 }

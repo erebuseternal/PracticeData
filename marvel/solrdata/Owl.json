@@ -1,22 +1,18 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "USA", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Daredevil #3 (vol. 1) #3\n", 
-            "groupaffiliation": "head of various criminal organizations", 
-            "hair": "Red\n", 
-            "id": "Owl", 
-            "intelligence": 1, 
-            "occupation": "crimelord", 
-            "powers": "has the ability to glide over short distances, acute hearing, can rotate his head 180 degrees, eyes can move independantly from each other, which allows him a greater sense of vision", 
-            "realname": "Leland Owlsley", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "USA", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Daredevil #3 (vol. 1) #3\n", 
+    "groupaffiliation": "head of various criminal organizations", 
+    "hair": "Red\n", 
+    "id": "Owl", 
+    "intelligence": 1, 
+    "occupation": "crimelord", 
+    "powers": "has the ability to glide over short distances, acute hearing, can rotate his head 180 degrees, eyes can move independantly from each other, which allows him a greater sense of vision", 
+    "realname": "Leland Owlsley", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

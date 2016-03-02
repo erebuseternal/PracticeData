@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Living Totem", 
-                "The Walking Death"
-            ], 
-            "citizenship": "None", 
-            "content": "Wyatt Wingfoot investigated the sightings of Tomazooma in the Black Panther\u2019s Gyro-Cruiser; finally discovering the machine, which immediately attacked him. It sprayed Wyatt with a deadly vapor after he fired his gun at it to no effect, and Wyatt crawled away, trying to reach his vehicle. The robot then went after the tribe\u2019s oil fields and burned them down until the Human Torch appeared to absorb the flames. The false Tomazooma attacked the Torch, using beams from its eyes to knock him unconscious. The Thing then leapt onto the robot\u2019s back and drove it to the ground until the robot used a power blast to throw Ben off of it. Mister Fantastic attacked next, using his Pogo Plane\u2019s guns, but the robot simply used a build up of energy to reflect the bullets back at him, which sent his plane plummeting to Earth.", 
-            "durability": 1, 
-            "education": "Computer programming", 
-            "energy": 1, 
-            "eyes": "Yellow\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #80\n", 
-            "groupaffiliation": "Servant of the Red Star Oil Company", 
-            "hair": "None\n", 
-            "id": "Tomazooma", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Servant of the Red Star Oil Company", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Tomazooma", 
-            "significantissues": "Fantastic Four #80 (intro/destruction)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "The Living Totem", 
+        "The Walking Death"
+    ], 
+    "citizenship": "None", 
+    "content": "Wyatt Wingfoot investigated the sightings of Tomazooma in the Black Panther\u2019s Gyro-Cruiser; finally discovering the machine, which immediately attacked him. It sprayed Wyatt with a deadly vapor after he fired his gun at it to no effect, and Wyatt crawled away, trying to reach his vehicle. The robot then went after the tribe\u2019s oil fields and burned them down until the Human Torch appeared to absorb the flames. The false Tomazooma attacked the Torch, using beams from its eyes to knock him unconscious. The Thing then leapt onto the robot\u2019s back and drove it to the ground until the robot used a power blast to throw Ben off of it. Mister Fantastic attacked next, using his Pogo Plane\u2019s guns, but the robot simply used a build up of energy to reflect the bullets back at him, which sent his plane plummeting to Earth.", 
+    "durability": 1, 
+    "education": "Computer programming", 
+    "energy": 1, 
+    "eyes": "Yellow\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #80\n", 
+    "groupaffiliation": "Servant of the Red Star Oil Company", 
+    "hair": "None\n", 
+    "id": "Tomazooma", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Servant of the Red Star Oil Company", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Tomazooma", 
+    "significantissues": "Fantastic Four #80 (intro/destruction)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

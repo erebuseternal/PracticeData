@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Baroness", 
-                "Kenneth Crichton"
-            ], 
-            "citizenship": "U.K. (presumably legally deceased)", 
-            "content": "Learning the Holy Grail could render a vampire immune to sunlight, the Baroness had her cult search for it. Wanting revenge on the Falsworth family for opposing Baron Blood (Falsworth), she targeted Blood's great-nephew, Kenneth Crichton, who was dying from a rare form of anemia. She seduced Kenneth, turned him into a vampire, and dubbed him the new Baron Blood (see Baron Blood (Crichton) )before sending him to steal the Grail, which she brought to Glastonbury Abbey to perform the necessary ceremony. Union Jack arrived too late to stop her drinking from the chalice; the Baroness then broke it, leaving her coterie, Kenneth included, to be destroyed by the rising sun.", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Union Jack #1 (1998)\n", 
-            "groupaffiliation": [
-                "Axis Mundi", 
-                "leader of an unnamed vampire cult"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 67, 
-            "id": "Baroness_Blood", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Dr. Jacob Cromwell (father, deceased), unnamed sister (deceased), John Crichton (son)", 
-            "occupation": [
-                "Cult leader", 
-                "Axis Mundi agent"
-            ], 
-            "placeofbirth": [
-                "Essex", 
-                "England"
-            ], 
-            "powers": "Baroness Blood possesses traditional vampiric powers, including enhanced strength, hypnotism, the ability to replenish her strength by drinking blood and the ability to transform others into vampires. Because she has drunk from the Holy Grail, she can exist in sunlight indefinitely, and can share this power with other vampires who drink from her, making them immune to the sun and free of their need for blood for three days. She can also generate and control lightning.", 
-            "realname": "Cromwell (First name unrevealed)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": [
+        "Baroness", 
+        "Kenneth Crichton"
+    ], 
+    "citizenship": "U.K. (presumably legally deceased)", 
+    "content": "Learning the Holy Grail could render a vampire immune to sunlight, the Baroness had her cult search for it. Wanting revenge on the Falsworth family for opposing Baron Blood (Falsworth), she targeted Blood's great-nephew, Kenneth Crichton, who was dying from a rare form of anemia. She seduced Kenneth, turned him into a vampire, and dubbed him the new Baron Blood (see Baron Blood (Crichton) )before sending him to steal the Grail, which she brought to Glastonbury Abbey to perform the necessary ceremony. Union Jack arrived too late to stop her drinking from the chalice; the Baroness then broke it, leaving her coterie, Kenneth included, to be destroyed by the rising sun.", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Union Jack #1 (1998)\n", 
+    "groupaffiliation": [
+        "Axis Mundi", 
+        "leader of an unnamed vampire cult"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 67, 
+    "id": "Baroness_Blood", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Dr. Jacob Cromwell (father, deceased), unnamed sister (deceased), John Crichton (son)", 
+    "occupation": [
+        "Cult leader", 
+        "Axis Mundi agent"
+    ], 
+    "placeofbirth": [
+        "Essex", 
+        "England"
+    ], 
+    "powers": "Baroness Blood possesses traditional vampiric powers, including enhanced strength, hypnotism, the ability to replenish her strength by drinking blood and the ability to transform others into vampires. Because she has drunk from the Holy Grail, she can exist in sunlight indefinitely, and can share this power with other vampires who drink from her, making them immune to the sun and free of their need for blood for three days. She can also generate and control lightning.", 
+    "realname": "Cromwell (First name unrevealed)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

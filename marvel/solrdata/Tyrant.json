@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Not known", 
-            "citizenship": "Unrevealed", 
-            "content": "When he returned from his exile, Tyrant went back to his old ways. He was quickly met with opposition. Among those who clashed with him were; the Silver Surfer and Gladiator, Praetor of the Shi\u2019ar Imperial Guard, Morg and Terrax former Heralds of Galactus, Beta Ray Bill, usurper of Asgardian might, also the half breed Jack of Hearts and a revived Spinster (Ganymede) apparently the last of her kind. They were easily overcome. Yet Tyrant was again forced to withdraw due to the intervention of Galactus.", 
-            "durability": 7, 
-            "education": "Unrevealed", 
-            "energy": 7, 
-            "eyes": "Red\n", 
-            "fighting": 7, 
-            "firstappearance": "= Silver Surfer #81 (1993)\n", 
-            "groupaffiliation": "Leader of an alien army.", 
-            "hair": "Gray cables\n", 
-            "height": 0, 
-            "id": "Tyrant", 
-            "identity": "Not known to the inhabitants of Earth", 
-            "intelligence": 7, 
-            "knownrelatives": "Galactus (Creator)", 
-            "occupation": "Conqueror", 
-            "origin": [
-                "Tyrant was created as an equal by Galactus", 
-                "when the universe was young. Revealed in (Cosmic Powers #6", 
-                "1994)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Tyrant possesses massive cosmic power, and psionic control of machines. He had enough power to force Galactus into retreat.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Created by Galactus (Cosmic Powers #6, 1994)", 
-                "vs Galactus, defeated (Silver Surfer #81, 1993)", 
-                "returned, captured Silver Surfer & allies, vs Ganymede & Galactus, escaped with Morg (Silver Surfer #78-82, 1994)", 
-                "vs Thanos & allies (Cosmic Powers #5-6, 1994)", 
-                "vs Jakar, lost globe of power (Cosmic Powers Unlimited #3, 1994)", 
-                "sent Toady minion to track Galactus (Silver Surfer #101-102, 1995)", 
-                "vs Galactus, vanished in Ultimate Nullifier blast (Silver Surfer #104-109, 1995)"
-            ], 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": "Varies\n"
-        }
-    }
+    "aliases": "Not known", 
+    "citizenship": "Unrevealed", 
+    "content": "When he returned from his exile, Tyrant went back to his old ways. He was quickly met with opposition. Among those who clashed with him were; the Silver Surfer and Gladiator, Praetor of the Shi\u2019ar Imperial Guard, Morg and Terrax former Heralds of Galactus, Beta Ray Bill, usurper of Asgardian might, also the half breed Jack of Hearts and a revived Spinster (Ganymede) apparently the last of her kind. They were easily overcome. Yet Tyrant was again forced to withdraw due to the intervention of Galactus.", 
+    "durability": 7, 
+    "education": "Unrevealed", 
+    "energy": 7, 
+    "eyes": "Red\n", 
+    "fighting": 7, 
+    "firstappearance": "= Silver Surfer #81 (1993)\n", 
+    "groupaffiliation": "Leader of an alien army.", 
+    "hair": "Gray cables\n", 
+    "height": 0, 
+    "id": "Tyrant", 
+    "identity": "Not known to the inhabitants of Earth", 
+    "intelligence": 7, 
+    "knownrelatives": "Galactus (Creator)", 
+    "occupation": "Conqueror", 
+    "origin": [
+        "Tyrant was created as an equal by Galactus", 
+        "when the universe was young. Revealed in (Cosmic Powers #6", 
+        "1994)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Tyrant possesses massive cosmic power, and psionic control of machines. He had enough power to force Galactus into retreat.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Created by Galactus (Cosmic Powers #6, 1994)", 
+        "vs Galactus, defeated (Silver Surfer #81, 1993)", 
+        "returned, captured Silver Surfer & allies, vs Ganymede & Galactus, escaped with Morg (Silver Surfer #78-82, 1994)", 
+        "vs Thanos & allies (Cosmic Powers #5-6, 1994)", 
+        "vs Jakar, lost globe of power (Cosmic Powers Unlimited #3, 1994)", 
+        "sent Toady minion to track Galactus (Silver Surfer #101-102, 1995)", 
+        "vs Galactus, vanished in Ultimate Nullifier blast (Silver Surfer #104-109, 1995)"
+    ], 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": "Varies\n"
 }

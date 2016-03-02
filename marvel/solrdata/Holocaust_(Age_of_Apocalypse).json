@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Nemesis", 
-            "citizenship": "U.S.A. (presumed)", 
-            "content": "Nemesis was sent to kill as many of Magneto's young students as he could while the X-Men were off fighting Apocalypse's Horsemen. He was defeated in battle by the Scarlet Witch, although he was able to kill her. He left before the X-Men returned and was embraced by Apocalypse as his newest Horseman.During Apocalypse's blitzkrieg launched against Europe and Asia, Nemesis joined Apocalypse in Japan. They murdered thousands of humans and captured Sunfire, but before they could kill him, Sunfire unleashed a nuclear level plasma blast. Nemesis absorbed the blast, saving himself and Apocalypse.When Apocalypse returned home to recuperate, Nemesis, now charged with Sunfire's energies, was left to take care of Japan. A small squad of X-Men attacked him. Using Sunfire's energy, Nemesis was about to murder Quicksilver. Enraged, Magneto used his powers to tear Nemesis apart from the inside out. The X-Men retreated, many of them injured, and left the burnt corpse of Nemesis for dead.Nemesis awoke in the labs of the Dark Beast and was fitted with a transparent armor that would not only channel his energy but also contain him and keep him from dissipating. He took the name Holocaust and would eventually become a Horseman again.In the days leading up to the fall of Apocalypse, Holocaust faced off against Sabretooth and Wild Child in Chicago. Holocaust was winning and, in his excitement, revealed the secret location of an Infinite processing plant. Wild Child took this information back to the X-Men who used it to save thousands of lives.Defeated in Indianapolis by the X-Men, the beaten Holocaust returned to his father's side. In the final battle of the Age of Apocalypse, Holocaust fought the Sinister-created Nate Grey. Grey stabbed Holocaust with a shard of the M'Kraan Crystal, which sent both of them into the original Marvel Universe (616), where Holocaust continued to wreak havoc.", 
-            "durability": 6, 
-            "education": "Unrevealed", 
-            "energy": 6, 
-            "eyes": "(As Nemesis) Blue; (as Holocaust) Red\n", 
-            "fighting": 3, 
-            "firstappearance": "(As Holocaust, cameo) Stryfe's Strike File #1 (1993); (as Holocaust, fully) X-Men: Alpha (1995); (as Nemesis) X-Men Chronicles #1 (1995)\n", 
-            "groupaffiliation": [
-                "None", 
-                "(formerly) Exiles", 
-                "Onslaught's servants", 
-                "Horsemen of Apocalypse"
-            ], 
-            "hair": "(As Nemesis) Blond; (as Holocaust) None\n", 
-            "height": 75, 
-            "id": "Holocaust_(Age_of_Apocalypse)", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "En Sabah Nur (Apocalypse, purported father)", 
-            "occupation": [
-                "Terrorist", 
-                "Horseman of Apocalypse", 
-                "caretaker of a quarter of Apocalypse's nation"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Holocaust is a mutant who is able to absorb energy from other mutants. He also uses the energy he siphoned to increase his strength and project energy blasts. As Nemesis, he was also able to redirect that energy into a negation effect on others' powers. He does not seem to have that ability since he lost his physical form.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "recruited in to Exiles (Exiles #60, 2005)", 
-                "killed by Hyperion (Exiles #62, 2005)"
-            ], 
-            "speed": 2, 
-            "strength": 5, 
-            "universe": "Age of Apocalypse (Earth-295)", 
-            "weight": 240
-        }
-    }
+    "aliases": "Nemesis", 
+    "citizenship": "U.S.A. (presumed)", 
+    "content": "Nemesis was sent to kill as many of Magneto's young students as he could while the X-Men were off fighting Apocalypse's Horsemen. He was defeated in battle by the Scarlet Witch, although he was able to kill her. He left before the X-Men returned and was embraced by Apocalypse as his newest Horseman.During Apocalypse's blitzkrieg launched against Europe and Asia, Nemesis joined Apocalypse in Japan. They murdered thousands of humans and captured Sunfire, but before they could kill him, Sunfire unleashed a nuclear level plasma blast. Nemesis absorbed the blast, saving himself and Apocalypse.When Apocalypse returned home to recuperate, Nemesis, now charged with Sunfire's energies, was left to take care of Japan. A small squad of X-Men attacked him. Using Sunfire's energy, Nemesis was about to murder Quicksilver. Enraged, Magneto used his powers to tear Nemesis apart from the inside out. The X-Men retreated, many of them injured, and left the burnt corpse of Nemesis for dead.Nemesis awoke in the labs of the Dark Beast and was fitted with a transparent armor that would not only channel his energy but also contain him and keep him from dissipating. He took the name Holocaust and would eventually become a Horseman again.In the days leading up to the fall of Apocalypse, Holocaust faced off against Sabretooth and Wild Child in Chicago. Holocaust was winning and, in his excitement, revealed the secret location of an Infinite processing plant. Wild Child took this information back to the X-Men who used it to save thousands of lives.Defeated in Indianapolis by the X-Men, the beaten Holocaust returned to his father's side. In the final battle of the Age of Apocalypse, Holocaust fought the Sinister-created Nate Grey. Grey stabbed Holocaust with a shard of the M'Kraan Crystal, which sent both of them into the original Marvel Universe (616), where Holocaust continued to wreak havoc.", 
+    "durability": 6, 
+    "education": "Unrevealed", 
+    "energy": 6, 
+    "eyes": "(As Nemesis) Blue; (as Holocaust) Red\n", 
+    "fighting": 3, 
+    "firstappearance": "(As Holocaust, cameo) Stryfe's Strike File #1 (1993); (as Holocaust, fully) X-Men: Alpha (1995); (as Nemesis) X-Men Chronicles #1 (1995)\n", 
+    "groupaffiliation": [
+        "None", 
+        "(formerly) Exiles", 
+        "Onslaught's servants", 
+        "Horsemen of Apocalypse"
+    ], 
+    "hair": "(As Nemesis) Blond; (as Holocaust) None\n", 
+    "height": 75, 
+    "id": "Holocaust_(Age_of_Apocalypse)", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "En Sabah Nur (Apocalypse, purported father)", 
+    "occupation": [
+        "Terrorist", 
+        "Horseman of Apocalypse", 
+        "caretaker of a quarter of Apocalypse's nation"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Holocaust is a mutant who is able to absorb energy from other mutants. He also uses the energy he siphoned to increase his strength and project energy blasts. As Nemesis, he was also able to redirect that energy into a negation effect on others' powers. He does not seem to have that ability since he lost his physical form.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "recruited in to Exiles (Exiles #60, 2005)", 
+        "killed by Hyperion (Exiles #62, 2005)"
+    ], 
+    "speed": 2, 
+    "strength": 5, 
+    "universe": "Age of Apocalypse (Earth-295)", 
+    "weight": 240
 }

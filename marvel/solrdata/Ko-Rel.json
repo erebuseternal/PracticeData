@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Nova 0001", 
-            "citizenship": "Kree", 
-            "content": "Gamora tracked Ko-Rel back to her ship and, managed to slaughter most of Ko-Rel's crew. The Worldmind reminded the new Nova, that she must protect, Nova Prime at all cost, for he contained the collective essence of Xandar. Ko-Rel led the Phalanx on a pursuit in order to save her remaining forces. Gamora took advantage of Ko-Rel's absence and infected Nova Prime, with the transmode virus converting him into a member of the Select. During the transformation of Nova Prime, the Worldmind went off line, leaving Ko-Rel to defend herself against the Phalanx hunter pack, which she eventually defeated. When she returned to the ship, she was met by the sight of the mass carnage of her remaining platoon members. However, she was able to salvage the halo-disc containing the image of little Zam. Ko-Rel left the rimworld of Drez-Lar, with the assistance of the Worldmind, in search of Gamora and Nova Prime. While en-route to the planetoid Nil-Rast, the Worldmind instructed Ko-rel, that it would be prudent to destroy him rather than allowing the Phalanx to obtain the secrets he possessed. While on Nil-Rast Nova Prime and Gamora convert the very powerful Drax the Destroyer into a member of the Select.", 
-            "durability": 1, 
-            "education": "Trained as a medic and warrior", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Shown as Ko-Rel for the first time (Nova #4, 2007)\n", 
-            "groupaffiliation": [
-                "Formerly Kree military", 
-                "briefly new Nova Corps member"
-            ], 
-            "hair": "White\n", 
-            "id": "Ko-Rel", 
-            "identity": "Unknown to the general populace of Earth", 
-            "intelligence": 1, 
-            "knownrelatives": "Zam (son)", 
-            "occupation": "Stellar Captain of a stranded Kree Platoon", 
-            "origin": [
-                "Transformation into Nova Centurion 0001 (Nova #5", 
-                "2007)"
-            ], 
-            "placeofbirth": "(possibly) Hala", 
-            "powers": "Ko-Rel was invested with the standard operational abilities of a Nova Corps Centurion. As a Nova Centurion Ko-Rel possesses superhuman strength, endurance, agility, speed, and durability equal to that of a Nova Centurion. Her skin and muscle tissue are more resilient than normal human or Kree tissue, able to deflect high caliber bullets and small explosives without incurring any damage.", 
-            "realname": "Ko-Rel", 
-            "significantissues": "Nova #4-6, 2007", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Nova 0001", 
+    "citizenship": "Kree", 
+    "content": "Gamora tracked Ko-Rel back to her ship and, managed to slaughter most of Ko-Rel's crew. The Worldmind reminded the new Nova, that she must protect, Nova Prime at all cost, for he contained the collective essence of Xandar. Ko-Rel led the Phalanx on a pursuit in order to save her remaining forces. Gamora took advantage of Ko-Rel's absence and infected Nova Prime, with the transmode virus converting him into a member of the Select. During the transformation of Nova Prime, the Worldmind went off line, leaving Ko-Rel to defend herself against the Phalanx hunter pack, which she eventually defeated. When she returned to the ship, she was met by the sight of the mass carnage of her remaining platoon members. However, she was able to salvage the halo-disc containing the image of little Zam. Ko-Rel left the rimworld of Drez-Lar, with the assistance of the Worldmind, in search of Gamora and Nova Prime. While en-route to the planetoid Nil-Rast, the Worldmind instructed Ko-rel, that it would be prudent to destroy him rather than allowing the Phalanx to obtain the secrets he possessed. While on Nil-Rast Nova Prime and Gamora convert the very powerful Drax the Destroyer into a member of the Select.", 
+    "durability": 1, 
+    "education": "Trained as a medic and warrior", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Shown as Ko-Rel for the first time (Nova #4, 2007)\n", 
+    "groupaffiliation": [
+        "Formerly Kree military", 
+        "briefly new Nova Corps member"
+    ], 
+    "hair": "White\n", 
+    "id": "Ko-Rel", 
+    "identity": "Unknown to the general populace of Earth", 
+    "intelligence": 1, 
+    "knownrelatives": "Zam (son)", 
+    "occupation": "Stellar Captain of a stranded Kree Platoon", 
+    "origin": [
+        "Transformation into Nova Centurion 0001 (Nova #5", 
+        "2007)"
+    ], 
+    "placeofbirth": "(possibly) Hala", 
+    "powers": "Ko-Rel was invested with the standard operational abilities of a Nova Corps Centurion. As a Nova Centurion Ko-Rel possesses superhuman strength, endurance, agility, speed, and durability equal to that of a Nova Centurion. Her skin and muscle tissue are more resilient than normal human or Kree tissue, able to deflect high caliber bullets and small explosives without incurring any damage.", 
+    "realname": "Ko-Rel", 
+    "significantissues": "Nova #4-6, 2007", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

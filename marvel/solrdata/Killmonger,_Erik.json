@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Black Panther", 
-            "citizenship": "Wakandan", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Ph.D. in engineering, MBA", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Jungle Action #6 (1973)\n", 
-            "groupaffiliation": "Leader of the Black Panther Cult and the Death Regiment", 
-            "hair": "Black\n", 
-            "height": 78, 
-            "id": "Killmonger,_Erik", 
-            "identity": "None", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified parents (deceased)", 
-            "occupation": [
-                "Leader of the Black Panther Cult", 
-                "former teacher"
-            ], 
-            "origin": "Jungle Action #8 (1974)", 
-            "placeofbirth": [
-                "N'Jadaka village", 
-                "Wakanda"
-            ], 
-            "realname": "N'Jadaka, legally changed to Erik Killmonger", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 225
-        }
-    }
+    "aliases": "Black Panther", 
+    "citizenship": "Wakandan", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Ph.D. in engineering, MBA", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Jungle Action #6 (1973)\n", 
+    "groupaffiliation": "Leader of the Black Panther Cult and the Death Regiment", 
+    "hair": "Black\n", 
+    "height": 78, 
+    "id": "Killmonger,_Erik", 
+    "identity": "None", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified parents (deceased)", 
+    "occupation": [
+        "Leader of the Black Panther Cult", 
+        "former teacher"
+    ], 
+    "origin": "Jungle Action #8 (1974)", 
+    "placeofbirth": [
+        "N'Jadaka village", 
+        "Wakanda"
+    ], 
+    "realname": "N'Jadaka, legally changed to Erik Killmonger", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 225
 }

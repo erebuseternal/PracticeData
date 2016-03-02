@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Russia", 
-            "content": "In America, he tracked Spider-Man's scent and found him chasing two muggers. Vladimir killed the muggers with his bolos and proceeded to attack Spider-Man. A battle soon followed with the Grim Hunter initially winning. However, through determination, Spider-Man overcame the Hunter's attacks and soundly defeated him. Gregor tried to intervene by threatening to use his helicopter's guns to open fire but Spider-Man pulled Gregor out of the helicopter and brought the two of them to jail.", 
-            "durability": 1, 
-            "education": "Privately tutored", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(as Vladimir) Spider-Man #47 (1994); (as Grim Hunter) Spider-Man #50 (1994)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "id": "Grim_Hunter_(Vladimir_Kravinoff)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Sergei Kravinoff (Kraven the Hunter, father, deceased), unidentified mother, Alyosha Kravinoff (Kraven the Hunter, half-brother), Nedrocci Tannengarden (half-brother, deceased), Dmitri Smerdyakov (uncle), Nikolai & Anna Makarova Kravinoff (grandparents, deceased)", 
-            "occupation": "Hunter", 
-            "origin": "Spider-Man #50 (1994)", 
-            "placeofbirth": "unrevealed", 
-            "powers": "The Grim Hunter had enhanced strength, speed, agility, and stamina due to the effects of his father's power-enhancing elixir.", 
-            "realname": "Vladimir Kravinoff", 
-            "significantissues": [
-                "Visited his father's grave and started to hunt Spider-Man (Spider-Man #53, 1994)", 
-                "tracked Scarlet Spider mistaking his scent for Spider-Man's (Web of Spider-Man #120, 1995)", 
-                "fought Scarlet Spider, but realized that he is not the one he is hunting (Spider-Man #54, 1995)", 
-                "encounters Kaine (Web of Spider-Man #121, 1995)", 
-                "murdered by Kaine (Spider-Man # 55, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Russia", 
+    "content": "In America, he tracked Spider-Man's scent and found him chasing two muggers. Vladimir killed the muggers with his bolos and proceeded to attack Spider-Man. A battle soon followed with the Grim Hunter initially winning. However, through determination, Spider-Man overcame the Hunter's attacks and soundly defeated him. Gregor tried to intervene by threatening to use his helicopter's guns to open fire but Spider-Man pulled Gregor out of the helicopter and brought the two of them to jail.", 
+    "durability": 1, 
+    "education": "Privately tutored", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(as Vladimir) Spider-Man #47 (1994); (as Grim Hunter) Spider-Man #50 (1994)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "id": "Grim_Hunter_(Vladimir_Kravinoff)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Sergei Kravinoff (Kraven the Hunter, father, deceased), unidentified mother, Alyosha Kravinoff (Kraven the Hunter, half-brother), Nedrocci Tannengarden (half-brother, deceased), Dmitri Smerdyakov (uncle), Nikolai & Anna Makarova Kravinoff (grandparents, deceased)", 
+    "occupation": "Hunter", 
+    "origin": "Spider-Man #50 (1994)", 
+    "placeofbirth": "unrevealed", 
+    "powers": "The Grim Hunter had enhanced strength, speed, agility, and stamina due to the effects of his father's power-enhancing elixir.", 
+    "realname": "Vladimir Kravinoff", 
+    "significantissues": [
+        "Visited his father's grave and started to hunt Spider-Man (Spider-Man #53, 1994)", 
+        "tracked Scarlet Spider mistaking his scent for Spider-Man's (Web of Spider-Man #120, 1995)", 
+        "fought Scarlet Spider, but realized that he is not the one he is hunting (Spider-Man #54, 1995)", 
+        "encounters Kaine (Web of Spider-Man #121, 1995)", 
+        "murdered by Kaine (Spider-Man # 55, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

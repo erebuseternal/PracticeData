@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"Golden Man\"", 
-            "citizenship": "None", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Gold\n", 
-            "fighting": 1, 
-            "firstappearance": "Defenders #143 (1985)\n", 
-            "groupaffiliation": "Elders of the Universe", 
-            "hair": "Gold\n", 
-            "height": 84, 
-            "id": "Runner", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Authlete", 
-                "explorer"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The Power Primordial grants the Runner a cosmic life force that he can use for a variety of purposes, including augmenting his life span so long as he continues his obsession with exploration and racing. Due to an arrangement by the Grandmaster and Death (embodiment)", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 325
-        }
-    }
+    "aliases": "\"Golden Man\"", 
+    "citizenship": "None", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Gold\n", 
+    "fighting": 1, 
+    "firstappearance": "Defenders #143 (1985)\n", 
+    "groupaffiliation": "Elders of the Universe", 
+    "hair": "Gold\n", 
+    "height": 84, 
+    "id": "Runner", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Authlete", 
+        "explorer"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The Power Primordial grants the Runner a cosmic life force that he can use for a variety of purposes, including augmenting his life span so long as he continues his obsession with exploration and racing. Due to an arrangement by the Grandmaster and Death (embodiment)", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 325
 }

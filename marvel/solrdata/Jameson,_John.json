@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Vanwolf", 
-                "Skywolf", 
-                "Stargod", 
-                "Man-Wolf"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Later, Jameson was sent to the moon to collect rock samples on a top-secret mission and stumbled upon a glittering red gemstone. Once his mission was complete, he had a strange urge to obtain the gemstone from quarantine and have it made into a pendant, which he wore around his neck. The stone reacted to the moonlight on the first night of the next full moon, transforming Jameson into a savage lupine creature. The gem was actually the Godstone, the crystallized power and essence of Stargod, an ancient ruler from a dimension called Other Realm. When Stargod was dying he opened a portal to Earth's moon and channeled his energy into the jewel, which had landed there millennia before following the destruction of the collection of power gems known as the Lifestone Tree. Ancient prophecies foretold that in evil times, Stargod would be reborn to save the people of Other Realm. The energies of the Godstone transformed Jameson into the form of the Stargod, but the radiation that leaked through the portal to Other Realm was so weak that the change was only partial. Whenever the moon shone upon the Godstone, Jameson gained the form, strength, and primal fury of Stargod, but lacked his wisdom and power.Jameson fought the transformations for months. As the Man-Wolf, he instinctively sought out and seemingly attacked his father, who was quick to suspect the creature was partnered with Spider-Man. When Jonah recognized the pendant around the Man-Wolf's neck, he knew the creature was his son. However, he could not cure him by removing the pendant, since it had grafted itself onto his skin. In a subsequent battle with the Man-Wolf, Spider-Man tore the stone from his neck and threw it into the Hudson River. The wound took months to heal, but Jameson was cured.Unfortunately, the artificial vampire Michael Morbius recovered the stone and reverted Jameson into the Man-Wolf again, hoping to use the beast in a scheme to cure himself of his affliction. Spider-Man thwarted the effort, but both Morbius and Jameson escaped. Once again, the Man-Wolf ran rampant monthly. The police assigned special investigator Simon Stroud to the case of the Man-Wolf. Jameson fled New York to Georgia where he became entangled in a fight between S.H.I.E.L.D. and the Hate-Monger (a clone of Adolph Hitler). Nick Fury, director of S.H.I.E.L.D., escorted Jameson back to NASA, where he had been absent without leave. NASA offered to drop the charges if Jameson agreed to perform a secret mission to investigate the communication breakdown with an orbiting space station. At the station, Jameson began his journey to discover the other-dimensional origin of his powers. He journeyed with three humanoids from Other Realm through the portal on the moon into their dimension. There, he was fully transformed into the essence of Stargod, this time maintaining his personality and intelligence. Fulfilling the prophecies, Jameson donned the costume and wielded the weapons of Stargod, ultimately managing to access his full power and help the \"Realmites\" defeat the tyrant Arisen Tyrk .For a time, Captain America hired Jameson to serve as pilot of his personal Quinjet, Freedom's Flight, as well as his van. While aboard the Freedom's Flight, Jameson's alias was \"Skywolf\"; while aboard the van, his alias was \"Vanwolf\". Jameson assisted Captain America during the \"Bloodstone Hunt\", and in his attempts to combat the drug trade during a turf war between the Kingpin and the Red Skull. At one point, Jameson was hypnotized with other members of the Avengers support crew by Mother Night and Minister Blood, and was forced to assist them in an attempt on the Avengers' lives, but the Avengers managed to halt him. Eventually he was contacted by the villain Dredmund Druid. Jameson attempted to defeat Dredmund himself, but was overpowered and temporarily transformed into a werewolf that greatly resembled his Man-Wolf form. Dredmund reassembled the Godstone and attempted to use it, but was defeated by Captain America; the stone was destroyed again. John was attracted to Captain America's girlfriend Diamondback and left his employment in shame after trying to steal a kiss.After a time as a freelance monster-hunter, he served as security chief at the Ravencroft Institute, where he began a romantic relationship with the director, Dr. Ashley Kafka. After several problems with superpowered criminally insane inmates including Carnage, the Institute was temporarily shut down. Kafka thought she was close to healing the Chameleon of his mental illness, but was duped by the villain, enabling him to escape and kidnap her, John, and Spider-Man. With this final breach of security, Senator Roeberg fired Jameson and Kafka, hiring Dr. Leonard Samson as the new director of Ravencroft. Shortly thereafter, Mad Jack (Daniel Berkhart) implanted a command in Jameson's mind to smother his hospitalized father with a pillow, causing John to act wolf-like, though in human form. Kafka used hypnosis to undo the effects, transforming him temporarily into the Man-Wolf despite the absence of the Godstone. Residual affects of the Godstone are apparently permanently a part of Jameson. He and Kafka broke up sometime thereafter.", 
-            "durability": 1, 
-            "education": "College educated, NASA astronaut program graduate, Master of Science degree in Aeronautical Engineering", 
-            "energy": 1, 
-            "eyes": "Brown (red as Man-Wolf)\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man #1 (1963)\n", 
-            "groupaffiliation": [
-                "Ravencroft Institute", 
-                "Avengers Support Crew", 
-                "NASA", 
-                "USAF"
-            ], 
-            "hair": "Red-brown (white as Man-Wolf)\n", 
-            "height": 74, 
-            "id": "Jameson,_John", 
-            "identity": "(Man-Wolf/Stargod): Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "J. Jonah Jameson (father), Joan Jameson (mother, deceased), Marla Madison (stepmother), Jennifer \"Jen\" Walters Jameson (She-Hulk, wife)", 
-            "occupation": [
-                "Employed by the Queens Dept. of Social Services", 
-                "former security chief of the Ravencroft Institute", 
-                "monster hunter", 
-                "astronaut", 
-                "test pilot"
-            ], 
-            "placeofbirth": [
-                "New York", 
-                "New York"
-            ], 
-            "powers": "As the Man-Wolf, Jameson possessed superhuman strength, agility, speed, healing, and stamina as well as heightened senses. He was able to lift 4 tons under peak moonlight conditions. As Stargod, he had some degree of energy manipulation, but the full extent of his powers remains unknown. As Man-Wolf, he was not a traditional werewolf vulnerable to silver.", 
-            "realname": "John Jameson", 
-            "significantissues": "Creatures on the Loose #30 (becomes Man-Wolf), Marvel Premiere #45 (becomes Star-God)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": [
+        "Vanwolf", 
+        "Skywolf", 
+        "Stargod", 
+        "Man-Wolf"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Later, Jameson was sent to the moon to collect rock samples on a top-secret mission and stumbled upon a glittering red gemstone. Once his mission was complete, he had a strange urge to obtain the gemstone from quarantine and have it made into a pendant, which he wore around his neck. The stone reacted to the moonlight on the first night of the next full moon, transforming Jameson into a savage lupine creature. The gem was actually the Godstone, the crystallized power and essence of Stargod, an ancient ruler from a dimension called Other Realm. When Stargod was dying he opened a portal to Earth's moon and channeled his energy into the jewel, which had landed there millennia before following the destruction of the collection of power gems known as the Lifestone Tree. Ancient prophecies foretold that in evil times, Stargod would be reborn to save the people of Other Realm. The energies of the Godstone transformed Jameson into the form of the Stargod, but the radiation that leaked through the portal to Other Realm was so weak that the change was only partial. Whenever the moon shone upon the Godstone, Jameson gained the form, strength, and primal fury of Stargod, but lacked his wisdom and power.Jameson fought the transformations for months. As the Man-Wolf, he instinctively sought out and seemingly attacked his father, who was quick to suspect the creature was partnered with Spider-Man. When Jonah recognized the pendant around the Man-Wolf's neck, he knew the creature was his son. However, he could not cure him by removing the pendant, since it had grafted itself onto his skin. In a subsequent battle with the Man-Wolf, Spider-Man tore the stone from his neck and threw it into the Hudson River. The wound took months to heal, but Jameson was cured.Unfortunately, the artificial vampire Michael Morbius recovered the stone and reverted Jameson into the Man-Wolf again, hoping to use the beast in a scheme to cure himself of his affliction. Spider-Man thwarted the effort, but both Morbius and Jameson escaped. Once again, the Man-Wolf ran rampant monthly. The police assigned special investigator Simon Stroud to the case of the Man-Wolf. Jameson fled New York to Georgia where he became entangled in a fight between S.H.I.E.L.D. and the Hate-Monger (a clone of Adolph Hitler). Nick Fury, director of S.H.I.E.L.D., escorted Jameson back to NASA, where he had been absent without leave. NASA offered to drop the charges if Jameson agreed to perform a secret mission to investigate the communication breakdown with an orbiting space station. At the station, Jameson began his journey to discover the other-dimensional origin of his powers. He journeyed with three humanoids from Other Realm through the portal on the moon into their dimension. There, he was fully transformed into the essence of Stargod, this time maintaining his personality and intelligence. Fulfilling the prophecies, Jameson donned the costume and wielded the weapons of Stargod, ultimately managing to access his full power and help the \"Realmites\" defeat the tyrant Arisen Tyrk .For a time, Captain America hired Jameson to serve as pilot of his personal Quinjet, Freedom's Flight, as well as his van. While aboard the Freedom's Flight, Jameson's alias was \"Skywolf\"; while aboard the van, his alias was \"Vanwolf\". Jameson assisted Captain America during the \"Bloodstone Hunt\", and in his attempts to combat the drug trade during a turf war between the Kingpin and the Red Skull. At one point, Jameson was hypnotized with other members of the Avengers support crew by Mother Night and Minister Blood, and was forced to assist them in an attempt on the Avengers' lives, but the Avengers managed to halt him. Eventually he was contacted by the villain Dredmund Druid. Jameson attempted to defeat Dredmund himself, but was overpowered and temporarily transformed into a werewolf that greatly resembled his Man-Wolf form. Dredmund reassembled the Godstone and attempted to use it, but was defeated by Captain America; the stone was destroyed again. John was attracted to Captain America's girlfriend Diamondback and left his employment in shame after trying to steal a kiss.After a time as a freelance monster-hunter, he served as security chief at the Ravencroft Institute, where he began a romantic relationship with the director, Dr. Ashley Kafka. After several problems with superpowered criminally insane inmates including Carnage, the Institute was temporarily shut down. Kafka thought she was close to healing the Chameleon of his mental illness, but was duped by the villain, enabling him to escape and kidnap her, John, and Spider-Man. With this final breach of security, Senator Roeberg fired Jameson and Kafka, hiring Dr. Leonard Samson as the new director of Ravencroft. Shortly thereafter, Mad Jack (Daniel Berkhart) implanted a command in Jameson's mind to smother his hospitalized father with a pillow, causing John to act wolf-like, though in human form. Kafka used hypnosis to undo the effects, transforming him temporarily into the Man-Wolf despite the absence of the Godstone. Residual affects of the Godstone are apparently permanently a part of Jameson. He and Kafka broke up sometime thereafter.", 
+    "durability": 1, 
+    "education": "College educated, NASA astronaut program graduate, Master of Science degree in Aeronautical Engineering", 
+    "energy": 1, 
+    "eyes": "Brown (red as Man-Wolf)\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man #1 (1963)\n", 
+    "groupaffiliation": [
+        "Ravencroft Institute", 
+        "Avengers Support Crew", 
+        "NASA", 
+        "USAF"
+    ], 
+    "hair": "Red-brown (white as Man-Wolf)\n", 
+    "height": 74, 
+    "id": "Jameson,_John", 
+    "identity": "(Man-Wolf/Stargod): Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "J. Jonah Jameson (father), Joan Jameson (mother, deceased), Marla Madison (stepmother), Jennifer \"Jen\" Walters Jameson (She-Hulk, wife)", 
+    "occupation": [
+        "Employed by the Queens Dept. of Social Services", 
+        "former security chief of the Ravencroft Institute", 
+        "monster hunter", 
+        "astronaut", 
+        "test pilot"
+    ], 
+    "placeofbirth": [
+        "New York", 
+        "New York"
+    ], 
+    "powers": "As the Man-Wolf, Jameson possessed superhuman strength, agility, speed, healing, and stamina as well as heightened senses. He was able to lift 4 tons under peak moonlight conditions. As Stargod, he had some degree of energy manipulation, but the full extent of his powers remains unknown. As Man-Wolf, he was not a traditional werewolf vulnerable to silver.", 
+    "realname": "John Jameson", 
+    "significantissues": "Creatures on the Loose #30 (becomes Man-Wolf), Marvel Premiere #45 (becomes Star-God)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

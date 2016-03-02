@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Brave", 
-            "citizenship": "Asgardian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Journey Into Mystery #85 (1962)\n", 
-            "groupaffiliation": "Gods of Asgard", 
-            "hair": "White; formerly Brown\n", 
-            "height": 76, 
-            "id": "Balder", 
-            "identity": [
-                "No dual identity", 
-                "the majority of Earth's population believes Balder to be a mythological figure"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Buri (Tiwaz, great-grandfather); Bor (grandfather, deceased); Odin (father, deceased); Frigga (mother); Hermod, Tyr (brothers); Thor, Vidar (half-brothers); Loki (step-brother); Ve, Vili (uncles, deceased); Hoder (cousin); Mimir (granduncle)", 
-            "occupation": [
-                "Warrior", 
-                "Asgardian god of light"
-            ], 
-            "placeofbirth": "Asgard", 
-            "powers": "Balder has the ability to radiate unmeasured degrees of heat and light; like all Asgardians, Balder is extremely long-lived, and immune to terrestrial diseases.  Also, while in Asgard, Balder cannot be mortally wounded by any weapon, with the exception of mistletoe.", 
-            "realname": "Balder", 
-            "significantissues": [
-                "Renounces Odin, and serves Karnilla (Thor #189-201, 1971-1972)", 
-                "served as ruler of Asgard in Thor's stead (Thor #255, 1978)", 
-                "shot by Hoder with Mistletoe, but was held in suspended animation by Odin to stop Ragnarok (Thor #274-275, 1978)", 
-                "brought back by Odin, but renounces his warrior lifestyle (Thor #301-302, 1980)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 320
-        }
-    }
+    "aliases": "The Brave", 
+    "citizenship": "Asgardian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Journey Into Mystery #85 (1962)\n", 
+    "groupaffiliation": "Gods of Asgard", 
+    "hair": "White; formerly Brown\n", 
+    "height": 76, 
+    "id": "Balder", 
+    "identity": [
+        "No dual identity", 
+        "the majority of Earth's population believes Balder to be a mythological figure"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Buri (Tiwaz, great-grandfather); Bor (grandfather, deceased); Odin (father, deceased); Frigga (mother); Hermod, Tyr (brothers); Thor, Vidar (half-brothers); Loki (step-brother); Ve, Vili (uncles, deceased); Hoder (cousin); Mimir (granduncle)", 
+    "occupation": [
+        "Warrior", 
+        "Asgardian god of light"
+    ], 
+    "placeofbirth": "Asgard", 
+    "powers": "Balder has the ability to radiate unmeasured degrees of heat and light; like all Asgardians, Balder is extremely long-lived, and immune to terrestrial diseases.  Also, while in Asgard, Balder cannot be mortally wounded by any weapon, with the exception of mistletoe.", 
+    "realname": "Balder", 
+    "significantissues": [
+        "Renounces Odin, and serves Karnilla (Thor #189-201, 1971-1972)", 
+        "served as ruler of Asgard in Thor's stead (Thor #255, 1978)", 
+        "shot by Hoder with Mistletoe, but was held in suspended animation by Odin to stop Ragnarok (Thor #274-275, 1978)", 
+        "brought back by Odin, but renounces his warrior lifestyle (Thor #301-302, 1980)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 320
 }

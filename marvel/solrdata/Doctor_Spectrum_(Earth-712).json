@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed; presumably had a college degree", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #85\n", 
-            "groupaffiliation": "Squadron Supreme", 
-            "hair": "Black\n", 
-            "height": 72, 
-            "id": "Doctor_Spectrum_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Adventurer", 
-                "freedom fighter", 
-                "(Formerly) government agent", 
-                "astronaut", 
-                "and flight instructor"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Joseph \"Joe\" Ledger", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 190
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed; presumably had a college degree", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #85\n", 
+    "groupaffiliation": "Squadron Supreme", 
+    "hair": "Black\n", 
+    "height": 72, 
+    "id": "Doctor_Spectrum_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Adventurer", 
+        "freedom fighter", 
+        "(Formerly) government agent", 
+        "astronaut", 
+        "and flight instructor"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Joseph \"Joe\" Ledger", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 190
 }

@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "When he excepted bets on a fight between Spider-Man and neophyte criminal Overdrive, he lost a large sum of money, and subsequently failed to recoup his losses by taking wagers on the origins of the cocoon that contained the mutated Freak. Desperate to get out from under his fathers thumb, he bailed the media-savvy super-criminal Screwball out of jail and hired her to impersonate Spider-Man in a stage battle with his other hireling Basher. When the real Spider-Man arrived, the Bookies, deception was revealed, upsetting criminals like Scorpia, and Lightmaster, but neither of them were as angry as the Enforcers' OX (Raymond Bloch), Montana (Jackson Brice), and Fancy Dan (Daniel Brito). The trio kidnapped Bookie and took him to Conney Island, where they terrorized him until he was rescued by his father and Spider-Man.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Free comic Book Day 2007, Spider-Man #1 (2007)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "height": 66, 
-            "id": "Bookie", 
-            "identity": "No dual Identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Lester Ladue (father), Grace Ladue (mother), Unidentified grandmother", 
-            "occupation": "Bookmaker", 
-            "placeofbirth": [
-                "Scobeyville", 
-                "New Jersey"
-            ], 
-            "powers": "The Bookie has an encyclopedia knowledge of the superhuman inhabitants of New York City.", 
-            "realname": "John \"Johnny\" Ladue", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 142
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "When he excepted bets on a fight between Spider-Man and neophyte criminal Overdrive, he lost a large sum of money, and subsequently failed to recoup his losses by taking wagers on the origins of the cocoon that contained the mutated Freak. Desperate to get out from under his fathers thumb, he bailed the media-savvy super-criminal Screwball out of jail and hired her to impersonate Spider-Man in a stage battle with his other hireling Basher. When the real Spider-Man arrived, the Bookies, deception was revealed, upsetting criminals like Scorpia, and Lightmaster, but neither of them were as angry as the Enforcers' OX (Raymond Bloch), Montana (Jackson Brice), and Fancy Dan (Daniel Brito). The trio kidnapped Bookie and took him to Conney Island, where they terrorized him until he was rescued by his father and Spider-Man.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Free comic Book Day 2007, Spider-Man #1 (2007)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "height": 66, 
+    "id": "Bookie", 
+    "identity": "No dual Identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Lester Ladue (father), Grace Ladue (mother), Unidentified grandmother", 
+    "occupation": "Bookmaker", 
+    "placeofbirth": [
+        "Scobeyville", 
+        "New Jersey"
+    ], 
+    "powers": "The Bookie has an encyclopedia knowledge of the superhuman inhabitants of New York City.", 
+    "realname": "John \"Johnny\" Ladue", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 142
 }

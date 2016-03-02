@@ -1,63 +1,59 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Mesmer", 
-                "Sylvia Sersi", 
-                "Circe"
-            ], 
-            "citizenship": [
-                "Olympia", 
-                "Greece", 
-                "naturalized U.S. citizen"
-            ], 
-            "content": "Over the centuries Sersi often interacted with humans, visiting Rome during the reign of Nero, helping Merlin expose an impostor (Merlin Demonspawn) in Camelot, visiting France during the French Revolution, and befriending the English poet Thomas Chatterton.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #109 (1963)\n", 
-            "groupaffiliation": [
-                "Eternals of Earth", 
-                "formerly Avengers", 
-                "New Breed", 
-                "Queen's Vengeance"
-            ], 
-            "hair": "Black\n", 
-            "height": 69, 
-            "id": "Sersi", 
-            "identity": [
-                "Publicly known", 
-                "though few believe she is an Eternal"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Helios (father), Perse (mother)", 
-            "occupation": [
-                "Adventurer", 
-                "dancer", 
-                "actress", 
-                "stage magician", 
-                "hedonist"
-            ], 
-            "origin": "Eternals #4 (1976)", 
-            "placeofbirth": [
-                "Olympia", 
-                "Greece"
-            ], 
-            "powers": "Sersi manipulates cosmic energy to grant herself virtual immortality and invulnerability, reshape the molecules of other people or objects, release heat, light and other energies from her eyes and hands, fly, teleport herself and others, and cast illusions.", 
-            "realname": "Sersi", 
-            "significantissues": [
-                "Aided Ikaris against the Deviants (Eternals #3-5, 1976)", 
-                "publicly revealed herself to be an Eternal (Eternals #6, 1976)", 
-                "joined the Avengers (Avengers #314, 1990)", 
-                "slew Proctor (Avengers #375, 1994)", 
-                "briefly adopted alias of Mesmer in the Eternals' guise as the New Breed (New Eternals #1, 2000)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Mesmer", 
+        "Sylvia Sersi", 
+        "Circe"
+    ], 
+    "citizenship": [
+        "Olympia", 
+        "Greece", 
+        "naturalized U.S. citizen"
+    ], 
+    "content": "Over the centuries Sersi often interacted with humans, visiting Rome during the reign of Nero, helping Merlin expose an impostor (Merlin Demonspawn) in Camelot, visiting France during the French Revolution, and befriending the English poet Thomas Chatterton.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #109 (1963)\n", 
+    "groupaffiliation": [
+        "Eternals of Earth", 
+        "formerly Avengers", 
+        "New Breed", 
+        "Queen's Vengeance"
+    ], 
+    "hair": "Black\n", 
+    "height": 69, 
+    "id": "Sersi", 
+    "identity": [
+        "Publicly known", 
+        "though few believe she is an Eternal"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Helios (father), Perse (mother)", 
+    "occupation": [
+        "Adventurer", 
+        "dancer", 
+        "actress", 
+        "stage magician", 
+        "hedonist"
+    ], 
+    "origin": "Eternals #4 (1976)", 
+    "placeofbirth": [
+        "Olympia", 
+        "Greece"
+    ], 
+    "powers": "Sersi manipulates cosmic energy to grant herself virtual immortality and invulnerability, reshape the molecules of other people or objects, release heat, light and other energies from her eyes and hands, fly, teleport herself and others, and cast illusions.", 
+    "realname": "Sersi", 
+    "significantissues": [
+        "Aided Ikaris against the Deviants (Eternals #3-5, 1976)", 
+        "publicly revealed herself to be an Eternal (Eternals #6, 1976)", 
+        "joined the Avengers (Avengers #314, 1990)", 
+        "slew Proctor (Avengers #375, 1994)", 
+        "briefly adopted alias of Mesmer in the Eternals' guise as the New Breed (New Eternals #1, 2000)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Randy worked covertly until Carrion ordered him to eliminate White Tiger, who had learned Carrion was targeting Peter Parker and was watching over him. As Darter, Randy flew behind White Tiger and stunned him with a laser blast. Failing to notice White Tiger was still conscious, Darter called in  to report to Carrion that he had completed his mission, only to be taken by surprise by his opponent. Darter was losing and tried to escape, but White Tiger jumped on his back and they crashed through a window into ESU\u2019s gym, where Carrion was accusing Spider-Man of murders of Gwen Stacy and Miles Warren. Darter continued the fight against White Tiger to stop him intervening on Spider-Man and Carrion\u2019s fight. White Tiger managed to entangle Darter with some rigging ropes, but Darter used fingertip lasers to free himself and renewed his attack. White Tiger dodged Darter as he tried to ram him, and Darter crashed into Carrion, knocking Carrion and himself into to an empty swimming pool, knocking himself out in the progress.", 
-            "durability": 1, 
-            "education": "University student", 
-            "energy": 1, 
-            "eyes": "Grey\n", 
-            "fighting": 1, 
-            "firstappearance": "Spectacular Spider-Man #29 (1978)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "id": "Darter", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "unrevealed", 
-            "occupation": "None", 
-            "origin": "Spectacular Spider-Man #31 (1978)", 
-            "placeofbirth": "unrevealed", 
-            "powers": "None", 
-            "realname": "Randy Vale", 
-            "significantissues": [
-                "fights White Tiger (Spectacular Spider-Man #30, 1978)", 
-                "killed by Carrion (Spectacular Spider-Man #31, 1978)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Randy worked covertly until Carrion ordered him to eliminate White Tiger, who had learned Carrion was targeting Peter Parker and was watching over him. As Darter, Randy flew behind White Tiger and stunned him with a laser blast. Failing to notice White Tiger was still conscious, Darter called in  to report to Carrion that he had completed his mission, only to be taken by surprise by his opponent. Darter was losing and tried to escape, but White Tiger jumped on his back and they crashed through a window into ESU\u2019s gym, where Carrion was accusing Spider-Man of murders of Gwen Stacy and Miles Warren. Darter continued the fight against White Tiger to stop him intervening on Spider-Man and Carrion\u2019s fight. White Tiger managed to entangle Darter with some rigging ropes, but Darter used fingertip lasers to free himself and renewed his attack. White Tiger dodged Darter as he tried to ram him, and Darter crashed into Carrion, knocking Carrion and himself into to an empty swimming pool, knocking himself out in the progress.", 
+    "durability": 1, 
+    "education": "University student", 
+    "energy": 1, 
+    "eyes": "Grey\n", 
+    "fighting": 1, 
+    "firstappearance": "Spectacular Spider-Man #29 (1978)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "id": "Darter", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "unrevealed", 
+    "occupation": "None", 
+    "origin": "Spectacular Spider-Man #31 (1978)", 
+    "placeofbirth": "unrevealed", 
+    "powers": "None", 
+    "realname": "Randy Vale", 
+    "significantissues": [
+        "fights White Tiger (Spectacular Spider-Man #30, 1978)", 
+        "killed by Carrion (Spectacular Spider-Man #31, 1978)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

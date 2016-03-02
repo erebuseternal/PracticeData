@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Alicia Reiss (birth name)", 
-                "the name Alicia Masters-Storm was used by Skrull impostor Lyja", 
-                "but was popularly believed to have been used by Alicia"
-            ], 
-            "citizenship": "Citizen of the United States of America", 
-            "content": "When her stepfather used his abilities to control the Fantastic Four's Thing and bring him to his apartment for revenge, Alicia sensed the presence of the Invisible Girl, allowing the Puppet Master to trap her by flooding the room with ether. With the Invisible Girl captured, her stepfather dressed Alicia up to look like her and sent her with the Thing to the Baxter Building. But when the Thing attacked his teammates, the rest of the Fantastic Four lured him into a serum that Mister Fantastic had designed to return him to his human self, which broke the Puppet Master\u2019s control. Alicia ran to Ben, and felt his face, but though it radiated the same strength and kindness he did as the Thing, she was relieved when he quickly transformed back into his, tragic and sensitive, rocky self.Alicia was left alone in their apartment after the Fantastic Four defeated her stepfather; afraid that he would return and force her to do things she didn\u2019t want to. He did return, and revealed to her a puppet of himself in a king\u2019s crown and robe. He announced that he would control the world with his puppets. But she resisted him, and in a struggle she tipped over his puppet, pushing him out of a window, seemingly to his death. Her stepfather\u2019s apparent death was short-lived, however, and soon he returned to plague the Fantastic Four, and Alicia, for many years. Alicia quickly befriended the Thing, and they soon began a romantic relationship that also lasted many years.When the Silver Surfer first led Galactus to Earth, the Surfer was struck temporarily unconscious by blow from the Thing. Alicia took care of the Surfer, who was touched by her compassion. This meeting with Alicia led the Surfer to realize the worth of the human race, and to betray Galactus in their defense. He later returned to her but their friendship didn't last long, as the Thing grew jealous and fought with him, believing the Surfer would win Alicia away from him.Alicia was later kidnapped by the Enclave in order to use her blindness and skills as a sculptress to sculpt a bust of their creation, Him, as he initially gave off too much light for a sighted person to withstand. Alicia followed Dr. Hamilton into Warlock's cell, but Warlock sensed her goodness and allowed her in while he imprisoned Hamilton in living vines. She was the first person to see Warlock emerge from the cocoon which his body had surrounded him in, and was forced to stand by while he killed Hamilton and tore apart the Beehive. But the Fantastic Four soon saved her and teleported her out with them before Warlock could transport himself, as well, destroying the Beehive and killing his creators.Over time, Alicia and Ben's relationship grew stronger, and the two considered marriage several times. However, Ben's membership in the Fantastic Four continued to put Alicia at risk and she was occasionally kidnapped or used against Ben, most notably when she mutated into a spider-monster at the hands of Hydra and she was transformed into the Egyptian bride of Nephrus. When Alicia was hospitalized after a brutal attack by Annihilus, their relationship grew troubled. Each came to the conclusion that their courtship should end, but before they could act on it, Ben was taken to the Beyonder's Battleworld and Alicia was kidnapped by Skrulls. One of the Skulls, Lyja the Lazerfirst, took Alicia's place and masqueraded as her for a long period time, starting a romance with and eventually marrying the Human Torch. When the Fantastic Four eventually rescued the real Alicia, she and Ben officially and amicably ended their romance, though they remain good friends. Her father has twice tried to manipulate their minds to reunite the pair, in Liddleville and Sunshine City, but both efforts failed.", 
-            "durability": 2, 
-            "education": "B.A. in Fine Arts", 
-            "energy": 1, 
-            "eyes": "Pale brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #8 (1962)\n", 
-            "groupaffiliation": "Associate of Fantastic Four", 
-            "hair": "Reddish blonde\n", 
-            "height": 60, 
-            "id": "Masters,_Alicia", 
-            "identity": "Publicly known", 
-            "intelligence": 4, 
-            "knownrelatives": "Phillip Masters (stepfather), Marcia Reiss Masters (mother, deceased), Jacob Reiss (father, deceased)", 
-            "occupation": "Sculptress", 
-            "origin": "Marvel Team-Up #6 (1973)", 
-            "placeofbirth": [
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "She has no super powers, though she has temporarily possessed superhuman capabilities in the past. As a spider-creature, she had eight spider-legs, could project webbing from her mouth, and was immensely strong and durable. As the Bride of Nephrus, Alicia could project energy bolts through her crown. Alicia\u2019s interstellar body-suit gave her quantum sight, the ability to see the universe\u2019s energy patterns. She could manipulate those patterns to fly, an activate pre-existing dimensional gates. The suit offered protection against cosmic strength forces, but numbed Alicia\u2019s emotions.", 
-            "realname": "Alicia Reiss Masters", 
-            "significantissues": "See Complete Handbook Bibliography", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 110
-        }
-    }
+    "aliases": [
+        "Alicia Reiss (birth name)", 
+        "the name Alicia Masters-Storm was used by Skrull impostor Lyja", 
+        "but was popularly believed to have been used by Alicia"
+    ], 
+    "citizenship": "Citizen of the United States of America", 
+    "content": "When her stepfather used his abilities to control the Fantastic Four's Thing and bring him to his apartment for revenge, Alicia sensed the presence of the Invisible Girl, allowing the Puppet Master to trap her by flooding the room with ether. With the Invisible Girl captured, her stepfather dressed Alicia up to look like her and sent her with the Thing to the Baxter Building. But when the Thing attacked his teammates, the rest of the Fantastic Four lured him into a serum that Mister Fantastic had designed to return him to his human self, which broke the Puppet Master\u2019s control. Alicia ran to Ben, and felt his face, but though it radiated the same strength and kindness he did as the Thing, she was relieved when he quickly transformed back into his, tragic and sensitive, rocky self.Alicia was left alone in their apartment after the Fantastic Four defeated her stepfather; afraid that he would return and force her to do things she didn\u2019t want to. He did return, and revealed to her a puppet of himself in a king\u2019s crown and robe. He announced that he would control the world with his puppets. But she resisted him, and in a struggle she tipped over his puppet, pushing him out of a window, seemingly to his death. Her stepfather\u2019s apparent death was short-lived, however, and soon he returned to plague the Fantastic Four, and Alicia, for many years. Alicia quickly befriended the Thing, and they soon began a romantic relationship that also lasted many years.When the Silver Surfer first led Galactus to Earth, the Surfer was struck temporarily unconscious by blow from the Thing. Alicia took care of the Surfer, who was touched by her compassion. This meeting with Alicia led the Surfer to realize the worth of the human race, and to betray Galactus in their defense. He later returned to her but their friendship didn't last long, as the Thing grew jealous and fought with him, believing the Surfer would win Alicia away from him.Alicia was later kidnapped by the Enclave in order to use her blindness and skills as a sculptress to sculpt a bust of their creation, Him, as he initially gave off too much light for a sighted person to withstand. Alicia followed Dr. Hamilton into Warlock's cell, but Warlock sensed her goodness and allowed her in while he imprisoned Hamilton in living vines. She was the first person to see Warlock emerge from the cocoon which his body had surrounded him in, and was forced to stand by while he killed Hamilton and tore apart the Beehive. But the Fantastic Four soon saved her and teleported her out with them before Warlock could transport himself, as well, destroying the Beehive and killing his creators.Over time, Alicia and Ben's relationship grew stronger, and the two considered marriage several times. However, Ben's membership in the Fantastic Four continued to put Alicia at risk and she was occasionally kidnapped or used against Ben, most notably when she mutated into a spider-monster at the hands of Hydra and she was transformed into the Egyptian bride of Nephrus. When Alicia was hospitalized after a brutal attack by Annihilus, their relationship grew troubled. Each came to the conclusion that their courtship should end, but before they could act on it, Ben was taken to the Beyonder's Battleworld and Alicia was kidnapped by Skrulls. One of the Skulls, Lyja the Lazerfirst, took Alicia's place and masqueraded as her for a long period time, starting a romance with and eventually marrying the Human Torch. When the Fantastic Four eventually rescued the real Alicia, she and Ben officially and amicably ended their romance, though they remain good friends. Her father has twice tried to manipulate their minds to reunite the pair, in Liddleville and Sunshine City, but both efforts failed.", 
+    "durability": 2, 
+    "education": "B.A. in Fine Arts", 
+    "energy": 1, 
+    "eyes": "Pale brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #8 (1962)\n", 
+    "groupaffiliation": "Associate of Fantastic Four", 
+    "hair": "Reddish blonde\n", 
+    "height": 60, 
+    "id": "Masters,_Alicia", 
+    "identity": "Publicly known", 
+    "intelligence": 4, 
+    "knownrelatives": "Phillip Masters (stepfather), Marcia Reiss Masters (mother, deceased), Jacob Reiss (father, deceased)", 
+    "occupation": "Sculptress", 
+    "origin": "Marvel Team-Up #6 (1973)", 
+    "placeofbirth": [
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "She has no super powers, though she has temporarily possessed superhuman capabilities in the past. As a spider-creature, she had eight spider-legs, could project webbing from her mouth, and was immensely strong and durable. As the Bride of Nephrus, Alicia could project energy bolts through her crown. Alicia\u2019s interstellar body-suit gave her quantum sight, the ability to see the universe\u2019s energy patterns. She could manipulate those patterns to fly, an activate pre-existing dimensional gates. The suit offered protection against cosmic strength forces, but numbed Alicia\u2019s emotions.", 
+    "realname": "Alicia Reiss Masters", 
+    "significantissues": "See Complete Handbook Bibliography", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 110
 }

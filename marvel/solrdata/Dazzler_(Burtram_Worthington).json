@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A. with a criminal record", 
-            "content": "", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 2, 
-            "firstappearance": "Ka-Zar #2 (1970)\n", 
-            "groupaffiliation": "Former leader of own gang", 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Dazzler_(Burtram_Worthington)", 
-            "identity": "Public", 
-            "intelligence": 4, 
-            "knownrelatives": "Warren Kenneth Worthington Sr. (father, deceased), Warren Kenneth Worthington Jr. (brother, deceased), Kathryn Worthington (sister-in-law, deceased), Warren Kenneth Worthington III (Archangel, nephew), unidentified nephew", 
-            "occupation": "Professional criminal", 
-            "origin": "Marvel Tales #30 (1971)", 
-            "placeofbirth": [
-                "Centerport", 
-                "Long Island", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Burtram \u201cBurt\u201d Worthington", 
-            "significantissues": [
-                "Had brother killed, world conquest scheme foiled by Angel, seemingly killed (Ka-Zar #2-3/Marvel Tales #30, 1970/1971)", 
-                "sought family fortune by marrying Kathryn, poisoned her, opposed X-Men, defeated by Angel, arrested (X-Men: The Hidden Years #13-16, 2000-2001)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 155
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A. with a criminal record", 
+    "content": "", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 2, 
+    "firstappearance": "Ka-Zar #2 (1970)\n", 
+    "groupaffiliation": "Former leader of own gang", 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Dazzler_(Burtram_Worthington)", 
+    "identity": "Public", 
+    "intelligence": 4, 
+    "knownrelatives": "Warren Kenneth Worthington Sr. (father, deceased), Warren Kenneth Worthington Jr. (brother, deceased), Kathryn Worthington (sister-in-law, deceased), Warren Kenneth Worthington III (Archangel, nephew), unidentified nephew", 
+    "occupation": "Professional criminal", 
+    "origin": "Marvel Tales #30 (1971)", 
+    "placeofbirth": [
+        "Centerport", 
+        "Long Island", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Burtram \u201cBurt\u201d Worthington", 
+    "significantissues": [
+        "Had brother killed, world conquest scheme foiled by Angel, seemingly killed (Ka-Zar #2-3/Marvel Tales #30, 1970/1971)", 
+        "sought family fortune by marrying Kathryn, poisoned her, opposed X-Men, defeated by Angel, arrested (X-Men: The Hidden Years #13-16, 2000-2001)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 155
 }

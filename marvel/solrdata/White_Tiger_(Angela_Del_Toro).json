@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "La Tigresa Blanca", 
-            "citizenship": "U.S.A.", 
-            "content": "Murdock himself had recently been \"outed\" as the masked crimefighter Daredevil, though he publicly denied his double identity. Trying to understand super-heroes in general and her late uncle in particular, Angela - now a Federal Agent - volunteered to participate in the ongoing FBI investigation of Murdock; however, when Hector's amulets were handed down to her, an overwhelmed Angela asked Murdock to help her decide what to do with them. Knowing the terrible cost of the vigilante lifestyle - and having seen her own partner, Agent Harold Driver, killed during the Daredevil investigation - Angela wanted to know why anyone would ever play super-hero. She told Murdock she was willing to quit the FBI and abandon her case if he could answer her questions. Recognizing Angela's sincerity, Murdock challenged her to scale St. Catherine's Cathedral, then engaged her in rooftop combat as Daredevil. Convinced of her ability, Murdock presented Angela with a final lesson by leading her to a robbery in progress. Subduing the robbers single-handedly, a proud Angela was touched by the awestruck gratitude of the shopkeeper she had rescued, and she finally began to understand her new calling. Shortly thereafter, Del Toro rescued Murdock from ex-crimelord Alexander Bont and his reluctant henchman Gladiator, beating Potter into submission and making her mark as the new White Tiger.", 
-            "durability": 1, 
-            "education": "FBI training, police academy graduate", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Daredevil #58 (2004)\n", 
-            "groupaffiliation": "Formerly FBI", 
-            "hair": "Brown\n", 
-            "height": 68, 
-            "id": "White_Tiger_(Angela_Del_Toro)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Awilda Ayala-Del Toro (mother), Filippo Ayala (uncle, deceased), Hector Ayala (White Tiger, uncle, deceased), Mrs. Ayala (aunt), Maria Ayala (grandmother, deceased), Nestor Ayala (grandfather, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former FBI agent"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The White Tiger amulets augment Angela's strength, speed, stamina, durability, agility and reflexes to slightly superhuman levels, and also endow her with formidable martial arts skills. The amulets may also enhance Angela's recuperative powers, as they apparently did with Hector.", 
-            "realname": "Angela Del Toro", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": "La Tigresa Blanca", 
+    "citizenship": "U.S.A.", 
+    "content": "Murdock himself had recently been \"outed\" as the masked crimefighter Daredevil, though he publicly denied his double identity. Trying to understand super-heroes in general and her late uncle in particular, Angela - now a Federal Agent - volunteered to participate in the ongoing FBI investigation of Murdock; however, when Hector's amulets were handed down to her, an overwhelmed Angela asked Murdock to help her decide what to do with them. Knowing the terrible cost of the vigilante lifestyle - and having seen her own partner, Agent Harold Driver, killed during the Daredevil investigation - Angela wanted to know why anyone would ever play super-hero. She told Murdock she was willing to quit the FBI and abandon her case if he could answer her questions. Recognizing Angela's sincerity, Murdock challenged her to scale St. Catherine's Cathedral, then engaged her in rooftop combat as Daredevil. Convinced of her ability, Murdock presented Angela with a final lesson by leading her to a robbery in progress. Subduing the robbers single-handedly, a proud Angela was touched by the awestruck gratitude of the shopkeeper she had rescued, and she finally began to understand her new calling. Shortly thereafter, Del Toro rescued Murdock from ex-crimelord Alexander Bont and his reluctant henchman Gladiator, beating Potter into submission and making her mark as the new White Tiger.", 
+    "durability": 1, 
+    "education": "FBI training, police academy graduate", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Daredevil #58 (2004)\n", 
+    "groupaffiliation": "Formerly FBI", 
+    "hair": "Brown\n", 
+    "height": 68, 
+    "id": "White_Tiger_(Angela_Del_Toro)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Awilda Ayala-Del Toro (mother), Filippo Ayala (uncle, deceased), Hector Ayala (White Tiger, uncle, deceased), Mrs. Ayala (aunt), Maria Ayala (grandmother, deceased), Nestor Ayala (grandfather, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former FBI agent"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The White Tiger amulets augment Angela's strength, speed, stamina, durability, agility and reflexes to slightly superhuman levels, and also endow her with formidable martial arts skills. The amulets may also enhance Angela's recuperative powers, as they apparently did with Hector.", 
+    "realname": "Angela Del Toro", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

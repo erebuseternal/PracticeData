@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "Scared and alone, she rebelled against society and decided to go underground where it was safe, and where she could escape prying, peering eyes. She quickly made a huge abandoned military tunnel called \"the Alley\" built underneath Manhattan in the 1950s her home.With help from the mutant-detecting Caliban, the devoted Sunder and the treacherous Masque, she organized a community of mutant outcasts called the Morlocks. (Unknown to Callisto, the Morlocks were being manipulated by the extradimensional sadist called the Dark Beast, a twisted alternate version of Hank McCoy.)In recent years, Callisto, apparently driven to irrationality by her responsibilities, abducted the winged Angel (Warren Worthington III) as a consort. Angel's X-Men teammates invaded the Alley but were captured as well. The team's leader, Storm, challenged Callisto to trial by combat, almost killing her and winning the mantle of Morlock leader. Initially hating Storm, Callisto, de facto leader in Storm's absence, grew to respect the X-Men and their founder, Professor X, whose life she saved after a beating by anti-mutant protestors.Callisto and her growing band of outcasts became the victims of a massacre, orchestrated by Mister Sinister and implemented by his team of Marauders. The few survivors, including Callisto, were treated by Moira MacTaggert on Muir Island, Scotland; in gratitude, Callisto appointed herself MacTaggert's bodyguard and assisted Cyclops against the mutant-hating Master Mold. However, she was captured by Masque, who had, via the young telepath Brain Cell, enslaved the remaining Morlocks. To taunt her, Masque restored Callisto's long-lost beauty, altered her memories, then freed her in New York to be hunted down. However, the X-Man Colossus protected Callisto, and Masque returned Callisto's scarred appearance before escaping.When Masque was believed dead, the remaining Morlocks went mad and attacked Callisto, who sought the X-Men's aid. However, Mikhail Rasputin, Colossus's brother, convinced Callisto to join him in leading the Morlocks to the Hill, a dimension of rapid time passage. There the survivors built a new society, but the younger generation escaped to Earth as the terrorist unit Gene Nation. Callisto again recruited the X-Men to stop her wayward charges, whom she later tried to rehabilitate in the Alley.When the government anti-mutant persecution increased, Callisto and her prot\u00e9g\u00e9 Marrow attacked official Henry Gyrich but were held off by Spider-Man, who in turn helped battle Prime Sentinels. Severely wounded, Callisto was cared for by Marrow, but the Dark Beast manipulated her into departing. She resurfaced as a mutant gladiator in the mysterious Arena, her body given tentacles by a surviving Masque. However, when Storm was pressed into Arena performance, Callisto joined Storm and her allies to topple Masque. At Storm's request, Callisto joined Professor X's efforts to rebuild the decimated nation Genosha; as a member of his informal inner circle, the Genoshan Excalibur, she has fought Trolls, the Weaponeers and other threats.", 
-            "durability": 4, 
-            "education": "Unrevealed", 
-            "energy": 2, 
-            "eyes": "Blue\n", 
-            "fighting": 7, 
-            "firstappearance": "Uncanny X-Men #169 (1983)\n", 
-            "groupaffiliation": [
-                "X-Cell", 
-                "formerly Excalibur (Genoshan)", 
-                "Arena", 
-                "Morlocks"
-            ], 
-            "hair": "Black\n", 
-            "height": 69, 
-            "id": "Callisto", 
-            "identity": "No dual identity", 
-            "intelligence": 4, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Terrorist", 
-                "former operative of Professor X", 
-                "arena fighter", 
-                "bodyguard", 
-                "Morlock leader", 
-                "fashion model"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Callisto had heightened strength, agility and reflexes, augmented by her tentacles, which can adhere to any surface. Her five senses were superhumanly augmented. She had particularly good night vision. She also had an accelerated healing factor.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Abducted Angel, lost Morlock leadership to Storm (Uncanny X-Men #169-171, 1983)", 
-                "saved Xavier's life (Uncanny X-Men #190-191, 1985)", 
-                "allied with Mikhail Rasputin (Uncanny X-Men #292-293, 1993)", 
-                "allied with Storm against Masque (X-Treme X-Men #37-39, 2004)", 
-                "joined Xavier's efforts to rebuild Genosha (Excalibur #2, 2004)", 
-                "as member of X-Cell (X-Factor #18, 2007)"
-            ], 
-            "speed": 5, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 165
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "Scared and alone, she rebelled against society and decided to go underground where it was safe, and where she could escape prying, peering eyes. She quickly made a huge abandoned military tunnel called \"the Alley\" built underneath Manhattan in the 1950s her home.With help from the mutant-detecting Caliban, the devoted Sunder and the treacherous Masque, she organized a community of mutant outcasts called the Morlocks. (Unknown to Callisto, the Morlocks were being manipulated by the extradimensional sadist called the Dark Beast, a twisted alternate version of Hank McCoy.)In recent years, Callisto, apparently driven to irrationality by her responsibilities, abducted the winged Angel (Warren Worthington III) as a consort. Angel's X-Men teammates invaded the Alley but were captured as well. The team's leader, Storm, challenged Callisto to trial by combat, almost killing her and winning the mantle of Morlock leader. Initially hating Storm, Callisto, de facto leader in Storm's absence, grew to respect the X-Men and their founder, Professor X, whose life she saved after a beating by anti-mutant protestors.Callisto and her growing band of outcasts became the victims of a massacre, orchestrated by Mister Sinister and implemented by his team of Marauders. The few survivors, including Callisto, were treated by Moira MacTaggert on Muir Island, Scotland; in gratitude, Callisto appointed herself MacTaggert's bodyguard and assisted Cyclops against the mutant-hating Master Mold. However, she was captured by Masque, who had, via the young telepath Brain Cell, enslaved the remaining Morlocks. To taunt her, Masque restored Callisto's long-lost beauty, altered her memories, then freed her in New York to be hunted down. However, the X-Man Colossus protected Callisto, and Masque returned Callisto's scarred appearance before escaping.When Masque was believed dead, the remaining Morlocks went mad and attacked Callisto, who sought the X-Men's aid. However, Mikhail Rasputin, Colossus's brother, convinced Callisto to join him in leading the Morlocks to the Hill, a dimension of rapid time passage. There the survivors built a new society, but the younger generation escaped to Earth as the terrorist unit Gene Nation. Callisto again recruited the X-Men to stop her wayward charges, whom she later tried to rehabilitate in the Alley.When the government anti-mutant persecution increased, Callisto and her prot\u00e9g\u00e9 Marrow attacked official Henry Gyrich but were held off by Spider-Man, who in turn helped battle Prime Sentinels. Severely wounded, Callisto was cared for by Marrow, but the Dark Beast manipulated her into departing. She resurfaced as a mutant gladiator in the mysterious Arena, her body given tentacles by a surviving Masque. However, when Storm was pressed into Arena performance, Callisto joined Storm and her allies to topple Masque. At Storm's request, Callisto joined Professor X's efforts to rebuild the decimated nation Genosha; as a member of his informal inner circle, the Genoshan Excalibur, she has fought Trolls, the Weaponeers and other threats.", 
+    "durability": 4, 
+    "education": "Unrevealed", 
+    "energy": 2, 
+    "eyes": "Blue\n", 
+    "fighting": 7, 
+    "firstappearance": "Uncanny X-Men #169 (1983)\n", 
+    "groupaffiliation": [
+        "X-Cell", 
+        "formerly Excalibur (Genoshan)", 
+        "Arena", 
+        "Morlocks"
+    ], 
+    "hair": "Black\n", 
+    "height": 69, 
+    "id": "Callisto", 
+    "identity": "No dual identity", 
+    "intelligence": 4, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Terrorist", 
+        "former operative of Professor X", 
+        "arena fighter", 
+        "bodyguard", 
+        "Morlock leader", 
+        "fashion model"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Callisto had heightened strength, agility and reflexes, augmented by her tentacles, which can adhere to any surface. Her five senses were superhumanly augmented. She had particularly good night vision. She also had an accelerated healing factor.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Abducted Angel, lost Morlock leadership to Storm (Uncanny X-Men #169-171, 1983)", 
+        "saved Xavier's life (Uncanny X-Men #190-191, 1985)", 
+        "allied with Mikhail Rasputin (Uncanny X-Men #292-293, 1993)", 
+        "allied with Storm against Masque (X-Treme X-Men #37-39, 2004)", 
+        "joined Xavier's efforts to rebuild Genosha (Excalibur #2, 2004)", 
+        "as member of X-Cell (X-Factor #18, 2007)"
+    ], 
+    "speed": 5, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 165
 }

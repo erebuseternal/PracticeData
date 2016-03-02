@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Chaos-Bringer", 
-                "Nathan Summers"
-            ], 
-            "citizenship": "New Canaanites", 
-            "content": "Once the infant Nathan had arrived in the Askani's time, Mother Askani had him cloned, so that if Nathan himself died, the cult could raise his clone to be their savior. The clone's growth was greatly accelerated until he was the same age as Nathan himself. The Askani succeeded in halting the spread of the techno-organic virus in Nathan's body, thereby saving his life.However, Apocalypse and his forces then invaded the Askani's hiding place. Apocalypse found the infant clone and decided to raise him himself.The Askani took the original Nathan to safety, and he was raised to early adolescence by Cyclops and his wife Phoenix, whom Mother Askani transported to the Askani's time period.Apocalypse named the clone Stryfe and encouraged the boy's arrogance and cruelty as he grew into adolescence. Stryfe was watched over by Apocalypse's aide Ch'vayre, who regarded the boy's malevolence with mixed feelings. Neither Apocalypse nor Stryfe was aware that Stryfe was actually a clone.At this point in Apocalypse's millennia-long existence, he had to transfer his consciousness and life forces from one body to another to maintain his life. When his current body grew too old and feeble, Apocalypse intended to take over the powerful young body of Stryfe.Apocalypse's plans were thwarted, however, when he was killed by the adolescent Nathan Summers, who became known as Nathan Dayspring Askani'son, and later as Cable. Stryfe went into hiding with Ch'vayre and eventually became the military leader of the new dictatorship that arose in Apocalypse's place, the New Canaanites.Cable, meanwhile, became the foremost military leader of the New Canaanites' opposition, the Clan Chosen. During the war between these opposing forces, Cable and Stryfe clashed repeatedly, becoming bitter enemies, even though neither was aware of the true relationship between them.Eventually Cable went back in time to the Twentieth Century, hoping to change the course of history by stopping Apocalypse back then. Stryfe fled to the Twentieth Century himself and organized the terrorist group called the Mutant Liberation Front.Inevitably, Cable and Stryfe came into conflict yet again, first when Cable headed the mercenary team called the Six Pack, and later after Cable had taken over the New Mutants, whom he reorganized into X-Force.At one point Stryfe ordered the massacre of the Native Americans of the Camp Verde Reservation, the original home of X-Force member Warpath, in order to cover up secret, illegal genetic experimentation being conducted in its vicinity.Posing as Cable himself, Stryfe publicly made an assassination attempt on Professor Charles Xavier, founder of the X-Men, and nearly succeeded in killing him. Stryfe defeated Apocalypse and seized control of his team of superhuman warriors, the Dark Riders. Believing himself to be the real Nathan Summers, Stryfe captured Cyclops and Phoenix, blaming them for abandoning him as an infant.As a means of spreading further destruction, Stryfe also introduced the Legacy Virus, a disease genetically engineered to be lethal to mutants, into present day Earth. The Legacy Virus has since infected a large number of mutants and killed many of them.Ultimately, Cable and Stryfe had their climactic battle on Earth's moon. They fell through a time vortex and were seemingly destroyed by a self-destruct device in Cable's battlesuit. In fact, however, Cable survived while Stryfe's body was annihilated.But Stryfe's consciousness projected itself into Cable's own mind and took control after Cable returned to Earth. Eventually, however, Cable's mind reasserted control, and Stryfe's consciousness left his body.", 
-            "durability": 3, 
-            "energy": 4, 
-            "eyes": "Blue (can also be glowing)\n", 
-            "fighting": 6, 
-            "firstappearance": "New Mutants #86 (cameo), New Mutants #87\n", 
-            "groupaffiliation": [
-                "Formerly Leader of the New Canaanites", 
-                "leader of the Mutant Liberation Front", 
-                "leader of the Dark Riders"
-            ], 
-            "hair": "White\n", 
-            "height": 0, 
-            "id": "Stryfe", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Cable (\"clone brother\"), Apocalypse(adoptive father)", 
-            "occupation": [
-                "Leader of the New Canaanite armies in Nor-Am Pact region circa 3783-3806 A. D. in an alternate future", 
-                "later terrorist leader in 20th century Earth"
-            ], 
-            "placeofbirth": "Askani secret headquarters (cloned)", 
-            "powers": "Stryfe was a mutant whose physical abilities and intelligence were enhanced above normal human levels. He had vast telekinetic abilities, equal to those of Cable. However, whereas Cable must continually employ part of his telekinesis to keep the techno-organic virus infecting his body in check, Stryfe could utilize his full telekinetic potential.", 
-            "realname": "Stryfe", 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 350
-        }
-    }
+    "aliases": [
+        "The Chaos-Bringer", 
+        "Nathan Summers"
+    ], 
+    "citizenship": "New Canaanites", 
+    "content": "Once the infant Nathan had arrived in the Askani's time, Mother Askani had him cloned, so that if Nathan himself died, the cult could raise his clone to be their savior. The clone's growth was greatly accelerated until he was the same age as Nathan himself. The Askani succeeded in halting the spread of the techno-organic virus in Nathan's body, thereby saving his life.However, Apocalypse and his forces then invaded the Askani's hiding place. Apocalypse found the infant clone and decided to raise him himself.The Askani took the original Nathan to safety, and he was raised to early adolescence by Cyclops and his wife Phoenix, whom Mother Askani transported to the Askani's time period.Apocalypse named the clone Stryfe and encouraged the boy's arrogance and cruelty as he grew into adolescence. Stryfe was watched over by Apocalypse's aide Ch'vayre, who regarded the boy's malevolence with mixed feelings. Neither Apocalypse nor Stryfe was aware that Stryfe was actually a clone.At this point in Apocalypse's millennia-long existence, he had to transfer his consciousness and life forces from one body to another to maintain his life. When his current body grew too old and feeble, Apocalypse intended to take over the powerful young body of Stryfe.Apocalypse's plans were thwarted, however, when he was killed by the adolescent Nathan Summers, who became known as Nathan Dayspring Askani'son, and later as Cable. Stryfe went into hiding with Ch'vayre and eventually became the military leader of the new dictatorship that arose in Apocalypse's place, the New Canaanites.Cable, meanwhile, became the foremost military leader of the New Canaanites' opposition, the Clan Chosen. During the war between these opposing forces, Cable and Stryfe clashed repeatedly, becoming bitter enemies, even though neither was aware of the true relationship between them.Eventually Cable went back in time to the Twentieth Century, hoping to change the course of history by stopping Apocalypse back then. Stryfe fled to the Twentieth Century himself and organized the terrorist group called the Mutant Liberation Front.Inevitably, Cable and Stryfe came into conflict yet again, first when Cable headed the mercenary team called the Six Pack, and later after Cable had taken over the New Mutants, whom he reorganized into X-Force.At one point Stryfe ordered the massacre of the Native Americans of the Camp Verde Reservation, the original home of X-Force member Warpath, in order to cover up secret, illegal genetic experimentation being conducted in its vicinity.Posing as Cable himself, Stryfe publicly made an assassination attempt on Professor Charles Xavier, founder of the X-Men, and nearly succeeded in killing him. Stryfe defeated Apocalypse and seized control of his team of superhuman warriors, the Dark Riders. Believing himself to be the real Nathan Summers, Stryfe captured Cyclops and Phoenix, blaming them for abandoning him as an infant.As a means of spreading further destruction, Stryfe also introduced the Legacy Virus, a disease genetically engineered to be lethal to mutants, into present day Earth. The Legacy Virus has since infected a large number of mutants and killed many of them.Ultimately, Cable and Stryfe had their climactic battle on Earth's moon. They fell through a time vortex and were seemingly destroyed by a self-destruct device in Cable's battlesuit. In fact, however, Cable survived while Stryfe's body was annihilated.But Stryfe's consciousness projected itself into Cable's own mind and took control after Cable returned to Earth. Eventually, however, Cable's mind reasserted control, and Stryfe's consciousness left his body.", 
+    "durability": 3, 
+    "energy": 4, 
+    "eyes": "Blue (can also be glowing)\n", 
+    "fighting": 6, 
+    "firstappearance": "New Mutants #86 (cameo), New Mutants #87\n", 
+    "groupaffiliation": [
+        "Formerly Leader of the New Canaanites", 
+        "leader of the Mutant Liberation Front", 
+        "leader of the Dark Riders"
+    ], 
+    "hair": "White\n", 
+    "height": 0, 
+    "id": "Stryfe", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Cable (\"clone brother\"), Apocalypse(adoptive father)", 
+    "occupation": [
+        "Leader of the New Canaanite armies in Nor-Am Pact region circa 3783-3806 A. D. in an alternate future", 
+        "later terrorist leader in 20th century Earth"
+    ], 
+    "placeofbirth": "Askani secret headquarters (cloned)", 
+    "powers": "Stryfe was a mutant whose physical abilities and intelligence were enhanced above normal human levels. He had vast telekinetic abilities, equal to those of Cable. However, whereas Cable must continually employ part of his telekinesis to keep the techno-organic virus infecting his body in check, Stryfe could utilize his full telekinetic potential.", 
+    "realname": "Stryfe", 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 350
 }

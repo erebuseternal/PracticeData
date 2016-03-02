@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Jack subsequently learned of his alien heritage and traveled to his mother's homeworld, Contraxia, where he re-energized the planet's dying sun. Unwilling to return to Earth, Jack remained in space for a while and was briefly captured by the Stranger and held prisoner on his Laboratory World. The Laboratory World prisoners were set free during an invasion by the Overmind and the Squadron Supreme, and Jack went back to Earth. Upon his return to Earth, Jack battled Quasar and fellow escapees the Presence and Starlight, and the Presence blew a hole in Jack's suit, causing him to retreat into space. Moondragon retrieved him from space, revived him, and mentally forced him to battle Kismet. After he escaped Moondragon's control, Jack set out for space again.Jack sought out the Silver Surfer\u2018s aid in controlling his powers and Jack received an improved set of alien armor on the Anvil prison planet where he helped the Surfer battle Nebula and Gaetar. A short time later, he was captured by the powerful Tyrant along with Thor\u2018s oath-brother Beta Ray Bill, the leader of the Imperial Guard, Gladiator, alien warrior woman Ganymede, and former Heralds of Galactus, the Silver Surfer, Terrax, and Morg (the latter of which was Galactus' Herald at the time). All except Morg managed to escape from Tyrant, and Jack became a close ally and lover of Ganymede.", 
-            "durability": 1, 
-            "education": "BA in poetry, trained by S.H.I.E.L.D.", 
-            "energy": 1, 
-            "eyes": "Blue (right), white (left)\n", 
-            "fighting": 1, 
-            "firstappearance": "Deadly Hands of Kung Fu #23 (1976)\n", 
-            "groupaffiliation": [
-                "Formerly Avengers", 
-                "Defenders (for a day)", 
-                "S.H.I.E.L.D."
-            ], 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Jack_of_Hearts", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Philip Hart (father, deceased), Marie Hart (mother, deceased)", 
-            "occupation": "Adventurer", 
-            "origin": "Deadly Hands of Kung Fu #23 (1976) and Jack of Hearts #1 (1984)", 
-            "placeofbirth": [
-                "New Haven", 
-                "Connecticut"
-            ], 
-            "powers": "Jack was able to generate bursts of energy in the form of concussive force, intense heat, or propelling force that enabled him to fly. He was also capable of absorbing energy from other sources. He possessed superhuman levels of healing and endurance and could survive unprotected in space. Although he only had normal intelligence, his thinking capacity was enhanced by a scanning device which gave his thought processes the speed and efficiency of a highly advanced computer. Jack also had superhuman strength.", 
-            "realname": "Jonathan \"Jack\" Hart", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Jack subsequently learned of his alien heritage and traveled to his mother's homeworld, Contraxia, where he re-energized the planet's dying sun. Unwilling to return to Earth, Jack remained in space for a while and was briefly captured by the Stranger and held prisoner on his Laboratory World. The Laboratory World prisoners were set free during an invasion by the Overmind and the Squadron Supreme, and Jack went back to Earth. Upon his return to Earth, Jack battled Quasar and fellow escapees the Presence and Starlight, and the Presence blew a hole in Jack's suit, causing him to retreat into space. Moondragon retrieved him from space, revived him, and mentally forced him to battle Kismet. After he escaped Moondragon's control, Jack set out for space again.Jack sought out the Silver Surfer\u2018s aid in controlling his powers and Jack received an improved set of alien armor on the Anvil prison planet where he helped the Surfer battle Nebula and Gaetar. A short time later, he was captured by the powerful Tyrant along with Thor\u2018s oath-brother Beta Ray Bill, the leader of the Imperial Guard, Gladiator, alien warrior woman Ganymede, and former Heralds of Galactus, the Silver Surfer, Terrax, and Morg (the latter of which was Galactus' Herald at the time). All except Morg managed to escape from Tyrant, and Jack became a close ally and lover of Ganymede.", 
+    "durability": 1, 
+    "education": "BA in poetry, trained by S.H.I.E.L.D.", 
+    "energy": 1, 
+    "eyes": "Blue (right), white (left)\n", 
+    "fighting": 1, 
+    "firstappearance": "Deadly Hands of Kung Fu #23 (1976)\n", 
+    "groupaffiliation": [
+        "Formerly Avengers", 
+        "Defenders (for a day)", 
+        "S.H.I.E.L.D."
+    ], 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Jack_of_Hearts", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Philip Hart (father, deceased), Marie Hart (mother, deceased)", 
+    "occupation": "Adventurer", 
+    "origin": "Deadly Hands of Kung Fu #23 (1976) and Jack of Hearts #1 (1984)", 
+    "placeofbirth": [
+        "New Haven", 
+        "Connecticut"
+    ], 
+    "powers": "Jack was able to generate bursts of energy in the form of concussive force, intense heat, or propelling force that enabled him to fly. He was also capable of absorbing energy from other sources. He possessed superhuman levels of healing and endurance and could survive unprotected in space. Although he only had normal intelligence, his thinking capacity was enhanced by a scanning device which gave his thought processes the speed and efficiency of a highly advanced computer. Jack also had superhuman strength.", 
+    "realname": "Jonathan \"Jack\" Hart", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

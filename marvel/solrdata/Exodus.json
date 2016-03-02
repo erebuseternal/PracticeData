@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Paris Bennet", 
-                "impersonated Magneto"
-            ], 
-            "citizenship": "France", 
-            "content": "Bennet du Paris was a Frenchman who fought alongside Eobar Garrington, the Black Knight of the 12th century and warrior in the Crusades. Bennet and Eobar were close friends, but they parted ways when Bennet set out to explore a legend of the lost pharaoh in Egypt. Bennet found himself tested by En Sabah Nur, the immortal mutant also known as Apocalypse, who helped unleash Bennet's own mutant powers. Apocalypse christened him \"Exodus\" and made him his servant. Apocalypse tested Exodus by setting him against the time traveling Avengers Sersi and the Black Knight (Dane Whitman) possessing the body of Eobar. The Avengers convinced Exodus that he was little more than a pawn to Apocalypse, and he turned on his master. Apocalypse punished him for his foolish mistake by imprisoning him in the Swiss Alps.Exodus remained in his stasis prison until recent years when the mutant supremacist Magneto revived him. Exodus gave himself over to Magneto's cause with intense fervor. As Magneto took control of the space station Graymalkin, renaming it Avalon. Exodus was sent to gather mutant followers. Among those assembled were a group called the Acolytes, a sect of mutants who worshiped Magneto but they had been deceived by their traitorous leader Fabian Cortez into thinking that Magneto had perished as a martyr. When Exodus revealed Magneto's survival and Cortez's duplicity, the Acolytes abandoned Cortez. Eventually, the X-Men sent a strike force to Avalon to halt Magneto's ambitions. They teleported Exodus off the station to prevent his involvement. As a result of the battle, Magneto's mind was destroyed by Charles Xavier, leaving him comatose.Exodus assumed leadership of the Acolytes, claiming to speak on Magneto's behalf, even indulging in one-sided conversations with his master. When Fabian Cortez helped incite civil war amongst the mutants of Genosha, Exodus confronted and slew Cortez. Exodus then became engaged in battle with the X-Men and Avengers while simultaneously surrounding Genosha in a force field and inciting the mutants of Genosha to war, claiming vengeance upon the nation for its mistreatment of mutants within its borders. He also sought to kill Magneto's human granddaughter Luna for being a stain on Magneto's name. He was finally defeated when Xavier rendered the Black knight immune to Exodus' senses, allowing the Black Knight to strike him down from behind. Exodus returned to Avalon.Avalon was eventually destroyed by the mutant Holocaust (the son of an alternate reality Apocalypse), and Exodus was cut off from both the Acolytes and the still-comatose Magneto. While seeking to hold on to leadership of the Acolytes, he raised some of their numbers from the dead, including Cortez. At one point, his leadership was threatened by Joseph, a clone of Magneto who was thought by many to be the real Magneto. Joseph rejected leadership of the Acolytes. Exodus later sought Isotope E, a creation of the High Evolutionary which could master the evolutionary process. Allied with the High Evolutionary's nemesis the Man-Beast, Exodus fought Quicksilver and the Heroes for Hire. He was eventually defeated by the Black Knight.Magneto had since become the master of Genosha, but during his absence, Exodus stepped in and masqueraded as his one time master. No longer certain of which cause he believed in, Exodus forced Forge to enhance his psychic powers to end the struggle between humans and mutants within Genosha by controlling their minds. The utopia Exodus fashioned came at a cost of the Genoshans' free will, and the X-Men finally forced him to abandon his mission. Later Exodus and his Acolytes allied themselves with Mister Sinister's team of superhuman assassins the Marauders. During a confrontation with Emma Frost, Exodus was severely wounded by Dust.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White (no visible pupils)\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Factor #92 (1993)\n", 
-            "groupaffiliation": [
-                "Formerly Acolytes (leader)", 
-                "Brotherhood Of Mutants (leader)"
-            ], 
-            "hair": "Black\n", 
-            "height": 72, 
-            "id": "Exodus", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Terrorist", 
-                "disciple of Magneto"
-            ], 
-            "origin": "Black Knight: Exodus (1996)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Vast, largely unexplored telepathic and telekinetic abilities; extraction of life energy", 
-            "realname": "Bennet du Paris", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 195
-        }
-    }
+    "aliases": [
+        "Paris Bennet", 
+        "impersonated Magneto"
+    ], 
+    "citizenship": "France", 
+    "content": "Bennet du Paris was a Frenchman who fought alongside Eobar Garrington, the Black Knight of the 12th century and warrior in the Crusades. Bennet and Eobar were close friends, but they parted ways when Bennet set out to explore a legend of the lost pharaoh in Egypt. Bennet found himself tested by En Sabah Nur, the immortal mutant also known as Apocalypse, who helped unleash Bennet's own mutant powers. Apocalypse christened him \"Exodus\" and made him his servant. Apocalypse tested Exodus by setting him against the time traveling Avengers Sersi and the Black Knight (Dane Whitman) possessing the body of Eobar. The Avengers convinced Exodus that he was little more than a pawn to Apocalypse, and he turned on his master. Apocalypse punished him for his foolish mistake by imprisoning him in the Swiss Alps.Exodus remained in his stasis prison until recent years when the mutant supremacist Magneto revived him. Exodus gave himself over to Magneto's cause with intense fervor. As Magneto took control of the space station Graymalkin, renaming it Avalon. Exodus was sent to gather mutant followers. Among those assembled were a group called the Acolytes, a sect of mutants who worshiped Magneto but they had been deceived by their traitorous leader Fabian Cortez into thinking that Magneto had perished as a martyr. When Exodus revealed Magneto's survival and Cortez's duplicity, the Acolytes abandoned Cortez. Eventually, the X-Men sent a strike force to Avalon to halt Magneto's ambitions. They teleported Exodus off the station to prevent his involvement. As a result of the battle, Magneto's mind was destroyed by Charles Xavier, leaving him comatose.Exodus assumed leadership of the Acolytes, claiming to speak on Magneto's behalf, even indulging in one-sided conversations with his master. When Fabian Cortez helped incite civil war amongst the mutants of Genosha, Exodus confronted and slew Cortez. Exodus then became engaged in battle with the X-Men and Avengers while simultaneously surrounding Genosha in a force field and inciting the mutants of Genosha to war, claiming vengeance upon the nation for its mistreatment of mutants within its borders. He also sought to kill Magneto's human granddaughter Luna for being a stain on Magneto's name. He was finally defeated when Xavier rendered the Black knight immune to Exodus' senses, allowing the Black Knight to strike him down from behind. Exodus returned to Avalon.Avalon was eventually destroyed by the mutant Holocaust (the son of an alternate reality Apocalypse), and Exodus was cut off from both the Acolytes and the still-comatose Magneto. While seeking to hold on to leadership of the Acolytes, he raised some of their numbers from the dead, including Cortez. At one point, his leadership was threatened by Joseph, a clone of Magneto who was thought by many to be the real Magneto. Joseph rejected leadership of the Acolytes. Exodus later sought Isotope E, a creation of the High Evolutionary which could master the evolutionary process. Allied with the High Evolutionary's nemesis the Man-Beast, Exodus fought Quicksilver and the Heroes for Hire. He was eventually defeated by the Black Knight.Magneto had since become the master of Genosha, but during his absence, Exodus stepped in and masqueraded as his one time master. No longer certain of which cause he believed in, Exodus forced Forge to enhance his psychic powers to end the struggle between humans and mutants within Genosha by controlling their minds. The utopia Exodus fashioned came at a cost of the Genoshans' free will, and the X-Men finally forced him to abandon his mission. Later Exodus and his Acolytes allied themselves with Mister Sinister's team of superhuman assassins the Marauders. During a confrontation with Emma Frost, Exodus was severely wounded by Dust.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White (no visible pupils)\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Factor #92 (1993)\n", 
+    "groupaffiliation": [
+        "Formerly Acolytes (leader)", 
+        "Brotherhood Of Mutants (leader)"
+    ], 
+    "hair": "Black\n", 
+    "height": 72, 
+    "id": "Exodus", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Terrorist", 
+        "disciple of Magneto"
+    ], 
+    "origin": "Black Knight: Exodus (1996)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Vast, largely unexplored telepathic and telekinetic abilities; extraction of life energy", 
+    "realname": "Bennet du Paris", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 195
 }

@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Alpha Flight #114 (1992)\n", 
-            "groupaffiliation": [
-                "Formerly Alpha Flight", 
-                "Secret Empire", 
-                "Breed"
-            ], 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Wyre", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Adventurer", 
-                "former mercenary", 
-                "assassin"
-            ], 
-            "origin": "Alpha Flight #117 (1993)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Wyre has enhanced strength, speed, senses, healing, agility, endurance and reflexes.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Ambushed Weapon Omega, fled upon Alpha Flight\u2019s arrival (Alpha Flight #114-115, 1992-1993)", 
-                "ambushed Weapon Omega during his battle with Rok, learned of Omega\u2019s humanity, forsook mission (Alpha Flight #116-117, 1993)", 
-                "held in custody at Department H (Alpha Flight #118, 1993)", 
-                "defended helpless Manikin from Hardliners (Alpha Flight #119-120, 1993)", 
-                "aided in opposing demonized Witchfire (Alpha Flight #122-124, 1993)", 
-                "joined ad-hoc Alpha Flight team against Carcass (Alpha Flight #125-126, 1993)", 
-                "with Alpha Flight, vs Hardliners & Master\u2019s Omega Flight, Alpha Flight disbanded (Alpha Flight #128-130, 1994)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 198
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Alpha Flight #114 (1992)\n", 
+    "groupaffiliation": [
+        "Formerly Alpha Flight", 
+        "Secret Empire", 
+        "Breed"
+    ], 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Wyre", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Adventurer", 
+        "former mercenary", 
+        "assassin"
+    ], 
+    "origin": "Alpha Flight #117 (1993)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Wyre has enhanced strength, speed, senses, healing, agility, endurance and reflexes.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Ambushed Weapon Omega, fled upon Alpha Flight\u2019s arrival (Alpha Flight #114-115, 1992-1993)", 
+        "ambushed Weapon Omega during his battle with Rok, learned of Omega\u2019s humanity, forsook mission (Alpha Flight #116-117, 1993)", 
+        "held in custody at Department H (Alpha Flight #118, 1993)", 
+        "defended helpless Manikin from Hardliners (Alpha Flight #119-120, 1993)", 
+        "aided in opposing demonized Witchfire (Alpha Flight #122-124, 1993)", 
+        "joined ad-hoc Alpha Flight team against Carcass (Alpha Flight #125-126, 1993)", 
+        "with Alpha Flight, vs Hardliners & Master\u2019s Omega Flight, Alpha Flight disbanded (Alpha Flight #128-130, 1994)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 198
 }

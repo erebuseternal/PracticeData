@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #282 (1987)\n", 
-            "groupaffiliation": "Olympians", 
-            "hair": "Brown\n", 
-            "height": 0, 
-            "id": "Prometheus", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Lapetus (father), Clymene (mother), Eprimetheus, Menoecues, Atlas (brothers), Asia (wife), Deucalion (son), Pyrrha (niece/daughter-in-law), Zeus, Hera, Poseidon, Demeter, Hades, Hestia (cousins)", 
-            "occupation": [
-                "God of forethought", 
-                "advisor to Zeus", 
-                "former King of Phthia"
-            ], 
-            "placeofbirth": "Olympus", 
-            "powers": "Prometheus possesses superhuman strength, durability, immortality and is immune to conventional diseases.", 
-            "realname": "Prometheus", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 6518
-        }
-    }
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #282 (1987)\n", 
+    "groupaffiliation": "Olympians", 
+    "hair": "Brown\n", 
+    "height": 0, 
+    "id": "Prometheus", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Lapetus (father), Clymene (mother), Eprimetheus, Menoecues, Atlas (brothers), Asia (wife), Deucalion (son), Pyrrha (niece/daughter-in-law), Zeus, Hera, Poseidon, Demeter, Hades, Hestia (cousins)", 
+    "occupation": [
+        "God of forethought", 
+        "advisor to Zeus", 
+        "former King of Phthia"
+    ], 
+    "placeofbirth": "Olympus", 
+    "powers": "Prometheus possesses superhuman strength, durability, immortality and is immune to conventional diseases.", 
+    "realname": "Prometheus", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 6518
 }

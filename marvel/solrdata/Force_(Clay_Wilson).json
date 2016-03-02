@@ -1,54 +1,50 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Taylor", 
-                "Carl Walker", 
-                "Iron Man", 
-                "Ultimate Weapon", 
-                "Ultimate Defense"
-            ], 
-            "citizenship": [
-                "U.S.A. (as Wilson) with criminal record", 
-                "considered legally deceased", 
-                "(as Walker) U.S.A. with no criminal record"
-            ], 
-            "content": "Force later came under the employ of Justin Hammer, an unscrupulous industrialist, who offered to finance improvements on Wilson's armor in exchange for half of the profits made through Force's criminal ventures. Hammer placed Force in charge of all his illegal shipping operations, which included marine piracy, so Hammer could smuggle raw opium into the U.S. for an American businessman. During one of these routine operations, Force and his group of mercenaries hijacked the yacht of Tony Stark and took several hostages, including Bethany Cabe. As Iron Man, Stark trounced Force and his mercenaries and was able to rescue the hostages.Unable to handle the grief and sorrow he had wreaked as Force, Wilson confided his doubt to Hammer who seemed unsympathetic. Tired of being used by Hammer, and repulsed by the man he had become, Wilson abruptly quits. In response, Hammer activates a fail-safe device, the \"Safelok System\", which he had secretly installed in the more recent patch of armor upgrades. Using this fail-safe, Hammer was able to trap Wilson in the armor and threatened to kill him if he broke their business arrangement.Realizing that he had run out of options, Force turned to Iron Man to help him remove the armor and in return he testified against Hammer. While in police custody, Hammer sent his henchmen: Beetle, Blacklash and the Blizzard to kill Wilson before he had a chance to testify. They were promptly stopped by Iron Man, Jim Rhodes and a reformed Force. Afterwards, Stark reported to the authorities that Force was accidentally killed while attempting to escape, but in reality Stark helped him to establish a new identity, giving him a job as Carl Walker at Barstow Electronic.When Stark was unable to wear the Iron Man armor after being shot, Stark Enterprises became vulnerable to corporate sabotage. One such attempt was made by the Roxxon corporation, which hired Fixer to sabotage Barstow Electronics. In an attempt to repay Stark for saving his life, Force accepted Tony's offer to stand in as Iron Man. As he wasn't so experienced in using the sophisticated armor, he was unable to stop the Fixer. Eventually Stark took control of Iron Man and beat the Fixer with Wilson's help.Still working at Barstow Electronics, a particular Pentagon contract required Wilson to be subjected to fingerprint analysis and background checks. When the government ran the prints, they discovered that Walker was actually the thought-to-be-deceased Clay Wilson. Using this information, the Defense Under Secretary blackmailed Walker into assisting him to obtain Stark technology and manipulated Walker into believing it was Stark who had actually betrayed his secret.", 
-            "durability": 1, 
-            "education": "Graduate student in physics; has yet to earn Ph.D.", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(as Wilson) Sub-Mariner #66 (1973); (as Force) Sub-Mariner #68 (1973)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly \"Iron Legion\""
-            ], 
-            "hair": "Brown\n", 
-            "height": 73, 
-            "id": "Force_(Clay_Wilson)", 
-            "identity": [
-                "Wilson (publicly known)", 
-                "Walker (secret)"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified wife", 
-            "occupation": [
-                "Research Scientist", 
-                "former research assistant", 
-                "professional criminal", 
-                "mercenary"
-            ], 
-            "placeofbirth": [
-                "Unrevealed", 
-                "possibly someplace in Missouri"
-            ], 
-            "powers": "None", 
-            "realname": "Clayton Wilson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 185
-        }
-    }
+    "aliases": [
+        "Taylor", 
+        "Carl Walker", 
+        "Iron Man", 
+        "Ultimate Weapon", 
+        "Ultimate Defense"
+    ], 
+    "citizenship": [
+        "U.S.A. (as Wilson) with criminal record", 
+        "considered legally deceased", 
+        "(as Walker) U.S.A. with no criminal record"
+    ], 
+    "content": "Force later came under the employ of Justin Hammer, an unscrupulous industrialist, who offered to finance improvements on Wilson's armor in exchange for half of the profits made through Force's criminal ventures. Hammer placed Force in charge of all his illegal shipping operations, which included marine piracy, so Hammer could smuggle raw opium into the U.S. for an American businessman. During one of these routine operations, Force and his group of mercenaries hijacked the yacht of Tony Stark and took several hostages, including Bethany Cabe. As Iron Man, Stark trounced Force and his mercenaries and was able to rescue the hostages.Unable to handle the grief and sorrow he had wreaked as Force, Wilson confided his doubt to Hammer who seemed unsympathetic. Tired of being used by Hammer, and repulsed by the man he had become, Wilson abruptly quits. In response, Hammer activates a fail-safe device, the \"Safelok System\", which he had secretly installed in the more recent patch of armor upgrades. Using this fail-safe, Hammer was able to trap Wilson in the armor and threatened to kill him if he broke their business arrangement.Realizing that he had run out of options, Force turned to Iron Man to help him remove the armor and in return he testified against Hammer. While in police custody, Hammer sent his henchmen: Beetle, Blacklash and the Blizzard to kill Wilson before he had a chance to testify. They were promptly stopped by Iron Man, Jim Rhodes and a reformed Force. Afterwards, Stark reported to the authorities that Force was accidentally killed while attempting to escape, but in reality Stark helped him to establish a new identity, giving him a job as Carl Walker at Barstow Electronic.When Stark was unable to wear the Iron Man armor after being shot, Stark Enterprises became vulnerable to corporate sabotage. One such attempt was made by the Roxxon corporation, which hired Fixer to sabotage Barstow Electronics. In an attempt to repay Stark for saving his life, Force accepted Tony's offer to stand in as Iron Man. As he wasn't so experienced in using the sophisticated armor, he was unable to stop the Fixer. Eventually Stark took control of Iron Man and beat the Fixer with Wilson's help.Still working at Barstow Electronics, a particular Pentagon contract required Wilson to be subjected to fingerprint analysis and background checks. When the government ran the prints, they discovered that Walker was actually the thought-to-be-deceased Clay Wilson. Using this information, the Defense Under Secretary blackmailed Walker into assisting him to obtain Stark technology and manipulated Walker into believing it was Stark who had actually betrayed his secret.", 
+    "durability": 1, 
+    "education": "Graduate student in physics; has yet to earn Ph.D.", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(as Wilson) Sub-Mariner #66 (1973); (as Force) Sub-Mariner #68 (1973)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly \"Iron Legion\""
+    ], 
+    "hair": "Brown\n", 
+    "height": 73, 
+    "id": "Force_(Clay_Wilson)", 
+    "identity": [
+        "Wilson (publicly known)", 
+        "Walker (secret)"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified wife", 
+    "occupation": [
+        "Research Scientist", 
+        "former research assistant", 
+        "professional criminal", 
+        "mercenary"
+    ], 
+    "placeofbirth": [
+        "Unrevealed", 
+        "possibly someplace in Missouri"
+    ], 
+    "powers": "None", 
+    "realname": "Clayton Wilson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 185
 }

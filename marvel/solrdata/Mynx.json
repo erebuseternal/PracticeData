@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Thanos #8 (2004)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Auburn\n", 
-            "id": "Mynx", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Mynx possessed enhanced strength, stamina, and reflexes.", 
-            "realname": "Mynx (last name unknown)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Thanos #8 (2004)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Auburn\n", 
+    "id": "Mynx", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Mynx possessed enhanced strength, stamina, and reflexes.", 
+    "realname": "Mynx (last name unknown)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

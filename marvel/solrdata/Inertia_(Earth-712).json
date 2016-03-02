@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America of Earth-712", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Squadron Supreme #10\n", 
-            "groupaffiliation": [
-                "(Formerly) Redeemers", 
-                "Squadron Supreme"
-            ], 
-            "hair": "Brown\n", 
-            "height": 64, 
-            "id": "Inertia_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "(At time of death) Adventurer", 
-                "(Formerly) subversive"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The ability to transfer inertia (momentum) from one object or person to another.", 
-            "realname": "Edith Freiberg", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 114
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America of Earth-712", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Squadron Supreme #10\n", 
+    "groupaffiliation": [
+        "(Formerly) Redeemers", 
+        "Squadron Supreme"
+    ], 
+    "hair": "Brown\n", 
+    "height": 64, 
+    "id": "Inertia_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "(At time of death) Adventurer", 
+        "(Formerly) subversive"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The ability to transfer inertia (momentum) from one object or person to another.", 
+    "realname": "Edith Freiberg", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 114
 }

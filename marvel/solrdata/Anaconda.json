@@ -1,57 +1,53 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "Breaking herself, Black Mamba, and Death Adder out of prison, Anaconda and the Serpent Squad were hired to retrieve a powerful weapon known as the microscanner, which scans and disrupts various human functions.  The mission put the trio in direct conflict with Iron Man, who was able to electrocute Anaconda when she attempted to wrap her arms around his helmet and crush his skull.  However, Sidewinder soon invited Anaconda to join the Serpent Society, a criminal organization featuring snake-themed villains.  Anaconda accepted the offer, and during her initiation test, she ordered Rattler and Cobra to finish the mission while she battled Captain America, who had shown up due to an anonymous tip.  Anaconda proved to be quite an adversary for the hero, but he was eventually able to knock her unconscious with his shield.  Sidewinder immediately teleported Anaconda out of prison, which allowed Anaconda to exact her revenge on Constrictor, whom she knew had called the Avengers hotline during their mission.Anaconda also participated in the mission to assassinate MODOK, but was defeated early on when she was thrown through a glass window with a mindblast.  However, after Cottonmouth and Death Adder were able to slay the target, Anaconda carried his body to A.I.M.  Soon after, Anaconda's close friend Death Adder was murdered by the Scourge of the Underworld, and she vowed to avenge his death.  After Viper's invasion of the Serpent Society, Anaconda quickly turned on her former leader, Sidewinder.  When Diamondback brought Captain America to stop Viper, Anaconda attempted to kill Diamondback for her betrayal, but she was stabbed with an acid-tipped diamond.  Though she doesn't care much for Diamondback, she later agreed to help her on her date with Captain America, though Anaconda did not know who it was at the time.  Upon discovering Steve Roger's identity, Anaconda voted guilty at Diamondback's trial for treason.After Diamondback escaped, Anaconda and two new recruits, Puff Adder and Rock Python were sent to watch over her apartment.  It was then that Anaconda became romantically involved with Puff Adder.  After the majority of the Serpent Society had been taken into custody, Anaconda crashed her Serpent Saucer directly into Diamondback's apartment, severely injuring Black Mamba and Asp.  During the kidnap attempt, they were ambushed by MODAM, who invited Anaconda, Diamondback, Black Mamba, and Asp to join the Femizons.  They all agreed, simply because of the large amount of money they were promised.  While on the cruise ship, Anaconda stirred up trouble with the villainess Quicksand.After Superia's defeat, Anaconda returned to the Serpent Society.  She briefly fought Mister Hyde when he infiltrated the Society's base, and also Jack Flag, a double agent who feigned desire to join the organization and become King Cobra's successor.  Much later, Anaconda joined the Bloodsport competition, where she battled Forearm in the first round and Puma in the second.  During her battle with Puma, he defeated her by slashing her throat.  However, Anaconda's recuperative abilities proved useful, as she survived the encounter and joined the Serpent Society once more as they tried to prosecute Diamondback for her betrayal.  She was eventually hired by S.H.I.E.L.D. to join the new Six Pack group.  With the team, she briefly battled Cable, but turned on SHIELD when Cable promised her, Solo, and Constrictor more money than S.H.I.E.L.D. was offering.  Working with Cable, Anaconda fought the X-Men until Silver Surfer interrupted the battle.  The Six Pack later returned to find Cable, but they were absorbed into his mind.  Fortunately, they were saved by Deadpool and the Fixer.", 
-            "durability": 5, 
-            "education": "High school dropout", 
-            "energy": 3, 
-            "eyes": "Green\n", 
-            "fighting": 4, 
-            "firstappearance": "Marvel Two-in-One #64 (1980)\n", 
-            "groupaffiliation": [
-                "Serpent Society", 
-                "formerly Six Pack", 
-                "Serpent Squad", 
-                "Femizons"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 74, 
-            "id": "Anaconda", 
-            "identity": "Known to authorities", 
-            "intelligence": 3, 
-            "knownrelatives": "Unknown", 
-            "occupation": "Professional criminal and mercenary", 
-            "origin": "Captain America #403", 
-            "placeofbirth": [
-                "Pittsburgh", 
-                "Pennsylvania"
-            ], 
-            "powers": "Anaconda possesses the ability to elongate her limbs, entwine them around persons or objects, and constrict. The entire skeletal structure of her arms and legs has been replaced by artificial adamantium alloy-based bones in the basic configuration of a snake's bodily skeleton. Her arms, normally 24 inches from armpit to wrist, and her leg, normally 35 inches from hipbone to ankle, are able to elongate to about one and a half times their normal length. When she extends her limbs in this fashion, the muscle tissue gorges with blood, swelling the limbs so that each looks like a massive, powerful snake. These four constricting limbs are capable of exerting enough pressure to radically deform a one inch-thick steel tube, two feet in diameter. Once Anaconda has fully entwined her serpentine limbs around a human-sized foe, there are few human beings able to get sufficient strength to break her grip. \nAnaconda has been surgically given artificial gills to enable her to extract oxygen from water in order to breath. She can now breathe while underwater indefinitely, as well as breathe on land. As a by-product of the extensive bio-engineering done to her body, Anaconda possesses superhuman recuperative abilities. Her body can heal from ant non-fatal wound many times faster than normal human beings.", 
-            "realname": "Blanche \"Blondie\" Sitznski", 
-            "significantissues": [
-                "assigned to retrieve the Serpent Crown, battled Thing and Stingray(Marvel Two-in-One #65, 1980)", 
-                "battled Iron Man (Iron Man #160)", 
-                "offered membership in the Serpent Society by Sidewinder (Captain America #308)", 
-                "battled Captain America (Captain America #310)", 
-                "participated in the hunting and assassination of MODOK  (Captain America #318)", 
-                "sided with Viper in her takeover of the Serpent Society, battled D-Man (Captain America #342)", 
-                "battled Colossus (X-Men Annual #13)", 
-                "aided Diamondback on her date with Steve Rogers (Captain America #371)", 
-                "served as bailiff in the trial of Diamondback (Captain America #380)", 
-                "invited to join the Femizons, battled Quicksand (Captain America #385-391)", 
-                "flashback of when Anaconda trained Diamondback at Taskmaster's Academy (Captain America #403)", 
-                "participated in the Bloodsport Tournament (Wolverine #167)", 
-                "joined the new Six Pack, battled Cable and later the X-Men (Cable & Deadpool #7-10)", 
-                "absorbed into Cable's mind (Cable & Deadpool #11-12)", 
-                "captured (Cable & Deadpool #34)", 
-                "rejoined Serpent Society (Nova #19)"
-            ], 
-            "speed": 4, 
-            "strength": 5, 
-            "universe": "Marvel Universe", 
-            "weight": 222
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "Breaking herself, Black Mamba, and Death Adder out of prison, Anaconda and the Serpent Squad were hired to retrieve a powerful weapon known as the microscanner, which scans and disrupts various human functions.  The mission put the trio in direct conflict with Iron Man, who was able to electrocute Anaconda when she attempted to wrap her arms around his helmet and crush his skull.  However, Sidewinder soon invited Anaconda to join the Serpent Society, a criminal organization featuring snake-themed villains.  Anaconda accepted the offer, and during her initiation test, she ordered Rattler and Cobra to finish the mission while she battled Captain America, who had shown up due to an anonymous tip.  Anaconda proved to be quite an adversary for the hero, but he was eventually able to knock her unconscious with his shield.  Sidewinder immediately teleported Anaconda out of prison, which allowed Anaconda to exact her revenge on Constrictor, whom she knew had called the Avengers hotline during their mission.Anaconda also participated in the mission to assassinate MODOK, but was defeated early on when she was thrown through a glass window with a mindblast.  However, after Cottonmouth and Death Adder were able to slay the target, Anaconda carried his body to A.I.M.  Soon after, Anaconda's close friend Death Adder was murdered by the Scourge of the Underworld, and she vowed to avenge his death.  After Viper's invasion of the Serpent Society, Anaconda quickly turned on her former leader, Sidewinder.  When Diamondback brought Captain America to stop Viper, Anaconda attempted to kill Diamondback for her betrayal, but she was stabbed with an acid-tipped diamond.  Though she doesn't care much for Diamondback, she later agreed to help her on her date with Captain America, though Anaconda did not know who it was at the time.  Upon discovering Steve Roger's identity, Anaconda voted guilty at Diamondback's trial for treason.After Diamondback escaped, Anaconda and two new recruits, Puff Adder and Rock Python were sent to watch over her apartment.  It was then that Anaconda became romantically involved with Puff Adder.  After the majority of the Serpent Society had been taken into custody, Anaconda crashed her Serpent Saucer directly into Diamondback's apartment, severely injuring Black Mamba and Asp.  During the kidnap attempt, they were ambushed by MODAM, who invited Anaconda, Diamondback, Black Mamba, and Asp to join the Femizons.  They all agreed, simply because of the large amount of money they were promised.  While on the cruise ship, Anaconda stirred up trouble with the villainess Quicksand.After Superia's defeat, Anaconda returned to the Serpent Society.  She briefly fought Mister Hyde when he infiltrated the Society's base, and also Jack Flag, a double agent who feigned desire to join the organization and become King Cobra's successor.  Much later, Anaconda joined the Bloodsport competition, where she battled Forearm in the first round and Puma in the second.  During her battle with Puma, he defeated her by slashing her throat.  However, Anaconda's recuperative abilities proved useful, as she survived the encounter and joined the Serpent Society once more as they tried to prosecute Diamondback for her betrayal.  She was eventually hired by S.H.I.E.L.D. to join the new Six Pack group.  With the team, she briefly battled Cable, but turned on SHIELD when Cable promised her, Solo, and Constrictor more money than S.H.I.E.L.D. was offering.  Working with Cable, Anaconda fought the X-Men until Silver Surfer interrupted the battle.  The Six Pack later returned to find Cable, but they were absorbed into his mind.  Fortunately, they were saved by Deadpool and the Fixer.", 
+    "durability": 5, 
+    "education": "High school dropout", 
+    "energy": 3, 
+    "eyes": "Green\n", 
+    "fighting": 4, 
+    "firstappearance": "Marvel Two-in-One #64 (1980)\n", 
+    "groupaffiliation": [
+        "Serpent Society", 
+        "formerly Six Pack", 
+        "Serpent Squad", 
+        "Femizons"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 74, 
+    "id": "Anaconda", 
+    "identity": "Known to authorities", 
+    "intelligence": 3, 
+    "knownrelatives": "Unknown", 
+    "occupation": "Professional criminal and mercenary", 
+    "origin": "Captain America #403", 
+    "placeofbirth": [
+        "Pittsburgh", 
+        "Pennsylvania"
+    ], 
+    "powers": "Anaconda possesses the ability to elongate her limbs, entwine them around persons or objects, and constrict. The entire skeletal structure of her arms and legs has been replaced by artificial adamantium alloy-based bones in the basic configuration of a snake's bodily skeleton. Her arms, normally 24 inches from armpit to wrist, and her leg, normally 35 inches from hipbone to ankle, are able to elongate to about one and a half times their normal length. When she extends her limbs in this fashion, the muscle tissue gorges with blood, swelling the limbs so that each looks like a massive, powerful snake. These four constricting limbs are capable of exerting enough pressure to radically deform a one inch-thick steel tube, two feet in diameter. Once Anaconda has fully entwined her serpentine limbs around a human-sized foe, there are few human beings able to get sufficient strength to break her grip. \nAnaconda has been surgically given artificial gills to enable her to extract oxygen from water in order to breath. She can now breathe while underwater indefinitely, as well as breathe on land. As a by-product of the extensive bio-engineering done to her body, Anaconda possesses superhuman recuperative abilities. Her body can heal from ant non-fatal wound many times faster than normal human beings.", 
+    "realname": "Blanche \"Blondie\" Sitznski", 
+    "significantissues": [
+        "assigned to retrieve the Serpent Crown, battled Thing and Stingray(Marvel Two-in-One #65, 1980)", 
+        "battled Iron Man (Iron Man #160)", 
+        "offered membership in the Serpent Society by Sidewinder (Captain America #308)", 
+        "battled Captain America (Captain America #310)", 
+        "participated in the hunting and assassination of MODOK  (Captain America #318)", 
+        "sided with Viper in her takeover of the Serpent Society, battled D-Man (Captain America #342)", 
+        "battled Colossus (X-Men Annual #13)", 
+        "aided Diamondback on her date with Steve Rogers (Captain America #371)", 
+        "served as bailiff in the trial of Diamondback (Captain America #380)", 
+        "invited to join the Femizons, battled Quicksand (Captain America #385-391)", 
+        "flashback of when Anaconda trained Diamondback at Taskmaster's Academy (Captain America #403)", 
+        "participated in the Bloodsport Tournament (Wolverine #167)", 
+        "joined the new Six Pack, battled Cable and later the X-Men (Cable & Deadpool #7-10)", 
+        "absorbed into Cable's mind (Cable & Deadpool #11-12)", 
+        "captured (Cable & Deadpool #34)", 
+        "rejoined Serpent Society (Nova #19)"
+    ], 
+    "speed": 4, 
+    "strength": 5, 
+    "universe": "Marvel Universe", 
+    "weight": 222
 }

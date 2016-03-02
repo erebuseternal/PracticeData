@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Unrevealed", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Annihilation: Heralds of Galactus #2 (2007)\n", 
-            "groupaffiliation": "Proemial Gods", 
-            "hair": "None\n", 
-            "id": "Brio", 
-            "identity": [
-                "Inapplicable", 
-                "the general populace of Earth is unaware of Brio's existence"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "She was tasked with the welfare of fledgling life forms.", 
-            "origin": "Annihilation: Heralds of Galactus #2 (2007)", 
-            "placeofbirth": "The Living Universe", 
-            "powers": "Brio is believed to possess massive amounts of Power Cosmic, which enables her to perform her assigned task. The full extent of her powers are unknown.", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Unrevealed", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Annihilation: Heralds of Galactus #2 (2007)\n", 
+    "groupaffiliation": "Proemial Gods", 
+    "hair": "None\n", 
+    "id": "Brio", 
+    "identity": [
+        "Inapplicable", 
+        "the general populace of Earth is unaware of Brio's existence"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "She was tasked with the welfare of fledgling life forms.", 
+    "origin": "Annihilation: Heralds of Galactus #2 (2007)", 
+    "placeofbirth": "The Living Universe", 
+    "powers": "Brio is believed to possess massive amounts of Power Cosmic, which enables her to perform her assigned task. The full extent of her powers are unknown.", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

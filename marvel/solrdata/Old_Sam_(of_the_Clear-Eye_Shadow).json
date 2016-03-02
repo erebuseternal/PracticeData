@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Old Sam", 
-            "citizenship": "Clear-Eye Shadow", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, although it is apparent that he has some knowledge of sorcery, however, the extent of this knowledge is unknown.", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Skaar Son of the Hulk #2 (2008)\n", 
-            "groupaffiliation": [
-                "Shadow People", 
-                "Loyalist against the Empire"
-            ], 
-            "hair": "None\n", 
-            "id": "Old_Sam_(of_the_Clear-Eye_Shadow)", 
-            "identity": "The general populace of Earth is unaware of Old Sam's existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Sorcerer/Prophet", 
-            "origin": "Unrevealed", 
-            "placeofbirth": [
-                "Unrevealed", 
-                "possibly on the planet of Sakaar"
-            ], 
-            "powers": "The fragile old clear-Eye Shadow has some knowledge of sorcery, although the depth of his power are not known at this time.", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Old Sam", 
+    "citizenship": "Clear-Eye Shadow", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, although it is apparent that he has some knowledge of sorcery, however, the extent of this knowledge is unknown.", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Skaar Son of the Hulk #2 (2008)\n", 
+    "groupaffiliation": [
+        "Shadow People", 
+        "Loyalist against the Empire"
+    ], 
+    "hair": "None\n", 
+    "id": "Old_Sam_(of_the_Clear-Eye_Shadow)", 
+    "identity": "The general populace of Earth is unaware of Old Sam's existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Sorcerer/Prophet", 
+    "origin": "Unrevealed", 
+    "placeofbirth": [
+        "Unrevealed", 
+        "possibly on the planet of Sakaar"
+    ], 
+    "powers": "The fragile old clear-Eye Shadow has some knowledge of sorcery, although the depth of his power are not known at this time.", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

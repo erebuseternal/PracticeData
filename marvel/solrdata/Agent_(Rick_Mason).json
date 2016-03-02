@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "unrevealed", 
-            "citizenship": "United States of America", 
-            "content": "Working for Great Britain, Mason uncovered a plot by the renegades Dog, Monkey, and Horse from the strike team China Force (with assistance from duped agents Silver, Auric, and She-Devil) to overthrow Hong Kong's British regime. Battling Horse, an overmatched Mason prevailed by throwing them both over a twenty story balcony, angling himself into a hotel pool while the Horse apparently fell to his death. Shortly thereafter, Nick Fury asked Mason to intervene in the South American country of Costa Brava, where American backed rebels had been supplanted by super-powered mercenaries. Fury had to oppose the American-backed forces; Mason was his solution. Seeing parallels to Hong Kong, Mason entered Costa Brava and captured two of the five mercenaries- Zapper, a mutant British energy generator, and Noise (Julio Mendoza), a mutant Mexican sound controller. He interrogated, tranquilized and abandoned them in uncharted jungle, miles from civilization. Mason was briefly caught and tortured by Black Metal (a South American high-tech mercenary) before escaping. He then captured the final two superhumans (Quota, an African cyborg, and Stealth, a flying Irish/Argentinean mutant) and used them to lure Black Metal into an ambush in an exploding warehouse. The five eliminated, the rebels reclaimed Costa Brava's capital of San Gabriel, installing their leader, Javier La Brava, as president. Rick learned that a former teacher, Chinese geomancer Teng Yun-Suan, was the power behind the takeover attempts.  Mason was forced to kill Teng.", 
-            "durability": 4, 
-            "education": "College graduate; extensive martial arts training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 5, 
-            "firstappearance": "Marvel Graphic Novel: Rick Mason, The Agent (1989)\n", 
-            "groupaffiliation": "Formerly S.H.I.E.L.D.", 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Agent_(Rick_Mason)", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Phineas T. Mason (Tinkerer, father), Deborah Watts Mason (mother, deceased)", 
-            "occupation": "Mercenary", 
-            "placeofbirth": [
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "Mason is a highly trained fighter, a modern weaponry expert, a fluent linguist, and has contacts in most of the world's major intelligence organizations.", 
-            "realname": "Rick Mason", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 195
-        }
-    }
+    "aliases": "unrevealed", 
+    "citizenship": "United States of America", 
+    "content": "Working for Great Britain, Mason uncovered a plot by the renegades Dog, Monkey, and Horse from the strike team China Force (with assistance from duped agents Silver, Auric, and She-Devil) to overthrow Hong Kong's British regime. Battling Horse, an overmatched Mason prevailed by throwing them both over a twenty story balcony, angling himself into a hotel pool while the Horse apparently fell to his death. Shortly thereafter, Nick Fury asked Mason to intervene in the South American country of Costa Brava, where American backed rebels had been supplanted by super-powered mercenaries. Fury had to oppose the American-backed forces; Mason was his solution. Seeing parallels to Hong Kong, Mason entered Costa Brava and captured two of the five mercenaries- Zapper, a mutant British energy generator, and Noise (Julio Mendoza), a mutant Mexican sound controller. He interrogated, tranquilized and abandoned them in uncharted jungle, miles from civilization. Mason was briefly caught and tortured by Black Metal (a South American high-tech mercenary) before escaping. He then captured the final two superhumans (Quota, an African cyborg, and Stealth, a flying Irish/Argentinean mutant) and used them to lure Black Metal into an ambush in an exploding warehouse. The five eliminated, the rebels reclaimed Costa Brava's capital of San Gabriel, installing their leader, Javier La Brava, as president. Rick learned that a former teacher, Chinese geomancer Teng Yun-Suan, was the power behind the takeover attempts.  Mason was forced to kill Teng.", 
+    "durability": 4, 
+    "education": "College graduate; extensive martial arts training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 5, 
+    "firstappearance": "Marvel Graphic Novel: Rick Mason, The Agent (1989)\n", 
+    "groupaffiliation": "Formerly S.H.I.E.L.D.", 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Agent_(Rick_Mason)", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Phineas T. Mason (Tinkerer, father), Deborah Watts Mason (mother, deceased)", 
+    "occupation": "Mercenary", 
+    "placeofbirth": [
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "Mason is a highly trained fighter, a modern weaponry expert, a fluent linguist, and has contacts in most of the world's major intelligence organizations.", 
+    "realname": "Rick Mason", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 195
 }

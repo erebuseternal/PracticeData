@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Spanish citizen who has moved to Transylvania", 
-                "with a criminal record in the U.S.A."
-            ], 
-            "content": "When the rest of the Fantastic Four arrived, they found Ben working for Diablo. They fought with him and tried to convince him to leave his service, but Ben refused, and the four were forced to leave him behind. Diablo soon made his appearance known to the world, and sold his alchemic chemicals internationally, making him the richest man on the planet. Shortly before the rest of the world, Mister Fantastic discovered that Diablo\u2019s chemicals worked, but only for a short while before failing. The world turned on Diablo, but he had already built up an army of loyal followers and was prepared to use his alchemic powers to conquer the planet.But once Diablo had revealed his true intentions, the Fantastic Four were free to attack him. At the same time, the Thing had also discovered that the potion he was given wore off, and he turned on Diablo, but Diablo used one of his chemical pellets to knock him out and seal him in an unbreakable, glass capsule. The remaining three members of the Fantastic Four soon attacked Diablo\u2019s fortress, but after a struggle, Diablo managed to capture them with his chemical pellets. Diablo sealed up the last of the Fantastic Four in the same capsules, but Ben quickly escaped when his broke down. Angered, he chased Diablo through his own castle until he crushed a suit of armor into a giant ball and threw it after the alchemist. Diablo ran from it, hiding within the crypt that the villagers had sealed him in. The Thing followed behind him and reinserted the giant, stone plug, and then smashed it with both fists, causing the entire castle to come crumbling down upon the crypt. The Fantastic Four were later freed, and the Human Torch melted the stone into slag to harden Diablo\u2019s prison.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #30 (1963)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Diablo_(Esteban_De_Ablo)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Alchemist", 
-            "placeofbirth": [
-                "Saragossa", 
-                "Spain"
-            ], 
-            "powers": "Diablo possesses no super-human powers except for the prolonged life and vitality granted to him by an alchemical elixir which he must take from time to time.", 
-            "realname": "Esteban Corazon de Ablo", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Spanish citizen who has moved to Transylvania", 
+        "with a criminal record in the U.S.A."
+    ], 
+    "content": "When the rest of the Fantastic Four arrived, they found Ben working for Diablo. They fought with him and tried to convince him to leave his service, but Ben refused, and the four were forced to leave him behind. Diablo soon made his appearance known to the world, and sold his alchemic chemicals internationally, making him the richest man on the planet. Shortly before the rest of the world, Mister Fantastic discovered that Diablo\u2019s chemicals worked, but only for a short while before failing. The world turned on Diablo, but he had already built up an army of loyal followers and was prepared to use his alchemic powers to conquer the planet.But once Diablo had revealed his true intentions, the Fantastic Four were free to attack him. At the same time, the Thing had also discovered that the potion he was given wore off, and he turned on Diablo, but Diablo used one of his chemical pellets to knock him out and seal him in an unbreakable, glass capsule. The remaining three members of the Fantastic Four soon attacked Diablo\u2019s fortress, but after a struggle, Diablo managed to capture them with his chemical pellets. Diablo sealed up the last of the Fantastic Four in the same capsules, but Ben quickly escaped when his broke down. Angered, he chased Diablo through his own castle until he crushed a suit of armor into a giant ball and threw it after the alchemist. Diablo ran from it, hiding within the crypt that the villagers had sealed him in. The Thing followed behind him and reinserted the giant, stone plug, and then smashed it with both fists, causing the entire castle to come crumbling down upon the crypt. The Fantastic Four were later freed, and the Human Torch melted the stone into slag to harden Diablo\u2019s prison.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #30 (1963)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Diablo_(Esteban_De_Ablo)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Alchemist", 
+    "placeofbirth": [
+        "Saragossa", 
+        "Spain"
+    ], 
+    "powers": "Diablo possesses no super-human powers except for the prolonged life and vitality granted to him by an alchemical elixir which he must take from time to time.", 
+    "realname": "Esteban Corazon de Ablo", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

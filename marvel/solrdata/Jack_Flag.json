@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Formerly King Cobra", 
-                "AZ-1260"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 4, 
-            "education": "High school graduate", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "Captain America #434 (1994)\n", 
-            "groupaffiliation": [
-                "Guardians of the Galaxy", 
-                "Former Co-Director for Captain America\u2019s Hotline", 
-                "prot\u00e9g\u00e9 of Captain America", 
-                "member of Stars and Stripes"
-            ], 
-            "hair": "Brown (dyed red, white, and blue)\n", 
-            "height": 0, 
-            "id": "Jack_Flag", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Drake Harrison (brother), Mr. and Mrs. Harrison (parents), Lucy (live-in girlfriend)", 
-            "occupation": "Student", 
-            "origin": "Captain America #434 (1994)", 
-            "placeofbirth": [
-                "Sandhaven", 
-                "Arizona"
-            ], 
-            "powers": "Jack possesses superhuman strength, stamina, and resilience.", 
-            "realname": "Jack Harrison", 
-            "significantissues": [
-                "Vs. Serpent Society  (Captain America #434-437, 1994-1995)", 
-                "vs. Ultimatum (Captain America #438, 1995)", 
-                "on A.I.M. island (Captain America #440-441/Avengers 387-388, 1995)", 
-                "against Madcap (Captain America #442, 1995)", 
-                "Captain America\u2019s apparent death (Captain America #443, 1995)", 
-                "comes out of retirement (Thunderbolts #110, 2007)", 
-                "paralyzed and captured by Thunderbolts (Thunderbolts #111, 2007)"
-            ], 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": [
+        "Formerly King Cobra", 
+        "AZ-1260"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 4, 
+    "education": "High school graduate", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "Captain America #434 (1994)\n", 
+    "groupaffiliation": [
+        "Guardians of the Galaxy", 
+        "Former Co-Director for Captain America\u2019s Hotline", 
+        "prot\u00e9g\u00e9 of Captain America", 
+        "member of Stars and Stripes"
+    ], 
+    "hair": "Brown (dyed red, white, and blue)\n", 
+    "height": 0, 
+    "id": "Jack_Flag", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Drake Harrison (brother), Mr. and Mrs. Harrison (parents), Lucy (live-in girlfriend)", 
+    "occupation": "Student", 
+    "origin": "Captain America #434 (1994)", 
+    "placeofbirth": [
+        "Sandhaven", 
+        "Arizona"
+    ], 
+    "powers": "Jack possesses superhuman strength, stamina, and resilience.", 
+    "realname": "Jack Harrison", 
+    "significantissues": [
+        "Vs. Serpent Society  (Captain America #434-437, 1994-1995)", 
+        "vs. Ultimatum (Captain America #438, 1995)", 
+        "on A.I.M. island (Captain America #440-441/Avengers 387-388, 1995)", 
+        "against Madcap (Captain America #442, 1995)", 
+        "Captain America\u2019s apparent death (Captain America #443, 1995)", 
+        "comes out of retirement (Thunderbolts #110, 2007)", 
+        "paralyzed and captured by Thunderbolts (Thunderbolts #111, 2007)"
+    ], 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Dread Persephone (name called by Homer)", 
-                "Persephoneia", 
-                "Phersephone", 
-                "Persephassa", 
-                "Phersephatta", 
-                "Periphone (alternate Greek pronunciations of name)", 
-                "Proserpina (classical Latin spelling of name)", 
-                "Kore (Core) (Roman name)", 
-                "Mania (Etruscan name)"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Black (during winter), Blue (during spring)\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers Annual #23 (1994)\n", 
-            "groupaffiliation": [
-                "Olympians", 
-                "Olympus Corps"
-            ], 
-            "hair": "Black (during winter), Blonde (during spring)\n", 
-            "id": "Persephone", 
-            "intelligence": 1, 
-            "knownrelatives": "Zeus (father), Demeter (mother), Hades(husband/uncle), Hercules, Apollo, Ares, Hephaestus, Hermes, Dionysus, Arion, Plutus, Philomelus (half-brothers), Artemis, Athena, Eris, Hebe, Eileithyia, Despoena (half-sisters), Neptune, Chiron (uncles), Hera, Hestia (aunts)", 
-            "occupation": [
-                "Queen of the Underworld", 
-                "goddess of spring"
-            ], 
-            "powers": "Persephone possesses the conventional superhuman physical attributes of an Olympian Goddess, including much denser bones and flesh. Virtually immortal, she is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm.", 
-            "realname": "Persephone", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Dread Persephone (name called by Homer)", 
+        "Persephoneia", 
+        "Phersephone", 
+        "Persephassa", 
+        "Phersephatta", 
+        "Periphone (alternate Greek pronunciations of name)", 
+        "Proserpina (classical Latin spelling of name)", 
+        "Kore (Core) (Roman name)", 
+        "Mania (Etruscan name)"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Black (during winter), Blue (during spring)\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers Annual #23 (1994)\n", 
+    "groupaffiliation": [
+        "Olympians", 
+        "Olympus Corps"
+    ], 
+    "hair": "Black (during winter), Blonde (during spring)\n", 
+    "id": "Persephone", 
+    "intelligence": 1, 
+    "knownrelatives": "Zeus (father), Demeter (mother), Hades(husband/uncle), Hercules, Apollo, Ares, Hephaestus, Hermes, Dionysus, Arion, Plutus, Philomelus (half-brothers), Artemis, Athena, Eris, Hebe, Eileithyia, Despoena (half-sisters), Neptune, Chiron (uncles), Hera, Hestia (aunts)", 
+    "occupation": [
+        "Queen of the Underworld", 
+        "goddess of spring"
+    ], 
+    "powers": "Persephone possesses the conventional superhuman physical attributes of an Olympian Goddess, including much denser bones and flesh. Virtually immortal, she is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm.", 
+    "realname": "Persephone", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

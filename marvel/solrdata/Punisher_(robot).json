@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "None", 
-            "content": "The Thing was soon forced to hide behind the force field created by his teammate, the Invisible Girl, along with Mister Fantastic. The Punisher robot responded by pounding at the field, trying to smash his way through it. Though the robot was unaware that Sue\u2019s power was about to give, his master called him off before he could break through. Galactus had finished his energy converter and no longer needed the Punisher to keep the Fantastic Four at bay, and so returned him to his floating sphere.Once the Human Torch had returned from Galactus\u2019 distant ship-home with the Ultimate Nullifier, which Reed Richards threatened Galactus with, the devourer agreed to leave the planet and find another world to feed upon. And so, with his herald, the Silver Surfer, disgraced and abandoned on Earth, Galactus and his loyal, Punisher robot, disappeared into the far reaches of the galaxy to find more suitable worlds to harvest.", 
-            "durability": 6, 
-            "education": "Programming by Galactus", 
-            "energy": 7, 
-            "eyes": "None\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #49\n", 
-            "groupaffiliation": [
-                "Former servant to Galactus", 
-                "formerly Frightful Four"
-            ], 
-            "hair": "None\n", 
-            "id": "Punisher_(robot)", 
-            "identity": "Publicly Known", 
-            "intelligence": 7, 
-            "knownrelatives": "None", 
-            "occupation": "Robot servant of Galactus", 
-            "origin": "Fantastic Four #49", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Punisher", 
-            "significantissues": "Fantastic Four #49 (intro)", 
-            "speed": 1, 
-            "strength": 6, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "None", 
+    "content": "The Thing was soon forced to hide behind the force field created by his teammate, the Invisible Girl, along with Mister Fantastic. The Punisher robot responded by pounding at the field, trying to smash his way through it. Though the robot was unaware that Sue\u2019s power was about to give, his master called him off before he could break through. Galactus had finished his energy converter and no longer needed the Punisher to keep the Fantastic Four at bay, and so returned him to his floating sphere.Once the Human Torch had returned from Galactus\u2019 distant ship-home with the Ultimate Nullifier, which Reed Richards threatened Galactus with, the devourer agreed to leave the planet and find another world to feed upon. And so, with his herald, the Silver Surfer, disgraced and abandoned on Earth, Galactus and his loyal, Punisher robot, disappeared into the far reaches of the galaxy to find more suitable worlds to harvest.", 
+    "durability": 6, 
+    "education": "Programming by Galactus", 
+    "energy": 7, 
+    "eyes": "None\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #49\n", 
+    "groupaffiliation": [
+        "Former servant to Galactus", 
+        "formerly Frightful Four"
+    ], 
+    "hair": "None\n", 
+    "id": "Punisher_(robot)", 
+    "identity": "Publicly Known", 
+    "intelligence": 7, 
+    "knownrelatives": "None", 
+    "occupation": "Robot servant of Galactus", 
+    "origin": "Fantastic Four #49", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Punisher", 
+    "significantissues": "Fantastic Four #49 (intro)", 
+    "speed": 1, 
+    "strength": 6, 
+    "universe": "Marvel Universe"
 }

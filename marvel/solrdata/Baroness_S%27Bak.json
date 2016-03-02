@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Baroness", 
-                "Baron S'Bak"
-            ], 
-            "citizenship": "The Skrull Empire", 
-            "content": "The Annihilation Wave\u2019s course of destruction ran directly through her region, it is unknown how many of her worlds have fell victim to the Wave\u2019s genocidal destruction. It has been confirmed that the Super Skrull, Kl\u2019rt came to her seeking aid against the planet-destroying Harvester of Sorrows, which was created by the Negative Zone scientist Hawal.This weapon of mass destruction destroyed the Skrull planet of Aks\u2019lo within the Star System 004. What exactly happened at that meeting is still unclear, but apparently, S\u2019bak refused the Super-Skrulls request to mount an attack against the Harvester of Sorrow. The Baroness was unwilling to leave herself open to an attack from a rival Warlord, by fighting a super weapon that no one knew how to destroy quickly.S\u2019Bak then called the Super Skrull a laughingstock and an embarrassment to the entire Skrull Empire. She described his exploits as cautionary tales of failure. After constantly being, insulted Kl\u2019rt punched the Baroness hard in the mouth, leading her to order her troops to kill him for treason. Kl\u2019rt escaped the Baroness and her soldiers. He continued to search for allies against the Harvester of Sorrows. The Baroness put up a bounty of three million, golden z\u2019lacks for the capture of the Super Skrull dead or alive.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Annihilation: Super-Skrull #1, (2006.)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Unrevealed, but she has two short horns on her head\n", 
-            "height": 67, 
-            "id": "Baroness_S%27Bak", 
-            "identity": [
-                "Unknown to the inhabitants of Earth", 
-                "publicly known in the Skrull Empire"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "None known", 
-            "occupation": [
-                "Warlord", 
-                "ruler"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "She has the natural shapeshifting abilities of those of her race. It is unknown as to how proficient she is with these abilities.", 
-            "realname": "S'Bak", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 136
-        }
-    }
+    "aliases": [
+        "Baroness", 
+        "Baron S'Bak"
+    ], 
+    "citizenship": "The Skrull Empire", 
+    "content": "The Annihilation Wave\u2019s course of destruction ran directly through her region, it is unknown how many of her worlds have fell victim to the Wave\u2019s genocidal destruction. It has been confirmed that the Super Skrull, Kl\u2019rt came to her seeking aid against the planet-destroying Harvester of Sorrows, which was created by the Negative Zone scientist Hawal.This weapon of mass destruction destroyed the Skrull planet of Aks\u2019lo within the Star System 004. What exactly happened at that meeting is still unclear, but apparently, S\u2019bak refused the Super-Skrulls request to mount an attack against the Harvester of Sorrow. The Baroness was unwilling to leave herself open to an attack from a rival Warlord, by fighting a super weapon that no one knew how to destroy quickly.S\u2019Bak then called the Super Skrull a laughingstock and an embarrassment to the entire Skrull Empire. She described his exploits as cautionary tales of failure. After constantly being, insulted Kl\u2019rt punched the Baroness hard in the mouth, leading her to order her troops to kill him for treason. Kl\u2019rt escaped the Baroness and her soldiers. He continued to search for allies against the Harvester of Sorrows. The Baroness put up a bounty of three million, golden z\u2019lacks for the capture of the Super Skrull dead or alive.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Annihilation: Super-Skrull #1, (2006.)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Unrevealed, but she has two short horns on her head\n", 
+    "height": 67, 
+    "id": "Baroness_S%27Bak", 
+    "identity": [
+        "Unknown to the inhabitants of Earth", 
+        "publicly known in the Skrull Empire"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "None known", 
+    "occupation": [
+        "Warlord", 
+        "ruler"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "She has the natural shapeshifting abilities of those of her race. It is unknown as to how proficient she is with these abilities.", 
+    "realname": "S'Bak", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 136
 }

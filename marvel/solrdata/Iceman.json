@@ -1,72 +1,68 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Formerly Mister Friese", 
-                "Drake Roberts", 
-                "Rampage"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Professor X dispatched his first X-Man, Cyclops, to contact Bobby. Cyclops stole into the jailhouse as planned, but the two began fighting when Bobby refused to accompany him. Caught by the lynch mob, Cyclops and Bobby were about to be hanged when they broke free. Professor X used his mental powers to halt the townspeople in their tracks and erase their memories of Bobby's powers. A grateful Bobby then accepted Xavier's invitation to enroll at his School for Gifted Youngsters and took the codename Iceman. Though initially granting him a snow-like form, Bobby soon learned to increase his degree of cold control resulting in an ice-like, almost transparent form.Hated and feared by humanity, the X-Men honed their amazing abilities while standing in defense of a world pushed to the brink of genetic war by a handful of mutant terrorists. Iceman, the team's youngest founding member, became known as the comedian of the group. Regardless, he pulled his weight and worked well with rest of the team.Following a short break-up after believing their mentor was dead, the X-Men reformed with two new members - the magnetism-manipulating Polaris and the plasma-charged Havok. Bobby had a brief romantic relationship with Polaris until she realized that her heart belonged to Havok. Bobby had trouble accepting her decision, which led to increased tension between himself and Havok. Eventually, Bobby quit the team for a short time to sort out his feelings.Later, when the sentient island-being known as Krakoa took Bobby and his team mates captive, Professor X assembled a second team of X-Men to rescue them. Soon after, most of the founding members left the team and Bobby began attending college on a scholarship. Eventually, he helped his former team mate Angel form the Champions of Los Angeles. When the Champions disbanded, Bobby went missing, and Angel teamed up with the costumed adventurer Spider-Man to find him. Bobby had been hypnotized by the Champions' enemy Rampage into donning his battle suit, and Angel and Spider-Man were forced to battle him. After Rampage was defeated, Bobby quit his life as a costumed adventurer and returned to college full time to study accounting.Later, Bobby was contacted by Professor X to assist in rescuing friends and family of the X-Men from the assassin known as Arcade. Along with other former X-Men Banshee, Polaris, and Havok, the ad-hoc team managed to free the hostages and Bobby finally came to accept Polaris' love for Havok.During a summer break from college Bobby went to visit his former X-Men teammate Beast and soon became involved with the loose-knit collection of costumed heroes known as the Defenders. Along with Beast and Angel, Bobby helped reorganize the team into a more formal and cohesive unit. The Defenders eventually disbanded when several of their members appeared to perish during a climactic battle.Soon after, Bobby joined the other founding X-Men to form X-Factor, an organization that intended to seek out and aid other mutants under the pretense of hunting down those perceived menaces to society. During his time with the team, the Asgardian trickster god Loki captured Bobby, hoping to use him to gain control over the Frost Giants. Loki enhanced Bobby's powers to such an extent that he was forced to wear a power-dampening belt that was originally created by the subversive organization known as The Right to cancel out his powers. Once able only to sheathe his own body in a protective coating of ice, Bobby found he could encase the entirety of the Empire State Building. With time, Bobby gained sufficient control over his augmented powers that he was able to stop using the inhibitor belt. Believing he had achieved his full potential, Bobby never attempted to push himself beyond his perceived limits.When Professor Xavier returned to Earth following an extended absence in outer space, Bobby and the other members of X-Factor rejoined the X-Men. Shortly thereafter, Bobby confronted former Cosmonaut Mikhail Rasputin, the reality-warping mutant brother of Bobby\u2019s steel-skinned teammate Colossus. Rasputin forced Bobby into a form composed entirely of ice, affording the young mutant a glimpse into his true nature. Subsequently, Bobby began experimenting with his abilities - using ice to add mass to his slight frame, or lift himself high into the air without the benefit of his usual slides.Bobby later took a leave of absence from the X-Men to spend more time with his father who had been injured by the grass roots anti-mutant movement the Friends of Humanity. He returned briefly to the X-Men to rescue mutant doctor Cecilia Reyes during the government-sponsored anti-mutant Operation: Zero Tolerance, after which he returned to his father's side.Two subsequent events served to shed further light on Iceman's untapped potential. To secure a new host body, the would-be conqueror Apocalypse sought to siphon the awesome energies of \"The Twelve\" - mutants of incredible power, destined to alter the course of human history. Among their number was Iceman, who survived the ordeal thanks only to the apparent sacrifice of Cyclops.A second defining event occurred when the sentient spaceship Prosh escaped the confines of a Celestial prison, returned to Earth and dispatched a group of disparate beings on a journey through time to uncover the keys to preserving human evolution. Their mission: Save the human race from a threat that might not manifest itself for millions of years. When Prosh reassembled the members of his team in the present, they fought and defeated the enigmatic alien entity known as the Stranger, who sought to control the natural evolution of humans and mutants.These experiences forced Iceman into the realization that he no longer need fear the evolution of his abilities, and he returned to the X-Men to explore his mutant powers to the fullest. After suffering a chest injury, Bobby was unable to prevent his body from transforming into solid ice due to the manifestation of a secondary mutation.After the House of M incident Iceman was believed to be among the mutants who lost their powers, but this apparent loss of powers was quickly revealed to be a subconscious reaction to the trauma of that reality warp. Since recovering his powers, his ice form has taken on a much more jagged appearance.", 
-            "durability": 4, 
-            "education": "College degree, Certified Practicing Accountant accreditation", 
-            "energy": 5, 
-            "eyes": "Brown\n", 
-            "fighting": 3, 
-            "firstappearance": "X-Men #1 (1963)\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly Twelve", 
-                "X-Factor/X-Terminators", 
-                "Defenders", 
-                "Champions"
-            ], 
-            "hair": "Brown\n", 
-            "height": 68, 
-            "id": "Iceman", 
-            "identity": [
-                "Secret", 
-                "known to certain government officials"
-            ], 
-            "intelligence": 2, 
-            "knownrelatives": "William Robert Drake (father), Madeline Beatrice Bass Drake (mother), Mary (cousin), Joel (cousin), Anne (aunt)", 
-            "occupation": [
-                "Adventurer", 
-                "formerly teacher", 
-                "accountant", 
-                "student"
-            ], 
-            "origin": "X-Men #44-46 (1968)", 
-            "placeofbirth": [
-                "Port Washington", 
-                "Long Island", 
-                "New York"
-            ], 
-            "powers": "Iceman is able to lower his external and internal body temperature without harm to himself, thereby radiating intense cold from his body. Iceman is able to reach -105 degrees Fahrenheit within a few seconds, and is immune to sub-zero temperatures around him.  \nIn addition, Iceman can freeze any moisture in the air around him into unusually hard ice, and thereby form simple objects such as slides, ladders, shields, and bats. He has even once shown the ability to achieve absolute zero temperatures, with the help of the Human Torch (who pulled the ambient heat away from Iceman), and was able to stop the molecular motion of a bomb. Iceman can augment his ice form with extraneous moisture to enhance his strength and durability, and can reshape his body's ice form at will by using any available moisture from his surrounding environment. Similarly, Iceman can rebuild his ice form if any part of it is broken or if it is shattered completely without suffering any permanent damage.\nPreviously, Iceman was able to transform his body into solid ice and back to human form at will.  For a time, however, his body was permanently transformed into solid ice as a result of a secondary mutation. After M-day, Iceman appeared to have lost his powers, returning to human form. However, this was revealed by Emma Frost as a mental block, and Iceman later regained his powers, along with the ability to change from human to ice form.\n\nIceman also possesses the potential to transport himself quickly over great distances through nearby flows of water by merging his body\u2019s molecules with those of the stream.", 
-            "realname": "Robert \"Bobby\" Louis Drake", 
-            "significantissues": [
-                "First learned to solidify snow form (X-Men #8, 1964)", 
-                "first left X-Men (X-Men: The Hidden Years #1, 1999)", 
-                "helped found Champions of Los Angeles (Champions #1, 1975)", 
-                "possessed by Rampage, Champions disbanded (Peter Parker: The Spectacular Spider-Man #17-18, 1978)", 
-                "attended college (Uncanny X-Men #145-146, 1981)", 
-                "joined Defenders (Defenders #122, 1983)", 
-                "reconciled with parents (Iceman #1-4, 1984-1985)", 
-                "helped found X-Factor (X-Factor #1, 1986)", 
-                "powers enhanced by Loki (Thor #377-378, 1987)", 
-                "first wore dampening belt (X-Factor #23, 1987)", 
-                "rejoined X-Men (X-Factor #70/Uncanny X-Men #281, 1991)", 
-                "forced into full ice form (Uncanny X-Men #291-292, 1992)", 
-                "ice form first shattered (X-Men #50, 1996)", 
-                "realized full potential (X-Men Forever #5, 2001)", 
-                "secondary mutation first manifested (Uncanny X-Men #415, 2003)", 
-                "lost his powers (House of M #8, 2005)", 
-                "regained his powers (X-Men #178, 2005)"
-            ], 
-            "speed": 4, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 145
-        }
-    }
+    "aliases": [
+        "Formerly Mister Friese", 
+        "Drake Roberts", 
+        "Rampage"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Professor X dispatched his first X-Man, Cyclops, to contact Bobby. Cyclops stole into the jailhouse as planned, but the two began fighting when Bobby refused to accompany him. Caught by the lynch mob, Cyclops and Bobby were about to be hanged when they broke free. Professor X used his mental powers to halt the townspeople in their tracks and erase their memories of Bobby's powers. A grateful Bobby then accepted Xavier's invitation to enroll at his School for Gifted Youngsters and took the codename Iceman. Though initially granting him a snow-like form, Bobby soon learned to increase his degree of cold control resulting in an ice-like, almost transparent form.Hated and feared by humanity, the X-Men honed their amazing abilities while standing in defense of a world pushed to the brink of genetic war by a handful of mutant terrorists. Iceman, the team's youngest founding member, became known as the comedian of the group. Regardless, he pulled his weight and worked well with rest of the team.Following a short break-up after believing their mentor was dead, the X-Men reformed with two new members - the magnetism-manipulating Polaris and the plasma-charged Havok. Bobby had a brief romantic relationship with Polaris until she realized that her heart belonged to Havok. Bobby had trouble accepting her decision, which led to increased tension between himself and Havok. Eventually, Bobby quit the team for a short time to sort out his feelings.Later, when the sentient island-being known as Krakoa took Bobby and his team mates captive, Professor X assembled a second team of X-Men to rescue them. Soon after, most of the founding members left the team and Bobby began attending college on a scholarship. Eventually, he helped his former team mate Angel form the Champions of Los Angeles. When the Champions disbanded, Bobby went missing, and Angel teamed up with the costumed adventurer Spider-Man to find him. Bobby had been hypnotized by the Champions' enemy Rampage into donning his battle suit, and Angel and Spider-Man were forced to battle him. After Rampage was defeated, Bobby quit his life as a costumed adventurer and returned to college full time to study accounting.Later, Bobby was contacted by Professor X to assist in rescuing friends and family of the X-Men from the assassin known as Arcade. Along with other former X-Men Banshee, Polaris, and Havok, the ad-hoc team managed to free the hostages and Bobby finally came to accept Polaris' love for Havok.During a summer break from college Bobby went to visit his former X-Men teammate Beast and soon became involved with the loose-knit collection of costumed heroes known as the Defenders. Along with Beast and Angel, Bobby helped reorganize the team into a more formal and cohesive unit. The Defenders eventually disbanded when several of their members appeared to perish during a climactic battle.Soon after, Bobby joined the other founding X-Men to form X-Factor, an organization that intended to seek out and aid other mutants under the pretense of hunting down those perceived menaces to society. During his time with the team, the Asgardian trickster god Loki captured Bobby, hoping to use him to gain control over the Frost Giants. Loki enhanced Bobby's powers to such an extent that he was forced to wear a power-dampening belt that was originally created by the subversive organization known as The Right to cancel out his powers. Once able only to sheathe his own body in a protective coating of ice, Bobby found he could encase the entirety of the Empire State Building. With time, Bobby gained sufficient control over his augmented powers that he was able to stop using the inhibitor belt. Believing he had achieved his full potential, Bobby never attempted to push himself beyond his perceived limits.When Professor Xavier returned to Earth following an extended absence in outer space, Bobby and the other members of X-Factor rejoined the X-Men. Shortly thereafter, Bobby confronted former Cosmonaut Mikhail Rasputin, the reality-warping mutant brother of Bobby\u2019s steel-skinned teammate Colossus. Rasputin forced Bobby into a form composed entirely of ice, affording the young mutant a glimpse into his true nature. Subsequently, Bobby began experimenting with his abilities - using ice to add mass to his slight frame, or lift himself high into the air without the benefit of his usual slides.Bobby later took a leave of absence from the X-Men to spend more time with his father who had been injured by the grass roots anti-mutant movement the Friends of Humanity. He returned briefly to the X-Men to rescue mutant doctor Cecilia Reyes during the government-sponsored anti-mutant Operation: Zero Tolerance, after which he returned to his father's side.Two subsequent events served to shed further light on Iceman's untapped potential. To secure a new host body, the would-be conqueror Apocalypse sought to siphon the awesome energies of \"The Twelve\" - mutants of incredible power, destined to alter the course of human history. Among their number was Iceman, who survived the ordeal thanks only to the apparent sacrifice of Cyclops.A second defining event occurred when the sentient spaceship Prosh escaped the confines of a Celestial prison, returned to Earth and dispatched a group of disparate beings on a journey through time to uncover the keys to preserving human evolution. Their mission: Save the human race from a threat that might not manifest itself for millions of years. When Prosh reassembled the members of his team in the present, they fought and defeated the enigmatic alien entity known as the Stranger, who sought to control the natural evolution of humans and mutants.These experiences forced Iceman into the realization that he no longer need fear the evolution of his abilities, and he returned to the X-Men to explore his mutant powers to the fullest. After suffering a chest injury, Bobby was unable to prevent his body from transforming into solid ice due to the manifestation of a secondary mutation.After the House of M incident Iceman was believed to be among the mutants who lost their powers, but this apparent loss of powers was quickly revealed to be a subconscious reaction to the trauma of that reality warp. Since recovering his powers, his ice form has taken on a much more jagged appearance.", 
+    "durability": 4, 
+    "education": "College degree, Certified Practicing Accountant accreditation", 
+    "energy": 5, 
+    "eyes": "Brown\n", 
+    "fighting": 3, 
+    "firstappearance": "X-Men #1 (1963)\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly Twelve", 
+        "X-Factor/X-Terminators", 
+        "Defenders", 
+        "Champions"
+    ], 
+    "hair": "Brown\n", 
+    "height": 68, 
+    "id": "Iceman", 
+    "identity": [
+        "Secret", 
+        "known to certain government officials"
+    ], 
+    "intelligence": 2, 
+    "knownrelatives": "William Robert Drake (father), Madeline Beatrice Bass Drake (mother), Mary (cousin), Joel (cousin), Anne (aunt)", 
+    "occupation": [
+        "Adventurer", 
+        "formerly teacher", 
+        "accountant", 
+        "student"
+    ], 
+    "origin": "X-Men #44-46 (1968)", 
+    "placeofbirth": [
+        "Port Washington", 
+        "Long Island", 
+        "New York"
+    ], 
+    "powers": "Iceman is able to lower his external and internal body temperature without harm to himself, thereby radiating intense cold from his body. Iceman is able to reach -105 degrees Fahrenheit within a few seconds, and is immune to sub-zero temperatures around him.  \nIn addition, Iceman can freeze any moisture in the air around him into unusually hard ice, and thereby form simple objects such as slides, ladders, shields, and bats. He has even once shown the ability to achieve absolute zero temperatures, with the help of the Human Torch (who pulled the ambient heat away from Iceman), and was able to stop the molecular motion of a bomb. Iceman can augment his ice form with extraneous moisture to enhance his strength and durability, and can reshape his body's ice form at will by using any available moisture from his surrounding environment. Similarly, Iceman can rebuild his ice form if any part of it is broken or if it is shattered completely without suffering any permanent damage.\nPreviously, Iceman was able to transform his body into solid ice and back to human form at will.  For a time, however, his body was permanently transformed into solid ice as a result of a secondary mutation. After M-day, Iceman appeared to have lost his powers, returning to human form. However, this was revealed by Emma Frost as a mental block, and Iceman later regained his powers, along with the ability to change from human to ice form.\n\nIceman also possesses the potential to transport himself quickly over great distances through nearby flows of water by merging his body\u2019s molecules with those of the stream.", 
+    "realname": "Robert \"Bobby\" Louis Drake", 
+    "significantissues": [
+        "First learned to solidify snow form (X-Men #8, 1964)", 
+        "first left X-Men (X-Men: The Hidden Years #1, 1999)", 
+        "helped found Champions of Los Angeles (Champions #1, 1975)", 
+        "possessed by Rampage, Champions disbanded (Peter Parker: The Spectacular Spider-Man #17-18, 1978)", 
+        "attended college (Uncanny X-Men #145-146, 1981)", 
+        "joined Defenders (Defenders #122, 1983)", 
+        "reconciled with parents (Iceman #1-4, 1984-1985)", 
+        "helped found X-Factor (X-Factor #1, 1986)", 
+        "powers enhanced by Loki (Thor #377-378, 1987)", 
+        "first wore dampening belt (X-Factor #23, 1987)", 
+        "rejoined X-Men (X-Factor #70/Uncanny X-Men #281, 1991)", 
+        "forced into full ice form (Uncanny X-Men #291-292, 1992)", 
+        "ice form first shattered (X-Men #50, 1996)", 
+        "realized full potential (X-Men Forever #5, 2001)", 
+        "secondary mutation first manifested (Uncanny X-Men #415, 2003)", 
+        "lost his powers (House of M #8, 2005)", 
+        "regained his powers (X-Men #178, 2005)"
+    ], 
+    "speed": 4, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 145
 }

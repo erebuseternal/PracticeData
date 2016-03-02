@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Falcon God", 
-                "Hor", 
-                "Horos", 
-                "Ra-Herakhty", 
-                "Haroeris", 
-                "Harpocrates", 
-                "Herachte", 
-                "Harendotes", 
-                "Harmachis", 
-                "Hermertri", 
-                "Harsaphes", 
-                "Hor-Hekeru"
-            ], 
-            "citizenship": "Celestial Heliopolis", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #239\n", 
-            "groupaffiliation": "Gods of Heliopolis", 
-            "hair": "Unrevealed\n", 
-            "height": 77, 
-            "id": "Horus", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Osiris (father), Isis (mother), Seth (uncle), Nepthys (aunt), Geb (grandfather), Nut (grandmother), Hathor (wife), Anubis (half-brother), Bast (Panther God, great-grand-uncle)", 
-            "occupation": [
-                "God of the Sun", 
-                "Egyptian god of justice and retribution"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "He possessed superhuman strength, speed, and agility.", 
-            "realname": "Horus", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 410
-        }
-    }
+    "aliases": [
+        "The Falcon God", 
+        "Hor", 
+        "Horos", 
+        "Ra-Herakhty", 
+        "Haroeris", 
+        "Harpocrates", 
+        "Herachte", 
+        "Harendotes", 
+        "Harmachis", 
+        "Hermertri", 
+        "Harsaphes", 
+        "Hor-Hekeru"
+    ], 
+    "citizenship": "Celestial Heliopolis", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #239\n", 
+    "groupaffiliation": "Gods of Heliopolis", 
+    "hair": "Unrevealed\n", 
+    "height": 77, 
+    "id": "Horus", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Osiris (father), Isis (mother), Seth (uncle), Nepthys (aunt), Geb (grandfather), Nut (grandmother), Hathor (wife), Anubis (half-brother), Bast (Panther God, great-grand-uncle)", 
+    "occupation": [
+        "God of the Sun", 
+        "Egyptian god of justice and retribution"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "He possessed superhuman strength, speed, and agility.", 
+    "realname": "Horus", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 410
 }

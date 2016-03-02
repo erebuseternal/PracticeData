@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Impersonated Raoul Bushman", 
-                "Khons", 
-                "Knoshu"
-            ], 
-            "citizenship": "Realm Of Heliopolis", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White (no visible iris)\n", 
-            "fighting": 1, 
-            "firstappearance": "Moon Knight #1 (1980)\n", 
-            "groupaffiliation": "Gods of Heliopolis", 
-            "hair": "Unrevealed\n", 
-            "height": 0, 
-            "id": "Khonshu", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Neith (Gaea, grandmother); Nun (Demiurge, grandfather); Ammon-Ra (Atum, father); Amaunet (mother), Mut (stepmother), Montu (brother), Rat-Tauit (sister-in-law), Bast (Panther God, half-brother); Bes, Ptah (possible brothers), extended family", 
-            "occupation": "God of Moon and Vengeance", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Celestial Heliopolis", 
-            "powers": "Khonshu possesses various mystical abilities, including the power to raise the dead. He has formerly acted on Earth through the body of his servant Marc Spector, sometimes inhabiting his physical form and granting him superhuman strenght. He can appear to Spector as illusions, asuming other peoples forms. He is also able to teleport.", 
-            "realname": "Chons (original Egyptian)", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Impersonated Raoul Bushman", 
+        "Khons", 
+        "Knoshu"
+    ], 
+    "citizenship": "Realm Of Heliopolis", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White (no visible iris)\n", 
+    "fighting": 1, 
+    "firstappearance": "Moon Knight #1 (1980)\n", 
+    "groupaffiliation": "Gods of Heliopolis", 
+    "hair": "Unrevealed\n", 
+    "height": 0, 
+    "id": "Khonshu", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Neith (Gaea, grandmother); Nun (Demiurge, grandfather); Ammon-Ra (Atum, father); Amaunet (mother), Mut (stepmother), Montu (brother), Rat-Tauit (sister-in-law), Bast (Panther God, half-brother); Bes, Ptah (possible brothers), extended family", 
+    "occupation": "God of Moon and Vengeance", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Celestial Heliopolis", 
+    "powers": "Khonshu possesses various mystical abilities, including the power to raise the dead. He has formerly acted on Earth through the body of his servant Marc Spector, sometimes inhabiting his physical form and granting him superhuman strenght. He can appear to Spector as illusions, asuming other peoples forms. He is also able to teleport.", 
+    "realname": "Chons (original Egyptian)", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

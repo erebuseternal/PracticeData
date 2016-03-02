@@ -1,56 +1,52 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Al Kraven", 
-                "formerly Kraven the Hunter. (Note: Kravinoff has been often misspelled \"Kravinov\")"
-            ], 
-            "citizenship": "Unrevealed African nation", 
-            "content": "He was later contracted to by the Fantastic Four to help capture the enigmatic enormous canid Puppy. Next, he was hired by White Wolf, head of the, deposed Wakandan secret police, to capture the Black Panther. The Black Panther turned the battle around, nearly killing Alyosha. The Sandman later invited Alyosha to join the Sinister Six to hunt Doctor Octopus and Senator Steward Ward, host body for the alien Z'Nox. Venom (Eddie Brock), slighted at his lack of inclusion in the Sinister Six, hunted each of the team members. Refusing to be \"the hunted\", Alyosha managed to trap Venom with fire, but Venom still managed to injure Alyosha seriously before escaping.", 
-            "durability": 4, 
-            "education": "Privately tutored", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 4, 
-            "firstappearance": "Spectacular Spider-Man #243 (1997)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly the Sinister Six"
-            ], 
-            "hair": "Black\n", 
-            "height": 75, 
-            "id": "Kravinoff,_Alyosha", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Sergei Kravinoff (Kraven the Hunter, father, deceased), unidentified mother, Ana Kravinoff (half-sister), Vladimir Kravinoff (Grim Hunter, half-brother, deceased), Nedrocci Tannengarden (half-brother, deceased), Dmitri Smerdyakov (Chameleon, uncle)", 
-            "occupation": [
-                "Adventurer", 
-                "hunter", 
-                "former attempted movie director"
-            ], 
-            "origin": "Spectacular Spider-Man #252 (1997)", 
-            "placeofbirth": "Unrevealed African nation", 
-            "powers": "Alyosha has superhuman strength, speed, agility, stamina, and healing. His five senses are extraordinarily heightened, and he can speak with animals. When enraged, he may shift into a bestial fury.", 
-            "realname": "Alyosha Kravinoff", 
-            "significantissues": [
-                "Confronted Chameleon (Spectacular Spider-Man #243-244, 1997)", 
-                "explained himself to Spider-Man, captured by Calypso (Spectacular Spider-Man #252, 1997)", 
-                "killed Calypso (Spectacular Spider-Man #253, 1998)", 
-                "helped capture Puppy (Fantastic Four #9, 1998)", 
-                "fought Black Panther (Black Panther #6-7, 1999)", 
-                "joined Sinister Six (Amazing Spider-Man #12, 1999 and Peter Parker: Spider-Man #12, 1999)", 
-                "hunted / hunted by Venom (Peter Parker: Spider-Man #17, 2000)", 
-                "had drinks with Norman Osborn and the Vulture (Spider-Man's Tangled Web #13, 2002)", 
-                "won $100,000 auction sending J. Jonah Jameson and Spider-Man to camp together in the Poconos (Spider-Man: Sweet Charity #1, 2002)", 
-                "made friends with Spider-Man, admitted to being a mutant, went to Hollywood with Timber (Get Kraven #1)", 
-                "Namor revealed Al's mother is a mutant (Get Kraven #2, 2002)", 
-                "beaten by Rothsteins' gang, Timber raped (Get Kraven #5, 2002)", 
-                "discovered Ned Tannengarden is a half-brother, fought Chameleon, Ned killed, tried heroics in New York with the Vulture (Get Kraven #6, 2003)"
-            ], 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": [
+        "Al Kraven", 
+        "formerly Kraven the Hunter. (Note: Kravinoff has been often misspelled \"Kravinov\")"
+    ], 
+    "citizenship": "Unrevealed African nation", 
+    "content": "He was later contracted to by the Fantastic Four to help capture the enigmatic enormous canid Puppy. Next, he was hired by White Wolf, head of the, deposed Wakandan secret police, to capture the Black Panther. The Black Panther turned the battle around, nearly killing Alyosha. The Sandman later invited Alyosha to join the Sinister Six to hunt Doctor Octopus and Senator Steward Ward, host body for the alien Z'Nox. Venom (Eddie Brock), slighted at his lack of inclusion in the Sinister Six, hunted each of the team members. Refusing to be \"the hunted\", Alyosha managed to trap Venom with fire, but Venom still managed to injure Alyosha seriously before escaping.", 
+    "durability": 4, 
+    "education": "Privately tutored", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 4, 
+    "firstappearance": "Spectacular Spider-Man #243 (1997)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly the Sinister Six"
+    ], 
+    "hair": "Black\n", 
+    "height": 75, 
+    "id": "Kravinoff,_Alyosha", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Sergei Kravinoff (Kraven the Hunter, father, deceased), unidentified mother, Ana Kravinoff (half-sister), Vladimir Kravinoff (Grim Hunter, half-brother, deceased), Nedrocci Tannengarden (half-brother, deceased), Dmitri Smerdyakov (Chameleon, uncle)", 
+    "occupation": [
+        "Adventurer", 
+        "hunter", 
+        "former attempted movie director"
+    ], 
+    "origin": "Spectacular Spider-Man #252 (1997)", 
+    "placeofbirth": "Unrevealed African nation", 
+    "powers": "Alyosha has superhuman strength, speed, agility, stamina, and healing. His five senses are extraordinarily heightened, and he can speak with animals. When enraged, he may shift into a bestial fury.", 
+    "realname": "Alyosha Kravinoff", 
+    "significantissues": [
+        "Confronted Chameleon (Spectacular Spider-Man #243-244, 1997)", 
+        "explained himself to Spider-Man, captured by Calypso (Spectacular Spider-Man #252, 1997)", 
+        "killed Calypso (Spectacular Spider-Man #253, 1998)", 
+        "helped capture Puppy (Fantastic Four #9, 1998)", 
+        "fought Black Panther (Black Panther #6-7, 1999)", 
+        "joined Sinister Six (Amazing Spider-Man #12, 1999 and Peter Parker: Spider-Man #12, 1999)", 
+        "hunted / hunted by Venom (Peter Parker: Spider-Man #17, 2000)", 
+        "had drinks with Norman Osborn and the Vulture (Spider-Man's Tangled Web #13, 2002)", 
+        "won $100,000 auction sending J. Jonah Jameson and Spider-Man to camp together in the Poconos (Spider-Man: Sweet Charity #1, 2002)", 
+        "made friends with Spider-Man, admitted to being a mutant, went to Hollywood with Timber (Get Kraven #1)", 
+        "Namor revealed Al's mother is a mutant (Get Kraven #2, 2002)", 
+        "beaten by Rothsteins' gang, Timber raped (Get Kraven #5, 2002)", 
+        "discovered Ned Tannengarden is a half-brother, fought Chameleon, Ned killed, tried heroics in New York with the Vulture (Get Kraven #6, 2003)"
+    ], 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Angel with a dirty halo", 
-                "Angel"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Teaching degree at an unidentified university", 
-            "energy": 1, 
-            "eyes": "Light amber; (originally brown)\n", 
-            "fighting": 1, 
-            "firstappearance": "(Hallucination) Deadpool #26 (1999); (physical) Deeadpool #27; (identified) Deadpool #28 (1998)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Red; (originally black)\n", 
-            "height": 67, 
-            "id": "Wilson,_Mercedes", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Wade Wilson (husband), parents unidentified", 
-            "occupation": "former teacher", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Mercedes possesses mystical powers, although though they have never been defined. She could temporarily transfer powers to another person and it is possible that she has enhanced strength and endurance.", 
-            "realname": "Mercedes Wilson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Angel with a dirty halo", 
+        "Angel"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Teaching degree at an unidentified university", 
+    "energy": 1, 
+    "eyes": "Light amber; (originally brown)\n", 
+    "fighting": 1, 
+    "firstappearance": "(Hallucination) Deadpool #26 (1999); (physical) Deeadpool #27; (identified) Deadpool #28 (1998)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Red; (originally black)\n", 
+    "height": 67, 
+    "id": "Wilson,_Mercedes", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Wade Wilson (husband), parents unidentified", 
+    "occupation": "former teacher", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Mercedes possesses mystical powers, although though they have never been defined. She could temporarily transfer powers to another person and it is possible that she has enhanced strength and endurance.", 
+    "realname": "Mercedes Wilson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

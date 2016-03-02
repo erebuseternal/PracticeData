@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Jewel", 
-                "Knightress"
-            ], 
-            "citizenship": "United States", 
-            "content": "Months after the accident, while running home from school in an emotionally distraught state, Jessica manifested superhuman powers as a result of the experimental material to which she had been exposed; her inexperienced flying led her to crash-land in the bay, where she was rescued by Thor. She soon realized that she had also gained superhuman strength. While testing her flight capabilities, she chanced upon and defeated the costumed criminal known as the Scorpion, in desperate straits not long after his first defeat by Spider-Man. Proclaimed a hero, Jessica soon took on the costumed identity of Jewel, beginning her heroic career less than three years after Spider-Man's debut.Details of Jessica's subsequent life are sparse, although it is known that she was involved in a string of relationships that ended badly, including one with S.H.I.E.L.D. agent Clay Quartermain. She also became close friends with Ms. Marvel, who would undergo her own share of trauma during her Avengers membership and afterward. At one point Jessica attempted to return to costumed action as the Knightress, but this period was brief. She eventually became a licensed private investigator and opened her own firm, Alias Investigations.Jessica's recent string of cases included a surveillance assignment involving a woman whose companion was revealed to be Captain America, who changed from his then-secret identity into costume before Jessica's video camera; when the woman whom he had been photographed with was slain, Jessica realized she had been set up. She was questioned by suspicious police officers but helped out of her predicament by the timely arrival of attorney Matt Murdock. Her investigation led to a fight with enforcer Man-Mountain Marko and the revelation that she had been expected to publicize the video with the intent of creating a scandal defaming Captain America and the US government. With the help of S.H.I.E.L.D., Jessica exposed the plot's mastermind, a man named Zoumas, and received the thanks of Captain America, who encouraged her to return to the heroic life. Jessica next investigated a deranged man claiming to be Avengers associate Rick Jones, who paranoically feared attack by the alien races in whose war the real Jones had intervened. Jessica managed to partially calm his madness and reunited him with his wife. She was then hired by J. Jonah Jameson in an effort to track Spider-Man, only to bilk the publisher by spending his money on charitable endeavors. An out-of-town case led her to help troubled teen Rebecca Cross, who had run away after encouraging people to believe she was a mutant out of rebellion against her town's oppressive atmosphere, but the case ended badly when Rebecca's aunt killed her unjustly accused father.Jessica's greatest challenge came when relatives of some of the Purple Man's victims asked her to confront the imprisoned villain about his many murders, several of them committed on whims, in hopes that he would give their families a sense of closure by confessing to his killings. She was greatly apprehensive about confronting her former tormentor, but being consoled by Cage, she agreed to visit the Purple Man in prison, only to receive no useful information from the psychopathic mind-controller. The Purple Man then escaped in the chaos caused by the breakout of fellow prisoner Carnage, and he sought out Jessica in order to again control her. When the Avengers arrived, he commanded Jessica to fight them, but she activated a psychic defense trigger left in her mind by Phoenix years earlier and defied him, knocking him out with one blow.", 
-            "durability": 1, 
-            "education": "High school diploma, private investigator's license", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Alias #1\n", 
-            "groupaffiliation": [
-                "Formerly Avengers", 
-                "Alias Investigations"
-            ], 
-            "hair": "Brown, formerly dyed pink\n", 
-            "height": 60, 
-            "id": "Jones,_Jessica", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Dave Campbell (father), Phillip Campbell (brother), Luke Cage (husband), Danielle Cage (daughter)", 
-            "occupation": "Works for the Daily Bugle as a reporter and consultant for The Pulse. Formerly the owner of Alias Private Investigations.", 
-            "origin": "Alias #22-23 (2003)", 
-            "placeofbirth": [
-                "Unrevealed", 
-                "possibly Forest Hills", 
-                "NY"
-            ], 
-            "powers": "Jessica Jones possesses superhuman strength; the parameters of her strength are unrevealed, but she can lift an automobile with no discernible effort. She possesses an enhanced level of resistance to physical injury, although she is unsure of whether or not she is bulletproof. She is also able to fly, although she is out of practice in doing so.", 
-            "realname": "Jessica Campbell Jones", 
-            "significantissues": [
-                "Flashback, subjugated by the Purple Man, gave up costumed crimefighting (Alias #25-26, 2003)", 
-                "manipulated into effort to expose Captain America's secret identity, protected secret (Alias #1-5, 2001-2002)", 
-                "became Matt Murdock's bodyguard (Daredevil Vol. 2 #36, 2002)", 
-                "went on first date with Ant-Man (Alias #15, 2002)", 
-                "rescued Mattie (Spider-Woman) Franklin from MGH ring (Alias #16-21, 2003)", 
-                "fought Typhoid Mary alongside Cage (Daredevil Vol. 2 #48, 2003)", 
-                "confronted the Purple Man in prison, defeated him after his breakout, announced pregnancy to Cage (Alias #26-28, 2003-2004)", 
-                "met with J. Jonah Jameson about job offer (Pulse #1, 2004), married Luke Cage (New Avengers Annual #1, 2006)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 124
-        }
-    }
+    "aliases": [
+        "Jewel", 
+        "Knightress"
+    ], 
+    "citizenship": "United States", 
+    "content": "Months after the accident, while running home from school in an emotionally distraught state, Jessica manifested superhuman powers as a result of the experimental material to which she had been exposed; her inexperienced flying led her to crash-land in the bay, where she was rescued by Thor. She soon realized that she had also gained superhuman strength. While testing her flight capabilities, she chanced upon and defeated the costumed criminal known as the Scorpion, in desperate straits not long after his first defeat by Spider-Man. Proclaimed a hero, Jessica soon took on the costumed identity of Jewel, beginning her heroic career less than three years after Spider-Man's debut.Details of Jessica's subsequent life are sparse, although it is known that she was involved in a string of relationships that ended badly, including one with S.H.I.E.L.D. agent Clay Quartermain. She also became close friends with Ms. Marvel, who would undergo her own share of trauma during her Avengers membership and afterward. At one point Jessica attempted to return to costumed action as the Knightress, but this period was brief. She eventually became a licensed private investigator and opened her own firm, Alias Investigations.Jessica's recent string of cases included a surveillance assignment involving a woman whose companion was revealed to be Captain America, who changed from his then-secret identity into costume before Jessica's video camera; when the woman whom he had been photographed with was slain, Jessica realized she had been set up. She was questioned by suspicious police officers but helped out of her predicament by the timely arrival of attorney Matt Murdock. Her investigation led to a fight with enforcer Man-Mountain Marko and the revelation that she had been expected to publicize the video with the intent of creating a scandal defaming Captain America and the US government. With the help of S.H.I.E.L.D., Jessica exposed the plot's mastermind, a man named Zoumas, and received the thanks of Captain America, who encouraged her to return to the heroic life. Jessica next investigated a deranged man claiming to be Avengers associate Rick Jones, who paranoically feared attack by the alien races in whose war the real Jones had intervened. Jessica managed to partially calm his madness and reunited him with his wife. She was then hired by J. Jonah Jameson in an effort to track Spider-Man, only to bilk the publisher by spending his money on charitable endeavors. An out-of-town case led her to help troubled teen Rebecca Cross, who had run away after encouraging people to believe she was a mutant out of rebellion against her town's oppressive atmosphere, but the case ended badly when Rebecca's aunt killed her unjustly accused father.Jessica's greatest challenge came when relatives of some of the Purple Man's victims asked her to confront the imprisoned villain about his many murders, several of them committed on whims, in hopes that he would give their families a sense of closure by confessing to his killings. She was greatly apprehensive about confronting her former tormentor, but being consoled by Cage, she agreed to visit the Purple Man in prison, only to receive no useful information from the psychopathic mind-controller. The Purple Man then escaped in the chaos caused by the breakout of fellow prisoner Carnage, and he sought out Jessica in order to again control her. When the Avengers arrived, he commanded Jessica to fight them, but she activated a psychic defense trigger left in her mind by Phoenix years earlier and defied him, knocking him out with one blow.", 
+    "durability": 1, 
+    "education": "High school diploma, private investigator's license", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Alias #1\n", 
+    "groupaffiliation": [
+        "Formerly Avengers", 
+        "Alias Investigations"
+    ], 
+    "hair": "Brown, formerly dyed pink\n", 
+    "height": 60, 
+    "id": "Jones,_Jessica", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Dave Campbell (father), Phillip Campbell (brother), Luke Cage (husband), Danielle Cage (daughter)", 
+    "occupation": "Works for the Daily Bugle as a reporter and consultant for The Pulse. Formerly the owner of Alias Private Investigations.", 
+    "origin": "Alias #22-23 (2003)", 
+    "placeofbirth": [
+        "Unrevealed", 
+        "possibly Forest Hills", 
+        "NY"
+    ], 
+    "powers": "Jessica Jones possesses superhuman strength; the parameters of her strength are unrevealed, but she can lift an automobile with no discernible effort. She possesses an enhanced level of resistance to physical injury, although she is unsure of whether or not she is bulletproof. She is also able to fly, although she is out of practice in doing so.", 
+    "realname": "Jessica Campbell Jones", 
+    "significantissues": [
+        "Flashback, subjugated by the Purple Man, gave up costumed crimefighting (Alias #25-26, 2003)", 
+        "manipulated into effort to expose Captain America's secret identity, protected secret (Alias #1-5, 2001-2002)", 
+        "became Matt Murdock's bodyguard (Daredevil Vol. 2 #36, 2002)", 
+        "went on first date with Ant-Man (Alias #15, 2002)", 
+        "rescued Mattie (Spider-Woman) Franklin from MGH ring (Alias #16-21, 2003)", 
+        "fought Typhoid Mary alongside Cage (Daredevil Vol. 2 #48, 2003)", 
+        "confronted the Purple Man in prison, defeated him after his breakout, announced pregnancy to Cage (Alias #26-28, 2003-2004)", 
+        "met with J. Jonah Jameson about job offer (Pulse #1, 2004), married Luke Cage (New Avengers Annual #1, 2006)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 124
 }

@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Gigabyte", 
-                "Corpsman Rider", 
-                "Centurion Rider", 
-                "\"Bobby Rider", 
-                "Boy Genius\""
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Ongoing Nova Corps training, unrevealed degree from Massachusetts Institute of Technology (MIT)", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Nova #1 (1976)\n", 
-            "groupaffiliation": [
-                "Nova Corps", 
-                "formerly Project PEGASUS"
-            ], 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Rider,_Robert", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Charles Rider (father), Gloria Rider (mother), Richard Rider (brother), Ralph Rider (uncle, deceased), Ellen (aunt, full name unrevealed)", 
-            "occupation": [
-                "Nova Corps trainee", 
-                "former robotics technician", 
-                "computer software programmer", 
-                "researcher for Project PEGASUS"
-            ], 
-            "placeofbirth": [
-                "Hempstead", 
-                "Long Island", 
-                "New York"
-            ], 
-            "powers": "As a member of the Nova Corps Robbie had been imbued with the Nova Force by the Worldmind.", 
-            "realname": "Robert \"Robbie\" Rider", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 145
-        }
-    }
+    "aliases": [
+        "Gigabyte", 
+        "Corpsman Rider", 
+        "Centurion Rider", 
+        "\"Bobby Rider", 
+        "Boy Genius\""
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Ongoing Nova Corps training, unrevealed degree from Massachusetts Institute of Technology (MIT)", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Nova #1 (1976)\n", 
+    "groupaffiliation": [
+        "Nova Corps", 
+        "formerly Project PEGASUS"
+    ], 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Rider,_Robert", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Charles Rider (father), Gloria Rider (mother), Richard Rider (brother), Ralph Rider (uncle, deceased), Ellen (aunt, full name unrevealed)", 
+    "occupation": [
+        "Nova Corps trainee", 
+        "former robotics technician", 
+        "computer software programmer", 
+        "researcher for Project PEGASUS"
+    ], 
+    "placeofbirth": [
+        "Hempstead", 
+        "Long Island", 
+        "New York"
+    ], 
+    "powers": "As a member of the Nova Corps Robbie had been imbued with the Nova Force by the Worldmind.", 
+    "realname": "Robert \"Robbie\" Rider", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 145
 }

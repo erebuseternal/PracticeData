@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S. citizen with a criminal record", 
-            "content": "The Thinker was imprisoned and dubbed \u201cThe Mad Thinker\u201d by the media, which is a notion he detests. Since then, the Mad Thinker has spent a lot of his time in prison, frequently escaping by using his mind to transfer his consciousness into a series of Mad Thinker androids and committing his crimes while still physically in prison. The Mad Thinker was also one of the villains that Doctor Doom coerced into disrupting Reed and Sue's wedding, though Iron Man appeared and stopped him.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #15 (1963)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 60, 
-            "id": "Mad_Thinker", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Professional criminal mastermind", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Teams with Puppet Master, tricks the X-Men into fighting the Fantastic Four (Fantastic Four #28, 1964)", 
-                "reteams with Puppet Master vs. the Fantastic Four (Strange Tales #126, 1964)"
-            ], 
-            "speed": 2, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 215
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S. citizen with a criminal record", 
+    "content": "The Thinker was imprisoned and dubbed \u201cThe Mad Thinker\u201d by the media, which is a notion he detests. Since then, the Mad Thinker has spent a lot of his time in prison, frequently escaping by using his mind to transfer his consciousness into a series of Mad Thinker androids and committing his crimes while still physically in prison. The Mad Thinker was also one of the villains that Doctor Doom coerced into disrupting Reed and Sue's wedding, though Iron Man appeared and stopped him.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #15 (1963)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 60, 
+    "id": "Mad_Thinker", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Professional criminal mastermind", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Teams with Puppet Master, tricks the X-Men into fighting the Fantastic Four (Fantastic Four #28, 1964)", 
+        "reteams with Puppet Master vs. the Fantastic Four (Strange Tales #126, 1964)"
+    ], 
+    "speed": 2, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 215
 }

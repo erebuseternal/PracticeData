@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Riding Ghost", 
-                "Ghost Rider"
-            ], 
-            "citizenship": "Unknown", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Bonded with Daniel Ketch (Ghost Rider #1, 1990), Noble in his human form (Ghost Rider #78, 1996)\n", 
-            "groupaffiliation": "Formerly Spirits of Vengeance", 
-            "hair": "None\n", 
-            "id": "Ghost_Rider_(Noble_Kale)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Magdelena (Wife, deceased), Dante Kale (brother deceased), Jennifer Kale, Naomi Kale, Daniel and Barbara Ketch, Johnny Blaze (descendants)", 
-            "occupation": "Spirit of Vengeance", 
-            "placeofbirth": "Unknown", 
-            "powers": "The possessed the the \"Penance Stare,\" which allowed him to attack his enemies the pain and despair of their innocent victims. He has been known to manipulate Hellfire as a very effective weapon, often use as very powerful force bolts of fire.", 
-            "realname": "Noble Kale", 
-            "significantissues": "Ghost Rider #1 (1990)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Riding Ghost", 
+        "Ghost Rider"
+    ], 
+    "citizenship": "Unknown", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Bonded with Daniel Ketch (Ghost Rider #1, 1990), Noble in his human form (Ghost Rider #78, 1996)\n", 
+    "groupaffiliation": "Formerly Spirits of Vengeance", 
+    "hair": "None\n", 
+    "id": "Ghost_Rider_(Noble_Kale)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Magdelena (Wife, deceased), Dante Kale (brother deceased), Jennifer Kale, Naomi Kale, Daniel and Barbara Ketch, Johnny Blaze (descendants)", 
+    "occupation": "Spirit of Vengeance", 
+    "placeofbirth": "Unknown", 
+    "powers": "The possessed the the \"Penance Stare,\" which allowed him to attack his enemies the pain and despair of their innocent victims. He has been known to manipulate Hellfire as a very effective weapon, often use as very powerful force bolts of fire.", 
+    "realname": "Noble Kale", 
+    "significantissues": "Ghost Rider #1 (1990)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Jackie Falsworth", 
-                "Lady Crichton"
-            ], 
-            "citizenship": "U.K.", 
-            "content": "This did not bode well for the other resident in the mansion, the Lord\u2019s visiting \"nephew\" (really his brother), John Falsworth, who was secretly Baron Blood and a Nazi sympathizer. He arranged for the capture of Jacqueline and her father by a Nazi spy operation which the Invaders had been fighting, and he again attacked Jacqueline, biting her. The Invaders saved Jacqueline and her father, uncovering the truth about Baron Blood, but Jacqueline had been drained of too much blood. She was rushed to a hospital and received a blood transfusion from the Human Torch, who had developed quite a crush on the young woman. She soon discovered that the transfusion of the Torch's android blood, plus the foreign enzymes introduced into her bloodstream by Baron Blood's bite, combined to give her super-human speed. When the hospital was invaded by a Nazi agent in battle armor, called the Blue Bullet, who was looking for the Invaders, Jacqueline used her new powers to save the weakened Torch and to help the other Invaders defeat the Blue Bullet.Jacqueline made herself a costume and called herself Spitfire, after the British fighter plane of the same name. She joined the Invaders, soon helping them recover her brother, Brian Falsworth, from behind enemy lines. The Torch\u2019s feelings went unrequited, as Spitfire had developed her own crush on their teammate Captain America. Spitfire and Union Jack would continue to serve with the Invaders whenever they were in the U.K. Spitfire continued adventuring for some time, as the Invaders became the All-Winners Squad. She also joined her brother and the Destroyer in hunting war criminals. By 1951, they reorganized the V-Battalion with other heroes of the time, becoming the organization\u2019s first ruling Penance Council. She left the V-Battalion after her brother died in a car accident, and retired from adventuring shortly thereafter.During the 1950\u2019s, Spitfire\u2019s super powers had waned significantly and, eventually, completely disappeared. By 1956, Jacqueline married an English nobleman, Lord Crichton. Her husband died sometime after they had a son, Kenneth. She then moved back into Falsworth Manor, to look after her ill father.In more recent years, Baron Blood returned to haunt Jacqueline and her family, and Lord Falsworth called Captain America for help. Captain America was able to destroy Baron Blood, beheading the vampire with his shield, although Jacqueline's father died of an heart attack during the final confrontation. Captain America was aided in battling the vampire by a friend of Jacqueline's son, Joey Chapman, who assumed the identity of Union Jack to help. Initially, Jacqueline disapproved of Chapman's lower class standing, although she did not stop him from continuing his crime-fighting career, and she eventually grew to accept him as a willing successor to her father and brother's legacy.Later, Jacqueline was approached by Namorita, who needed help rescuing Prince Namor the Sub-Mariner and the Human Torch from the latest incarnation of the Nazi villain, Master Man. Jacqueline was reunited with Captain America and Union Jack. In attempting to rescue their ally, Jacqueline raced in the path of a bullet meant for Namor, discovering the last remnants of her super-speed. She was mortally wounded, but after another emergency blood transfusion from the android Human Torch, Jacqueline's metabolism returned to superhuman levels and her Spitfire powers reactivated. A side effect of her returning powers caused her to become young again, as she reverted to the body of a 16-year old. Jacqueline helped Namor on several occasions with his corporation Oracle, Inc., but eventually returned to her home at Falsworth Manor.", 
-            "durability": 3, 
-            "education": "College graduate", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "(as Jacqueline Falsworth) Invaders #7 (1976); (as Spitfire) Invaders #12\n", 
-            "groupaffiliation": [
-                "MI-13", 
-                "formerly Invaders", 
-                "All-Winners Squad", 
-                "V-Battalion"
-            ], 
-            "hair": "(elderly) White; (rejuvenated) Blonde\n", 
-            "height": 0, 
-            "id": "Spitfire", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "William, Lord Falsworth (grandfather, deceased); Montgomery, Lord Falsworth (Union Jack, father, deceased); Lady Falsworth (mother, deceased); John Falsworth (Baron Blood, uncle, deceased); Brian Falsworth (Union Jack, brother, deceased); Lord Crichton (husband, deceased); Kenneth Crichton (Baron Blood, son, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "CEO of Falsworth Industries", 
-                "aristocrat", 
-                "(formerly) member of  the United Kingdom\u2019s Home Guard"
-            ], 
-            "origin": [
-                "Invaders #9", 
-                "11", 
-                "& 12"
-            ], 
-            "placeofbirth": [
-                "Maidstone", 
-                "England"
-            ], 
-            "powers": "As Spitfire, Jacqueline possessed the ability to run at lightning-fast speeds, with reflexes and agility to match. When she ran, a trail of non-damaging fire appeared behind her. Her skin was also hardened to withstand the rigors of such speed, providing a type of body armor.", 
-            "realname": "Jacqueline Falsworth-Crichton", 
-            "speed": 6, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Jackie Falsworth", 
+        "Lady Crichton"
+    ], 
+    "citizenship": "U.K.", 
+    "content": "This did not bode well for the other resident in the mansion, the Lord\u2019s visiting \"nephew\" (really his brother), John Falsworth, who was secretly Baron Blood and a Nazi sympathizer. He arranged for the capture of Jacqueline and her father by a Nazi spy operation which the Invaders had been fighting, and he again attacked Jacqueline, biting her. The Invaders saved Jacqueline and her father, uncovering the truth about Baron Blood, but Jacqueline had been drained of too much blood. She was rushed to a hospital and received a blood transfusion from the Human Torch, who had developed quite a crush on the young woman. She soon discovered that the transfusion of the Torch's android blood, plus the foreign enzymes introduced into her bloodstream by Baron Blood's bite, combined to give her super-human speed. When the hospital was invaded by a Nazi agent in battle armor, called the Blue Bullet, who was looking for the Invaders, Jacqueline used her new powers to save the weakened Torch and to help the other Invaders defeat the Blue Bullet.Jacqueline made herself a costume and called herself Spitfire, after the British fighter plane of the same name. She joined the Invaders, soon helping them recover her brother, Brian Falsworth, from behind enemy lines. The Torch\u2019s feelings went unrequited, as Spitfire had developed her own crush on their teammate Captain America. Spitfire and Union Jack would continue to serve with the Invaders whenever they were in the U.K. Spitfire continued adventuring for some time, as the Invaders became the All-Winners Squad. She also joined her brother and the Destroyer in hunting war criminals. By 1951, they reorganized the V-Battalion with other heroes of the time, becoming the organization\u2019s first ruling Penance Council. She left the V-Battalion after her brother died in a car accident, and retired from adventuring shortly thereafter.During the 1950\u2019s, Spitfire\u2019s super powers had waned significantly and, eventually, completely disappeared. By 1956, Jacqueline married an English nobleman, Lord Crichton. Her husband died sometime after they had a son, Kenneth. She then moved back into Falsworth Manor, to look after her ill father.In more recent years, Baron Blood returned to haunt Jacqueline and her family, and Lord Falsworth called Captain America for help. Captain America was able to destroy Baron Blood, beheading the vampire with his shield, although Jacqueline's father died of an heart attack during the final confrontation. Captain America was aided in battling the vampire by a friend of Jacqueline's son, Joey Chapman, who assumed the identity of Union Jack to help. Initially, Jacqueline disapproved of Chapman's lower class standing, although she did not stop him from continuing his crime-fighting career, and she eventually grew to accept him as a willing successor to her father and brother's legacy.Later, Jacqueline was approached by Namorita, who needed help rescuing Prince Namor the Sub-Mariner and the Human Torch from the latest incarnation of the Nazi villain, Master Man. Jacqueline was reunited with Captain America and Union Jack. In attempting to rescue their ally, Jacqueline raced in the path of a bullet meant for Namor, discovering the last remnants of her super-speed. She was mortally wounded, but after another emergency blood transfusion from the android Human Torch, Jacqueline's metabolism returned to superhuman levels and her Spitfire powers reactivated. A side effect of her returning powers caused her to become young again, as she reverted to the body of a 16-year old. Jacqueline helped Namor on several occasions with his corporation Oracle, Inc., but eventually returned to her home at Falsworth Manor.", 
+    "durability": 3, 
+    "education": "College graduate", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "(as Jacqueline Falsworth) Invaders #7 (1976); (as Spitfire) Invaders #12\n", 
+    "groupaffiliation": [
+        "MI-13", 
+        "formerly Invaders", 
+        "All-Winners Squad", 
+        "V-Battalion"
+    ], 
+    "hair": "(elderly) White; (rejuvenated) Blonde\n", 
+    "height": 0, 
+    "id": "Spitfire", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "William, Lord Falsworth (grandfather, deceased); Montgomery, Lord Falsworth (Union Jack, father, deceased); Lady Falsworth (mother, deceased); John Falsworth (Baron Blood, uncle, deceased); Brian Falsworth (Union Jack, brother, deceased); Lord Crichton (husband, deceased); Kenneth Crichton (Baron Blood, son, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "CEO of Falsworth Industries", 
+        "aristocrat", 
+        "(formerly) member of  the United Kingdom\u2019s Home Guard"
+    ], 
+    "origin": [
+        "Invaders #9", 
+        "11", 
+        "& 12"
+    ], 
+    "placeofbirth": [
+        "Maidstone", 
+        "England"
+    ], 
+    "powers": "As Spitfire, Jacqueline possessed the ability to run at lightning-fast speeds, with reflexes and agility to match. When she ran, a trail of non-damaging fire appeared behind her. Her skin was also hardened to withstand the rigors of such speed, providing a type of body armor.", 
+    "realname": "Jacqueline Falsworth-Crichton", 
+    "speed": 6, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

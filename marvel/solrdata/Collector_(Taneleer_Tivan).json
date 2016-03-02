@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Collector", 
-            "citizenship": [
-                "Unknown", 
-                "possibly inapplicable"
-            ], 
-            "content": "Determined not to succumb to his wife's malady, the Collector meditated upon what he might do to give his life meaning. In a vision, he foresaw that beings of great power would arise one day determined to destroy all life in the universe. To prevent this from happening, he decided to devote his life to collecting living beings and artifacts from throughout the known universe, and placing them in safekeeping. As a fail safe if what he foresaw came to pass, he could repopulate the universe and bequeath to them the knowledge and culture of the past.Building himself a large starship, the Collector set forth, stopping at every inhabited world he found to acquire a sample of their finest achievements as well as living representatives of the world's life-forms. In a matter of years, his ship was completely filled, and the Collector was forced to suspend his mission in order to build expanded facilities for his permanent collection. With the aid of robo-mechanics acquired from the planet Cron, the Collector converted several uninhabited planets into giant museums, and transferred his collection there. Every time his ship's hold was filled, he would return to the museum-worlds to deposit his recent acquisitions. At present, the Collector has filled ten museum-worlds with artifacts from a hundred thousand planets.Over the eons, the Collector's monomania became more and more obsessive; making him lose sight of the original reason for which he began his collection. In recent years, the first being of great power he had foreseen as a threat to all life, Thanos of Titan, had been born and defeated without the Collector's intervention. When the second such great threat to life, Korvac of Earth, appeared, the Collector decided to send his daughter Carina to spy on him. Korvac slew the Collector before he could reveal to Earth's heroes what he knew of Korvac. A short time later, the Collector's kinsman, the Grandmaster, played a contest of champions with the spirit of Death itself, winning the power to resurrect the Collector apparently at the cost of his own immortal life.", 
-            "durability": 7, 
-            "education": "Unrevealed", 
-            "energy": 7, 
-            "eyes": "White\n", 
-            "fighting": 7, 
-            "firstappearance": "The Avengers #28 (1966)\n", 
-            "groupaffiliation": "Elders of the Universe", 
-            "hair": "White\n", 
-            "height": 72, 
-            "id": "Collector_(Taneleer_Tivan)", 
-            "identity": "His existence is not known to the general public of Earth.", 
-            "intelligence": 7, 
-            "knownrelatives": "Matani (wife, deceased), Carina (daughter, deceased)", 
-            "occupation": "Collector/Curator", 
-            "placeofbirth": "Cygnus X-1", 
-            "powers": "As an Elder of the Universe, the Collector possesses an immortal body, immune to the cellular deterioration of aging and impervious to conventional harm (disease, penetration wounds, etc.). Only the dispersion of a major portion of his bodily molecules could prevent his regenerative power from functioning and cause death. Unlike some of the Elders (such as the Champion or the Contemplator) who have used their long lifetimes to develop vast powers of the body or mind, the Collector has not devoted any of his energies to self-perfection. Hence he has no special superhuman physical or mental abilities. The Collector is more interested in acquiring physical objects of power rather than developing powers of his own.", 
-            "realname": "Taneleer Tivan", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 450
-        }
-    }
+    "aliases": "Collector", 
+    "citizenship": [
+        "Unknown", 
+        "possibly inapplicable"
+    ], 
+    "content": "Determined not to succumb to his wife's malady, the Collector meditated upon what he might do to give his life meaning. In a vision, he foresaw that beings of great power would arise one day determined to destroy all life in the universe. To prevent this from happening, he decided to devote his life to collecting living beings and artifacts from throughout the known universe, and placing them in safekeeping. As a fail safe if what he foresaw came to pass, he could repopulate the universe and bequeath to them the knowledge and culture of the past.Building himself a large starship, the Collector set forth, stopping at every inhabited world he found to acquire a sample of their finest achievements as well as living representatives of the world's life-forms. In a matter of years, his ship was completely filled, and the Collector was forced to suspend his mission in order to build expanded facilities for his permanent collection. With the aid of robo-mechanics acquired from the planet Cron, the Collector converted several uninhabited planets into giant museums, and transferred his collection there. Every time his ship's hold was filled, he would return to the museum-worlds to deposit his recent acquisitions. At present, the Collector has filled ten museum-worlds with artifacts from a hundred thousand planets.Over the eons, the Collector's monomania became more and more obsessive; making him lose sight of the original reason for which he began his collection. In recent years, the first being of great power he had foreseen as a threat to all life, Thanos of Titan, had been born and defeated without the Collector's intervention. When the second such great threat to life, Korvac of Earth, appeared, the Collector decided to send his daughter Carina to spy on him. Korvac slew the Collector before he could reveal to Earth's heroes what he knew of Korvac. A short time later, the Collector's kinsman, the Grandmaster, played a contest of champions with the spirit of Death itself, winning the power to resurrect the Collector apparently at the cost of his own immortal life.", 
+    "durability": 7, 
+    "education": "Unrevealed", 
+    "energy": 7, 
+    "eyes": "White\n", 
+    "fighting": 7, 
+    "firstappearance": "The Avengers #28 (1966)\n", 
+    "groupaffiliation": "Elders of the Universe", 
+    "hair": "White\n", 
+    "height": 72, 
+    "id": "Collector_(Taneleer_Tivan)", 
+    "identity": "His existence is not known to the general public of Earth.", 
+    "intelligence": 7, 
+    "knownrelatives": "Matani (wife, deceased), Carina (daughter, deceased)", 
+    "occupation": "Collector/Curator", 
+    "placeofbirth": "Cygnus X-1", 
+    "powers": "As an Elder of the Universe, the Collector possesses an immortal body, immune to the cellular deterioration of aging and impervious to conventional harm (disease, penetration wounds, etc.). Only the dispersion of a major portion of his bodily molecules could prevent his regenerative power from functioning and cause death. Unlike some of the Elders (such as the Champion or the Contemplator) who have used their long lifetimes to develop vast powers of the body or mind, the Collector has not devoted any of his energies to self-perfection. Hence he has no special superhuman physical or mental abilities. The Collector is more interested in acquiring physical objects of power rather than developing powers of his own.", 
+    "realname": "Taneleer Tivan", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 450
 }

@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Star Brand", 
-            "citizenship": [
-                "Formerly U.S.A.", 
-                "Earth-616"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, although it is clear that she had clerical training and average typing skills.", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Quasar #3 (1989)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Blond\n", 
-            "id": "Ballantine,_Kayla", 
-            "identity": "Kayla is known to the public of Earth-616", 
-            "intelligence": 1, 
-            "knownrelatives": "Devon (brother), Mr. and Mrs. Ballantine (parents identified by last name only)", 
-            "occupation": "Former secretary of Vaughn Security Systems", 
-            "placeofbirth": [
-                "Unrevealed", 
-                "possibly Manhattan", 
-                "New York of Earth-616"
-            ], 
-            "powers": "Kayla was a normal human female in good physical condition.", 
-            "realname": "Kayla Ballantine", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": [
-                "Earth-148611 (New Universe)", 
-                "formerly Marvel Universe"
-            ]
-        }
-    }
+    "aliases": "Star Brand", 
+    "citizenship": [
+        "Formerly U.S.A.", 
+        "Earth-616"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, although it is clear that she had clerical training and average typing skills.", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Quasar #3 (1989)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Blond\n", 
+    "id": "Ballantine,_Kayla", 
+    "identity": "Kayla is known to the public of Earth-616", 
+    "intelligence": 1, 
+    "knownrelatives": "Devon (brother), Mr. and Mrs. Ballantine (parents identified by last name only)", 
+    "occupation": "Former secretary of Vaughn Security Systems", 
+    "placeofbirth": [
+        "Unrevealed", 
+        "possibly Manhattan", 
+        "New York of Earth-616"
+    ], 
+    "powers": "Kayla was a normal human female in good physical condition.", 
+    "realname": "Kayla Ballantine", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": [
+        "Earth-148611 (New Universe)", 
+        "formerly Marvel Universe"
+    ]
 }

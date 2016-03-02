@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Formerly Transia", 
-                "currently House of M"
-            ], 
-            "content": "Following Magneto's final victory, Quicksilver was invited to a victory dinner in the capital city of Genosha along with his sisters Wanda and Polaris. It was on this day Magnus revealed he was truly their father and invited them to join him in running the world. They accepted, and the House of M was formed.", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": "Magnus royal family", 
-            "hair": "White\n", 
-            "height": 72, 
-            "id": "Quicksilver_(House_of_M)", 
-            "identity": "Heir to Magnus", 
-            "intelligence": 1, 
-            "knownrelatives": "Magnus (Magneto, father), Magda (mother, deceased), Wanda (sister),  Anya (sister, deceased), Lorna (Polaris, half-sister), Tyler (nephew), unnamed nieces and nephews", 
-            "occupation": [
-                "First Prince of the House of M", 
-                "Diplomat"
-            ], 
-            "placeofbirth": [
-                "Wundagore", 
-                "Transia", 
-                "Europe"
-            ], 
-            "powers": "Quicksilver possesses superhuman speed, and can travel on foot at speeds exceeding the speed of sound for hundreds of miles before tiring; he can \"fly\" for brief periods by flapping his arms; he can also use his speed to create cyclones, and run up walls and across water.", 
-            "realname": "Pietro", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "House of M", 
-            "weight": 185
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Formerly Transia", 
+        "currently House of M"
+    ], 
+    "content": "Following Magneto's final victory, Quicksilver was invited to a victory dinner in the capital city of Genosha along with his sisters Wanda and Polaris. It was on this day Magnus revealed he was truly their father and invited them to join him in running the world. They accepted, and the House of M was formed.", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": "Magnus royal family", 
+    "hair": "White\n", 
+    "height": 72, 
+    "id": "Quicksilver_(House_of_M)", 
+    "identity": "Heir to Magnus", 
+    "intelligence": 1, 
+    "knownrelatives": "Magnus (Magneto, father), Magda (mother, deceased), Wanda (sister),  Anya (sister, deceased), Lorna (Polaris, half-sister), Tyler (nephew), unnamed nieces and nephews", 
+    "occupation": [
+        "First Prince of the House of M", 
+        "Diplomat"
+    ], 
+    "placeofbirth": [
+        "Wundagore", 
+        "Transia", 
+        "Europe"
+    ], 
+    "powers": "Quicksilver possesses superhuman speed, and can travel on foot at speeds exceeding the speed of sound for hundreds of miles before tiring; he can \"fly\" for brief periods by flapping his arms; he can also use his speed to create cyclones, and run up walls and across water.", 
+    "realname": "Pietro", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "House of M", 
+    "weight": 185
 }

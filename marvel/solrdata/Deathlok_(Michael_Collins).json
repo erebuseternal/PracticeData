@@ -1,57 +1,53 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Robot Vigilante", 
-                "Doctor Donut"
-            ], 
-            "citizenship": "United States of America", 
-            "content": "Turning to his boss and friend, Harlan Ryker, Michael shared his discovery in hopes that Ryker would do something about it. Ryker was behind the Deathlok project as well as many other projects destined for military uses, so he betrayed Michael and had his brain placed into the Deathlok cyborg.Michael awoke from the transfer, unable to control the functions of the cyborg. He watched helplessly through his new cybernetic eyes as it carried out a test mission, killing some soldiers in the process. Slowly, Michael found he could control the actions of the cyborg, and he immediately set out to pursue his old friend Ryker.Deathlok caught up to Ryker in the act of making an illegal arms sale to a private army. Before turning him in to officials, he learned from Ryker that his human body still existed, and he could be restored if he could find it and the doctor who performed the transfer.", 
-            "durability": 6, 
-            "education": "Ph.D in prosthetics/neuroscience, masters degree in computer science.", 
-            "energy": 4, 
-            "eyes": "(Collins) Brown; (Deathlok) Brown (Right), Yellow (Left)\n", 
-            "fighting": 4, 
-            "firstappearance": "(The Cyborg) Marvel Comics Presents # 62 (1990); (Collins/Collins as Deathlok) Deathlok #1 (1990)\n", 
-            "groupaffiliation": [
-                "Formerly Secret Defenders", 
-                "Wild Pack", 
-                "and Freelance S.H.I.E.L.D. Agent"
-            ], 
-            "hair": "(Collins) Dark Brown;(Deathlok) Light Brown\n", 
-            "height": 0, 
-            "id": "Deathlok_(Michael_Collins)", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Tracy Collins (Wife), Nicholas \u201cNick\u201d Collins (Son), Patricia \"Trisha\" Collins (Daughter), Bill Collins (Brother), Arlene (Sister-in-law)", 
-            "occupation": [
-                "Adventurer", 
-                "Computer Consultant/software engineer", 
-                "Video Game Programmer"
-            ], 
-            "origin": [
-                "Deathlok #1(1990)", 
-                "Deathlok # 13 (1991)"
-            ], 
-            "placeofbirth": [
-                "Philadelphia", 
-                "Pennsylvania"
-            ], 
-            "powers": "Deathlok is an advanced cyborg utilizing encephalonic read/write technology to link the human brain with a CPU. Deathlok\u2019s  brain is supported by organic lungs; which transport oxygen to his brain. The only other parts of the cyborg that are human are part of his skull and a modified human stomach. Deathlok\u2019s sensitive stomach can only process simple nutrient formulas or pastes. His organic systems are supported by nanotech assemblers, which can repair damaged organics.  The rest of the body is made up of synthetic parts. His skeleton is composed of unbreakable Adamantium, while his muscles and cartilage are a flexible steel/Adamantium alloy. His unique physical structure allows him to lift 85 tons with a theoretical limit of 150 tons; which is safeguarded by his computer preventing him from reaching his limit. Deathlok can run at speeds of 107 MPH on foot. The Cybernetic left eye is sensitive to a spectrum stretching above and below visible light, while his left cybernetic ear has directional cabilbities.  Deathlok\u2019s CPU is housed within his torso, and rests next to the controlled fusion generator which powers him.", 
-            "realname": "Michael \"Mike\" Collins", 
-            "significantissues": [
-                "fought against Mechadoom with help from Misty Knight, X-men and the Fantastic Four (Deathlok # 2-5, 1991)", 
-                "Stopped Silvermane with the help of the Punisher (Deathlok # 6 and 7, 1991 and 1992)", 
-                "Captured by Nightmare, and fought Ghost Rider while Cyborg Temporarily controlled by John Kelly (Deathlok # 9, 10, 1992)", 
-                "Fought Doppelganger (Deathlok # 16, 1992)", 
-                "Kelly conscience discovered (Deathlok # 17, 1992)", 
-                "Kelly\u2018s Conscience downloaded into Cyberwarrior creating Siege (Deathlok # 19, 1993)", 
-                "Travels to Africa and Thwarts Moses Magnum\u2018s plans to take over Wakanda (Deathlok # 22-25, 1993)"
-            ], 
-            "speed": 3, 
-            "strength": 6, 
-            "universe": "Marvel_Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": [
+        "Robot Vigilante", 
+        "Doctor Donut"
+    ], 
+    "citizenship": "United States of America", 
+    "content": "Turning to his boss and friend, Harlan Ryker, Michael shared his discovery in hopes that Ryker would do something about it. Ryker was behind the Deathlok project as well as many other projects destined for military uses, so he betrayed Michael and had his brain placed into the Deathlok cyborg.Michael awoke from the transfer, unable to control the functions of the cyborg. He watched helplessly through his new cybernetic eyes as it carried out a test mission, killing some soldiers in the process. Slowly, Michael found he could control the actions of the cyborg, and he immediately set out to pursue his old friend Ryker.Deathlok caught up to Ryker in the act of making an illegal arms sale to a private army. Before turning him in to officials, he learned from Ryker that his human body still existed, and he could be restored if he could find it and the doctor who performed the transfer.", 
+    "durability": 6, 
+    "education": "Ph.D in prosthetics/neuroscience, masters degree in computer science.", 
+    "energy": 4, 
+    "eyes": "(Collins) Brown; (Deathlok) Brown (Right), Yellow (Left)\n", 
+    "fighting": 4, 
+    "firstappearance": "(The Cyborg) Marvel Comics Presents # 62 (1990); (Collins/Collins as Deathlok) Deathlok #1 (1990)\n", 
+    "groupaffiliation": [
+        "Formerly Secret Defenders", 
+        "Wild Pack", 
+        "and Freelance S.H.I.E.L.D. Agent"
+    ], 
+    "hair": "(Collins) Dark Brown;(Deathlok) Light Brown\n", 
+    "height": 0, 
+    "id": "Deathlok_(Michael_Collins)", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Tracy Collins (Wife), Nicholas \u201cNick\u201d Collins (Son), Patricia \"Trisha\" Collins (Daughter), Bill Collins (Brother), Arlene (Sister-in-law)", 
+    "occupation": [
+        "Adventurer", 
+        "Computer Consultant/software engineer", 
+        "Video Game Programmer"
+    ], 
+    "origin": [
+        "Deathlok #1(1990)", 
+        "Deathlok # 13 (1991)"
+    ], 
+    "placeofbirth": [
+        "Philadelphia", 
+        "Pennsylvania"
+    ], 
+    "powers": "Deathlok is an advanced cyborg utilizing encephalonic read/write technology to link the human brain with a CPU. Deathlok\u2019s  brain is supported by organic lungs; which transport oxygen to his brain. The only other parts of the cyborg that are human are part of his skull and a modified human stomach. Deathlok\u2019s sensitive stomach can only process simple nutrient formulas or pastes. His organic systems are supported by nanotech assemblers, which can repair damaged organics.  The rest of the body is made up of synthetic parts. His skeleton is composed of unbreakable Adamantium, while his muscles and cartilage are a flexible steel/Adamantium alloy. His unique physical structure allows him to lift 85 tons with a theoretical limit of 150 tons; which is safeguarded by his computer preventing him from reaching his limit. Deathlok can run at speeds of 107 MPH on foot. The Cybernetic left eye is sensitive to a spectrum stretching above and below visible light, while his left cybernetic ear has directional cabilbities.  Deathlok\u2019s CPU is housed within his torso, and rests next to the controlled fusion generator which powers him.", 
+    "realname": "Michael \"Mike\" Collins", 
+    "significantissues": [
+        "fought against Mechadoom with help from Misty Knight, X-men and the Fantastic Four (Deathlok # 2-5, 1991)", 
+        "Stopped Silvermane with the help of the Punisher (Deathlok # 6 and 7, 1991 and 1992)", 
+        "Captured by Nightmare, and fought Ghost Rider while Cyborg Temporarily controlled by John Kelly (Deathlok # 9, 10, 1992)", 
+        "Fought Doppelganger (Deathlok # 16, 1992)", 
+        "Kelly conscience discovered (Deathlok # 17, 1992)", 
+        "Kelly\u2018s Conscience downloaded into Cyberwarrior creating Siege (Deathlok # 19, 1993)", 
+        "Travels to Africa and Thwarts Moses Magnum\u2018s plans to take over Wakanda (Deathlok # 22-25, 1993)"
+    ], 
+    "speed": 3, 
+    "strength": 6, 
+    "universe": "Marvel_Universe", 
+    "weight": 200
 }

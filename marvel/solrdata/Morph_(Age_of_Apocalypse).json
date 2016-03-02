@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Changeling", 
-                "has assumed the identity of Holocaust", 
-                "Charles Lensherr", 
-                "Magneto", 
-                "Sabretooth", 
-                "others"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "After a reconnaissance mission by Blink and Sunfire, Morph and the rest of the X-Men learned that the human cullings had begun once more with Apocalypse's son Holocaust personally carrying them out. Morph joined Rogue's team of X-Men in Chicago to evacuate as many humans as possible and stop Holocaust. When Wild Child was attacked by Infinites, Morph changed into Holocaust to deceive the Infinites long enough for Sunfire to kill them. Wild Child, unable to speak, licked Rogue in order for her to absorb his memories and to inform her of the danger Sabretooth was in. Sneaking into the Infinite processing plant, Morph and the rest of the X-Men managed to rescue some prisoners and destroy the plant, preventing further Infinites from being processed. During the battle with Holocaust, Rogue was hurt and Morph, as a means to get her interest, changed to Rogue's son, Charles. Doing the trick, Rogue, Morph and the rest of the team managed to defeat Holocaust and rescue Sabretooth.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales from the Age of Apocalypse: By the Light (1995)\n", 
-            "groupaffiliation": "Formerly X-Men", 
-            "hair": "None (variable)\n", 
-            "height": 70, 
-            "id": "Morph_(Age_of_Apocalypse)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Adventurer", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Morph has the mutant ability to alter his appearance into any shape or form. He can transform single or multiple body parts and mimic voices.", 
-            "realname": "Kevin Sydney", 
-            "significantissues": [
-                "Fights the Horseman Death (Tales from the Age of Apocalypse: By the Light, 1995)", 
-                "helps evacuate the people of Chicago from Holocaust's cullings (Astonishing X-Men #2, 1995) breaks into the Infinite processing plant (Astonishing X-Men #3, 1995)", 
-                "joins the final fight against Apocalypse (X-Men: Omega, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 175
-        }
-    }
+    "aliases": [
+        "Changeling", 
+        "has assumed the identity of Holocaust", 
+        "Charles Lensherr", 
+        "Magneto", 
+        "Sabretooth", 
+        "others"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "After a reconnaissance mission by Blink and Sunfire, Morph and the rest of the X-Men learned that the human cullings had begun once more with Apocalypse's son Holocaust personally carrying them out. Morph joined Rogue's team of X-Men in Chicago to evacuate as many humans as possible and stop Holocaust. When Wild Child was attacked by Infinites, Morph changed into Holocaust to deceive the Infinites long enough for Sunfire to kill them. Wild Child, unable to speak, licked Rogue in order for her to absorb his memories and to inform her of the danger Sabretooth was in. Sneaking into the Infinite processing plant, Morph and the rest of the X-Men managed to rescue some prisoners and destroy the plant, preventing further Infinites from being processed. During the battle with Holocaust, Rogue was hurt and Morph, as a means to get her interest, changed to Rogue's son, Charles. Doing the trick, Rogue, Morph and the rest of the team managed to defeat Holocaust and rescue Sabretooth.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales from the Age of Apocalypse: By the Light (1995)\n", 
+    "groupaffiliation": "Formerly X-Men", 
+    "hair": "None (variable)\n", 
+    "height": 70, 
+    "id": "Morph_(Age_of_Apocalypse)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Adventurer", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Morph has the mutant ability to alter his appearance into any shape or form. He can transform single or multiple body parts and mimic voices.", 
+    "realname": "Kevin Sydney", 
+    "significantissues": [
+        "Fights the Horseman Death (Tales from the Age of Apocalypse: By the Light, 1995)", 
+        "helps evacuate the people of Chicago from Holocaust's cullings (Astonishing X-Men #2, 1995) breaks into the Infinite processing plant (Astonishing X-Men #3, 1995)", 
+        "joins the final fight against Apocalypse (X-Men: Omega, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 175
 }

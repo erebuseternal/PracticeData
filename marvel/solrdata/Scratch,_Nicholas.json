@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Agatha Harkness", 
-                "Mayor Nicholas", 
-                "Wicked One", 
-                "Most High"
-            ], 
-            "citizenship": "New Salem", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Extensive training in witchcraft", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #185 (1977)\n", 
-            "groupaffiliation": "Formerly the Witches and Warlocks of New Salem", 
-            "hair": "Black with white streaks in beard\n", 
-            "height": 75, 
-            "id": "Scratch,_Nicholas", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Agatha Harkness (mother, deceased), Brutacus, Hydron, Thronn, Vakume (sons), Gazelle, Reptilla, Vertigo (daughters)", 
-            "occupation": [
-                "Warlock", 
-                "former mayor of Centerville", 
-                "leader of New Salem"
-            ], 
-            "placeofbirth": [
-                "New Salem", 
-                "Colorado"
-            ], 
-            "realname": "Nicholas Scratch (presumed)", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": [
+        "Agatha Harkness", 
+        "Mayor Nicholas", 
+        "Wicked One", 
+        "Most High"
+    ], 
+    "citizenship": "New Salem", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Extensive training in witchcraft", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #185 (1977)\n", 
+    "groupaffiliation": "Formerly the Witches and Warlocks of New Salem", 
+    "hair": "Black with white streaks in beard\n", 
+    "height": 75, 
+    "id": "Scratch,_Nicholas", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Agatha Harkness (mother, deceased), Brutacus, Hydron, Thronn, Vakume (sons), Gazelle, Reptilla, Vertigo (daughters)", 
+    "occupation": [
+        "Warlock", 
+        "former mayor of Centerville", 
+        "leader of New Salem"
+    ], 
+    "placeofbirth": [
+        "New Salem", 
+        "Colorado"
+    ], 
+    "realname": "Nicholas Scratch (presumed)", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

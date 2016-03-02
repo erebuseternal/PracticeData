@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lord of Death and Rebirth", 
-                "the Guardian of the Veil", 
-                "Jackal-God"
-            ], 
-            "citizenship": "Celestial Heliopolis", 
-            "content": "Thousands of years ago, the soul of an unidentified man had been placed in Anubis\u2019 care. The soul was kept in a bronze idol within in his death realm. At some point the soul escaped an assumed the bodies of other men and women allowing it to elude the ancient death god. Anubis still in a ghost like form empowered the mortal Silas Warden, with great power so that he could capture the wandering soul, Warden became Mindstar. The loyal Mindstar track the soul to a young mortal man known as Michael Taine, a student of District University. Mindstar's attack on the Taine was so vicious that took the life of the young man, once again allowing the soul to escape. Overcome by the fear of his failure Mindstar embedded Taine's body into a wall in the form of an Egyptian ankh. Mindstar later lied to Anubis, convincing him that the soul he sought was the soul of the Son of Satan, Daimon Hellstorm.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Son of Satan #5 (1976)\n", 
-            "groupaffiliation": "Gods of Heliopolis", 
-            "hair": "Black\n", 
-            "id": "Anubis", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Geb (grandfather), Nut (grandmother), Osiris (father), Nephthys (mother), Qadesh (wife), Horus (half-brother), Seth (uncle), Isis (aunt, foster mother), Bast (great-grand-uncle)", 
-            "occupation": "God of death and mummification", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Anubis possessed superhuman strength, stamina reflexes and durability. He also had to power to return from death.", 
-            "realname": "Anpu (Egyptian translation; Anubis is the Greek translation of his name)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Lord of Death and Rebirth", 
+        "the Guardian of the Veil", 
+        "Jackal-God"
+    ], 
+    "citizenship": "Celestial Heliopolis", 
+    "content": "Thousands of years ago, the soul of an unidentified man had been placed in Anubis\u2019 care. The soul was kept in a bronze idol within in his death realm. At some point the soul escaped an assumed the bodies of other men and women allowing it to elude the ancient death god. Anubis still in a ghost like form empowered the mortal Silas Warden, with great power so that he could capture the wandering soul, Warden became Mindstar. The loyal Mindstar track the soul to a young mortal man known as Michael Taine, a student of District University. Mindstar's attack on the Taine was so vicious that took the life of the young man, once again allowing the soul to escape. Overcome by the fear of his failure Mindstar embedded Taine's body into a wall in the form of an Egyptian ankh. Mindstar later lied to Anubis, convincing him that the soul he sought was the soul of the Son of Satan, Daimon Hellstorm.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Son of Satan #5 (1976)\n", 
+    "groupaffiliation": "Gods of Heliopolis", 
+    "hair": "Black\n", 
+    "id": "Anubis", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Geb (grandfather), Nut (grandmother), Osiris (father), Nephthys (mother), Qadesh (wife), Horus (half-brother), Seth (uncle), Isis (aunt, foster mother), Bast (great-grand-uncle)", 
+    "occupation": "God of death and mummification", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Anubis possessed superhuman strength, stamina reflexes and durability. He also had to power to return from death.", 
+    "realname": "Anpu (Egyptian translation; Anubis is the Greek translation of his name)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

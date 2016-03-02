@@ -1,54 +1,50 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": [
-                "Citizen of Germany", 
-                "Wanted by officials for war crimes"
-            ], 
-            "content": "Zemo was working on his invention known as Adhesive X when the hero Captain America invaded his laboratories. In the course of destroying the only supply, the adhesive covered Zemo's cowled head, which became permanently affixed. As a result, Zemo became consumed with a violent, insane hatred for Captain America and mankind in general.Zemo led many missions of sabotage and terror against the Allies, often clashing with Captain America. Late in the war, Captain America and his sidekick Bucky tried to stop one such plan, but failed. It was believed that Bucky died in an explosion but would return years later as the Winter Soldier. Captain America was thrown into icy waters which led him into a period of suspended animation. Soon after, Zemo left Germany, and his family, in the final days of the war, hiding away in a base he had constructed in the South American jungle. Over the following decades, Zemo constructed a device to use his death ray against entire cities. About the same time, Captain America re-appeared, joined by the superhuman team the Avengers. Zemo created his own team of super-villains, calling them the Masters Of Evil, in order to destroy the Avengers, but they failed. Zemo clashed with the Avengers several times after that, including an attempt to destroy them by transforming Simon Williams into Wonder Man so that he could infiltrate the Avengers' ranks.", 
-            "durability": 1, 
-            "education": "Doctorate Degree", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(In shadow) Avengers #4 (1964); (full) Avengers #6 (1964)\n", 
-            "groupaffiliation": [
-                "Founder of the Masters Of Evil", 
-                "Nazi Party", 
-                "Legion of the Unliving (after death)"
-            ], 
-            "hair": "Grey/Black\n", 
-            "height": 69, 
-            "id": "Baron_Zemo_(Heinrich)", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "Harbin Zemo (distant ancestor), Hademar Zemo (distant ancestor), Heller Zemo (distant ancestor), Herbert Zemo (distant ancestor), Helmuth Zemo (distant ancestor), Hackett Zemo (distant ancestor), Hartwig Zemo (distant ancestor), Hilliard Zemo (distant ancestor), Hobart Zemo (grandfather), Herman Zemo (father), Hilda Zemo (Wife; Deceased), Helmut Zemo(Son), Heike Zemo (daughter-in-law)", 
-            "occupation": [
-                "Would-be conqueror", 
-                "Scientist"
-            ], 
-            "origin": "Avengers #6 (1964)", 
-            "placeofbirth": [
-                "Castle Zemo", 
-                "Germany"
-            ], 
-            "powers": "none", 
-            "realname": "Baron Heinrich Zemo", 
-            "significantissues": [
-                "First appearance in shadow (Avengers #4, 1964)", 
-                "fought Howling Commandos (Sgt. Fury & his Howling Commandos #8, 1964)", 
-                "created Medusa Cannon, Hilda's death (Captain America: The Medusa Effect, 1994)", 
-                "killed Citizen V (Thunderbolts: Distant Rumblings #-1, 1997)", 
-                "believed to have killed Bucky (Avengers #4, 1964)", 
-                "founded Masters of Evil (Avengers #6, 1964)", 
-                "killed during battle with Captain America (Avengers #15, 1965)", 
-                "body destroyed by Crossbones (Captain America #361, 1989)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": [
+        "Citizen of Germany", 
+        "Wanted by officials for war crimes"
+    ], 
+    "content": "Zemo was working on his invention known as Adhesive X when the hero Captain America invaded his laboratories. In the course of destroying the only supply, the adhesive covered Zemo's cowled head, which became permanently affixed. As a result, Zemo became consumed with a violent, insane hatred for Captain America and mankind in general.Zemo led many missions of sabotage and terror against the Allies, often clashing with Captain America. Late in the war, Captain America and his sidekick Bucky tried to stop one such plan, but failed. It was believed that Bucky died in an explosion but would return years later as the Winter Soldier. Captain America was thrown into icy waters which led him into a period of suspended animation. Soon after, Zemo left Germany, and his family, in the final days of the war, hiding away in a base he had constructed in the South American jungle. Over the following decades, Zemo constructed a device to use his death ray against entire cities. About the same time, Captain America re-appeared, joined by the superhuman team the Avengers. Zemo created his own team of super-villains, calling them the Masters Of Evil, in order to destroy the Avengers, but they failed. Zemo clashed with the Avengers several times after that, including an attempt to destroy them by transforming Simon Williams into Wonder Man so that he could infiltrate the Avengers' ranks.", 
+    "durability": 1, 
+    "education": "Doctorate Degree", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(In shadow) Avengers #4 (1964); (full) Avengers #6 (1964)\n", 
+    "groupaffiliation": [
+        "Founder of the Masters Of Evil", 
+        "Nazi Party", 
+        "Legion of the Unliving (after death)"
+    ], 
+    "hair": "Grey/Black\n", 
+    "height": 69, 
+    "id": "Baron_Zemo_(Heinrich)", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "Harbin Zemo (distant ancestor), Hademar Zemo (distant ancestor), Heller Zemo (distant ancestor), Herbert Zemo (distant ancestor), Helmuth Zemo (distant ancestor), Hackett Zemo (distant ancestor), Hartwig Zemo (distant ancestor), Hilliard Zemo (distant ancestor), Hobart Zemo (grandfather), Herman Zemo (father), Hilda Zemo (Wife; Deceased), Helmut Zemo(Son), Heike Zemo (daughter-in-law)", 
+    "occupation": [
+        "Would-be conqueror", 
+        "Scientist"
+    ], 
+    "origin": "Avengers #6 (1964)", 
+    "placeofbirth": [
+        "Castle Zemo", 
+        "Germany"
+    ], 
+    "powers": "none", 
+    "realname": "Baron Heinrich Zemo", 
+    "significantissues": [
+        "First appearance in shadow (Avengers #4, 1964)", 
+        "fought Howling Commandos (Sgt. Fury & his Howling Commandos #8, 1964)", 
+        "created Medusa Cannon, Hilda's death (Captain America: The Medusa Effect, 1994)", 
+        "killed Citizen V (Thunderbolts: Distant Rumblings #-1, 1997)", 
+        "believed to have killed Bucky (Avengers #4, 1964)", 
+        "founded Masters of Evil (Avengers #6, 1964)", 
+        "killed during battle with Captain America (Avengers #15, 1965)", 
+        "body destroyed by Crossbones (Captain America #361, 1989)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

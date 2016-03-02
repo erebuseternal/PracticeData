@@ -1,31 +1,27 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "She-Wolf", 
-            "citizenship": "France", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(as She-Wolf) Captain America/Citizen V 1998 Annual (1998); (as Citizen V) Citizen V and the V-Battalion: The Everlasting #2 (2001)\n", 
-            "groupaffiliation": "V-Battalion (original)", 
-            "hair": "Blonde\n", 
-            "id": "Citizen_V_(Paulette_Brazee)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "John Watkins, Jr. (Citizen V, son, deceased); John Watkins III (Citizen V, grandson)", 
-            "occupation": [
-                "Adventurer", 
-                "former double agent in the Nazi army"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Paulette Brazee", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "She-Wolf", 
+    "citizenship": "France", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(as She-Wolf) Captain America/Citizen V 1998 Annual (1998); (as Citizen V) Citizen V and the V-Battalion: The Everlasting #2 (2001)\n", 
+    "groupaffiliation": "V-Battalion (original)", 
+    "hair": "Blonde\n", 
+    "id": "Citizen_V_(Paulette_Brazee)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "John Watkins, Jr. (Citizen V, son, deceased); John Watkins III (Citizen V, grandson)", 
+    "occupation": [
+        "Adventurer", 
+        "former double agent in the Nazi army"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Paulette Brazee", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

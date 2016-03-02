@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, but Aberration received military training", 
-            "energy": 1, 
-            "eyes": "Green (as Philips); Green (as Aberration)\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #601 (2009)\n", 
-            "groupaffiliation": "Formerly Gamma Corps: Black", 
-            "hair": "Brown (as Philips); Green (as Aberration)\n", 
-            "id": "Aberration", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former soldier", 
-            "origin": "Incredible Hulk #604 (2009)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Aberration's transformation into a gamma-powered monster was the result of being genetically altered with DNA from the Abomination. The process significantly increased her strength and durability to superhuman levels, but it was unrevealed if she was able to transform at will. She shared the Abomination's abilities to regenerate extensively damaged parts of her body, recover from almost any injury, and presumably had high resistance to extremes of temperature, and could hold her breath for extended periods of time. A side effect the process was the gamma infusion acted like a \"super-cancer,\" and when original flesh was destroyed tumor-like cells would replace it.", 
-            "realname": "Rana Philips", 
-            "significantissues": [
-                "Ambushed Lyra with Gamma Corps: Black (Incredible Hulk #601, 2009)", 
-                "beat Lyra while her teammate held her down (Incredible Hulk #602, 2009)", 
-                "forced to run for her life until taking hostages in a nearby town (Incredible Hulk #603, 2009)", 
-                "origin and death at the hands of Lyra (Incredible Hulk #604, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, but Aberration received military training", 
+    "energy": 1, 
+    "eyes": "Green (as Philips); Green (as Aberration)\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #601 (2009)\n", 
+    "groupaffiliation": "Formerly Gamma Corps: Black", 
+    "hair": "Brown (as Philips); Green (as Aberration)\n", 
+    "id": "Aberration", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former soldier", 
+    "origin": "Incredible Hulk #604 (2009)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Aberration's transformation into a gamma-powered monster was the result of being genetically altered with DNA from the Abomination. The process significantly increased her strength and durability to superhuman levels, but it was unrevealed if she was able to transform at will. She shared the Abomination's abilities to regenerate extensively damaged parts of her body, recover from almost any injury, and presumably had high resistance to extremes of temperature, and could hold her breath for extended periods of time. A side effect the process was the gamma infusion acted like a \"super-cancer,\" and when original flesh was destroyed tumor-like cells would replace it.", 
+    "realname": "Rana Philips", 
+    "significantissues": [
+        "Ambushed Lyra with Gamma Corps: Black (Incredible Hulk #601, 2009)", 
+        "beat Lyra while her teammate held her down (Incredible Hulk #602, 2009)", 
+        "forced to run for her life until taking hostages in a nearby town (Incredible Hulk #603, 2009)", 
+        "origin and death at the hands of Lyra (Incredible Hulk #604, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

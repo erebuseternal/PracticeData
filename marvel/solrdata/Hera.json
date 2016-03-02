@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Hera Panhellenios", 
-                "Juno (Roman name)", 
-                "Augustine Jones"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tutored by Seasons, extensively self-educated", 
-            "energy": 1, 
-            "eyes": "Green (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #129 (1967)\n", 
-            "groupaffiliation": [
-                "Olympians (Graeco-Roman gods)", 
-                "the Olympus group", 
-                "Dodekatheon"
-            ], 
-            "hair": "Red (variable)\n", 
-            "height": 70, 
-            "id": "Hera", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Cronus (father), Rhea (mother), Coeus, Crius, Hyperion, Japet, Oceanus, Ophion, (uncles), Mnemosyne, Tethys, Theia, Themis, Dione, Phoebe (aunts), Zeus (brother/husband), Pluto, Chiron (brothers), Demeter, Vesta (sisters), Ares, Hephaestus (sons), Hercules, Apollo, Hermes, Dionysus (step-sons), Bellona, Eileithyia, Hebe (daughters), Artemis, Athena, Aphrodite, Helen, Pandia, Persephone (step-daughters), Cupid, Deimos, Phobos (grandsons), Ouranus (grandfather), Gaea (grandmother),", 
-            "occupation": [
-                "Queen of Olympus", 
-                "Goddess of women", 
-                "marriage and fidelity"
-            ], 
-            "placeofbirth": "Island of Samos (in the North Aegean Sea)", 
-            "powers": "Hera possesses the conventional superhuman physical attributes of an Olympian Goddess, including much denser bones and flesh. She can lift 25 tons and run 65 miles per hour. Virtually immortal, she is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm.", 
-            "realname": "Hera Argeia", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 435
-        }
-    }
+    "aliases": [
+        "Hera Panhellenios", 
+        "Juno (Roman name)", 
+        "Augustine Jones"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tutored by Seasons, extensively self-educated", 
+    "energy": 1, 
+    "eyes": "Green (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #129 (1967)\n", 
+    "groupaffiliation": [
+        "Olympians (Graeco-Roman gods)", 
+        "the Olympus group", 
+        "Dodekatheon"
+    ], 
+    "hair": "Red (variable)\n", 
+    "height": 70, 
+    "id": "Hera", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Cronus (father), Rhea (mother), Coeus, Crius, Hyperion, Japet, Oceanus, Ophion, (uncles), Mnemosyne, Tethys, Theia, Themis, Dione, Phoebe (aunts), Zeus (brother/husband), Pluto, Chiron (brothers), Demeter, Vesta (sisters), Ares, Hephaestus (sons), Hercules, Apollo, Hermes, Dionysus (step-sons), Bellona, Eileithyia, Hebe (daughters), Artemis, Athena, Aphrodite, Helen, Pandia, Persephone (step-daughters), Cupid, Deimos, Phobos (grandsons), Ouranus (grandfather), Gaea (grandmother),", 
+    "occupation": [
+        "Queen of Olympus", 
+        "Goddess of women", 
+        "marriage and fidelity"
+    ], 
+    "placeofbirth": "Island of Samos (in the North Aegean Sea)", 
+    "powers": "Hera possesses the conventional superhuman physical attributes of an Olympian Goddess, including much denser bones and flesh. She can lift 25 tons and run 65 miles per hour. Virtually immortal, she is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm.", 
+    "realname": "Hera Argeia", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 435
 }

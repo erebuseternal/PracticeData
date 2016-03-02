@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Hensley Fargus", 
-            "citizenship": "U.S.A", 
-            "content": "Years later taking the name Mandrill he launched a political scheme in order to take over several small African nations alongside Nekra. However Shanna The She-Devil became involved and defeated the two mutants and they were taken into S.H.I.E.L.D. custody. Somehow the two mutants escaped S.H.I.E.L.D. and founded the organization called Black Spectre. The group was then opposed by Shanna, Daredevil, Black Widow, and the Thing. During the fight Nekra was captured, but Mandrill managed to escape.After his last plot failed he approached his world conquest scheme from a different angle and hypnotized a group of women and forced them to do his bidding as Fem-Force. He also recruited the mutant super villain team called Mutant Force in order to help him in his plot. The Defenders eventually learned of the plot and managed to capture Mutant Force. Mandrill then retreated after being beaten by the Defenders several times. Mandrill then proceeded to become an arms dealer by selling Wakandan technology, but was stopped by Black Panther. Mandrill then decided to have his revenge against his family and attacked his family at a nuclear power plant. During this plot his mother Margaret was unable to be controlled by his pheromones. The Defenders stepped in once again and defeated Mandrill. Deciding that wasn't enough his mother, Margaret shot him.Mandrill eventually recovered and learned that Grim Reaper killed Nekra. Enraged and crazed he attacked the Grim Reaper, who during the battle managed to seemingly kill him. Yet sometime later Mandrill showed up at an auction that was stopped by Spider-Man and Alpha Flight. Once defeated after the auction he was put in the Vault and sometime later managed to escape but was stopped a few yards from the prison by the Thunderbolts. He was then transferred to the \"Big House\" which was a miniaturized prison and played a key role in a mass break out which was foiled by the She-Hulk. He was then transferred to the Raft and managed to escape when Electro started a mass breakout. He was then approached by Crossfire and asked to join his gang. Mandrill accepted and later a fight broke out between them and the U-Foes. During the fight the Avengers showed up and managed to recapture Mandrill and his fellow gang members.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Shanna the She-Devil #4\n", 
-            "groupaffiliation": [
-                "Formerly Crossfire's Mind Control Gang", 
-                "Fem-Force", 
-                "Mutant Force", 
-                "former leader of Black Spectre", 
-                "former partner of Nekra"
-            ], 
-            "hair": "Brown\n", 
-            "height": 72, 
-            "id": "Mandrill", 
-            "identity": "Public", 
-            "intelligence": 1, 
-            "knownrelatives": "Fredric Beechman (father), Margaret Beechman (mother)", 
-            "occupation": [
-                "Professional Criminal", 
-                "former political subversive"
-            ], 
-            "origin": "Daredevil #110", 
-            "placeofbirth": [
-                "Los Alamos", 
-                "New Mexico"
-            ], 
-            "powers": "Mandrill is a mutant with the ability to generate mind controlling pheromones which can enslave the minds of women. However some more strong willed women can resist his mental control. Mandrill has enhanced strength, speed, reflexes, durability, stamina, and agility. Due to his mutant powers he physically resembles an actual mandrill.", 
-            "realname": "Jerome Beechman", 
-            "significantissues": [
-                "Daredevil #110-112", 
-                "West Coast Avengers #66", 
-                "Defenders #78-80, 85, & 89-91", 
-                "Marvel Two-In-One #3", 
-                "Shanna the She-Devil #4"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 270
-        }
-    }
+    "aliases": "Hensley Fargus", 
+    "citizenship": "U.S.A", 
+    "content": "Years later taking the name Mandrill he launched a political scheme in order to take over several small African nations alongside Nekra. However Shanna The She-Devil became involved and defeated the two mutants and they were taken into S.H.I.E.L.D. custody. Somehow the two mutants escaped S.H.I.E.L.D. and founded the organization called Black Spectre. The group was then opposed by Shanna, Daredevil, Black Widow, and the Thing. During the fight Nekra was captured, but Mandrill managed to escape.After his last plot failed he approached his world conquest scheme from a different angle and hypnotized a group of women and forced them to do his bidding as Fem-Force. He also recruited the mutant super villain team called Mutant Force in order to help him in his plot. The Defenders eventually learned of the plot and managed to capture Mutant Force. Mandrill then retreated after being beaten by the Defenders several times. Mandrill then proceeded to become an arms dealer by selling Wakandan technology, but was stopped by Black Panther. Mandrill then decided to have his revenge against his family and attacked his family at a nuclear power plant. During this plot his mother Margaret was unable to be controlled by his pheromones. The Defenders stepped in once again and defeated Mandrill. Deciding that wasn't enough his mother, Margaret shot him.Mandrill eventually recovered and learned that Grim Reaper killed Nekra. Enraged and crazed he attacked the Grim Reaper, who during the battle managed to seemingly kill him. Yet sometime later Mandrill showed up at an auction that was stopped by Spider-Man and Alpha Flight. Once defeated after the auction he was put in the Vault and sometime later managed to escape but was stopped a few yards from the prison by the Thunderbolts. He was then transferred to the \"Big House\" which was a miniaturized prison and played a key role in a mass break out which was foiled by the She-Hulk. He was then transferred to the Raft and managed to escape when Electro started a mass breakout. He was then approached by Crossfire and asked to join his gang. Mandrill accepted and later a fight broke out between them and the U-Foes. During the fight the Avengers showed up and managed to recapture Mandrill and his fellow gang members.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Shanna the She-Devil #4\n", 
+    "groupaffiliation": [
+        "Formerly Crossfire's Mind Control Gang", 
+        "Fem-Force", 
+        "Mutant Force", 
+        "former leader of Black Spectre", 
+        "former partner of Nekra"
+    ], 
+    "hair": "Brown\n", 
+    "height": 72, 
+    "id": "Mandrill", 
+    "identity": "Public", 
+    "intelligence": 1, 
+    "knownrelatives": "Fredric Beechman (father), Margaret Beechman (mother)", 
+    "occupation": [
+        "Professional Criminal", 
+        "former political subversive"
+    ], 
+    "origin": "Daredevil #110", 
+    "placeofbirth": [
+        "Los Alamos", 
+        "New Mexico"
+    ], 
+    "powers": "Mandrill is a mutant with the ability to generate mind controlling pheromones which can enslave the minds of women. However some more strong willed women can resist his mental control. Mandrill has enhanced strength, speed, reflexes, durability, stamina, and agility. Due to his mutant powers he physically resembles an actual mandrill.", 
+    "realname": "Jerome Beechman", 
+    "significantissues": [
+        "Daredevil #110-112", 
+        "West Coast Avengers #66", 
+        "Defenders #78-80, 85, & 89-91", 
+        "Marvel Two-In-One #3", 
+        "Shanna the She-Devil #4"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 270
 }

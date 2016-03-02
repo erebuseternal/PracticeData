@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Destroyer", 
-                "Mighty Destroyer"
-            ], 
-            "citizenship": "U.K.", 
-            "content": "As the Destroyer, Brian fought for the Allied cause within Germany. On one adventure, he rescued the hero team Invaders and his father from the Nazi villains Master Man and Warrior Woman. He was also reunited with Roger Aubrey, who, as Dyna-Mite, had been brainwashed and returned to England, before being freed by the Invaders. Reconciling with his father, Brian learned of his father's costumed identity of Union Jack during the first World War. Brian then took up the mantle of Union Jack at his father's request, returning to Falsworth Manor in England and eventually joining the Invaders. (Roger would then take on the mantle of the Destroyer.)During a battle with Thor, the Norse god of thunder who was duped into aiding the Nazi cause, Union Jack was mortally wounded by Thor's lightning from his mystical hammer. Coming to his senses, Thor healed Union Jack by drawing the electricity back into Mjolnir, but the process left Union Jack with electricity-generating powers. His newfound powers enabled Falsworth to recover from a period self-doubt, and he continued to serve as an Invader until the war's end.Following the war's end, Union Jack was among the Invaders who became the All-Winners Squad. He also joined his sister and the Destroyer in hunting Nazi war criminals. By 1951, they reorganized the V-Battalion with other heroes of the time, becoming the organization's first ruling Penance Council.", 
-            "durability": 3, 
-            "education": "University graduate", 
-            "energy": 2, 
-            "eyes": "Brown\n", 
-            "fighting": 5, 
-            "firstappearance": "Invaders #18 (1977)\n", 
-            "groupaffiliation": [
-                "None", 
-                "(formerly) Invaders", 
-                "All-Winners Squad", 
-                "V-Battalion"
-            ], 
-            "hair": "Brown\n", 
-            "height": 72, 
-            "id": "Union_Jack_(Brian_Falsworth)", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "William, Lord Falsworth (grandfather, deceased); Montgomery, Lord Falsworth (Union Jack, father, deceased); Lady Falsworth (mother, deceased); John Falsworth (Baron Blood, uncle, deceased); Jacqueline Falsworth-Crichton (Spitfire, sister, deceased); Lord Crichton (brother-in-law, deceased); Kenneth Crichton (Baron Blood, nephew, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "aristocrat"
-            ], 
-            "origin": "Invaders #19 \u2013 21 (1977)", 
-            "placeofbirth": [
-                "Falsworth Manor", 
-                "England"
-            ], 
-            "powers": "After an encounter being changed by magical lightning when fighting Thor, Union Jack could shoot electricity from his fingertips.", 
-            "realname": "Brian Falsworth", 
-            "speed": 3, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 235
-        }
-    }
+    "aliases": [
+        "Destroyer", 
+        "Mighty Destroyer"
+    ], 
+    "citizenship": "U.K.", 
+    "content": "As the Destroyer, Brian fought for the Allied cause within Germany. On one adventure, he rescued the hero team Invaders and his father from the Nazi villains Master Man and Warrior Woman. He was also reunited with Roger Aubrey, who, as Dyna-Mite, had been brainwashed and returned to England, before being freed by the Invaders. Reconciling with his father, Brian learned of his father's costumed identity of Union Jack during the first World War. Brian then took up the mantle of Union Jack at his father's request, returning to Falsworth Manor in England and eventually joining the Invaders. (Roger would then take on the mantle of the Destroyer.)During a battle with Thor, the Norse god of thunder who was duped into aiding the Nazi cause, Union Jack was mortally wounded by Thor's lightning from his mystical hammer. Coming to his senses, Thor healed Union Jack by drawing the electricity back into Mjolnir, but the process left Union Jack with electricity-generating powers. His newfound powers enabled Falsworth to recover from a period self-doubt, and he continued to serve as an Invader until the war's end.Following the war's end, Union Jack was among the Invaders who became the All-Winners Squad. He also joined his sister and the Destroyer in hunting Nazi war criminals. By 1951, they reorganized the V-Battalion with other heroes of the time, becoming the organization's first ruling Penance Council.", 
+    "durability": 3, 
+    "education": "University graduate", 
+    "energy": 2, 
+    "eyes": "Brown\n", 
+    "fighting": 5, 
+    "firstappearance": "Invaders #18 (1977)\n", 
+    "groupaffiliation": [
+        "None", 
+        "(formerly) Invaders", 
+        "All-Winners Squad", 
+        "V-Battalion"
+    ], 
+    "hair": "Brown\n", 
+    "height": 72, 
+    "id": "Union_Jack_(Brian_Falsworth)", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "William, Lord Falsworth (grandfather, deceased); Montgomery, Lord Falsworth (Union Jack, father, deceased); Lady Falsworth (mother, deceased); John Falsworth (Baron Blood, uncle, deceased); Jacqueline Falsworth-Crichton (Spitfire, sister, deceased); Lord Crichton (brother-in-law, deceased); Kenneth Crichton (Baron Blood, nephew, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "aristocrat"
+    ], 
+    "origin": "Invaders #19 \u2013 21 (1977)", 
+    "placeofbirth": [
+        "Falsworth Manor", 
+        "England"
+    ], 
+    "powers": "After an encounter being changed by magical lightning when fighting Thor, Union Jack could shoot electricity from his fingertips.", 
+    "realname": "Brian Falsworth", 
+    "speed": 3, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 235
 }

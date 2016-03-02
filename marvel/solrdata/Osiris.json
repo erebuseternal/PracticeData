@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Ousir", 
-            "citizenship": "Celestial Heliopolis", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, extensive knowledge of Egyptian magical lore", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #239\n", 
-            "groupaffiliation": "Gods of Heliopolis", 
-            "hair": "Unrevealed\n", 
-            "height": 75, 
-            "id": "Osiris", 
-            "identity": "The general populace of Earth was unaware of Osiris' existence", 
-            "intelligence": 1, 
-            "knownrelatives": "Atum-Ra (great-grandfather), Shu (great-Grandmother), Tefnut (grandmother), Geb (father), Nut (mother), Seth (brother), Nephthys (sister), Hathor  (daughter-in-law), Isis (wife), Horus, Anubis (sons), Bast (granduncle)", 
-            "occupation": "Ruler of the Gods of Egypt and god of the dead", 
-            "origin": "Unrevealed", 
-            "placeofbirth": [
-                "Heliopolis", 
-                "Egypt (now part of Cairo)"
-            ], 
-            "powers": "Osiris possessed superhuman strength, reflexes, stamina and agility. He also had metahuman regenerative powers that accelerated his healing process.", 
-            "realname": "Osiris", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 385
-        }
-    }
+    "aliases": "Ousir", 
+    "citizenship": "Celestial Heliopolis", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, extensive knowledge of Egyptian magical lore", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #239\n", 
+    "groupaffiliation": "Gods of Heliopolis", 
+    "hair": "Unrevealed\n", 
+    "height": 75, 
+    "id": "Osiris", 
+    "identity": "The general populace of Earth was unaware of Osiris' existence", 
+    "intelligence": 1, 
+    "knownrelatives": "Atum-Ra (great-grandfather), Shu (great-Grandmother), Tefnut (grandmother), Geb (father), Nut (mother), Seth (brother), Nephthys (sister), Hathor  (daughter-in-law), Isis (wife), Horus, Anubis (sons), Bast (granduncle)", 
+    "occupation": "Ruler of the Gods of Egypt and god of the dead", 
+    "origin": "Unrevealed", 
+    "placeofbirth": [
+        "Heliopolis", 
+        "Egypt (now part of Cairo)"
+    ], 
+    "powers": "Osiris possessed superhuman strength, reflexes, stamina and agility. He also had metahuman regenerative powers that accelerated his healing process.", 
+    "realname": "Osiris", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 385
 }

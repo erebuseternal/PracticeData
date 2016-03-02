@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Jester", 
-            "citizenship": "U.S. Citizen with a criminal record", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Daredevil #42\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 74, 
-            "id": "Jester", 
-            "identity": "Public", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Professional criminal", 
-                "ex-actor"
-            ], 
-            "placeofbirth": [
-                "Hoboken", 
-                "New Jersey"
-            ], 
-            "powers": "None", 
-            "realname": "Jonathan Powers", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": "Jester", 
+    "citizenship": "U.S. Citizen with a criminal record", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Daredevil #42\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 74, 
+    "id": "Jester", 
+    "identity": "Public", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Professional criminal", 
+        "ex-actor"
+    ], 
+    "placeofbirth": [
+        "Hoboken", 
+        "New Jersey"
+    ], 
+    "powers": "None", 
+    "realname": "Jonathan Powers", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

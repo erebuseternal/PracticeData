@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "None Known", 
-                "referred to by Mysterium as the Dark Phoenix"
-            ], 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High school Graduate", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Squadron Supreme: New World Order (1998)\n", 
-            "groupaffiliation": "Squadron Supreme", 
-            "hair": "Brown\n", 
-            "id": "Nighthawk_(Neal_Richmond)_(Earth-712)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Huckster (father, deceased); Kyle Richmond (Nighthawk, adopted father, deceased)", 
-            "occupation": [
-                "Leader of the Nighthawks", 
-                "rebel"
-            ], 
-            "origin": "Squadron Supreme: New World Order (1998)", 
-            "placeofbirth": [
-                "Bronx", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Neal Richmond", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712"
-        }
-    }
+    "aliases": [
+        "None Known", 
+        "referred to by Mysterium as the Dark Phoenix"
+    ], 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High school Graduate", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Squadron Supreme: New World Order (1998)\n", 
+    "groupaffiliation": "Squadron Supreme", 
+    "hair": "Brown\n", 
+    "id": "Nighthawk_(Neal_Richmond)_(Earth-712)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Huckster (father, deceased); Kyle Richmond (Nighthawk, adopted father, deceased)", 
+    "occupation": [
+        "Leader of the Nighthawks", 
+        "rebel"
+    ], 
+    "origin": "Squadron Supreme: New World Order (1998)", 
+    "placeofbirth": [
+        "Bronx", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Neal Richmond", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712"
 }

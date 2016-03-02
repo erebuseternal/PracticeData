@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Avatar of Khonshu", 
-                "Hatchet-Killer"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "Randall drew Moon Knight out in the open by donning the mask of the Hatchet-Killer and attacking Marc's girlfriend, Marlene, after injuring his comrade,  Frenchie. However, Moon Knight was not the only one searching for Randall since his allies had stolen A.I.M. weapons, and the Punisher was determined to stop the cultists from using them. Both heroes found the Knights of the Moon's base simultaneously, disagreed how they should proceed and fought with each other long enough for their foes to escape. Deciding to work together Moon Knight and Punisher tracked their enemies to another location, but Randall had already become more than a match for either of them. Punisher was left to die in a flood of water while Moon Knight was taken to the place he thought he saw his brother die to learn the truth behind Randall's motives.Years earlier Randall was part of a rebel camp near the Egyptian border when his brother and Bushman rode through, slaughtering everyone present, and Randall swore Marc knew he was shot but still left him there to die. He struggled to make it to the Tomb of Seti where he saw Marc die and be reborn as Moon Knight. Randall begged Khonshu for power too, but his pleas were ignored. From that day forward his jealousy grew to monstrous proportions, and he vowed to one day replace his brother as Shadowknight, the new avatar of Khonshu. Moon Knight proved to be the better fighter and defeated Shadowknight, but as Nepthys returned with the Knights of the Moon and the Punisher in pursuit, Shadowknight escaped during the confusion and descended into madness.", 
-            "durability": 1, 
-            "education": "Military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(Alleged) Hulk Magazine #16 (1978); (actual) Marc Spector: Moon Knight #35 (1992)\n", 
-            "groupaffiliation": "Formerly allied with the Knights of the Moon", 
-            "hair": "Brown\n", 
-            "id": "Shadowknight_(Randall_Spector)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Moon Knight (Marc Spector, brother)", 
-            "occupation": [
-                "Serial killer", 
-                "former soldier", 
-                "mercenary"
-            ], 
-            "origin": [
-                "Marc Spector: Moon Knight #37 (1992)", 
-                "Shadowland: Moon Knight #2 (2010)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Chemical treatments made Randall's body invulnerable and impervious to harm, but as a side effect Randall's skin became cracked, allowing bullets to penetrate and damage his internal organs. After losing this ability, Randall was exposed to uranium radiation that allowed him to shoot powerful energy blasts from his eyes.", 
-            "realname": "Randall \"Rand\" Spector", 
-            "significantissues": [
-                "Randall resurfaces to challenge his brother to the Trials of Khonshu (Marc Spector: Moon Knight #35, 1992)", 
-                "Randall receives powers (Marc Spector: Moon Knight #36, 1992)", 
-                "Randall's origin, versus Moon Knight (Marc Spector: Moon Knight #37, 1992)", 
-                "Randall becomes Hatchet-Killer, versus Moon Knight and Punisher, seemingly killed (Marc Spector: Moon Knight #38, 1992)", 
-                "somehow alive, duped by the Profile, fought Moon Knight and killed again (Shadowland: Moon Knight #1-3, 2010)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Avatar of Khonshu", 
+        "Hatchet-Killer"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "Randall drew Moon Knight out in the open by donning the mask of the Hatchet-Killer and attacking Marc's girlfriend, Marlene, after injuring his comrade,  Frenchie. However, Moon Knight was not the only one searching for Randall since his allies had stolen A.I.M. weapons, and the Punisher was determined to stop the cultists from using them. Both heroes found the Knights of the Moon's base simultaneously, disagreed how they should proceed and fought with each other long enough for their foes to escape. Deciding to work together Moon Knight and Punisher tracked their enemies to another location, but Randall had already become more than a match for either of them. Punisher was left to die in a flood of water while Moon Knight was taken to the place he thought he saw his brother die to learn the truth behind Randall's motives.Years earlier Randall was part of a rebel camp near the Egyptian border when his brother and Bushman rode through, slaughtering everyone present, and Randall swore Marc knew he was shot but still left him there to die. He struggled to make it to the Tomb of Seti where he saw Marc die and be reborn as Moon Knight. Randall begged Khonshu for power too, but his pleas were ignored. From that day forward his jealousy grew to monstrous proportions, and he vowed to one day replace his brother as Shadowknight, the new avatar of Khonshu. Moon Knight proved to be the better fighter and defeated Shadowknight, but as Nepthys returned with the Knights of the Moon and the Punisher in pursuit, Shadowknight escaped during the confusion and descended into madness.", 
+    "durability": 1, 
+    "education": "Military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(Alleged) Hulk Magazine #16 (1978); (actual) Marc Spector: Moon Knight #35 (1992)\n", 
+    "groupaffiliation": "Formerly allied with the Knights of the Moon", 
+    "hair": "Brown\n", 
+    "id": "Shadowknight_(Randall_Spector)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Moon Knight (Marc Spector, brother)", 
+    "occupation": [
+        "Serial killer", 
+        "former soldier", 
+        "mercenary"
+    ], 
+    "origin": [
+        "Marc Spector: Moon Knight #37 (1992)", 
+        "Shadowland: Moon Knight #2 (2010)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Chemical treatments made Randall's body invulnerable and impervious to harm, but as a side effect Randall's skin became cracked, allowing bullets to penetrate and damage his internal organs. After losing this ability, Randall was exposed to uranium radiation that allowed him to shoot powerful energy blasts from his eyes.", 
+    "realname": "Randall \"Rand\" Spector", 
+    "significantissues": [
+        "Randall resurfaces to challenge his brother to the Trials of Khonshu (Marc Spector: Moon Knight #35, 1992)", 
+        "Randall receives powers (Marc Spector: Moon Knight #36, 1992)", 
+        "Randall's origin, versus Moon Knight (Marc Spector: Moon Knight #37, 1992)", 
+        "Randall becomes Hatchet-Killer, versus Moon Knight and Punisher, seemingly killed (Marc Spector: Moon Knight #38, 1992)", 
+        "somehow alive, duped by the Profile, fought Moon Knight and killed again (Shadowland: Moon Knight #1-3, 2010)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

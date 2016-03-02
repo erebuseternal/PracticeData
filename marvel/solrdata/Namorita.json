@@ -1,56 +1,52 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Kymaera", 
-                "Hard"
-            ], 
-            "citizenship": "Atlantean", 
-            "content": "In recent years, Llyra plotted against Namor and forced Namorita to lure Namor into a trap. Namor foiled their plans and, reunited with the cousin he had not seen since her infancy, he entrusted her welfare to his longtime surface friend, Betty Prentiss. Under Prentiss's guidance, Namorita attended high school and college, and she took Prentiss's last name following her guardian's death. Namorita herself acted as mentor to the alien Wundarr, and when he attained adult intelligence as the Aquarian, she briefly joined his spiritual movement, the Water Children.", 
-            "durability": 7, 
-            "education": "Unfinished college degree", 
-            "energy": 7, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "Sub-Mariner #50 (1972)\n", 
-            "groupaffiliation": [
-                "Formerly Council of Three", 
-                "New Warriors", 
-                "Fantastic Four", 
-                "Soldiers of Misfortune", 
-                "Water Children"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 66, 
-            "id": "Namorita", 
-            "identity": "No dual identity", 
-            "intelligence": 7, 
-            "knownrelatives": "Namora (\"mother\"); Talan (father, deceased); Namor, Byrrah, Dara, Arkus (first cousins once removed); Fen (great-aunt, deceased); Thakorr (great-grandfather, deceased); Korra (great-grandmother, presumed deceased); large extended family; Betty Prentiss (legal guardian, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "co-ruler", 
-                "former board member of Oracle", 
-                "Inc.", 
-                "student"
-            ], 
-            "origin": [
-                "Sub-Mariner #51 (1972)", 
-                "Namor the Sub-Mariner #20 (1991)"
-            ], 
-            "placeofbirth": "Atlantis", 
-            "powers": "Namorita possesses superhuman strength, speed, durability, agility, and reflexes; she can lift up to 75 tons underwater, although prolonged surface activity can reduce her strength to 33% or lower. She can survive underwater indefinitely and has special vision adapted to undersea depths. She can fly via finlike wings, secrete corrosive acid or paralyzing toxin from her hands, and change her skin color as camouflage. Namorita ages extremely slowly, even by Atlantean standards; nearly a half-century old, she appears to be in her twenties. Namorita's vitality diminishes when out of water; renewed contact with water immediately restores her to peak strength.", 
-            "realname": "Namorita (legally Namorita \"Nita\" Prentiss in surface society)", 
-            "significantissues": [
-                "Manipulated by Llyra and Byrrah, met Namor (Sub-Mariner #50-52, 1972)", 
-                "joined New Warriors (New Warriors #1, 1990)", 
-                "discovered truth about origin (Namor the Sub-Mariner #19-20, 1991)", 
-                "underwent temporary transformation, took new name of Kymaera (New Warriors #44, 1994)", 
-                "began relationship with Human Torch (New Warriors #4, 2000)"
-            ], 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 225
-        }
-    }
+    "aliases": [
+        "Kymaera", 
+        "Hard"
+    ], 
+    "citizenship": "Atlantean", 
+    "content": "In recent years, Llyra plotted against Namor and forced Namorita to lure Namor into a trap. Namor foiled their plans and, reunited with the cousin he had not seen since her infancy, he entrusted her welfare to his longtime surface friend, Betty Prentiss. Under Prentiss's guidance, Namorita attended high school and college, and she took Prentiss's last name following her guardian's death. Namorita herself acted as mentor to the alien Wundarr, and when he attained adult intelligence as the Aquarian, she briefly joined his spiritual movement, the Water Children.", 
+    "durability": 7, 
+    "education": "Unfinished college degree", 
+    "energy": 7, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "Sub-Mariner #50 (1972)\n", 
+    "groupaffiliation": [
+        "Formerly Council of Three", 
+        "New Warriors", 
+        "Fantastic Four", 
+        "Soldiers of Misfortune", 
+        "Water Children"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 66, 
+    "id": "Namorita", 
+    "identity": "No dual identity", 
+    "intelligence": 7, 
+    "knownrelatives": "Namora (\"mother\"); Talan (father, deceased); Namor, Byrrah, Dara, Arkus (first cousins once removed); Fen (great-aunt, deceased); Thakorr (great-grandfather, deceased); Korra (great-grandmother, presumed deceased); large extended family; Betty Prentiss (legal guardian, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "co-ruler", 
+        "former board member of Oracle", 
+        "Inc.", 
+        "student"
+    ], 
+    "origin": [
+        "Sub-Mariner #51 (1972)", 
+        "Namor the Sub-Mariner #20 (1991)"
+    ], 
+    "placeofbirth": "Atlantis", 
+    "powers": "Namorita possesses superhuman strength, speed, durability, agility, and reflexes; she can lift up to 75 tons underwater, although prolonged surface activity can reduce her strength to 33% or lower. She can survive underwater indefinitely and has special vision adapted to undersea depths. She can fly via finlike wings, secrete corrosive acid or paralyzing toxin from her hands, and change her skin color as camouflage. Namorita ages extremely slowly, even by Atlantean standards; nearly a half-century old, she appears to be in her twenties. Namorita's vitality diminishes when out of water; renewed contact with water immediately restores her to peak strength.", 
+    "realname": "Namorita (legally Namorita \"Nita\" Prentiss in surface society)", 
+    "significantissues": [
+        "Manipulated by Llyra and Byrrah, met Namor (Sub-Mariner #50-52, 1972)", 
+        "joined New Warriors (New Warriors #1, 1990)", 
+        "discovered truth about origin (Namor the Sub-Mariner #19-20, 1991)", 
+        "underwent temporary transformation, took new name of Kymaera (New Warriors #44, 1994)", 
+        "began relationship with Human Torch (New Warriors #4, 2000)"
+    ], 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 225
 }

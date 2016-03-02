@@ -1,55 +1,51 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Adversary", 
-                "the Devil", 
-                "Black Halo", 
-                "Lord Darkness", 
-                "Prince of Hell", 
-                "the Tempter", 
-                "Angel of Light", 
-                "Lou", 
-                "B.L. Zeebub", 
-                "Nicholis Eblis", 
-                "Miles Gorney", 
-                "Trachos", 
-                "various impersonations"
-            ], 
-            "citizenship": "Hell", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Extensively self-taught", 
-            "energy": 1, 
-            "eyes": "Variable\n", 
-            "fighting": 1, 
-            "firstappearance": "(Confirmed) Marvel Spotlight #13 (1974)\n", 
-            "groupaffiliation": [
-                "Hell-lords", 
-                "Lords of the Splinter Realms", 
-                "formerly the Four", 
-                "guided the Six-Fingered Hand", 
-                ""
-            ], 
-            "hair": "Variable\n", 
-            "height": 0, 
-            "id": "Satan_(Marduk_Kurios)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Other Hell-lords (Brethren), and their offspring; Victoria Wingate Hellstrom (wife), Daimon Hellstrom (Hellstorm, son), Satana Hellstrom (daughter); reborn as a child of Lavoisin and Hellstorm; quasi parental relationship to Mikal Dragonmekas (HellFire)", 
-            "occupation": "Former lord of a realm of Hell", 
-            "origin": [
-                "Doctor Strange: Sorcerer Supreme #8 (1989)", 
-                "Doctor Strange: Sorcerer Supreme Annual #2 (1992)", 
-                "Hellstorm: Prince of Lies #16 (1994)"
-            ], 
-            "placeofbirth": "Unrevealed (Earth)", 
-            "realname": "Marduk Kurious", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Variable\n"
-        }
-    }
+    "aliases": [
+        "Adversary", 
+        "the Devil", 
+        "Black Halo", 
+        "Lord Darkness", 
+        "Prince of Hell", 
+        "the Tempter", 
+        "Angel of Light", 
+        "Lou", 
+        "B.L. Zeebub", 
+        "Nicholis Eblis", 
+        "Miles Gorney", 
+        "Trachos", 
+        "various impersonations"
+    ], 
+    "citizenship": "Hell", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Extensively self-taught", 
+    "energy": 1, 
+    "eyes": "Variable\n", 
+    "fighting": 1, 
+    "firstappearance": "(Confirmed) Marvel Spotlight #13 (1974)\n", 
+    "groupaffiliation": [
+        "Hell-lords", 
+        "Lords of the Splinter Realms", 
+        "formerly the Four", 
+        "guided the Six-Fingered Hand", 
+        ""
+    ], 
+    "hair": "Variable\n", 
+    "height": 0, 
+    "id": "Satan_(Marduk_Kurios)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Other Hell-lords (Brethren), and their offspring; Victoria Wingate Hellstrom (wife), Daimon Hellstrom (Hellstorm, son), Satana Hellstrom (daughter); reborn as a child of Lavoisin and Hellstorm; quasi parental relationship to Mikal Dragonmekas (HellFire)", 
+    "occupation": "Former lord of a realm of Hell", 
+    "origin": [
+        "Doctor Strange: Sorcerer Supreme #8 (1989)", 
+        "Doctor Strange: Sorcerer Supreme Annual #2 (1992)", 
+        "Hellstorm: Prince of Lies #16 (1994)"
+    ], 
+    "placeofbirth": "Unrevealed (Earth)", 
+    "realname": "Marduk Kurious", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Variable\n"
 }

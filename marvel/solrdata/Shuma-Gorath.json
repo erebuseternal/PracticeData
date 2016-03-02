@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "He Who Sleeps But Shall Awake", 
-                "possibly Cthuma-Gurath"
-            ], 
-            "citizenship": "Presumably his native realm", 
-            "content": "In the modern era, Shuma attempted to be reborn on Earth through the mind of the Ancient One via his agents Nightmare, Sligguth, Ebora, N'Gabthoth, Dagoth, Kathulos, and Living Buddha. Unable to stop the demon, Doctor Strange instead slew the Ancient One, banishing Shuma back to his realm while allowing the Ancient One to become one with the universe. Later, Strange's near destruction of his many talismans and scrolls in battle against alien sorcerer Urthona collapsed the barriers imprisoning the Old Ones, allowing Shuma to gain a foothold on Earth. Forced to use black magic to oppose Shuma's agents - such as Erlik Khan, Ghaszaszh Nyirh, and a water elemental- Strange ultimately merged with Shuma and then impaled himself. This temporarily destroyed Shuma, but Strange suffered the consequences of his dark actions for some time. Re-forming over time as Strange purged himself of the demon's taint, Shuma continues to seek to conquer Earth and other realms, sometimes by acquisition of objects of power like the Infinity Gems.", 
-            "durability": 6, 
-            "education": "Self-educated", 
-            "energy": 7, 
-            "eyes": "unrevealed\n", 
-            "fighting": 4, 
-            "firstappearance": "Marvel Premiere #5 (1972)\n", 
-            "groupaffiliation": "Old Ones", 
-            "hair": "unrevealed\n", 
-            "id": "Shuma-Gorath", 
-            "identity": "Existence unknown to general public", 
-            "intelligence": 6, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Lord of Chaos", 
-                "Master of the Old Ones", 
-                "Ruler of a hundred dimensions"
-            ], 
-            "placeofbirth": "Presumably his native realm", 
-            "powers": "In his native dimension, Shuma-Gorath is virtually omnipotent. He generates his own mystical power, but also draws energy, mystical or otherwise, from others. Shuma-Gorath can release destructive blasts and can manipulate magical energy on a planetary scale. He can communicate telepathically and control others, even across dimensions. Shuma's physical characteristics vary greatly and his true form is uncertain; he usually adopts multiple tentacles and a rubbery, armored form, sometimes mountainous in size. Though Shuma can be harmed by powerful assaults, he can eventually re-form from seeming destruction, and it may be impossible to destroy him permanently. \nShuma is invoked for dark power by many beings across many dimensions.", 
-            "realname": "Shuma-Gorath", 
-            "speed": 5, 
-            "strength": 5, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "He Who Sleeps But Shall Awake", 
+        "possibly Cthuma-Gurath"
+    ], 
+    "citizenship": "Presumably his native realm", 
+    "content": "In the modern era, Shuma attempted to be reborn on Earth through the mind of the Ancient One via his agents Nightmare, Sligguth, Ebora, N'Gabthoth, Dagoth, Kathulos, and Living Buddha. Unable to stop the demon, Doctor Strange instead slew the Ancient One, banishing Shuma back to his realm while allowing the Ancient One to become one with the universe. Later, Strange's near destruction of his many talismans and scrolls in battle against alien sorcerer Urthona collapsed the barriers imprisoning the Old Ones, allowing Shuma to gain a foothold on Earth. Forced to use black magic to oppose Shuma's agents - such as Erlik Khan, Ghaszaszh Nyirh, and a water elemental- Strange ultimately merged with Shuma and then impaled himself. This temporarily destroyed Shuma, but Strange suffered the consequences of his dark actions for some time. Re-forming over time as Strange purged himself of the demon's taint, Shuma continues to seek to conquer Earth and other realms, sometimes by acquisition of objects of power like the Infinity Gems.", 
+    "durability": 6, 
+    "education": "Self-educated", 
+    "energy": 7, 
+    "eyes": "unrevealed\n", 
+    "fighting": 4, 
+    "firstappearance": "Marvel Premiere #5 (1972)\n", 
+    "groupaffiliation": "Old Ones", 
+    "hair": "unrevealed\n", 
+    "id": "Shuma-Gorath", 
+    "identity": "Existence unknown to general public", 
+    "intelligence": 6, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Lord of Chaos", 
+        "Master of the Old Ones", 
+        "Ruler of a hundred dimensions"
+    ], 
+    "placeofbirth": "Presumably his native realm", 
+    "powers": "In his native dimension, Shuma-Gorath is virtually omnipotent. He generates his own mystical power, but also draws energy, mystical or otherwise, from others. Shuma-Gorath can release destructive blasts and can manipulate magical energy on a planetary scale. He can communicate telepathically and control others, even across dimensions. Shuma's physical characteristics vary greatly and his true form is uncertain; he usually adopts multiple tentacles and a rubbery, armored form, sometimes mountainous in size. Though Shuma can be harmed by powerful assaults, he can eventually re-form from seeming destruction, and it may be impossible to destroy him permanently. \nShuma is invoked for dark power by many beings across many dimensions.", 
+    "realname": "Shuma-Gorath", 
+    "speed": 5, 
+    "strength": 5, 
+    "universe": "Marvel Universe"
 }

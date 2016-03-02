@@ -1,24 +1,20 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "none", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Fallen Angels #2\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly Fallen Angels"
-            ], 
-            "id": "Ariel_(Fallen_Angels)", 
-            "intelligence": 1, 
-            "occupation": "adventurer", 
-            "realname": "Unknown", 
-            "significantissues": "killed by a missile (X-Men Legacy #235, 2010)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "none", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Fallen Angels #2\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly Fallen Angels"
+    ], 
+    "id": "Ariel_(Fallen_Angels)", 
+    "intelligence": 1, 
+    "occupation": "adventurer", 
+    "realname": "Unknown", 
+    "significantissues": "killed by a missile (X-Men Legacy #235, 2010)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

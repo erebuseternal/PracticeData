@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Isbisa", 
-                ""
-            ], 
-            "citizenship": "unknown", 
-            "content": "", 
-            "durability": 1, 
-            "education": "unknown", 
-            "energy": 1, 
-            "eyes": "blue\n", 
-            "fighting": 1, 
-            "groupaffiliation": "unknown", 
-            "hair": "grey\n", 
-            "height": 72, 
-            "id": "Isbisa", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "unknown", 
-            "occupation": [
-                "scientist", 
-                "doctor", 
-                "radiologist"
-            ], 
-            "placeofbirth": "unknown", 
-            "powers": "temporarily had nuclear powers", 
-            "realname": "Dr. I.S. Bishoff", 
-            "significantissues": "Vision and Scarlet Witch #2 (Dec. 10, 1982)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": [
+        "Isbisa", 
+        ""
+    ], 
+    "citizenship": "unknown", 
+    "content": "", 
+    "durability": 1, 
+    "education": "unknown", 
+    "energy": 1, 
+    "eyes": "blue\n", 
+    "fighting": 1, 
+    "groupaffiliation": "unknown", 
+    "hair": "grey\n", 
+    "height": 72, 
+    "id": "Isbisa", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "unknown", 
+    "occupation": [
+        "scientist", 
+        "doctor", 
+        "radiologist"
+    ], 
+    "placeofbirth": "unknown", 
+    "powers": "temporarily had nuclear powers", 
+    "realname": "Dr. I.S. Bishoff", 
+    "significantissues": "Vision and Scarlet Witch #2 (Dec. 10, 1982)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

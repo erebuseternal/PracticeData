@@ -1,53 +1,49 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Blackbird", 
-                "Brother Falcon", 
-                "Brother Super-Hero", 
-                "Captain America", 
-                "\"Snap\" Wilson"
-            ], 
-            "citizenship": "United States of America", 
-            "content": "After an assignment in Rio de Janeiro, Sam's plane crashed in a remote Caribbean island where the Red Skull and his henchmen, the Exiles, were hiding out. The Red Skull sought to use Wilson as a pawn against Captain America, who was currently on the island searching for the villain. The Skull reasoned that Wilson's idealism would appeal to the Captain enough to become his crimefighting partner. Then, at some later date, the Skull could use Wilson against his enemy. He used a Cosmic Cube to revert \"Snap\" into Sam and give Sam the ability to telepathically communicate with birds, especially a bird that Wilson had bought named Redwing. Sam helped Captain America defeat the Skull and did indeed become his partner as the Falcon.Returning to New York, Wilson became one of Harlem's staunchest crimefighters and a regular ally to Captain America. He became a social worker in his regular identity, defending the streets of his hometown both in costume and out of it. Wilson even adopted Captain America's identity for a brief time when Captain America appeared to have been killed. As the Falcon, Wilson had been solely a rooftop-swinging athlete until the Black Panther provided him with Wakandan technology that enabled him to truly fly.Wilson's \"Snap\" identity remained submerged until some years later when he recalled his criminal past while undergoing shock therapy at S.H.I.E.L.D. headquarters. Once his former criminal associates learned of this, a bounty was placed on his head. Wilson and Captain America fought off the attacks, however.At a later point, Wilson was offered membership to the premier superhero team Avengers. However, he was uncomfortable that his presence was due largely to the government's \"affirmative action\" policy, and he returned to his social work almost immediately after some stern words with his fellow heroes. Despite his feelings, he has helped the Avengers on occasion as a provisional member.Later still, Wilson ran for a Congressional seat only to be confronted again with his ignominious criminal history. Wilson almost relapsed into his \"Snap\" personality during this identity crisis before coming to terms with his past. Captain America underwent an identity crisis of his own when he was forced to give up his superhero identity and forge a new one as simply the Captain. As the Falcon, Wilson joined other allies of Captain America in a series of adventures but worked to convince the Captain to reclaim his former identity.Wilson helped the Avengers in their fight against the entity Onslaught and seemingly sacrificed himself to stop the menace. He was merely shunned to another dimension, however, and was later restored with the rest of the Avengers and their associates. He returned to his life as a social worker and part-time adventurer, briefly stopping to aid the Avengers in re-organizing their team after a brief period of disbanding.When the Avengers were granted a special diplomatic status by the United Nations, they also established the Avengers Mansion as a unique and separate embassy with Henry Gyrich as their ambassador and liaison. Wilson was asked to return to active Avengers duty, in part so that he could keep tabs on Gyrich. (Gyrich often had a dubious if not antagonistic relationship with the Avengers over the years and was the one whose affirmative action stance \"forced\" Wilson to join the team in the first place.) Wilson and Gyrich ultimately grew into a respectful relationship and together helped uncover a plot by the Red Skull to infiltrate the American government, which the Avengers defeated.The \"Snap\" personality has recently reemerged on a few occasions, but he has remained a valued ally and hero.", 
-            "durability": 3, 
-            "education": "High school dropout, later extensively self-educated", 
-            "energy": 3, 
-            "eyes": "Brown\n", 
-            "fighting": 5, 
-            "firstappearance": "Captain America #117 (1969)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly Avengers", 
-                "Night People", 
-                "Queen's Vengeance and was a \"Defender for a Day\""
-            ], 
-            "hair": "Black\n", 
-            "height": 74, 
-            "id": "Falcon_(Sam_Wilson)", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Paul Wilson (father, deceased), Darlene Wilson (mother, deceased), Sarah Wilson Casper (sister), Gideon Wilson (brother), Jody Casper (nephew), Jim Wilson (nephew, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "city planner", 
-                "social worker", 
-                "(Formerly) criminal"
-            ], 
-            "origin": [
-                "Captain America #117 (1969)", 
-                "Captain America #186 (1975)"
-            ], 
-            "placeofbirth": [
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "Originally possessed the ability to telepathically communicate with his pet falcon Redwing, but that ability has grown into the ability to telepathically communicate with any birds within an unknown radius. Through this telepathic link he is also able to receive mental images of what the birds see.", 
-            "realname": "Samuel Thomas \"Sam\" Wilson", 
-            "speed": 4, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 240
-        }
-    }
+    "aliases": [
+        "Blackbird", 
+        "Brother Falcon", 
+        "Brother Super-Hero", 
+        "Captain America", 
+        "\"Snap\" Wilson"
+    ], 
+    "citizenship": "United States of America", 
+    "content": "After an assignment in Rio de Janeiro, Sam's plane crashed in a remote Caribbean island where the Red Skull and his henchmen, the Exiles, were hiding out. The Red Skull sought to use Wilson as a pawn against Captain America, who was currently on the island searching for the villain. The Skull reasoned that Wilson's idealism would appeal to the Captain enough to become his crimefighting partner. Then, at some later date, the Skull could use Wilson against his enemy. He used a Cosmic Cube to revert \"Snap\" into Sam and give Sam the ability to telepathically communicate with birds, especially a bird that Wilson had bought named Redwing. Sam helped Captain America defeat the Skull and did indeed become his partner as the Falcon.Returning to New York, Wilson became one of Harlem's staunchest crimefighters and a regular ally to Captain America. He became a social worker in his regular identity, defending the streets of his hometown both in costume and out of it. Wilson even adopted Captain America's identity for a brief time when Captain America appeared to have been killed. As the Falcon, Wilson had been solely a rooftop-swinging athlete until the Black Panther provided him with Wakandan technology that enabled him to truly fly.Wilson's \"Snap\" identity remained submerged until some years later when he recalled his criminal past while undergoing shock therapy at S.H.I.E.L.D. headquarters. Once his former criminal associates learned of this, a bounty was placed on his head. Wilson and Captain America fought off the attacks, however.At a later point, Wilson was offered membership to the premier superhero team Avengers. However, he was uncomfortable that his presence was due largely to the government's \"affirmative action\" policy, and he returned to his social work almost immediately after some stern words with his fellow heroes. Despite his feelings, he has helped the Avengers on occasion as a provisional member.Later still, Wilson ran for a Congressional seat only to be confronted again with his ignominious criminal history. Wilson almost relapsed into his \"Snap\" personality during this identity crisis before coming to terms with his past. Captain America underwent an identity crisis of his own when he was forced to give up his superhero identity and forge a new one as simply the Captain. As the Falcon, Wilson joined other allies of Captain America in a series of adventures but worked to convince the Captain to reclaim his former identity.Wilson helped the Avengers in their fight against the entity Onslaught and seemingly sacrificed himself to stop the menace. He was merely shunned to another dimension, however, and was later restored with the rest of the Avengers and their associates. He returned to his life as a social worker and part-time adventurer, briefly stopping to aid the Avengers in re-organizing their team after a brief period of disbanding.When the Avengers were granted a special diplomatic status by the United Nations, they also established the Avengers Mansion as a unique and separate embassy with Henry Gyrich as their ambassador and liaison. Wilson was asked to return to active Avengers duty, in part so that he could keep tabs on Gyrich. (Gyrich often had a dubious if not antagonistic relationship with the Avengers over the years and was the one whose affirmative action stance \"forced\" Wilson to join the team in the first place.) Wilson and Gyrich ultimately grew into a respectful relationship and together helped uncover a plot by the Red Skull to infiltrate the American government, which the Avengers defeated.The \"Snap\" personality has recently reemerged on a few occasions, but he has remained a valued ally and hero.", 
+    "durability": 3, 
+    "education": "High school dropout, later extensively self-educated", 
+    "energy": 3, 
+    "eyes": "Brown\n", 
+    "fighting": 5, 
+    "firstappearance": "Captain America #117 (1969)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly Avengers", 
+        "Night People", 
+        "Queen's Vengeance and was a \"Defender for a Day\""
+    ], 
+    "hair": "Black\n", 
+    "height": 74, 
+    "id": "Falcon_(Sam_Wilson)", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Paul Wilson (father, deceased), Darlene Wilson (mother, deceased), Sarah Wilson Casper (sister), Gideon Wilson (brother), Jody Casper (nephew), Jim Wilson (nephew, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "city planner", 
+        "social worker", 
+        "(Formerly) criminal"
+    ], 
+    "origin": [
+        "Captain America #117 (1969)", 
+        "Captain America #186 (1975)"
+    ], 
+    "placeofbirth": [
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "Originally possessed the ability to telepathically communicate with his pet falcon Redwing, but that ability has grown into the ability to telepathically communicate with any birds within an unknown radius. Through this telepathic link he is also able to receive mental images of what the birds see.", 
+    "realname": "Samuel Thomas \"Sam\" Wilson", 
+    "speed": 4, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 240
 }

@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Daredevil #18 (1966)\n", 
-            "groupaffiliation": [
-                "Emissaries of Evil", 
-                "Maggia"
-            ], 
-            "id": "Gladiator_(Melvin_Potter)", 
-            "intelligence": 1, 
-            "occupation": [
-                "Terrorist", 
-                "former costume designer"
-            ], 
-            "powers": "none", 
-            "realname": "Melvin Potter", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Daredevil #18 (1966)\n", 
+    "groupaffiliation": [
+        "Emissaries of Evil", 
+        "Maggia"
+    ], 
+    "id": "Gladiator_(Melvin_Potter)", 
+    "intelligence": 1, 
+    "occupation": [
+        "Terrorist", 
+        "former costume designer"
+    ], 
+    "powers": "none", 
+    "realname": "Melvin Potter", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

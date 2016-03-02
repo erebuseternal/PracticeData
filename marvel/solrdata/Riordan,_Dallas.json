@@ -1,58 +1,54 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Vantage", 
-                "Atlas", 
-                "Citizen V", 
-                "the Crimson Cowl"
-            ], 
-            "citizenship": [
-                "American citizen", 
-                "criminal record"
-            ], 
-            "content": "Freed by the V-Battalion, Dallas resumed her Citizen V role but later rebelled when ordered to commit murder. Fleeing the Battalion, she was defended by the Thunderbolts, then abducted by the Crimson Cowl, who left her crippled and stranded in Latveria after a fierce battle. When Dallas returned to America, she learned Atlas had died; however, he survived as ionic energy, and her love served as an anchor that bound him to the material world. They soon merged, with the disembodied Atlas sharing control of Dallas\u2019s body and imbuing her with ionic powers. The combined pair fought Graviton alongside the Thunderbolts and were stranded with them on Counter-Earth. The Thunderbolts helped Counter-Earth recover from various disasters but ultimately returned to their home world where Atlas and Dallas were unmerged. As a result Atlas gained a new body and Dallas gained new powers.Now calling herself Vantage, Dallas remained with the Thunderbolts out of love for Atlas and distrust of their leader, Baron Zemo. She cooperated with Zemo in a scheme to absorb the world\u2019s transnormal energy, but the Avengers intervened, and the Thunderbolts disbanded in the incident\u2019s aftermath. However, Vantage was offered a Homeland Security position by reserve Avenger Warbird.", 
-            "durability": 1, 
-            "education": "Police Academy graduate", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Thunderbolts #1 (1997)\n", 
-            "groupaffiliation": [
-                "Commission on Superhuman Activities", 
-                "formerly V-Battalion", 
-                "NYPD", 
-                "Thunderbolts"
-            ], 
-            "hair": "Red\n", 
-            "height": 0, 
-            "id": "Riordan,_Dallas", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "James Riordan (father), paternal grandfather (first name unrevealed, deceased)", 
-            "occupation": [
-                "Government agent", 
-                "former adventurer", 
-                "V-Battalion operative", 
-                "mayoral aide", 
-                "police officer"
-            ], 
-            "origin": "Thunderbolts #42 (2000)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None. \nAs Vantage, Dallas once  possessed superhuman levels of agility and endurance. While sharing consciousness with Atlas, Vantage was charged with ionic energy and could grow to great heights, fire ionic blasts, create a protective energy field, and fly.", 
-            "realname": "Dallas Riordan", 
-            "significantissues": [
-                "First used identity of Citizen V, fought Baron Zemo and Techno (Thunderbolts #16-17, 1998)", 
-                "framed as Crimson Cowl (Thunderbolts #25, 1999)", 
-                "rebelled against V-Battalion, aided by Thunderbolts, abducted by and fought Crimson Cowl (Thunderbolts #36-42, 2000)", 
-                "merged with Atlas (Thunderbolts #56-57, 2001)", 
-                "as Vantage, served with Thunderbolts (Avengers/Thunderbolts #1-6, 2004)", 
-                "powers removed by Atlas (New Thunderbolts #1, 2005)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": [
+        "Vantage", 
+        "Atlas", 
+        "Citizen V", 
+        "the Crimson Cowl"
+    ], 
+    "citizenship": [
+        "American citizen", 
+        "criminal record"
+    ], 
+    "content": "Freed by the V-Battalion, Dallas resumed her Citizen V role but later rebelled when ordered to commit murder. Fleeing the Battalion, she was defended by the Thunderbolts, then abducted by the Crimson Cowl, who left her crippled and stranded in Latveria after a fierce battle. When Dallas returned to America, she learned Atlas had died; however, he survived as ionic energy, and her love served as an anchor that bound him to the material world. They soon merged, with the disembodied Atlas sharing control of Dallas\u2019s body and imbuing her with ionic powers. The combined pair fought Graviton alongside the Thunderbolts and were stranded with them on Counter-Earth. The Thunderbolts helped Counter-Earth recover from various disasters but ultimately returned to their home world where Atlas and Dallas were unmerged. As a result Atlas gained a new body and Dallas gained new powers.Now calling herself Vantage, Dallas remained with the Thunderbolts out of love for Atlas and distrust of their leader, Baron Zemo. She cooperated with Zemo in a scheme to absorb the world\u2019s transnormal energy, but the Avengers intervened, and the Thunderbolts disbanded in the incident\u2019s aftermath. However, Vantage was offered a Homeland Security position by reserve Avenger Warbird.", 
+    "durability": 1, 
+    "education": "Police Academy graduate", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Thunderbolts #1 (1997)\n", 
+    "groupaffiliation": [
+        "Commission on Superhuman Activities", 
+        "formerly V-Battalion", 
+        "NYPD", 
+        "Thunderbolts"
+    ], 
+    "hair": "Red\n", 
+    "height": 0, 
+    "id": "Riordan,_Dallas", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "James Riordan (father), paternal grandfather (first name unrevealed, deceased)", 
+    "occupation": [
+        "Government agent", 
+        "former adventurer", 
+        "V-Battalion operative", 
+        "mayoral aide", 
+        "police officer"
+    ], 
+    "origin": "Thunderbolts #42 (2000)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None. \nAs Vantage, Dallas once  possessed superhuman levels of agility and endurance. While sharing consciousness with Atlas, Vantage was charged with ionic energy and could grow to great heights, fire ionic blasts, create a protective energy field, and fly.", 
+    "realname": "Dallas Riordan", 
+    "significantissues": [
+        "First used identity of Citizen V, fought Baron Zemo and Techno (Thunderbolts #16-17, 1998)", 
+        "framed as Crimson Cowl (Thunderbolts #25, 1999)", 
+        "rebelled against V-Battalion, aided by Thunderbolts, abducted by and fought Crimson Cowl (Thunderbolts #36-42, 2000)", 
+        "merged with Atlas (Thunderbolts #56-57, 2001)", 
+        "as Vantage, served with Thunderbolts (Avengers/Thunderbolts #1-6, 2004)", 
+        "powers removed by Atlas (New Thunderbolts #1, 2005)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

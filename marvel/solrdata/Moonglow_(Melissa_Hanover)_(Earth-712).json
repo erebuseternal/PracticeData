@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Squadron Supreme #10\n", 
-            "groupaffiliation": [
-                "(Formerly) Redeemers", 
-                "Squadron Supreme"
-            ], 
-            "hair": "(illusory) blonde, (actual) light brown\n", 
-            "height": 0, 
-            "id": "Moonglow_(Melissa_Hanover)_(Earth-712)", 
-            "identity": "Known to the Squadron", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "(Formerly) subversive", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Hanover has the power to cast convincing three-dimensional audio-visual-olfactory-tactile illusions by affecting the perceptions of other beings.", 
-            "realname": "Melissa Hanover", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 130
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Squadron Supreme #10\n", 
+    "groupaffiliation": [
+        "(Formerly) Redeemers", 
+        "Squadron Supreme"
+    ], 
+    "hair": "(illusory) blonde, (actual) light brown\n", 
+    "height": 0, 
+    "id": "Moonglow_(Melissa_Hanover)_(Earth-712)", 
+    "identity": "Known to the Squadron", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "(Formerly) subversive", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Hanover has the power to cast convincing three-dimensional audio-visual-olfactory-tactile illusions by affecting the perceptions of other beings.", 
+    "realname": "Melissa Hanover", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 130
 }

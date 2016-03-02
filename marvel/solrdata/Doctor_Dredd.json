@@ -1,31 +1,27 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Wraithworld", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, although he is very knowledgeable in sorcery and black magic", 
-            "energy": 1, 
-            "eyes": "Black (red while using his magic)\n", 
-            "fighting": 1, 
-            "firstappearance": "Rom #38 (1983)\n", 
-            "groupaffiliation": "Dire Wraiths", 
-            "hair": "Black\n", 
-            "id": "Doctor_Dredd", 
-            "identity": [
-                "Publicly known on Wraithworld", 
-                "the general populace of Earth is unaware of Dredd's existence"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Warlock and practitioner of magic", 
-            "placeofbirth": "Unrevealed location on Wraithworld", 
-            "powers": "Dredd possesses dark sorcerous powers that derived their strength from the Black Sun of Wraithword. He used his magic to bond Brandy Clark to an empty Spaceknight armor and weaved a spell to force her to do his bidding. He could also instantly enthrall humans by shooting a spell that would wrap the victims in black tendrils and claws. By using his magic to cast a spell of teleportation he can travel around the world, and carry at least one other person with him. Dredd like most other Dire Wraiths can change his appearance by mentally altering his body structure into any organic form; generally humans and a red fanged serpent. Dredd possesses superhuman strength and durability, and he could also make himself so razor-sharp that he could not be touched by others; this also allowed him to cut his targets to shreds. Dredd\u2019s body produced a peculiar odor that made him detectable by the Spaceknights of Galador.", 
-            "realname": "Doctor Dredd", 
-            "significantissues": "Dredd mystically bonded Brandy to the Starshine armor (Rom #38, 1983)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Wraithworld", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, although he is very knowledgeable in sorcery and black magic", 
+    "energy": 1, 
+    "eyes": "Black (red while using his magic)\n", 
+    "fighting": 1, 
+    "firstappearance": "Rom #38 (1983)\n", 
+    "groupaffiliation": "Dire Wraiths", 
+    "hair": "Black\n", 
+    "id": "Doctor_Dredd", 
+    "identity": [
+        "Publicly known on Wraithworld", 
+        "the general populace of Earth is unaware of Dredd's existence"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Warlock and practitioner of magic", 
+    "placeofbirth": "Unrevealed location on Wraithworld", 
+    "powers": "Dredd possesses dark sorcerous powers that derived their strength from the Black Sun of Wraithword. He used his magic to bond Brandy Clark to an empty Spaceknight armor and weaved a spell to force her to do his bidding. He could also instantly enthrall humans by shooting a spell that would wrap the victims in black tendrils and claws. By using his magic to cast a spell of teleportation he can travel around the world, and carry at least one other person with him. Dredd like most other Dire Wraiths can change his appearance by mentally altering his body structure into any organic form; generally humans and a red fanged serpent. Dredd possesses superhuman strength and durability, and he could also make himself so razor-sharp that he could not be touched by others; this also allowed him to cut his targets to shreds. Dredd\u2019s body produced a peculiar odor that made him detectable by the Spaceknights of Galador.", 
+    "realname": "Doctor Dredd", 
+    "significantissues": "Dredd mystically bonded Brandy to the Starshine armor (Rom #38, 1983)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

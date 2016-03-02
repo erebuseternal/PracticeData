@@ -1,67 +1,63 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Wondra", 
-                "\"Jubes\""
-            ], 
-            "citizenship": "U.S.", 
-            "content": "After Generation X disbanded, Jubilee returned home to try an acting career, which was ultimately short-lived due to an unscrupulous agent exploiting her. Jubilee then briefly joined her former headmaster Banshee's paramilitary X-Corps. After that team was dissolved, Jubilee was one of several mutants captured by the mutant-hating Church of Humanity, who crucified them on the grounds of the Xavier Institute. Jubilee was one of the few to survive, thanks to the X-Man Archangel's newfound healing ability, and she rejoined the X-Men, adventuring with them against the threat of Nightcrawler's father, Azazel.When Cyclops and Emma Frost took on the shared duty of headmaster of the Institute, the X-Men were restructured into three teams, and Jubilee was taken off the active roster. She went home to live with her Aunt Hope and returned to school, becoming a student counselor before being caught up in her Aunt's secret life as a spy. Soon after, Jubilee returned to the Institute.Jubilee was depowered due to the events of \"M-Day\".  Shortly afterwards, she was interviewed by Sally Floyd as part of her Ex Mutant Diary series. She then got a job working at a half-way house of sorts for fellow depowered mutants.  While at her stay working at the clinic, Wolverine bumped into her. In a matter of seconds, Omega Red broke into the facility and took Jubilee as a hostage.  She was gravely wounded when the building she was held in exploded, as a steel beam fell into her abdomen.  Without hesitation, Logan surrendered himself over to S.H.I.E.L.D. custody as a bargain with them to save her life.", 
-            "durability": 5, 
-            "education": "Various courses at Xavier Institute, Massachusetts Academy, and Payton-Noble High School", 
-            "energy": 7, 
-            "eyes": "Brown\n", 
-            "fighting": 5, 
-            "firstappearance": "Uncanny X-Men #244 (1989)\n", 
-            "groupaffiliation": [
-                "Formerly New Warriors", 
-                "Xavier Institute Student Body", 
-                "X-Men", 
-                "X-Corps", 
-                "Generation X"
-            ], 
-            "hair": "Black\n", 
-            "height": 65, 
-            "id": "Jubilee", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Mr & Mrs Lee (parents, deceased), Hope (paternal aunt)", 
-            "occupation": [
-                "Adventurer", 
-                "student", 
-                "former student counselor", 
-                "actress", 
-                "street performer", 
-                "thief", 
-                "ex-mutant clinic assistant"
-            ], 
-            "origin": "Generation X #24 (1997)", 
-            "placeofbirth": [
-                "Beverly Hills", 
-                "Los Angeles", 
-                "California"
-            ], 
-            "powers": "Jubilee once could generate multi-colored globules of energy plasma she calls \"fireworks.\" She could vary their power and intensity, from a multitude of sparkles capable of temporarily blinding others to a powerful detonation capable of much destruction, and could also absorb the energy back into her body without harm to herself. Jubilee had the potential to detonate matter on a molecular level.  \nDuring her stint as Wondra from the New Warriors, Jubilee used tech devices that gave herself super strength, flight, and limited invulnerability. She kept her Wondra gear after the team disbanded, potentially needing to call upon those powers in the future.", 
-            "realname": "Jubilation Lee", 
-            "significantissues": [
-                "Battled M-Squad, rescued by X-Women (Uncanny X-Men #244, 1989)", 
-                "saved Wolverine from Reavers (Uncanny X-Men #251-252, 1989)", 
-                "joined X-Men (Uncanny X-Men #273, 1991)", 
-                "avenged parents' murder (Wolverine #74, 1993)", 
-                "joined Generation X (Uncanny X-Men #318, 1994)", 
-                "fought X-Women and Viper with Kitty Pryde to save Wolverine (Wolverine #125, 1998)", 
-                "returned home, sought acting career (Generation X #75/X-Men Unlimited #34, 2001/2002)", 
-                "member of X-Corps (Uncanny X-Men #403-406, 2002)", 
-                "re-joined X-Men, battled against Azazel (Uncanny X-Men #429, 2003)", 
-                "taken off active X-Men roster (X-Men #157, 2004)", 
-                "sent to live with Aunt, became high school counselor, returned to Xavier's (Jubilee #1-6, 2004-2005)", 
-                "depowered (Decimation: House of M - The Day After, 2006)", 
-                "member of New Warriors, superhuman strength (New Warriors #1, 2007)"
-            ], 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 115
-        }
-    }
+    "aliases": [
+        "Wondra", 
+        "\"Jubes\""
+    ], 
+    "citizenship": "U.S.", 
+    "content": "After Generation X disbanded, Jubilee returned home to try an acting career, which was ultimately short-lived due to an unscrupulous agent exploiting her. Jubilee then briefly joined her former headmaster Banshee's paramilitary X-Corps. After that team was dissolved, Jubilee was one of several mutants captured by the mutant-hating Church of Humanity, who crucified them on the grounds of the Xavier Institute. Jubilee was one of the few to survive, thanks to the X-Man Archangel's newfound healing ability, and she rejoined the X-Men, adventuring with them against the threat of Nightcrawler's father, Azazel.When Cyclops and Emma Frost took on the shared duty of headmaster of the Institute, the X-Men were restructured into three teams, and Jubilee was taken off the active roster. She went home to live with her Aunt Hope and returned to school, becoming a student counselor before being caught up in her Aunt's secret life as a spy. Soon after, Jubilee returned to the Institute.Jubilee was depowered due to the events of \"M-Day\".  Shortly afterwards, she was interviewed by Sally Floyd as part of her Ex Mutant Diary series. She then got a job working at a half-way house of sorts for fellow depowered mutants.  While at her stay working at the clinic, Wolverine bumped into her. In a matter of seconds, Omega Red broke into the facility and took Jubilee as a hostage.  She was gravely wounded when the building she was held in exploded, as a steel beam fell into her abdomen.  Without hesitation, Logan surrendered himself over to S.H.I.E.L.D. custody as a bargain with them to save her life.", 
+    "durability": 5, 
+    "education": "Various courses at Xavier Institute, Massachusetts Academy, and Payton-Noble High School", 
+    "energy": 7, 
+    "eyes": "Brown\n", 
+    "fighting": 5, 
+    "firstappearance": "Uncanny X-Men #244 (1989)\n", 
+    "groupaffiliation": [
+        "Formerly New Warriors", 
+        "Xavier Institute Student Body", 
+        "X-Men", 
+        "X-Corps", 
+        "Generation X"
+    ], 
+    "hair": "Black\n", 
+    "height": 65, 
+    "id": "Jubilee", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Mr & Mrs Lee (parents, deceased), Hope (paternal aunt)", 
+    "occupation": [
+        "Adventurer", 
+        "student", 
+        "former student counselor", 
+        "actress", 
+        "street performer", 
+        "thief", 
+        "ex-mutant clinic assistant"
+    ], 
+    "origin": "Generation X #24 (1997)", 
+    "placeofbirth": [
+        "Beverly Hills", 
+        "Los Angeles", 
+        "California"
+    ], 
+    "powers": "Jubilee once could generate multi-colored globules of energy plasma she calls \"fireworks.\" She could vary their power and intensity, from a multitude of sparkles capable of temporarily blinding others to a powerful detonation capable of much destruction, and could also absorb the energy back into her body without harm to herself. Jubilee had the potential to detonate matter on a molecular level.  \nDuring her stint as Wondra from the New Warriors, Jubilee used tech devices that gave herself super strength, flight, and limited invulnerability. She kept her Wondra gear after the team disbanded, potentially needing to call upon those powers in the future.", 
+    "realname": "Jubilation Lee", 
+    "significantissues": [
+        "Battled M-Squad, rescued by X-Women (Uncanny X-Men #244, 1989)", 
+        "saved Wolverine from Reavers (Uncanny X-Men #251-252, 1989)", 
+        "joined X-Men (Uncanny X-Men #273, 1991)", 
+        "avenged parents' murder (Wolverine #74, 1993)", 
+        "joined Generation X (Uncanny X-Men #318, 1994)", 
+        "fought X-Women and Viper with Kitty Pryde to save Wolverine (Wolverine #125, 1998)", 
+        "returned home, sought acting career (Generation X #75/X-Men Unlimited #34, 2001/2002)", 
+        "member of X-Corps (Uncanny X-Men #403-406, 2002)", 
+        "re-joined X-Men, battled against Azazel (Uncanny X-Men #429, 2003)", 
+        "taken off active X-Men roster (X-Men #157, 2004)", 
+        "sent to live with Aunt, became high school counselor, returned to Xavier's (Jubilee #1-6, 2004-2005)", 
+        "depowered (Decimation: House of M - The Day After, 2006)", 
+        "member of New Warriors, superhuman strength (New Warriors #1, 2007)"
+    ], 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 115
 }

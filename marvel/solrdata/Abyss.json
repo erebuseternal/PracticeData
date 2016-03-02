@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Genosha", 
-            "content": "After a cure for the Virus had been released, Abyss found himself in Berlin battling the fire-wielding mutant Fever Pitch. Both were captured by the mutant X-Corps militia led by the former X-Man Banshee. While being held for scientific study, Abyss witnessed the murder of the Japanese mutant Sunpyre by rogue X-Corps members. Following the revelation that the shape-changing mutant terrorist Mystique had infiltrated the X-Corps in an attempt to seize its assets for her own use, a wounded Banshee freed Abyss from his confinement, allowing him to use his power to pull Mystique into the void within his body.Later, Abyss was mentally compelled to travel to the Caribbean island of Isla des Demonas where he joined the X-Man Nightcrawler and other mutants with teleportation powers in creating a portal to the other-dimensional home of Azazel, a demonic-looking mutant from ancient times who was amassing an army with which to reclaim the Earth. The X-Men arrived to rescue their teammate, and inadvertently caused the collapse of the portal. Many of the teleporters were killed, but not before all assembled were transported through to the other dimension. There, Abyss' powers acted in reverse, ejecting everything the void within his body had ever pulled in, including Mystique. Azazel subsequently revealed that he was the father of the teleporters, collectively referred to as the Neyaphem, and sought to enlist the aid of Nightcrawler and Abyss in opening another portal to Earth. At that moment, back on Earth, the X-Man Polaris used her magnetic powers to force open the void within Abyss' body, allowing the heroes to return and leaving Azazel and his followers trapped.", 
-            "durability": 5, 
-            "education": "Unrevealed", 
-            "energy": 3, 
-            "eyes": "White, no visible irisis or pupils\n", 
-            "fighting": 4, 
-            "firstappearance": "Cable #40 (1997)\n", 
-            "groupaffiliation": [
-                "X-Cell", 
-                "formerly Neyaphem", 
-                "X-Corps", 
-                "Mutant Underground", 
-                "Genoshan Mutates"
-            ], 
-            "hair": "Black\n", 
-            "height": 76, 
-            "id": "Abyss", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Azazel (father), Kurt Wagner (Nightcrawler, half-brother), Kiwi Black (half-brother), other half-siblings (deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former bodyguard", 
-                "test subject"
-            ], 
-            "origin": "Uncanny X-Men #432 (2003)", 
-            "placeofbirth": "Unrevealed location in Genosha", 
-            "powers": "The cells of Abyss' body were extremely pliable, allowing him to unravel it into ribbon-like tendrils with which he can envelop an object or another being and pull it into the void within his body that acts as a portal to another dimension. High emotional states such as fear or anger would have caused Abyss to lose control of his power, resulting in all nearby objects being pulled into the dimension.", 
-            "realname": "Nils Styger", 
-            "significantissues": [
-                "Acted as bodyguard to Renee Majcomb (Cable #40, 1997)", 
-                "captured by X-Corps (Uncanny X-Men #402, 2002)", 
-                "witnessed murder of Sunpyre (Uncanny X-Men #404, 2002)", 
-                "opposed Mystique (Uncanny X-Men #406, 2002)", 
-                "taken to Azazel's dimension, learned of family history (Uncanny X-Men #429-434, 2003-2004)", 
-                "revealed to have been depowered after \"M-Day\" (All-New Official Handbook of the Marvel Universe A-Z #1, 2006)"
-            ], 
-            "speed": 4, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 162
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Genosha", 
+    "content": "After a cure for the Virus had been released, Abyss found himself in Berlin battling the fire-wielding mutant Fever Pitch. Both were captured by the mutant X-Corps militia led by the former X-Man Banshee. While being held for scientific study, Abyss witnessed the murder of the Japanese mutant Sunpyre by rogue X-Corps members. Following the revelation that the shape-changing mutant terrorist Mystique had infiltrated the X-Corps in an attempt to seize its assets for her own use, a wounded Banshee freed Abyss from his confinement, allowing him to use his power to pull Mystique into the void within his body.Later, Abyss was mentally compelled to travel to the Caribbean island of Isla des Demonas where he joined the X-Man Nightcrawler and other mutants with teleportation powers in creating a portal to the other-dimensional home of Azazel, a demonic-looking mutant from ancient times who was amassing an army with which to reclaim the Earth. The X-Men arrived to rescue their teammate, and inadvertently caused the collapse of the portal. Many of the teleporters were killed, but not before all assembled were transported through to the other dimension. There, Abyss' powers acted in reverse, ejecting everything the void within his body had ever pulled in, including Mystique. Azazel subsequently revealed that he was the father of the teleporters, collectively referred to as the Neyaphem, and sought to enlist the aid of Nightcrawler and Abyss in opening another portal to Earth. At that moment, back on Earth, the X-Man Polaris used her magnetic powers to force open the void within Abyss' body, allowing the heroes to return and leaving Azazel and his followers trapped.", 
+    "durability": 5, 
+    "education": "Unrevealed", 
+    "energy": 3, 
+    "eyes": "White, no visible irisis or pupils\n", 
+    "fighting": 4, 
+    "firstappearance": "Cable #40 (1997)\n", 
+    "groupaffiliation": [
+        "X-Cell", 
+        "formerly Neyaphem", 
+        "X-Corps", 
+        "Mutant Underground", 
+        "Genoshan Mutates"
+    ], 
+    "hair": "Black\n", 
+    "height": 76, 
+    "id": "Abyss", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Azazel (father), Kurt Wagner (Nightcrawler, half-brother), Kiwi Black (half-brother), other half-siblings (deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former bodyguard", 
+        "test subject"
+    ], 
+    "origin": "Uncanny X-Men #432 (2003)", 
+    "placeofbirth": "Unrevealed location in Genosha", 
+    "powers": "The cells of Abyss' body were extremely pliable, allowing him to unravel it into ribbon-like tendrils with which he can envelop an object or another being and pull it into the void within his body that acts as a portal to another dimension. High emotional states such as fear or anger would have caused Abyss to lose control of his power, resulting in all nearby objects being pulled into the dimension.", 
+    "realname": "Nils Styger", 
+    "significantissues": [
+        "Acted as bodyguard to Renee Majcomb (Cable #40, 1997)", 
+        "captured by X-Corps (Uncanny X-Men #402, 2002)", 
+        "witnessed murder of Sunpyre (Uncanny X-Men #404, 2002)", 
+        "opposed Mystique (Uncanny X-Men #406, 2002)", 
+        "taken to Azazel's dimension, learned of family history (Uncanny X-Men #429-434, 2003-2004)", 
+        "revealed to have been depowered after \"M-Day\" (All-New Official Handbook of the Marvel Universe A-Z #1, 2006)"
+    ], 
+    "speed": 4, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 162
 }

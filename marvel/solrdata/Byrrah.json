@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Atlantean", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Educated by the Royal tutors of Atlantis", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales to Astonish #90 (1967); Young Men #28 (historical appearance)\n", 
-            "groupaffiliation": [
-                "Former ally of Attuma", 
-                "Krang", 
-                "Doctor Lemuel Dorcas", 
-                "and the Badoon"
-            ], 
-            "hair": "Blond\n", 
-            "height": 72, 
-            "id": "Byrrah", 
-            "identity": [
-                "Unknown to the general populace of Earth", 
-                "publicly known in Atlantis"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Thakorr, (stepfather,deceased), Fen (stepsister, deceased), Namor, Namorita (cousins), Namora, Dorma (cousins, deceased)", 
-            "occupation": [
-                "Royal Aristocrat", 
-                "warrior"
-            ], 
-            "placeofbirth": "Antarctica Atlantis", 
-            "powers": "Byrrah possessed superhuman strength that allowed him to list about 5 tons above his head.", 
-            "realname": "Byrrah", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 280
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Atlantean", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Educated by the Royal tutors of Atlantis", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales to Astonish #90 (1967); Young Men #28 (historical appearance)\n", 
+    "groupaffiliation": [
+        "Former ally of Attuma", 
+        "Krang", 
+        "Doctor Lemuel Dorcas", 
+        "and the Badoon"
+    ], 
+    "hair": "Blond\n", 
+    "height": 72, 
+    "id": "Byrrah", 
+    "identity": [
+        "Unknown to the general populace of Earth", 
+        "publicly known in Atlantis"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Thakorr, (stepfather,deceased), Fen (stepsister, deceased), Namor, Namorita (cousins), Namora, Dorma (cousins, deceased)", 
+    "occupation": [
+        "Royal Aristocrat", 
+        "warrior"
+    ], 
+    "placeofbirth": "Antarctica Atlantis", 
+    "powers": "Byrrah possessed superhuman strength that allowed him to list about 5 tons above his head.", 
+    "realname": "Byrrah", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 280
 }

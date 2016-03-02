@@ -1,19 +1,15 @@
 {
-    "add": {
-        "doc": {
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "groupaffiliation": "X-Men (Earth-311)", 
-            "id": "Trefusis,_Robert_(Earth-311)", 
-            "intelligence": 1, 
-            "origin": "1602 #1", 
-            "powers": "has the ability to turn water to ice.", 
-            "realname": "Robert Trefusis", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel 1602 (Earth-311)"
-        }
-    }
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "groupaffiliation": "X-Men (Earth-311)", 
+    "id": "Trefusis,_Robert_(Earth-311)", 
+    "intelligence": 1, 
+    "origin": "1602 #1", 
+    "powers": "has the ability to turn water to ice.", 
+    "realname": "Robert Trefusis", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel 1602 (Earth-311)"
 }

@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lord Blackheart", 
-                "Black King", 
-                "Voice"
-            ], 
-            "citizenship": "Realm of Hell", 
-            "content": "Observing these mortals led Blackheart to rebel against his father and seek a newer form of evil; in retaliation, Mephisto diminished Blackheart\u2019s powers. Focusing on those who walked the line between good and evil, Blackheart tried and failed to recruit Wolverine (Logan), the Punisher (Frank Castle) and the Ghost Rider (Daniel Ketch) to his rebellion. Blackheart also aided Wonder Man against Mephisto and helped Misha of the mercenary Warheads as her telepathic \u201cVoice\u201d, using Mys-Tech\u2019s Rathcoole to obtain a mystic sword which could harm Mephisto. Returning to Christ\u2019s Crown, Blackheart altered his followers into the Corrupt, and employed Wolverine, Punisher, and Ghost Rider as a feint to allow him to anoint the sword with an innocent\u2019s blood. He apparently slew Mephisto, banishing his \u201cfather\u201d from Hell and restoring his own powers to full strength.As Hell\u2019s ruler, Blackheart focused on corrupting the Ghost Rider, aiding the Furies to possess mortal bodies to torment Ghost Rider (Noble Kale) and resurrecting the Scarecrow (Ebenezer Laughton) to send after Ketch. From his palace in the Burning Flesh district, Blackheart created his own Spirits of Vengeance: his consort Black Rose (the deceased Roxanne Simpson, ex-wife of Dan Ketch\u2019s brother, Johnny Blaze), Verminus Rex (a spirit who had battled the Ghost Rider during World War I), Wallow (a homicidal mortal suicide whom Ghost Rider had thwarted), Doghead (a downtrodden immigrant), and Pao Fu (who had died in the arms of Ghost Rider as he tried to save her). Blackheart bargained to free Ghost Rider\u2019s relatives from their curse; in return, Ghost Rider agreed to lead Blackheart\u2019s Spirits. However, the pair fell out and Ghost Rider destroyed Blackheart, banishing him from Hell.", 
-            "durability": 7, 
-            "education": "Self-taught and tutored by Mephisto", 
-            "energy": 6, 
-            "eyes": "Black (Variable)\n", 
-            "fighting": 5, 
-            "firstappearance": "Daredevil #270 (1989)\n", 
-            "groupaffiliation": [
-                "Former leader of the Hellfire Club", 
-                "Spirits of Vengeance", 
-                "Corrupt"
-            ], 
-            "hair": "Black (Variable)\n", 
-            "height": 0, 
-            "id": "Blackheart", 
-            "identity": "Existence unknown to general public", 
-            "intelligence": 6, 
-            "knownrelatives": "Mephisto (father), Mephista (half-sister); Daimon and Satana Hellstrom, Mikal Drakonmegas (quasi-siblings)", 
-            "occupation": "Demon", 
-            "placeofbirth": [
-                "Christ\u2019s Crown", 
-                "New York"
-            ], 
-            "powers": "Blackheart can regenerate from most physical harm; levitate; extra-dimensional teleportation; change the size and physical form of himself and willing others; generate concussive blasts of black energy; and survive without food, water, or sleep. Though he can assume human form, Blackheart usually appears as a black spine-covered humanoid with a long tail. He smells unpleasantly of burning ink and roses, and has no discernible heartbeat. He likely possesses further unrevealed abilities.", 
-            "realname": "Blackheart", 
-            "speed": 6, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": "Variable\n"
-        }
-    }
+    "aliases": [
+        "Lord Blackheart", 
+        "Black King", 
+        "Voice"
+    ], 
+    "citizenship": "Realm of Hell", 
+    "content": "Observing these mortals led Blackheart to rebel against his father and seek a newer form of evil; in retaliation, Mephisto diminished Blackheart\u2019s powers. Focusing on those who walked the line between good and evil, Blackheart tried and failed to recruit Wolverine (Logan), the Punisher (Frank Castle) and the Ghost Rider (Daniel Ketch) to his rebellion. Blackheart also aided Wonder Man against Mephisto and helped Misha of the mercenary Warheads as her telepathic \u201cVoice\u201d, using Mys-Tech\u2019s Rathcoole to obtain a mystic sword which could harm Mephisto. Returning to Christ\u2019s Crown, Blackheart altered his followers into the Corrupt, and employed Wolverine, Punisher, and Ghost Rider as a feint to allow him to anoint the sword with an innocent\u2019s blood. He apparently slew Mephisto, banishing his \u201cfather\u201d from Hell and restoring his own powers to full strength.As Hell\u2019s ruler, Blackheart focused on corrupting the Ghost Rider, aiding the Furies to possess mortal bodies to torment Ghost Rider (Noble Kale) and resurrecting the Scarecrow (Ebenezer Laughton) to send after Ketch. From his palace in the Burning Flesh district, Blackheart created his own Spirits of Vengeance: his consort Black Rose (the deceased Roxanne Simpson, ex-wife of Dan Ketch\u2019s brother, Johnny Blaze), Verminus Rex (a spirit who had battled the Ghost Rider during World War I), Wallow (a homicidal mortal suicide whom Ghost Rider had thwarted), Doghead (a downtrodden immigrant), and Pao Fu (who had died in the arms of Ghost Rider as he tried to save her). Blackheart bargained to free Ghost Rider\u2019s relatives from their curse; in return, Ghost Rider agreed to lead Blackheart\u2019s Spirits. However, the pair fell out and Ghost Rider destroyed Blackheart, banishing him from Hell.", 
+    "durability": 7, 
+    "education": "Self-taught and tutored by Mephisto", 
+    "energy": 6, 
+    "eyes": "Black (Variable)\n", 
+    "fighting": 5, 
+    "firstappearance": "Daredevil #270 (1989)\n", 
+    "groupaffiliation": [
+        "Former leader of the Hellfire Club", 
+        "Spirits of Vengeance", 
+        "Corrupt"
+    ], 
+    "hair": "Black (Variable)\n", 
+    "height": 0, 
+    "id": "Blackheart", 
+    "identity": "Existence unknown to general public", 
+    "intelligence": 6, 
+    "knownrelatives": "Mephisto (father), Mephista (half-sister); Daimon and Satana Hellstrom, Mikal Drakonmegas (quasi-siblings)", 
+    "occupation": "Demon", 
+    "placeofbirth": [
+        "Christ\u2019s Crown", 
+        "New York"
+    ], 
+    "powers": "Blackheart can regenerate from most physical harm; levitate; extra-dimensional teleportation; change the size and physical form of himself and willing others; generate concussive blasts of black energy; and survive without food, water, or sleep. Though he can assume human form, Blackheart usually appears as a black spine-covered humanoid with a long tail. He smells unpleasantly of burning ink and roses, and has no discernible heartbeat. He likely possesses further unrevealed abilities.", 
+    "realname": "Blackheart", 
+    "speed": 6, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": "Variable\n"
 }

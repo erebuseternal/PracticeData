@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Mistress of Mayhem", 
-                "Queen of Crime", 
-                "Thumper"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Team-Up #131 (1983)\n", 
-            "groupaffiliation": [
-                "Formerly Terrible Two", 
-                "White Rabbit Gang (leader)"
-            ], 
-            "hair": "Strawberry blonde\n", 
-            "height": 67, 
-            "id": "White_Rabbit", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Lewis Dodson (husband, deceased)", 
-            "occupation": "Professional criminal", 
-            "placeofbirth": [
-                "Boston", 
-                "Massachusetts"
-            ], 
-            "powers": "White Rabbit has the normal strength of a human female that engages in regular exercise.", 
-            "realname": "Lorina Dodson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 130
-        }
-    }
+    "aliases": [
+        "Mistress of Mayhem", 
+        "Queen of Crime", 
+        "Thumper"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Team-Up #131 (1983)\n", 
+    "groupaffiliation": [
+        "Formerly Terrible Two", 
+        "White Rabbit Gang (leader)"
+    ], 
+    "hair": "Strawberry blonde\n", 
+    "height": 67, 
+    "id": "White_Rabbit", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Lewis Dodson (husband, deceased)", 
+    "occupation": "Professional criminal", 
+    "placeofbirth": [
+        "Boston", 
+        "Massachusetts"
+    ], 
+    "powers": "White Rabbit has the normal strength of a human female that engages in regular exercise.", 
+    "realname": "Lorina Dodson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 130
 }

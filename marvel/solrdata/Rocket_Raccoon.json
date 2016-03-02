@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Rocky Raccoon", 
-                "Ranger Rocket"
-            ], 
-            "citizenship": "Halfworld", 
-            "content": "In recent years, the Incredible Hulk (Bruce Banner) was transported to Halfworld via energies released during the destruction of the energy creature Galaxy Master. The Hulk met Quadrant guardian Rocket Raccoon and his partner Wal Rus, who tried unsuccessfully to figure out how the strange green human got through the Galacian Wall. When the head of Inter-Stel Mechanics, Judson Jakes, had the mercenary Black Bunny Brigade steal the Gideon's Bible and held his ward, the otter Lylla, as a hostage, Rocket enlisted the Hulk's aid to rescue both the Bible and his girlfriend. They invaded Jake's orbital Spacewheel spacestation and rescued both the book and Lylla, but not before Jake's chief scientist/toymaker, the tortoise Uncle Pyko, sent the Hulk back to Earth to prevent the Hulk's presence from destroying the political status quo among the various Halfworld animal factions.The saurian Lord Dyvyne, head of Dyvynities,Inc., forcibly took over Inter-Stel Mechanics, forcing Jackes and Pyko from Spacewheel, and hiring the Black Bunny Brigade away from Jakes. Relocating to Halfworlds's equator, Jakes reincorporated as Mayhem Mekaniks, where he had Pyko created more members of his mechanical Psycho-Circus (a.k.a. Killer Clowns) and the cybermetric bat-like Drakillars, and plotted to find a way to marry Lylla to gain permanent control of her late parents' fortune and the toy company they had founded. Desiring to be the top toymaker, Jakes had one of his mechanical Killer Clowns assassinated Lord Dyvyne's chief toysmith, igniting a trade war. Rocket went after Jakes to stop the war, but then Dyvyne had Lylla kidnapped to force a marriage between them to gain control of her fortune, forcing Rocket and her uncle Wal to rescue her instead. They tracked Lylla to the Loony shrine Asylum, where Brigade leader Blackjack O'Hare had taken her to seek her fortune for himself, putting him on the outs with his employer. When the Killer Clowns vacuumed up the Black Bunny Brigade, O'Hare was forced to rescue Rocket and himself from the wrath of lord Dyvyne's misty creature Red Breath. luring the pursuing Clowns on their vacuum sleds to vacuum up the erasing Red Breath, destroying both sets of assassins.", 
-            "durability": 2, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue (recently his eyes are brown, there is no reason given for this change)\n", 
-            "fighting": 4, 
-            "firstappearance": "Marvel Preview #7 (1976)\n", 
-            "groupaffiliation": [
-                "Guardians of the Galaxy", 
-                "formerly Captain of Ship", 
-                "Loonies of Halfworld"
-            ], 
-            "hair": "Black, brown, white\n", 
-            "height": 48, 
-            "id": "Rocket_Raccoon", 
-            "identity": [
-                "Publicly known on Halfworld", 
-                "unknown on Earth"
-            ], 
-            "intelligence": 4, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Interplanetary explorer", 
-                "chief law officer & caretaker"
-            ], 
-            "placeofbirth": "Unknown", 
-            "realname": "Rocket Raccoon", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 3, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 55
-        }
-    }
+    "aliases": [
+        "Rocky Raccoon", 
+        "Ranger Rocket"
+    ], 
+    "citizenship": "Halfworld", 
+    "content": "In recent years, the Incredible Hulk (Bruce Banner) was transported to Halfworld via energies released during the destruction of the energy creature Galaxy Master. The Hulk met Quadrant guardian Rocket Raccoon and his partner Wal Rus, who tried unsuccessfully to figure out how the strange green human got through the Galacian Wall. When the head of Inter-Stel Mechanics, Judson Jakes, had the mercenary Black Bunny Brigade steal the Gideon's Bible and held his ward, the otter Lylla, as a hostage, Rocket enlisted the Hulk's aid to rescue both the Bible and his girlfriend. They invaded Jake's orbital Spacewheel spacestation and rescued both the book and Lylla, but not before Jake's chief scientist/toymaker, the tortoise Uncle Pyko, sent the Hulk back to Earth to prevent the Hulk's presence from destroying the political status quo among the various Halfworld animal factions.The saurian Lord Dyvyne, head of Dyvynities,Inc., forcibly took over Inter-Stel Mechanics, forcing Jackes and Pyko from Spacewheel, and hiring the Black Bunny Brigade away from Jakes. Relocating to Halfworlds's equator, Jakes reincorporated as Mayhem Mekaniks, where he had Pyko created more members of his mechanical Psycho-Circus (a.k.a. Killer Clowns) and the cybermetric bat-like Drakillars, and plotted to find a way to marry Lylla to gain permanent control of her late parents' fortune and the toy company they had founded. Desiring to be the top toymaker, Jakes had one of his mechanical Killer Clowns assassinated Lord Dyvyne's chief toysmith, igniting a trade war. Rocket went after Jakes to stop the war, but then Dyvyne had Lylla kidnapped to force a marriage between them to gain control of her fortune, forcing Rocket and her uncle Wal to rescue her instead. They tracked Lylla to the Loony shrine Asylum, where Brigade leader Blackjack O'Hare had taken her to seek her fortune for himself, putting him on the outs with his employer. When the Killer Clowns vacuumed up the Black Bunny Brigade, O'Hare was forced to rescue Rocket and himself from the wrath of lord Dyvyne's misty creature Red Breath. luring the pursuing Clowns on their vacuum sleds to vacuum up the erasing Red Breath, destroying both sets of assassins.", 
+    "durability": 2, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue (recently his eyes are brown, there is no reason given for this change)\n", 
+    "fighting": 4, 
+    "firstappearance": "Marvel Preview #7 (1976)\n", 
+    "groupaffiliation": [
+        "Guardians of the Galaxy", 
+        "formerly Captain of Ship", 
+        "Loonies of Halfworld"
+    ], 
+    "hair": "Black, brown, white\n", 
+    "height": 48, 
+    "id": "Rocket_Raccoon", 
+    "identity": [
+        "Publicly known on Halfworld", 
+        "unknown on Earth"
+    ], 
+    "intelligence": 4, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Interplanetary explorer", 
+        "chief law officer & caretaker"
+    ], 
+    "placeofbirth": "Unknown", 
+    "realname": "Rocket Raccoon", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 3, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 55
 }

@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Floral Colossus", 
-            "content": "Groot recently returned to space and was selected by the Kree to be a part of Star-Lord\u2019s team in the event known as the Annihilation Conquest. Groot and Star-lord would eventually defeat the menace known as the Phalanx, however in doing so Groot would sacrifice his life. The cosmic crusader Rocket Raccoon took a branch of Groot and planted it in a pot and the allowing the hero to re-grow.  While in space Groot\u2019s only words spoken were \u201cI am Groot\u201d.", 
-            "durability": 5, 
-            "education": "He has received the finest education from the most gifted tutors. His grasp of quasi-dimensional superpositional engineering is exceptional.", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 4, 
-            "firstappearance": "Tales to Astonish #13 (1960)\n", 
-            "groupaffiliation": [
-                "Guardians of the Galaxy", 
-                "formerly Howling Commandos"
-            ], 
-            "hair": "None (branches)\n", 
-            "id": "Groot", 
-            "identity": "The general populace of Earth was unaware of Groot's existence.", 
-            "intelligence": 6, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Peacekeeper", 
-                "former King"
-            ], 
-            "placeofbirth": "Unidentified location on Planet X", 
-            "powers": "Groot was extremely powerful and resilient, he has the power or regeneration allowing him to re-grow limbs and even his entire form. He also has powers of the mind, although they only appear to work on plant life, allowing him to communicate with other trees and command them to attack those that oppose him. He is highly vulnerable to attacks of fire.", 
-            "realname": "Groot", 
-            "speed": 2, 
-            "strength": 5, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Floral Colossus", 
+    "content": "Groot recently returned to space and was selected by the Kree to be a part of Star-Lord\u2019s team in the event known as the Annihilation Conquest. Groot and Star-lord would eventually defeat the menace known as the Phalanx, however in doing so Groot would sacrifice his life. The cosmic crusader Rocket Raccoon took a branch of Groot and planted it in a pot and the allowing the hero to re-grow.  While in space Groot\u2019s only words spoken were \u201cI am Groot\u201d.", 
+    "durability": 5, 
+    "education": "He has received the finest education from the most gifted tutors. His grasp of quasi-dimensional superpositional engineering is exceptional.", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 4, 
+    "firstappearance": "Tales to Astonish #13 (1960)\n", 
+    "groupaffiliation": [
+        "Guardians of the Galaxy", 
+        "formerly Howling Commandos"
+    ], 
+    "hair": "None (branches)\n", 
+    "id": "Groot", 
+    "identity": "The general populace of Earth was unaware of Groot's existence.", 
+    "intelligence": 6, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Peacekeeper", 
+        "former King"
+    ], 
+    "placeofbirth": "Unidentified location on Planet X", 
+    "powers": "Groot was extremely powerful and resilient, he has the power or regeneration allowing him to re-grow limbs and even his entire form. He also has powers of the mind, although they only appear to work on plant life, allowing him to communicate with other trees and command them to attack those that oppose him. He is highly vulnerable to attacks of fire.", 
+    "realname": "Groot", 
+    "speed": 2, 
+    "strength": 5, 
+    "universe": "Marvel Universe"
 }

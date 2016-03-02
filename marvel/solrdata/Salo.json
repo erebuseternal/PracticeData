@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Arthros", 
-            "content": "Among the Skrull worlds that Salo had targeted was Zarags\u2019na, the ancient capital of the Skrull Empire which now served as a cultural capital. According to Skrull religion, this was the spawning ground of Sl\u2019gur\u2019t, the Skrull God of War.  But, more importantly Zarags\u2019na was the home world of Sarnogg, the only son of Super Skrull. This led to Super Skrull leading a ragtag army of escaped prisoners from the Negative Zone UX-73 prison planetoid. Praxagora and Preak were among this group of escaped warriors. Together they defeated the evil twisted scientist to Annihilus, Lord Hawl.", 
-            "durability": 1, 
-            "education": "Highly train military strategist", 
-            "energy": 1, 
-            "eyes": "Green (compound eyes)\n", 
-            "fighting": 1, 
-            "firstappearance": "Annihilation Super Skrull #1 (2006)\n", 
-            "groupaffiliation": "Annihilation Wave", 
-            "hair": "None\n", 
-            "height": 65, 
-            "id": "Salo", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Military commander of the Harvester of Sorrows", 
-            "origin": "He originated on the planet of Arthros in the Negative Zone (Annihilation: Nova Corps Files 2006)", 
-            "placeofbirth": [
-                "Arthros", 
-                "Sector 17A", 
-                "Negative Zone"
-            ], 
-            "powers": "No known superhuman powers.", 
-            "realname": "Salo", 
-            "significantissues": "Annihilation: Super Skrull #2-4, (2006)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 145
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Arthros", 
+    "content": "Among the Skrull worlds that Salo had targeted was Zarags\u2019na, the ancient capital of the Skrull Empire which now served as a cultural capital. According to Skrull religion, this was the spawning ground of Sl\u2019gur\u2019t, the Skrull God of War.  But, more importantly Zarags\u2019na was the home world of Sarnogg, the only son of Super Skrull. This led to Super Skrull leading a ragtag army of escaped prisoners from the Negative Zone UX-73 prison planetoid. Praxagora and Preak were among this group of escaped warriors. Together they defeated the evil twisted scientist to Annihilus, Lord Hawl.", 
+    "durability": 1, 
+    "education": "Highly train military strategist", 
+    "energy": 1, 
+    "eyes": "Green (compound eyes)\n", 
+    "fighting": 1, 
+    "firstappearance": "Annihilation Super Skrull #1 (2006)\n", 
+    "groupaffiliation": "Annihilation Wave", 
+    "hair": "None\n", 
+    "height": 65, 
+    "id": "Salo", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Military commander of the Harvester of Sorrows", 
+    "origin": "He originated on the planet of Arthros in the Negative Zone (Annihilation: Nova Corps Files 2006)", 
+    "placeofbirth": [
+        "Arthros", 
+        "Sector 17A", 
+        "Negative Zone"
+    ], 
+    "powers": "No known superhuman powers.", 
+    "realname": "Salo", 
+    "significantissues": "Annihilation: Super Skrull #2-4, (2006)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 145
 }

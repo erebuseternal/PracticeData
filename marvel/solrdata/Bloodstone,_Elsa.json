@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High School equivalent, some college courses", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Bloodstone #1 (2001)\n", 
-            "groupaffiliation": "Formerly Nextwave", 
-            "hair": "Blonde\n", 
-            "height": 69, 
-            "id": "Bloodstone,_Elsa", 
-            "identity": "Public", 
-            "intelligence": 1, 
-            "knownrelatives": "Elise Bloodstone (mother), Ulysses Bloodstone (father, deceased), unborn half-brother; possibly many other half-siblings and other descendants of her father", 
-            "occupation": "Monster Hunter", 
-            "placeofbirth": [
-                "Boston", 
-                "Massachusetts"
-            ], 
-            "powers": "Elsa may have inherited powers from her father, but how much of her abilities she might retain without her Choker remains unknown.", 
-            "realname": "Elsa Bloodstone", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High School equivalent, some college courses", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Bloodstone #1 (2001)\n", 
+    "groupaffiliation": "Formerly Nextwave", 
+    "hair": "Blonde\n", 
+    "height": 69, 
+    "id": "Bloodstone,_Elsa", 
+    "identity": "Public", 
+    "intelligence": 1, 
+    "knownrelatives": "Elise Bloodstone (mother), Ulysses Bloodstone (father, deceased), unborn half-brother; possibly many other half-siblings and other descendants of her father", 
+    "occupation": "Monster Hunter", 
+    "placeofbirth": [
+        "Boston", 
+        "Massachusetts"
+    ], 
+    "powers": "Elsa may have inherited powers from her father, but how much of her abilities she might retain without her Choker remains unknown.", 
+    "realname": "Elsa Bloodstone", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

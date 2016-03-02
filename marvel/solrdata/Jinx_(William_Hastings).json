@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Evil Eye", 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High school dropout; possibly receiving high school-level instruction in Vatican City", 
-            "energy": 1, 
-            "eyes": "Brown (left), blue (right)\n", 
-            "fighting": 1, 
-            "firstappearance": "Darkhold: Pages From the Book of Sins #9 (1993)\n", 
-            "groupaffiliation": "Darkhold Redeemers", 
-            "hair": "Black\n", 
-            "height": 68, 
-            "id": "Jinx_(William_Hastings)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Caprice (mother, deceased), Louise Hastings (maternal grandmother, deceased)", 
-            "occupation": "Student/apprentice", 
-            "placeofbirth": [
-                "Los Angeles", 
-                "California"
-            ], 
-            "powers": "Unlike most humans, who can only perform magic after extensive training, Jinx was born with innate magical potential  that enabled him to cast minor spells, such as creating the illusion of a gun, while unaware he was doing so. Even without training, he could trigger the inherent magic in a Darkhold page without endangering his own soul as most other users would.", 
-            "realname": "William Hastings", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": "Evil Eye", 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High school dropout; possibly receiving high school-level instruction in Vatican City", 
+    "energy": 1, 
+    "eyes": "Brown (left), blue (right)\n", 
+    "fighting": 1, 
+    "firstappearance": "Darkhold: Pages From the Book of Sins #9 (1993)\n", 
+    "groupaffiliation": "Darkhold Redeemers", 
+    "hair": "Black\n", 
+    "height": 68, 
+    "id": "Jinx_(William_Hastings)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Caprice (mother, deceased), Louise Hastings (maternal grandmother, deceased)", 
+    "occupation": "Student/apprentice", 
+    "placeofbirth": [
+        "Los Angeles", 
+        "California"
+    ], 
+    "powers": "Unlike most humans, who can only perform magic after extensive training, Jinx was born with innate magical potential  that enabled him to cast minor spells, such as creating the illusion of a gun, while unaware he was doing so. Even without training, he could trigger the inherent magic in a Darkhold page without endangering his own soul as most other users would.", 
+    "realname": "William Hastings", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

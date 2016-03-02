@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Tina", 
-            "citizenship": "Citizen of the United States", 
-            "content": "While a group of the other X-Men broke into the Synge Corporation building to clear Xi\u2019an\u2019s name, Serpentina was left behind with Cerebra and Timothy when Junkpile attacked them and stole Xi\u2019an\u2019s body, which had cocooned itself to protect itself from injury.  Tina jumped on Junkpile, but was thrown towards a chasm, only surviving by grabbing the ledge at the last moment.When the first group was captured, Tina and the remaining X-Men made their way into the Synge Corporation building, themselves.  They found Meanstreak and Metalhead floating in stasis gel, but Tina smashed open the containers rather than see her friends imprisoned, and freed them.  Together they fought through the building\u2019s security forces, towards the office of Lytton Synge, where they ran into Junkpile.  Before the rest of the team could form a strategy, Tina leapt forward and attacked him, but he quickly reacted and crushed her face into a concrete wall, killing her.  When Xi\u2019an rose from his cocoon, he tried to heal Tina with his newly evolved powers, but he found that he could do nothing for the dead.  And so the X-Men buried Tina in a crystal coffin created by her fellow member, Krystalin.  Yet, because she believed so fiercely in Xi\u2019an\u2019s vision, her death galvanized Timothy into permanently joining the X-Men.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men (2099) #1\n", 
-            "groupaffiliation": [
-                "Formerly X-Men", 
-                "Undead"
-            ], 
-            "hair": "Blonde\n", 
-            "id": "Serpentina_(2099)", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former adventurer", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Able to elongate her arms, legs, and torso.", 
-            "realname": "Kimberly Kristine Potters", 
-            "significantissues": "X-Men (2099) #1 (intro), X-Men (2099) #3 (death), X-Men #26 (revival), X-Men (2099) #29 (destruction)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel 2099 (Earth-928)"
-        }
-    }
+    "aliases": "Tina", 
+    "citizenship": "Citizen of the United States", 
+    "content": "While a group of the other X-Men broke into the Synge Corporation building to clear Xi\u2019an\u2019s name, Serpentina was left behind with Cerebra and Timothy when Junkpile attacked them and stole Xi\u2019an\u2019s body, which had cocooned itself to protect itself from injury.  Tina jumped on Junkpile, but was thrown towards a chasm, only surviving by grabbing the ledge at the last moment.When the first group was captured, Tina and the remaining X-Men made their way into the Synge Corporation building, themselves.  They found Meanstreak and Metalhead floating in stasis gel, but Tina smashed open the containers rather than see her friends imprisoned, and freed them.  Together they fought through the building\u2019s security forces, towards the office of Lytton Synge, where they ran into Junkpile.  Before the rest of the team could form a strategy, Tina leapt forward and attacked him, but he quickly reacted and crushed her face into a concrete wall, killing her.  When Xi\u2019an rose from his cocoon, he tried to heal Tina with his newly evolved powers, but he found that he could do nothing for the dead.  And so the X-Men buried Tina in a crystal coffin created by her fellow member, Krystalin.  Yet, because she believed so fiercely in Xi\u2019an\u2019s vision, her death galvanized Timothy into permanently joining the X-Men.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men (2099) #1\n", 
+    "groupaffiliation": [
+        "Formerly X-Men", 
+        "Undead"
+    ], 
+    "hair": "Blonde\n", 
+    "id": "Serpentina_(2099)", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former adventurer", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Able to elongate her arms, legs, and torso.", 
+    "realname": "Kimberly Kristine Potters", 
+    "significantissues": "X-Men (2099) #1 (intro), X-Men (2099) #3 (death), X-Men #26 (revival), X-Men (2099) #29 (destruction)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel 2099 (Earth-928)"
 }

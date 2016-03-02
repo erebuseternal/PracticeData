@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Russian", 
-            "content": "Once the Red Ghost and his Super Apes reached the Blue Area of the Moon, they found an abandoned city as well as a more modern, inhabited dwelling. They also found the Fantastic Four\u2019s Thing, and fought with him until Uatu The Watcher appeared and stopped the apes and the two combatants. He explained that his species observed others, but never interfered. However, Earth was becoming dangerously close to a devastating clash between the United States and Russia, which might reduce the human race to savagery and barbarism. He also announced that the Red Ghost and the Fantastic Four must fight to decide the battle.The Red Ghost and his Apes fought the Fantastic Four until Reed designed a paralyzing ray that enabled him to freeze the Red Ghost who could not otherwise be touched. Then, while the Watcher explained that he would have to move his base to a new place, now that humans were capable of traveling to the moon, the Red Ghost\u2019s gorilla released him from his paralysis. But when the Red Ghost tried to control them, after the Invisible Girl had fed them, they turned on him and chased him across the moon.", 
-            "durability": 3, 
-            "education": "Unrevealed", 
-            "energy": 2, 
-            "eyes": "Brown\n", 
-            "fighting": 2, 
-            "firstappearance": "Fantastic Four #13\n", 
-            "groupaffiliation": "Leader of his Super Apes", 
-            "hair": "White\n", 
-            "height": 0, 
-            "id": "Red_Ghost", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former soviet astronaut", 
-            "origin": "Fantastic Four #13", 
-            "placeofbirth": [
-                "Leningrad", 
-                "Russia"
-            ], 
-            "powers": "The Red Ghost is able to make his body insubstantial and pass through solid objects. He is also able to solidify parts of his body to grasp physical objects while insubstantial.", 
-            "realname": "Ivan Kragoff", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 215
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Russian", 
+    "content": "Once the Red Ghost and his Super Apes reached the Blue Area of the Moon, they found an abandoned city as well as a more modern, inhabited dwelling. They also found the Fantastic Four\u2019s Thing, and fought with him until Uatu The Watcher appeared and stopped the apes and the two combatants. He explained that his species observed others, but never interfered. However, Earth was becoming dangerously close to a devastating clash between the United States and Russia, which might reduce the human race to savagery and barbarism. He also announced that the Red Ghost and the Fantastic Four must fight to decide the battle.The Red Ghost and his Apes fought the Fantastic Four until Reed designed a paralyzing ray that enabled him to freeze the Red Ghost who could not otherwise be touched. Then, while the Watcher explained that he would have to move his base to a new place, now that humans were capable of traveling to the moon, the Red Ghost\u2019s gorilla released him from his paralysis. But when the Red Ghost tried to control them, after the Invisible Girl had fed them, they turned on him and chased him across the moon.", 
+    "durability": 3, 
+    "education": "Unrevealed", 
+    "energy": 2, 
+    "eyes": "Brown\n", 
+    "fighting": 2, 
+    "firstappearance": "Fantastic Four #13\n", 
+    "groupaffiliation": "Leader of his Super Apes", 
+    "hair": "White\n", 
+    "height": 0, 
+    "id": "Red_Ghost", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former soviet astronaut", 
+    "origin": "Fantastic Four #13", 
+    "placeofbirth": [
+        "Leningrad", 
+        "Russia"
+    ], 
+    "powers": "The Red Ghost is able to make his body insubstantial and pass through solid objects. He is also able to solidify parts of his body to grasp physical objects while insubstantial.", 
+    "realname": "Ivan Kragoff", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 215
 }

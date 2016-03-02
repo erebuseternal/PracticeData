@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Sofia Mantega-Barrett", 
-            "citizenship": [
-                "Venezuela", 
-                "U.S. green card"
-            ], 
-            "content": "At the institute, Sofia was able to find friends and maintain her optimistic outlook on life. She befriended her roomate, Wallflower and the two friends became the core of the training squad, the New Mutants.  Given the codename Wind Dancer, Sofia stepped up to lead the New Mutants. But her headstrong ways, and her tendency to let the negative build up inside of her until she exploded, made her a less than ideal candidate. She eventually asked Prodigy, her genius teammate, to take over as leader. But Prodigy recognized that Wind Dancer was the emotional heart of the team. The two agreed to lead the squad together.The New Mutants had an up and down year. They lost out in squad competitions to the rival Hellions and were sunk by interpersonal problems within the squad. Sofia grew attracted to Julian Keller, leader of the Hellions. Their squads' rivalry has kept the two from becoming a couple, but Julian is certainly a key figure in Sofia's life.", 
-            "durability": 1, 
-            "education": "Currently in high school level classes", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "New Mutants #1 (2003)\n", 
-            "groupaffiliation": [
-                "Formerly New Mutants", 
-                "New Warriors"
-            ], 
-            "hair": "Brown\n", 
-            "height": 115, 
-            "id": "Wind_Dancer", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Walter Barrett (father), Miranda Mantega (mother), Paolo Mantega (uncle), three unnamed cousins", 
-            "occupation": "Student", 
-            "placeofbirth": [
-                "Caracas", 
-                "Venezuela"
-            ], 
-            "powers": "Wind Dancer could once control air. She had developed a wide array of powers mostly focused on her understanding of the wind. She could fly on wind currents, use the wind to bring her faraway sounds or create an area of silence. Offensively, she could generate intense winds or focused winds capable of slashing at an opponent.  She could also fire compressed air into a target's ear, disrupting their sense of balance. Currently de-powered.", 
-            "realname": "Sofia Mantega", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 122
-        }
-    }
+    "aliases": "Sofia Mantega-Barrett", 
+    "citizenship": [
+        "Venezuela", 
+        "U.S. green card"
+    ], 
+    "content": "At the institute, Sofia was able to find friends and maintain her optimistic outlook on life. She befriended her roomate, Wallflower and the two friends became the core of the training squad, the New Mutants.  Given the codename Wind Dancer, Sofia stepped up to lead the New Mutants. But her headstrong ways, and her tendency to let the negative build up inside of her until she exploded, made her a less than ideal candidate. She eventually asked Prodigy, her genius teammate, to take over as leader. But Prodigy recognized that Wind Dancer was the emotional heart of the team. The two agreed to lead the squad together.The New Mutants had an up and down year. They lost out in squad competitions to the rival Hellions and were sunk by interpersonal problems within the squad. Sofia grew attracted to Julian Keller, leader of the Hellions. Their squads' rivalry has kept the two from becoming a couple, but Julian is certainly a key figure in Sofia's life.", 
+    "durability": 1, 
+    "education": "Currently in high school level classes", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "New Mutants #1 (2003)\n", 
+    "groupaffiliation": [
+        "Formerly New Mutants", 
+        "New Warriors"
+    ], 
+    "hair": "Brown\n", 
+    "height": 115, 
+    "id": "Wind_Dancer", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Walter Barrett (father), Miranda Mantega (mother), Paolo Mantega (uncle), three unnamed cousins", 
+    "occupation": "Student", 
+    "placeofbirth": [
+        "Caracas", 
+        "Venezuela"
+    ], 
+    "powers": "Wind Dancer could once control air. She had developed a wide array of powers mostly focused on her understanding of the wind. She could fly on wind currents, use the wind to bring her faraway sounds or create an area of silence. Offensively, she could generate intense winds or focused winds capable of slashing at an opponent.  She could also fire compressed air into a target's ear, disrupting their sense of balance. Currently de-powered.", 
+    "realname": "Sofia Mantega", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 122
 }

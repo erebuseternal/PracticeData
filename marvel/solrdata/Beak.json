@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Blackwing", 
-            "citizenship": "U.S.A.", 
-            "content": "Mocked by his peers at the Xavier Institute for his seemingly useless mutation, Beak gravitated towards a group of young mutants known as the special class - mutants with little drive and less ability. Ironically, in this class Beak truly began to realize his worth as a hero. The other special class students began to look up to him as a leader and he filled that role as best he could. This group also included his girlfriend and the mother of his children, Angel. Angel does care for Beak, but their relationship began when other students bet her to kiss him.This group was mentored by Xorn who secretly believed he was truly Magneto. Beak and the rest of his special class followed Xorn, becoming the new Brotherhood in his bid to take over of the world. Beak stood up to Xorn and was cast out of the Brotherhood. He and a small group of X-Men were able to overtake Xorn and free New York City from his grip. Beak returned to the Xavier Institute and moved into a small home on campus with Angel and their children.Soon after, the Exiles arrived at the Xavier Institute and Beak was forced to join their reality-fixing group. He left Angel and his children behind, unable to say goodbye to them. Angel assumed he deserted her.", 
-            "durability": 1, 
-            "education": "Some college-level courses", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 6, 
-            "groupaffiliation": [
-                "Formerly New Warriors", 
-                "Exiles", 
-                "Brotherhood Of Mutants", 
-                "Xavier Institute Student Body"
-            ], 
-            "hair": "White\n", 
-            "height": 69, 
-            "id": "Beak", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Charles (father), Kathy (mother), Angel Salvadore (wife), Tito (son), Axel (son), Kara (daughter), three unidentified children", 
-            "occupation": [
-                "Student", 
-                "Reality Traveler"
-            ], 
-            "placeofbirth": [
-                "Cheverly", 
-                "Maryland"
-            ], 
-            "powers": "Beak was a mutant whose bones were light and hollow. His arms had begun to grow feathers, which when fully formed, may have allowed him to fly. He could at the mean time glide and fly for short distances with great effort. Beak also had enhanced eyesight along with talons on his hands and feet. Even though Beak had bird-like qualities, it was extremely difficult for him to fly. Now depowered", 
-            "realname": "Barnell Bohusk", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": "Blackwing", 
+    "citizenship": "U.S.A.", 
+    "content": "Mocked by his peers at the Xavier Institute for his seemingly useless mutation, Beak gravitated towards a group of young mutants known as the special class - mutants with little drive and less ability. Ironically, in this class Beak truly began to realize his worth as a hero. The other special class students began to look up to him as a leader and he filled that role as best he could. This group also included his girlfriend and the mother of his children, Angel. Angel does care for Beak, but their relationship began when other students bet her to kiss him.This group was mentored by Xorn who secretly believed he was truly Magneto. Beak and the rest of his special class followed Xorn, becoming the new Brotherhood in his bid to take over of the world. Beak stood up to Xorn and was cast out of the Brotherhood. He and a small group of X-Men were able to overtake Xorn and free New York City from his grip. Beak returned to the Xavier Institute and moved into a small home on campus with Angel and their children.Soon after, the Exiles arrived at the Xavier Institute and Beak was forced to join their reality-fixing group. He left Angel and his children behind, unable to say goodbye to them. Angel assumed he deserted her.", 
+    "durability": 1, 
+    "education": "Some college-level courses", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 6, 
+    "groupaffiliation": [
+        "Formerly New Warriors", 
+        "Exiles", 
+        "Brotherhood Of Mutants", 
+        "Xavier Institute Student Body"
+    ], 
+    "hair": "White\n", 
+    "height": 69, 
+    "id": "Beak", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Charles (father), Kathy (mother), Angel Salvadore (wife), Tito (son), Axel (son), Kara (daughter), three unidentified children", 
+    "occupation": [
+        "Student", 
+        "Reality Traveler"
+    ], 
+    "placeofbirth": [
+        "Cheverly", 
+        "Maryland"
+    ], 
+    "powers": "Beak was a mutant whose bones were light and hollow. His arms had begun to grow feathers, which when fully formed, may have allowed him to fly. He could at the mean time glide and fly for short distances with great effort. Beak also had enhanced eyesight along with talons on his hands and feet. Even though Beak had bird-like qualities, it was extremely difficult for him to fly. Now depowered", 
+    "realname": "Barnell Bohusk", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

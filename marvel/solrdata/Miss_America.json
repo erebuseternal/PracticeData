@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States", 
-            "content": "Later, she became a member of the All-Winners Squad, fighting alongside Captain America and Bucky, the original Human Torch and Toro, the Sub-Mariner, and the Whizzer in the group's adventures.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Mystery Comics #49 (1943)\n", 
-            "groupaffiliation": [
-                "Liberty Legion", 
-                "All-Winners Squad", 
-                "Invaders"
-            ], 
-            "hair": "Auburn\n", 
-            "height": 68, 
-            "id": "Miss_America", 
-            "identity": "Known to U.S. government", 
-            "intelligence": 1, 
-            "knownrelatives": "Robert Frank (the Whizzer, husband, deceased), Robert Frank, Jr. (Nuklo, son)", 
-            "occupation": [
-                "Homemaker", 
-                "government operative", 
-                "adventurer"
-            ], 
-            "origin": "Marvel Mystery Comics #49 (1943)", 
-            "placeofbirth": "Washington D.C.", 
-            "powers": "Superhuman Strength, flight", 
-            "realname": "Madeline Joyce Frank", 
-            "significantissues": "Marvel Mystery Comics #85, DGiant-Size Avengers #1, X-Statix Presents: Dead Girl (returned from dead)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 130
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States", 
+    "content": "Later, she became a member of the All-Winners Squad, fighting alongside Captain America and Bucky, the original Human Torch and Toro, the Sub-Mariner, and the Whizzer in the group's adventures.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Mystery Comics #49 (1943)\n", 
+    "groupaffiliation": [
+        "Liberty Legion", 
+        "All-Winners Squad", 
+        "Invaders"
+    ], 
+    "hair": "Auburn\n", 
+    "height": 68, 
+    "id": "Miss_America", 
+    "identity": "Known to U.S. government", 
+    "intelligence": 1, 
+    "knownrelatives": "Robert Frank (the Whizzer, husband, deceased), Robert Frank, Jr. (Nuklo, son)", 
+    "occupation": [
+        "Homemaker", 
+        "government operative", 
+        "adventurer"
+    ], 
+    "origin": "Marvel Mystery Comics #49 (1943)", 
+    "placeofbirth": "Washington D.C.", 
+    "powers": "Superhuman Strength, flight", 
+    "realname": "Madeline Joyce Frank", 
+    "significantissues": "Marvel Mystery Comics #85, DGiant-Size Avengers #1, X-Statix Presents: Dead Girl (returned from dead)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 130
 }

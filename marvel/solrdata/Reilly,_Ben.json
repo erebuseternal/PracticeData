@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Peter Parker", 
-                "Scarlet Spider", 
-                "Spider-Man", 
-                "Spider-Carnage"
-            ], 
-            "citizenship": "None", 
-            "content": "The Jackal pitted this clone against Spider-Man in a deathtrap involving a bomb and Ned Leeds. The Jackal on scene, a clone of Warren, repented and saved Ned, dying as a result. With both Spider-Man and Spider-Man's clone unconscious, the real Jackal emerged, found who he thought was the real Spider-Man, and injected him with a drug to simulate death. The other Spider-Man awoke and dropped the \"dead\" body in a smokestack, where the Jackal implanted it with clone memories. However, his assistant, Seward Trainer, himself coerced by the Green Goblin, had deceived the Jackal. The Spider-Man the Jackal recovered was the clone after all.The clone spent five years wandering the country. During this time he met Janine Godbe, the love of his life. Janine, as a child, had been horribly abused by her father. She could bear it no longer, and she killed her father. She then met Ben Reilly. Their love was short-lived, as Janine apparently died.Reviving and returning home, the clone discovered the other Peter already there. Now believing himself the imposter, the clone named himself after \"Uncle\" Ben and \"Aunt\" May Parker (n\u00e9e Reilly) and spent the next five years wandering, eventually developing new weapons for his occasional confrontations with Kaine and other criminals. He also met and was befriended by Seward Trainer. Ben anonymously called to check up on Aunt May occasionally, but did not return to New York until he heard that she had been hospitalized.Originally distrustful of each other, the two Spider-Men developed an uneasy alliance that slowly grew to strong friendship. They introduced each other as cousins and considered themselves brothers. As Peter considered the impending responsibility of fatherhood, he relinquished the title of Spider-Man to Ben. But Ben created his own life, bleaching his hair and working at a coffee shop.  As Spider-Man, Ben slightly modified the classic costume. For a period of time, Ben was taken over by the Carnage symbiote and became Spider-Carnage, however the symbiote eventually returned to Cletus Kassady.The degenerating clone known as Kaine always hated Ben Reilly, believing that Ben was the original. After a series of brutal battles, Kaine gave up and surrendered to the police after being saved by Reilly. During these battles, Janine returned after having faked her own death. During these same battles, Janine apparently died again, when in reality, she had been kidnapped by Kaine. After being rescued by Ben, she stopped running and gave herself up to the police.", 
-            "durability": 3, 
-            "education": "Possesses Peter Parker's memories of attending university", 
-            "energy": 3, 
-            "eyes": "Hazel\n", 
-            "fighting": 4, 
-            "firstappearance": "Amazing Spider-Man #149 (1975)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly New Warriors"
-            ], 
-            "hair": "Brown (bleached blond)\n", 
-            "height": 70, 
-            "id": "Reilly,_Ben", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Peter Parker (Spider-Man, \"brother\", clone template); Miles Warren (Jackal, creator); Kaine, Jack, Guardian, Spidercide, uncountable unnamed clones (fellow clones)", 
-            "occupation": [
-                "Server at the Daily Grind coffee shop", 
-                "former teaching assistant", 
-                "septic system telemarketer", 
-                "waiter/bodyguard at the Club Noir", 
-                "many others"
-            ], 
-            "placeofbirth": "unrevealed", 
-            "powers": "Ben shared Peter Parker's spider-powers, including superhuman strength, speed, agility, and the ability to cling to surfaces. Ben's spider-sense was the same as Peter's, except that it could not be overridden by Venom.", 
-            "realname": "Ben Reilly", 
-            "significantissues": "killed by Green Goblin (Spider-Man #75, 1996)", 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 165
-        }
-    }
+    "aliases": [
+        "Peter Parker", 
+        "Scarlet Spider", 
+        "Spider-Man", 
+        "Spider-Carnage"
+    ], 
+    "citizenship": "None", 
+    "content": "The Jackal pitted this clone against Spider-Man in a deathtrap involving a bomb and Ned Leeds. The Jackal on scene, a clone of Warren, repented and saved Ned, dying as a result. With both Spider-Man and Spider-Man's clone unconscious, the real Jackal emerged, found who he thought was the real Spider-Man, and injected him with a drug to simulate death. The other Spider-Man awoke and dropped the \"dead\" body in a smokestack, where the Jackal implanted it with clone memories. However, his assistant, Seward Trainer, himself coerced by the Green Goblin, had deceived the Jackal. The Spider-Man the Jackal recovered was the clone after all.The clone spent five years wandering the country. During this time he met Janine Godbe, the love of his life. Janine, as a child, had been horribly abused by her father. She could bear it no longer, and she killed her father. She then met Ben Reilly. Their love was short-lived, as Janine apparently died.Reviving and returning home, the clone discovered the other Peter already there. Now believing himself the imposter, the clone named himself after \"Uncle\" Ben and \"Aunt\" May Parker (n\u00e9e Reilly) and spent the next five years wandering, eventually developing new weapons for his occasional confrontations with Kaine and other criminals. He also met and was befriended by Seward Trainer. Ben anonymously called to check up on Aunt May occasionally, but did not return to New York until he heard that she had been hospitalized.Originally distrustful of each other, the two Spider-Men developed an uneasy alliance that slowly grew to strong friendship. They introduced each other as cousins and considered themselves brothers. As Peter considered the impending responsibility of fatherhood, he relinquished the title of Spider-Man to Ben. But Ben created his own life, bleaching his hair and working at a coffee shop.  As Spider-Man, Ben slightly modified the classic costume. For a period of time, Ben was taken over by the Carnage symbiote and became Spider-Carnage, however the symbiote eventually returned to Cletus Kassady.The degenerating clone known as Kaine always hated Ben Reilly, believing that Ben was the original. After a series of brutal battles, Kaine gave up and surrendered to the police after being saved by Reilly. During these battles, Janine returned after having faked her own death. During these same battles, Janine apparently died again, when in reality, she had been kidnapped by Kaine. After being rescued by Ben, she stopped running and gave herself up to the police.", 
+    "durability": 3, 
+    "education": "Possesses Peter Parker's memories of attending university", 
+    "energy": 3, 
+    "eyes": "Hazel\n", 
+    "fighting": 4, 
+    "firstappearance": "Amazing Spider-Man #149 (1975)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly New Warriors"
+    ], 
+    "hair": "Brown (bleached blond)\n", 
+    "height": 70, 
+    "id": "Reilly,_Ben", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Peter Parker (Spider-Man, \"brother\", clone template); Miles Warren (Jackal, creator); Kaine, Jack, Guardian, Spidercide, uncountable unnamed clones (fellow clones)", 
+    "occupation": [
+        "Server at the Daily Grind coffee shop", 
+        "former teaching assistant", 
+        "septic system telemarketer", 
+        "waiter/bodyguard at the Club Noir", 
+        "many others"
+    ], 
+    "placeofbirth": "unrevealed", 
+    "powers": "Ben shared Peter Parker's spider-powers, including superhuman strength, speed, agility, and the ability to cling to surfaces. Ben's spider-sense was the same as Peter's, except that it could not be overridden by Venom.", 
+    "realname": "Ben Reilly", 
+    "significantissues": "killed by Green Goblin (Spider-Man #75, 1996)", 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 165
 }

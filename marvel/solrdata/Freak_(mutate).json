@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Armadillo Man", 
-            "citizenship": "U.S.A.", 
-            "content": "While picking up the trash, a streets and sanitation worker stumbled upon the flesh cocoon chrysalis hung between two buildings.  Forensic Specialist Carlie Cooper performed a rudimentary examination of the thing, discovering that it dissolved anything it came into contact with. When he returned to his office, Professor Connors revealed that the syringes contained several months of animal stem-cell research. The addict emerged from the chrysalis as nothing but flesh and bones. Spider-Man arrived on the scene, just as the police shot him in the head and the body fell in the sewer, which led everyone to believe that he was dead. Although, as Freak floats downstream, his blood, infested with Professor Connors' experimental animal stem-cells formed another chrysalis around him. When he emerged from the chrysalis in the sewer, Freak had mutated once more. He had manifested web feet and hands, his body had changed so much that he could not even feel the extreme cold of the sewer water. He realized that his sense of smell was also very acute and he felt much stronger.Freak was totally surprised and shocked by the miraculous transformation of his body, to the point that he became enraged with Spider-Man, who he swore he would make pay for this tragic atrocity. However, the transformation into a monster did not cure the Freak's addiction, he went in search of a Crank lab ran by his friend Raymond. Freak tracked Spider-Man's scent to the Mayoral campaign event of Candidate Randall Crowne, which was being covered by Peter Parker for the Daily Bugle. Freak battled Spider-Man to a standstill, leaving Ramdall's property of Crowne Plaza rally in shambles. His drug obsession eventually led him the Meth lab where he killed Raymond. Spider-Man traced Freak to the lab, where they fought once more ending with them blowing up the building. Freak was able to survive once again by forming a chrysalis around himself.", 
-            "durability": 1, 
-            "education": "High school drop out", 
-            "energy": 1, 
-            "eyes": "(Left) blue, (right) Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing-Spider-Man #552 (2008)\n", 
-            "groupaffiliation": "None", 
-            "hair": "None (brown before mutation)\n", 
-            "height": 72, 
-            "id": "Freak_(mutate)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Vagrant", 
-            "origin": [
-                "Transformed into Freak and swore to get revenge on Spider-Man (Amazing-Spider-Man #552", 
-                "2008)", 
-                "Emerge from sewer transformed again (Amazing Spider-Man #553", 
-                "2008)", 
-                "Killed Raymond (Amazing-Spider-Man #554", 
-                "2008)", 
-                "Freak morphed once again and was defeated by Spider-Man and Connors (Amazing-Spider-Man #558", 
-                "2008)"
-            ], 
-            "placeofbirth": [
-                "Brooklyn", 
-                "New York", 
-                "New York"
-            ], 
-            "powers": "Freak's powers appear to mutate as needed, he was able to adapt to the cold of water and even manifest clawed web feet and hands, his body also became impervious to bullets and physical impact after being shot by New York police officers. It appears that these adaptations could only take place after a short incubation phase in a flesh like cocoon. After being burnt in the Meth lab fire he emerge from his chrysalis with an Armadillo like exterior.", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": "Armadillo Man", 
+    "citizenship": "U.S.A.", 
+    "content": "While picking up the trash, a streets and sanitation worker stumbled upon the flesh cocoon chrysalis hung between two buildings.  Forensic Specialist Carlie Cooper performed a rudimentary examination of the thing, discovering that it dissolved anything it came into contact with. When he returned to his office, Professor Connors revealed that the syringes contained several months of animal stem-cell research. The addict emerged from the chrysalis as nothing but flesh and bones. Spider-Man arrived on the scene, just as the police shot him in the head and the body fell in the sewer, which led everyone to believe that he was dead. Although, as Freak floats downstream, his blood, infested with Professor Connors' experimental animal stem-cells formed another chrysalis around him. When he emerged from the chrysalis in the sewer, Freak had mutated once more. He had manifested web feet and hands, his body had changed so much that he could not even feel the extreme cold of the sewer water. He realized that his sense of smell was also very acute and he felt much stronger.Freak was totally surprised and shocked by the miraculous transformation of his body, to the point that he became enraged with Spider-Man, who he swore he would make pay for this tragic atrocity. However, the transformation into a monster did not cure the Freak's addiction, he went in search of a Crank lab ran by his friend Raymond. Freak tracked Spider-Man's scent to the Mayoral campaign event of Candidate Randall Crowne, which was being covered by Peter Parker for the Daily Bugle. Freak battled Spider-Man to a standstill, leaving Ramdall's property of Crowne Plaza rally in shambles. His drug obsession eventually led him the Meth lab where he killed Raymond. Spider-Man traced Freak to the lab, where they fought once more ending with them blowing up the building. Freak was able to survive once again by forming a chrysalis around himself.", 
+    "durability": 1, 
+    "education": "High school drop out", 
+    "energy": 1, 
+    "eyes": "(Left) blue, (right) Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing-Spider-Man #552 (2008)\n", 
+    "groupaffiliation": "None", 
+    "hair": "None (brown before mutation)\n", 
+    "height": 72, 
+    "id": "Freak_(mutate)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Vagrant", 
+    "origin": [
+        "Transformed into Freak and swore to get revenge on Spider-Man (Amazing-Spider-Man #552", 
+        "2008)", 
+        "Emerge from sewer transformed again (Amazing Spider-Man #553", 
+        "2008)", 
+        "Killed Raymond (Amazing-Spider-Man #554", 
+        "2008)", 
+        "Freak morphed once again and was defeated by Spider-Man and Connors (Amazing-Spider-Man #558", 
+        "2008)"
+    ], 
+    "placeofbirth": [
+        "Brooklyn", 
+        "New York", 
+        "New York"
+    ], 
+    "powers": "Freak's powers appear to mutate as needed, he was able to adapt to the cold of water and even manifest clawed web feet and hands, his body also became impervious to bullets and physical impact after being shot by New York police officers. It appears that these adaptations could only take place after a short incubation phase in a flesh like cocoon. After being burnt in the Meth lab fire he emerge from his chrysalis with an Armadillo like exterior.", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

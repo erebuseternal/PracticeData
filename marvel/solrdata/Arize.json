@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "unrevealed", 
-            "citizenship": [
-                "Unidentified planet known only as \"Mojoworld\"", 
-                "banished by Mojo"
-            ], 
-            "content": "Later, Arize was employed by Mojo and his fellow Spinless Ones to create a large amount of genetically engineered lifeforms modeled after humans of Earth-616, which the Spinless Ones said reminded them of demons that they would frequently saw in their nightmares. The Spinless Ones used these huminoids as slaves.Arize didn't support the slave trade and secretly implanted the slaves with free will and a conscience in hopes that the slaves would one day fight back against the Spineless Ones, in which they did, with their rebel-leader Longshot.", 
-            "durability": 1, 
-            "education": "unrevealed", 
-            "energy": 1, 
-            "eyes": "unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "Longshot #5\n", 
-            "groupaffiliation": "unrevealed", 
-            "hair": "Purple\n", 
-            "id": "Arize", 
-            "identity": "General populace of Earth is unaware of his existence", 
-            "intelligence": 1, 
-            "knownrelatives": "unrevealed", 
-            "occupation": [
-                "Hermit", 
-                "geneticist", 
-                "scientist", 
-                "mechanic"
-            ], 
-            "placeofbirth": "unrevealed", 
-            "realname": "Arize", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "unrevealed", 
+    "citizenship": [
+        "Unidentified planet known only as \"Mojoworld\"", 
+        "banished by Mojo"
+    ], 
+    "content": "Later, Arize was employed by Mojo and his fellow Spinless Ones to create a large amount of genetically engineered lifeforms modeled after humans of Earth-616, which the Spinless Ones said reminded them of demons that they would frequently saw in their nightmares. The Spinless Ones used these huminoids as slaves.Arize didn't support the slave trade and secretly implanted the slaves with free will and a conscience in hopes that the slaves would one day fight back against the Spineless Ones, in which they did, with their rebel-leader Longshot.", 
+    "durability": 1, 
+    "education": "unrevealed", 
+    "energy": 1, 
+    "eyes": "unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "Longshot #5\n", 
+    "groupaffiliation": "unrevealed", 
+    "hair": "Purple\n", 
+    "id": "Arize", 
+    "identity": "General populace of Earth is unaware of his existence", 
+    "intelligence": 1, 
+    "knownrelatives": "unrevealed", 
+    "occupation": [
+        "Hermit", 
+        "geneticist", 
+        "scientist", 
+        "mechanic"
+    ], 
+    "placeofbirth": "unrevealed", 
+    "realname": "Arize", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

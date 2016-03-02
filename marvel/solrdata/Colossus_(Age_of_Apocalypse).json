@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Russia", 
-            "content": "Colossus became leader of the Super Soldiers and faced his brainwashed brother in combat. Now a Horseman of Apocalypse, Mikhail destroyed all of Russia's super heroes except his brother. The severely beaten Colossus chose to dedicate his life to stopping Apocalypse and Mikhail on that day. He left Russia to find the X-Men.During his first mission as an X-Man Colossus battled Sabretooth for the life of a young mutant named Katherine Pryde. Colossus fell in love with her and the two would eventually marry. After years of fighting for Magneto's cause, Colossus lost the will to fight on a battlefield in Africa. He decided to retire from the X-Men. As a final favor to Magneto, he agreed to teach the next generation of mutants with his wife.Colossus came out of retirement two times. The first time he was injured so severely only Magneto's metal powers kept him alive. Colossus could not transform back to his human self without risking death. The second time Magneto offered Colossus and Kitty an important mission. They were to save Colossus' sister, Illyana, a mutant with reality traveling powers. Colossus did not know his sister was alive and was prepared to do anything to save her.Colossus and Shadowcat sent their team into the Seattle Core to rescue Illyana. After they found her, Colossus demanded Shadowcat evacuate Illyana immediately, leaving their students behind. Shadowcat disagreed, but followed his orders. Colossus told Shadowcat to take Illyana to safety and that he would go back for their students. Colossus reached the front gate and peered back into the Core. Only one student, Husk, remained standing. Colossus allowed the gate to close without attempting to help. He returned to his wife and sister and claimed he had done all he could.", 
-            "durability": 1, 
-            "education": "College", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": [
-                "Generation Next", 
-                "formerly Soviet Super Soldiers", 
-                "X-Men"
-            ], 
-            "hair": "Black\n", 
-            "height": 77, 
-            "id": "Colossus_(Age_of_Apocalypse)", 
-            "identity": "Known to the citizens of Russia", 
-            "intelligence": 1, 
-            "knownrelatives": "Parents (deceased), Mikhail (brother, presumed deceased), Illyana (sister, missing), Kitty Pryde (Shadowcat, wife, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "freedom fighter"
-            ], 
-            "placeofbirth": "Russia", 
-            "powers": "Colossus is a mutant with the ability to convert the tissue of his body into organic steel. This steel form gave him superhuman strength and protection from physical damage. \nSpecial Limitations: Due to the severe injuries Colossus endured on the battlefield, he was no longer able to convert to his human form without risk of death.", 
-            "realname": "Piotr Rasputin", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 700
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Russia", 
+    "content": "Colossus became leader of the Super Soldiers and faced his brainwashed brother in combat. Now a Horseman of Apocalypse, Mikhail destroyed all of Russia's super heroes except his brother. The severely beaten Colossus chose to dedicate his life to stopping Apocalypse and Mikhail on that day. He left Russia to find the X-Men.During his first mission as an X-Man Colossus battled Sabretooth for the life of a young mutant named Katherine Pryde. Colossus fell in love with her and the two would eventually marry. After years of fighting for Magneto's cause, Colossus lost the will to fight on a battlefield in Africa. He decided to retire from the X-Men. As a final favor to Magneto, he agreed to teach the next generation of mutants with his wife.Colossus came out of retirement two times. The first time he was injured so severely only Magneto's metal powers kept him alive. Colossus could not transform back to his human self without risking death. The second time Magneto offered Colossus and Kitty an important mission. They were to save Colossus' sister, Illyana, a mutant with reality traveling powers. Colossus did not know his sister was alive and was prepared to do anything to save her.Colossus and Shadowcat sent their team into the Seattle Core to rescue Illyana. After they found her, Colossus demanded Shadowcat evacuate Illyana immediately, leaving their students behind. Shadowcat disagreed, but followed his orders. Colossus told Shadowcat to take Illyana to safety and that he would go back for their students. Colossus reached the front gate and peered back into the Core. Only one student, Husk, remained standing. Colossus allowed the gate to close without attempting to help. He returned to his wife and sister and claimed he had done all he could.", 
+    "durability": 1, 
+    "education": "College", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": [
+        "Generation Next", 
+        "formerly Soviet Super Soldiers", 
+        "X-Men"
+    ], 
+    "hair": "Black\n", 
+    "height": 77, 
+    "id": "Colossus_(Age_of_Apocalypse)", 
+    "identity": "Known to the citizens of Russia", 
+    "intelligence": 1, 
+    "knownrelatives": "Parents (deceased), Mikhail (brother, presumed deceased), Illyana (sister, missing), Kitty Pryde (Shadowcat, wife, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "freedom fighter"
+    ], 
+    "placeofbirth": "Russia", 
+    "powers": "Colossus is a mutant with the ability to convert the tissue of his body into organic steel. This steel form gave him superhuman strength and protection from physical damage. \nSpecial Limitations: Due to the severe injuries Colossus endured on the battlefield, he was no longer able to convert to his human form without risk of death.", 
+    "realname": "Piotr Rasputin", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 700
 }

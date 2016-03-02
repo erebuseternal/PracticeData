@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Determined to make the Raymonds pay, the Asbestos Lady spied on them, and when the couple left town on a train, she placed a tree trunk ahead on the tracks, derailing the train and killing them both. However, the Raymonds\u2019 son Thomas survived, and joined a circus where he became Toro, the Fire-Eating Boy. Hearing of his act on the news, the Asbestos Lady decided to kidnap him. Expecting the Human Torch to appear again, she and her gang drove a truck full of water towards the circus and pretended to spin out of control when they saw the Torch. When the hero came to assist them, they hosed him with water and threw him in the tank. However, the Torch generated so much heat within the tank that the steam burst the truck open, and he melted the Asbestos Lady\u2019s feet to the asphalt road to keep her from escaping.The Asbestos Lady continued in her career, and in the midst of one crime was captured by the Black Marvel. She eventually was approached by a collection of businessmen who feared the coming of superheroes, and they funded her to continue on as the Human Torch\u2019s chief adversary. When her brother was captured by the Torch and Toro and was ultimately executed, she attempted to take his place in racketeering, taking control of his gang and assuming possession of a disintegrator gun he had found in Germany. She tried to kill the Torch and Toro with the gun, but the Torch melted it, and she barely escaped them. In her next plot, she had her gang trap the fiery duo and throw them into a lake, then supplied one of her men with a costume which could simulate the Human Torch\u2019s powers, sending him on a crime spree to make the authorities think that the Torch had turned against them. However, the Torch and Toro escaped the trap at the lake, and the Torch pretended to be the Asbestos Lady\u2019s own underling until he returned her, then knocked out his imposter.", 
-            "durability": 2, 
-            "education": "College graduate", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 2, 
-            "firstappearance": "Captain America Comics #63 (1947)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Blonde\n", 
-            "height": 70, 
-            "id": "Asbestos_Lady", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Killer Murdock (brother, deceased)", 
-            "occupation": [
-                "Arsonist", 
-                "racketeer"
-            ], 
-            "origin": "Captain America Comics #63 (1947)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The Asbestos Lady was a gifted scientist who designed a flameproof costume from asbestos and wielded a flame-thrower and guns that fired asbestos-lined bullets.", 
-            "realname": "Victoria Murdock", 
-            "significantissues": [
-                "First fought Human Torch (Invaders #22, 1977)", 
-                "fought Black Marvel, corporate ties revealed (Marvel Knights Spider-Man #9, 2005)", 
-                "death of brother, disintegrator gun (Captain America Comics #63, 1947)", 
-                "used imposters of Torch & Toro (Human Torch Comics #27, 1947)", 
-                "revealed to have cancer (Saga of the Original Human Torch #3, 1990)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 136
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Determined to make the Raymonds pay, the Asbestos Lady spied on them, and when the couple left town on a train, she placed a tree trunk ahead on the tracks, derailing the train and killing them both. However, the Raymonds\u2019 son Thomas survived, and joined a circus where he became Toro, the Fire-Eating Boy. Hearing of his act on the news, the Asbestos Lady decided to kidnap him. Expecting the Human Torch to appear again, she and her gang drove a truck full of water towards the circus and pretended to spin out of control when they saw the Torch. When the hero came to assist them, they hosed him with water and threw him in the tank. However, the Torch generated so much heat within the tank that the steam burst the truck open, and he melted the Asbestos Lady\u2019s feet to the asphalt road to keep her from escaping.The Asbestos Lady continued in her career, and in the midst of one crime was captured by the Black Marvel. She eventually was approached by a collection of businessmen who feared the coming of superheroes, and they funded her to continue on as the Human Torch\u2019s chief adversary. When her brother was captured by the Torch and Toro and was ultimately executed, she attempted to take his place in racketeering, taking control of his gang and assuming possession of a disintegrator gun he had found in Germany. She tried to kill the Torch and Toro with the gun, but the Torch melted it, and she barely escaped them. In her next plot, she had her gang trap the fiery duo and throw them into a lake, then supplied one of her men with a costume which could simulate the Human Torch\u2019s powers, sending him on a crime spree to make the authorities think that the Torch had turned against them. However, the Torch and Toro escaped the trap at the lake, and the Torch pretended to be the Asbestos Lady\u2019s own underling until he returned her, then knocked out his imposter.", 
+    "durability": 2, 
+    "education": "College graduate", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 2, 
+    "firstappearance": "Captain America Comics #63 (1947)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Blonde\n", 
+    "height": 70, 
+    "id": "Asbestos_Lady", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Killer Murdock (brother, deceased)", 
+    "occupation": [
+        "Arsonist", 
+        "racketeer"
+    ], 
+    "origin": "Captain America Comics #63 (1947)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The Asbestos Lady was a gifted scientist who designed a flameproof costume from asbestos and wielded a flame-thrower and guns that fired asbestos-lined bullets.", 
+    "realname": "Victoria Murdock", 
+    "significantissues": [
+        "First fought Human Torch (Invaders #22, 1977)", 
+        "fought Black Marvel, corporate ties revealed (Marvel Knights Spider-Man #9, 2005)", 
+        "death of brother, disintegrator gun (Captain America Comics #63, 1947)", 
+        "used imposters of Torch & Toro (Human Torch Comics #27, 1947)", 
+        "revealed to have cancer (Saga of the Original Human Torch #3, 1990)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 136
 }

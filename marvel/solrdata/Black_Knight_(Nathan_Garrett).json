@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.K. (naturalized citizen of U.S.A.)", 
-            "content": "At some point, Nathan Garrett had become a Communist spy for the People\u2019s Republic of China. He left his teaching position at Oxford University and became a U.S. citizen working for a research lab. He was also head of an espionage ring, selling American scientific secrets to China, until he was captured by Giant-Man (Henry Pym). He managed to flee to an undisclosed location in the Balkans where he decided to become the Black Knight, albeit one for criminal gain. With his new costume and weapons, he returned to America, but his first attempt at a robbery was thwarted by Giant-man, and he escaped again.The Black Knight was contacted by Baron Heinrich Zemo to help form the original Masters of Evil as a counterpart for the Avengers\u2019 Giant-Man. However, Zemo\u2019s plan, to defeat the Avengers and hold New York in thrall, failed, because the Avengers switched up opponents and the Black Knight was beaten by Thor. He escaped prison once to battle Iron Man, but he was defeated and remanded to custody again. Broken out of prison by the Enchantress and the Executioner, he joined another version of the Masters of Evil, but was again defeated by the Avengers.The Black Knight again tried to focus his efforts on defeating Iron Man by kidnapping Tony Stark\u2019s friend Happy Hogan and holding him in a castle that was reconstructed in Washington D.C. The Knight actually succeeded in defeating Iron Man by disrupting the circuitry of his armor, and he flew with him into the sky, hoping to drop him from a great height. Instead, Iron Man managed to unhorse the Knight and they both fell. Iron Man\u2019s armor recovered enough to fly him to safety, but the Black Knight was believed to have perished in the fall.On his deathbed, the Black Knight reached out to his only living relative, Dane Whitman, and revealed the truth about his secret identity. Full of regret, he charged his nephew with using his weapons and technology for good instead of evil. Nathan Garrett died, but Dane Whitman fulfilled his promise by becoming the heroic Black Knight.", 
-            "durability": 3, 
-            "education": "Unspecified doctorate from Oxford University", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "Tales to Astonish #52\n", 
-            "groupaffiliation": [
-                "Masters of Evil", 
-                "Legion of the Unliving"
-            ], 
-            "hair": "Black\n", 
-            "height": 72, 
-            "id": "Black_Knight_(Nathan_Garrett)", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Sir Percy of Scandia, Lady Rosamund (ancestors, deceased); Dane Whitman (Black Knight, nephew)", 
-            "occupation": [
-                "Criminal", 
-                "(formerly) espionage agent", 
-                "university professor", 
-                "scientist"
-            ], 
-            "placeofbirth": [
-                "London", 
-                "England"
-            ], 
-            "powers": "None", 
-            "realname": "Nathan Garrett", 
-            "speed": 3, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 195
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.K. (naturalized citizen of U.S.A.)", 
+    "content": "At some point, Nathan Garrett had become a Communist spy for the People\u2019s Republic of China. He left his teaching position at Oxford University and became a U.S. citizen working for a research lab. He was also head of an espionage ring, selling American scientific secrets to China, until he was captured by Giant-Man (Henry Pym). He managed to flee to an undisclosed location in the Balkans where he decided to become the Black Knight, albeit one for criminal gain. With his new costume and weapons, he returned to America, but his first attempt at a robbery was thwarted by Giant-man, and he escaped again.The Black Knight was contacted by Baron Heinrich Zemo to help form the original Masters of Evil as a counterpart for the Avengers\u2019 Giant-Man. However, Zemo\u2019s plan, to defeat the Avengers and hold New York in thrall, failed, because the Avengers switched up opponents and the Black Knight was beaten by Thor. He escaped prison once to battle Iron Man, but he was defeated and remanded to custody again. Broken out of prison by the Enchantress and the Executioner, he joined another version of the Masters of Evil, but was again defeated by the Avengers.The Black Knight again tried to focus his efforts on defeating Iron Man by kidnapping Tony Stark\u2019s friend Happy Hogan and holding him in a castle that was reconstructed in Washington D.C. The Knight actually succeeded in defeating Iron Man by disrupting the circuitry of his armor, and he flew with him into the sky, hoping to drop him from a great height. Instead, Iron Man managed to unhorse the Knight and they both fell. Iron Man\u2019s armor recovered enough to fly him to safety, but the Black Knight was believed to have perished in the fall.On his deathbed, the Black Knight reached out to his only living relative, Dane Whitman, and revealed the truth about his secret identity. Full of regret, he charged his nephew with using his weapons and technology for good instead of evil. Nathan Garrett died, but Dane Whitman fulfilled his promise by becoming the heroic Black Knight.", 
+    "durability": 3, 
+    "education": "Unspecified doctorate from Oxford University", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "Tales to Astonish #52\n", 
+    "groupaffiliation": [
+        "Masters of Evil", 
+        "Legion of the Unliving"
+    ], 
+    "hair": "Black\n", 
+    "height": 72, 
+    "id": "Black_Knight_(Nathan_Garrett)", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Sir Percy of Scandia, Lady Rosamund (ancestors, deceased); Dane Whitman (Black Knight, nephew)", 
+    "occupation": [
+        "Criminal", 
+        "(formerly) espionage agent", 
+        "university professor", 
+        "scientist"
+    ], 
+    "placeofbirth": [
+        "London", 
+        "England"
+    ], 
+    "powers": "None", 
+    "realname": "Nathan Garrett", 
+    "speed": 3, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 195
 }

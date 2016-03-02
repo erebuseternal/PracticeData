@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.K.", 
-            "content": "Ultimately, Heinrich Zemo led Citizen V and his V Battalion into a trap, where he killed Watkins with his bare hands. The V-Battalion soon disbanded due to the fall of their leader and to Zemo who tracked and killed many of the members. Brazee survived by being smuggled into England where her baby was born.", 
-            "durability": 1, 
-            "education": "Unrevealed, military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Daring Mystery Comics #8 (1942)\n", 
-            "groupaffiliation": "V-Battalion (original)", 
-            "hair": "Brown\n", 
-            "height": 0, 
-            "id": "Citizen_V_(John_Watkins)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "John Watkins, Jr. (Citizen V, son, deceased); John Watkins III (Citizen V, grandson)", 
-            "occupation": [
-                "Lieutenant in the British army", 
-                "freedom fighter"
-            ], 
-            "origin": "Daring Mystery Comics #8 (1942)", 
-            "placeofbirth": [
-                "London", 
-                "England"
-            ], 
-            "powers": "None", 
-            "realname": "John Watkins", 
-            "significantissues": [
-                "Survived seeming death at Dunkirk, became Citizen V (Daring Mystery Comics #8, 1942)", 
-                "led first V-Battalion (Comedy Comics #9, 1942)", 
-                "with Captain America and Bucky, fought Heinrich Zemo (Captain America/Citizen V 1998 Annual, 1998)", 
-                "strangled to death by Zemo (Thunderbolts #-1, 1997)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.K.", 
+    "content": "Ultimately, Heinrich Zemo led Citizen V and his V Battalion into a trap, where he killed Watkins with his bare hands. The V-Battalion soon disbanded due to the fall of their leader and to Zemo who tracked and killed many of the members. Brazee survived by being smuggled into England where her baby was born.", 
+    "durability": 1, 
+    "education": "Unrevealed, military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Daring Mystery Comics #8 (1942)\n", 
+    "groupaffiliation": "V-Battalion (original)", 
+    "hair": "Brown\n", 
+    "height": 0, 
+    "id": "Citizen_V_(John_Watkins)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "John Watkins, Jr. (Citizen V, son, deceased); John Watkins III (Citizen V, grandson)", 
+    "occupation": [
+        "Lieutenant in the British army", 
+        "freedom fighter"
+    ], 
+    "origin": "Daring Mystery Comics #8 (1942)", 
+    "placeofbirth": [
+        "London", 
+        "England"
+    ], 
+    "powers": "None", 
+    "realname": "John Watkins", 
+    "significantissues": [
+        "Survived seeming death at Dunkirk, became Citizen V (Daring Mystery Comics #8, 1942)", 
+        "led first V-Battalion (Comedy Comics #9, 1942)", 
+        "with Captain America and Bucky, fought Heinrich Zemo (Captain America/Citizen V 1998 Annual, 1998)", 
+        "strangled to death by Zemo (Thunderbolts #-1, 1997)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

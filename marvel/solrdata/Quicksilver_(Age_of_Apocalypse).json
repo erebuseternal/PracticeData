@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Transia", 
-                "U.S.A. (naturalized)"
-            ], 
-            "content": "Quicksilver was eventually placed in charge of a team of X-Men. He quickly became one of the trustworthiest of the mutants under Magneto's care. It was a position he believed he was born for.After his sister was murdered by Nemesis, Quicksilver spiraled into a depression. He still led the X-Men but he was careless. This changed after he met the mutant Storm who has escaped Apocalypse's Breeding Pens and fled to Africa. Quicksilver, learning of her escape from Magneto, volunteered to find her and offer her a place with the X-Men. At first, Storm fought Quicksilver, believing he was sent by Apocalypse. Pietro was finally able to convince her he was there to help and she joined the X-Men. Since then, the two have been slowly falling in love.During the final days of Apocalypse's rule Quicksilver led a team of X-Men into Maine. The plan was to help the Sentinels sent by the Human High Council to evacuate the humans from the East Coast. Apocalypse sent an elite squad of mutants, the Brotherhood, along with one of his Horsemen, Abyss, to stop the X-Men.  It was obvious Abyss was more concerned with gaining favor with Apocalypse by capturing the elder son of Magneto than in completing his mission. Abyss kidnapped a young boy which drew Quicksilver to him. He saved the boy but Abyss escaped.The team headed back to Westchester and discovered Quicksilver's father, step-brother, and the madman known as Bishop had been captured by Apocalypse. Along with Storm and Banshee, he went after Bishop and faced off against Abyss again. In order to save his teammates, Banshee flew into Abyss and tore him apart with his Sonic Scream. Quicksilver returned to Westchester with Storm and Bishop and joined the group of X-Men who attacked Apocalypse's base. The X-Men were victorious and Quicksilver was reunited with his family.", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": "X-Men", 
-            "hair": "White\n", 
-            "height": 72, 
-            "id": "Quicksilver_(Age_of_Apocalypse)", 
-            "identity": "Known as leader of the X-Men", 
-            "intelligence": 1, 
-            "knownrelatives": "Eric Lehnsherr (Magneto, father), Wanda Maximoff (Scarlet Witch, sister, deceased), Magda (mother, presumed dead), Django Maximoff (adoptive father, deceased), Marya Maximoff (adoptive mother, deceased) Rogue (stepmother), Charles (halfbrother)", 
-            "occupation": [
-                "Adventurer", 
-                "freedom fighter"
-            ], 
-            "placeofbirth": [
-                "Wundagore", 
-                "Transia", 
-                "Europe"
-            ], 
-            "powers": "Quicksilver is able to move at lightning speed. He has super-fast reflexes and his brain actually processes information faster than most computers.", 
-            "realname": "Pietro Maximoff", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 185
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Transia", 
+        "U.S.A. (naturalized)"
+    ], 
+    "content": "Quicksilver was eventually placed in charge of a team of X-Men. He quickly became one of the trustworthiest of the mutants under Magneto's care. It was a position he believed he was born for.After his sister was murdered by Nemesis, Quicksilver spiraled into a depression. He still led the X-Men but he was careless. This changed after he met the mutant Storm who has escaped Apocalypse's Breeding Pens and fled to Africa. Quicksilver, learning of her escape from Magneto, volunteered to find her and offer her a place with the X-Men. At first, Storm fought Quicksilver, believing he was sent by Apocalypse. Pietro was finally able to convince her he was there to help and she joined the X-Men. Since then, the two have been slowly falling in love.During the final days of Apocalypse's rule Quicksilver led a team of X-Men into Maine. The plan was to help the Sentinels sent by the Human High Council to evacuate the humans from the East Coast. Apocalypse sent an elite squad of mutants, the Brotherhood, along with one of his Horsemen, Abyss, to stop the X-Men.  It was obvious Abyss was more concerned with gaining favor with Apocalypse by capturing the elder son of Magneto than in completing his mission. Abyss kidnapped a young boy which drew Quicksilver to him. He saved the boy but Abyss escaped.The team headed back to Westchester and discovered Quicksilver's father, step-brother, and the madman known as Bishop had been captured by Apocalypse. Along with Storm and Banshee, he went after Bishop and faced off against Abyss again. In order to save his teammates, Banshee flew into Abyss and tore him apart with his Sonic Scream. Quicksilver returned to Westchester with Storm and Bishop and joined the group of X-Men who attacked Apocalypse's base. The X-Men were victorious and Quicksilver was reunited with his family.", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": "X-Men", 
+    "hair": "White\n", 
+    "height": 72, 
+    "id": "Quicksilver_(Age_of_Apocalypse)", 
+    "identity": "Known as leader of the X-Men", 
+    "intelligence": 1, 
+    "knownrelatives": "Eric Lehnsherr (Magneto, father), Wanda Maximoff (Scarlet Witch, sister, deceased), Magda (mother, presumed dead), Django Maximoff (adoptive father, deceased), Marya Maximoff (adoptive mother, deceased) Rogue (stepmother), Charles (halfbrother)", 
+    "occupation": [
+        "Adventurer", 
+        "freedom fighter"
+    ], 
+    "placeofbirth": [
+        "Wundagore", 
+        "Transia", 
+        "Europe"
+    ], 
+    "powers": "Quicksilver is able to move at lightning speed. He has super-fast reflexes and his brain actually processes information faster than most computers.", 
+    "realname": "Pietro Maximoff", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 185
 }

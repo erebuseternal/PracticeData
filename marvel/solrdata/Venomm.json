@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Horatio Venomm", 
-            "citizenship": [
-                "U.S.A. with a criminal record in Wakanda", 
-                "pardoned"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "High school (incomplete), college biology courses", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Jungle Action #7 (1973)\n", 
-            "groupaffiliation": [
-                "Wakandan royal court", 
-                "formerly Killmonger's army"
-            ], 
-            "hair": "Blond, mostly burned away\n", 
-            "height": 72, 
-            "id": "Venomm", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Poet", 
-                "former revolutionary", 
-                "recluse"
-            ], 
-            "origin": "Jungle Action #8 (1974)", 
-            "placeofbirth": "Unrevealed", 
-            "realname": "Horatio Walters", 
-            "significantissues": "See Handbook  Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 191
-        }
-    }
+    "aliases": "Horatio Venomm", 
+    "citizenship": [
+        "U.S.A. with a criminal record in Wakanda", 
+        "pardoned"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "High school (incomplete), college biology courses", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Jungle Action #7 (1973)\n", 
+    "groupaffiliation": [
+        "Wakandan royal court", 
+        "formerly Killmonger's army"
+    ], 
+    "hair": "Blond, mostly burned away\n", 
+    "height": 72, 
+    "id": "Venomm", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Poet", 
+        "former revolutionary", 
+        "recluse"
+    ], 
+    "origin": "Jungle Action #8 (1974)", 
+    "placeofbirth": "Unrevealed", 
+    "realname": "Horatio Walters", 
+    "significantissues": "See Handbook  Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 191
 }

@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "God of Fire", 
-            "citizenship": [
-                "Unknown", 
-                "member of the Plasmagen race"
-            ], 
-            "content": "Primo and Reptyl's next mission was to capture Quoi the Celestial Messiah, the child of the Celestial Madonna Mantis and the Elder Cotati. Quoi was in the company of the Reptyl's former pirate and ally Raptra, their orders were to bring them both back alive. While pursuing Quoi and Raptra, Primo and Reptyl learned of the Rot, which was the offspring of Thanos and Death though they never had sexual interactions. Primo and Reptyl were able to also learn the whereabouts of Raptra and Quoi. A battle soon ensued between the two parties, resulting in Quoi and Raptra being defeated by the Pantheon of Thanos.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers: Celestial Quest #4 (2002)\n", 
-            "groupaffiliation": [
-                "Formerly the Plasmagen military", 
-                "Allied with Thanos and Reptyl"
-            ], 
-            "hair": "None\n", 
-            "id": "Primo", 
-            "identity": "Unknown to the general populace of Earth", 
-            "intelligence": 1, 
-            "knownrelatives": "Unknown", 
-            "occupation": [
-                "Commander of a Plasmagen Starship", 
-                "professed to be the God Of Fire"
-            ], 
-            "origin": [
-                "Original origin is unknown", 
-                "Primo was mutated by Thanos (Avengers: Celestial Quest #4 2002)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Primo possesses the natural powers and abilities of the Plasmagen race, as a race the Plasmagens are covered in energy that appears as fire. This energy can be projected as powerful force-bolts.", 
-            "realname": "Primo", 
-            "significantissues": "Avenger: Celestial Quest #4-8 (2002)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "God of Fire", 
+    "citizenship": [
+        "Unknown", 
+        "member of the Plasmagen race"
+    ], 
+    "content": "Primo and Reptyl's next mission was to capture Quoi the Celestial Messiah, the child of the Celestial Madonna Mantis and the Elder Cotati. Quoi was in the company of the Reptyl's former pirate and ally Raptra, their orders were to bring them both back alive. While pursuing Quoi and Raptra, Primo and Reptyl learned of the Rot, which was the offspring of Thanos and Death though they never had sexual interactions. Primo and Reptyl were able to also learn the whereabouts of Raptra and Quoi. A battle soon ensued between the two parties, resulting in Quoi and Raptra being defeated by the Pantheon of Thanos.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers: Celestial Quest #4 (2002)\n", 
+    "groupaffiliation": [
+        "Formerly the Plasmagen military", 
+        "Allied with Thanos and Reptyl"
+    ], 
+    "hair": "None\n", 
+    "id": "Primo", 
+    "identity": "Unknown to the general populace of Earth", 
+    "intelligence": 1, 
+    "knownrelatives": "Unknown", 
+    "occupation": [
+        "Commander of a Plasmagen Starship", 
+        "professed to be the God Of Fire"
+    ], 
+    "origin": [
+        "Original origin is unknown", 
+        "Primo was mutated by Thanos (Avengers: Celestial Quest #4 2002)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Primo possesses the natural powers and abilities of the Plasmagen race, as a race the Plasmagens are covered in energy that appears as fire. This energy can be projected as powerful force-bolts.", 
+    "realname": "Primo", 
+    "significantissues": "Avenger: Celestial Quest #4-8 (2002)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

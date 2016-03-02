@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Devastator", 
-            "citizenship": "Unidentified planet", 
-            "content": "He was selected by his worlds government to undergo an experiment that would heighten his physical capabilities. They outfitted him in a multi-functioning suit of armor remaking him into an ultimate weapon of destruction. As time progressed he learned to control his anger and rage, thus becoming a galactic vigilante. He would later be known as an extreme force for peace. In his quest for peace he has battled the Kree, Skrulls, and the inhabitants of Earth. He has also battled the mutated Fantastic Four of Earth.Devos joined a group of super villains known as the Fearsome Foursome. The members consisted of Huntara, Klaw and Paibok the Power-Skrull. They joined together to battle their common foe the Fantastic Four, which defeated them rather easily. A little later after that failed mission they battled the heroes known as the Avengers, in another failed mission.", 
-            "durability": 1, 
-            "education": "Combat trained", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #359, (1991)\n", 
-            "groupaffiliation": "Fearsome Foursome", 
-            "hair": "Blond\n", 
-            "height": 84, 
-            "id": "Devos", 
-            "identity": "Not known to the general populace of Earth", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Vigilante", 
-                "self-proclaimed peacekeeper"
-            ], 
-            "origin": [
-                "Devos home was attacked when he was a child", 
-                "which left him an orphan (Fantastic Four #377", 
-                "1993)"
-            ], 
-            "placeofbirth": "Unidentified planet", 
-            "powers": "Although he is formally trained in both armed and unarmed combat techniques of many cultures, Devos has shown no signs of any extraordinary capabilities beyond those of of an exceptionally fit hominid.", 
-            "realname": "Devos", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "The Devastator", 
+    "citizenship": "Unidentified planet", 
+    "content": "He was selected by his worlds government to undergo an experiment that would heighten his physical capabilities. They outfitted him in a multi-functioning suit of armor remaking him into an ultimate weapon of destruction. As time progressed he learned to control his anger and rage, thus becoming a galactic vigilante. He would later be known as an extreme force for peace. In his quest for peace he has battled the Kree, Skrulls, and the inhabitants of Earth. He has also battled the mutated Fantastic Four of Earth.Devos joined a group of super villains known as the Fearsome Foursome. The members consisted of Huntara, Klaw and Paibok the Power-Skrull. They joined together to battle their common foe the Fantastic Four, which defeated them rather easily. A little later after that failed mission they battled the heroes known as the Avengers, in another failed mission.", 
+    "durability": 1, 
+    "education": "Combat trained", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #359, (1991)\n", 
+    "groupaffiliation": "Fearsome Foursome", 
+    "hair": "Blond\n", 
+    "height": 84, 
+    "id": "Devos", 
+    "identity": "Not known to the general populace of Earth", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Vigilante", 
+        "self-proclaimed peacekeeper"
+    ], 
+    "origin": [
+        "Devos home was attacked when he was a child", 
+        "which left him an orphan (Fantastic Four #377", 
+        "1993)"
+    ], 
+    "placeofbirth": "Unidentified planet", 
+    "powers": "Although he is formally trained in both armed and unarmed combat techniques of many cultures, Devos has shown no signs of any extraordinary capabilities beyond those of of an exceptionally fit hominid.", 
+    "realname": "Devos", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

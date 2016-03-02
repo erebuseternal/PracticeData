@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Brother Joshua", 
-                "Professor"
-            ], 
-            "citizenship": "Citizen of the United States", 
-            "content": "After this show of power, the Miracle Man decided to unleash his plan to take over the world. He used his powers to bring to life a giant monster, movie display. Then he sent a note to the police commissioner, declaring war on the human race. The monster went on to steal a million dollars worth of gems from a jewelry store, but before it could, Mister Fantastic appeared and stopped the monster. Though when Reed\u2019s head was turned, the Miracle Man knocked him out and took the monster away with him. He later sent the monster after the military\u2019s new atomic tank, but the Human Torch quickly burned the monster down to its wood and plaster components. But the Miracle Man put out the Torch\u2019s flame with chemical foam, and stopped a rampaging Thing before stealing the Atomic Tank and escaping.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #3\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "height": 60, 
-            "id": "Miracle_Man", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Performer", 
-            "origin": "Fantastic Four #3", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "significantissues": "Fantastic Four #3 (intro, loss of abilities)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 185
-        }
-    }
+    "aliases": [
+        "Brother Joshua", 
+        "Professor"
+    ], 
+    "citizenship": "Citizen of the United States", 
+    "content": "After this show of power, the Miracle Man decided to unleash his plan to take over the world. He used his powers to bring to life a giant monster, movie display. Then he sent a note to the police commissioner, declaring war on the human race. The monster went on to steal a million dollars worth of gems from a jewelry store, but before it could, Mister Fantastic appeared and stopped the monster. Though when Reed\u2019s head was turned, the Miracle Man knocked him out and took the monster away with him. He later sent the monster after the military\u2019s new atomic tank, but the Human Torch quickly burned the monster down to its wood and plaster components. But the Miracle Man put out the Torch\u2019s flame with chemical foam, and stopped a rampaging Thing before stealing the Atomic Tank and escaping.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #3\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "height": 60, 
+    "id": "Miracle_Man", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Performer", 
+    "origin": "Fantastic Four #3", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "significantissues": "Fantastic Four #3 (intro, loss of abilities)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 185
 }

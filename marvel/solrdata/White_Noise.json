@@ -1,31 +1,27 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Shi'ar", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men: Spotlight on \u2026 Starjammers #2 (1990)\n", 
-            "groupaffiliation": "Imperial Guard", 
-            "hair": "Gray\n", 
-            "id": "White_Noise", 
-            "identity": "The general populace of Earth were unaware of White Noise's existence", 
-            "intelligence": 1, 
-            "knownrelatives": "Cal'syee Neramani (Deathbird, mother), unknown father, Black Light (twin brother), Lilandra Neramani (aunt), D'Ken Neramani (uncle), Adam-X (cousin)", 
-            "occupation": [
-                "Imperial Guardsman", 
-                "Peacekeeper"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "White Noise possessed superhuman strength, durability and endurance.", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Shi'ar", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men: Spotlight on \u2026 Starjammers #2 (1990)\n", 
+    "groupaffiliation": "Imperial Guard", 
+    "hair": "Gray\n", 
+    "id": "White_Noise", 
+    "identity": "The general populace of Earth were unaware of White Noise's existence", 
+    "intelligence": 1, 
+    "knownrelatives": "Cal'syee Neramani (Deathbird, mother), unknown father, Black Light (twin brother), Lilandra Neramani (aunt), D'Ken Neramani (uncle), Adam-X (cousin)", 
+    "occupation": [
+        "Imperial Guardsman", 
+        "Peacekeeper"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "White Noise possessed superhuman strength, durability and endurance.", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

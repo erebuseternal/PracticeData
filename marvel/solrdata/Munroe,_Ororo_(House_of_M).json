@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Storm", 
-                "Windrider"
-            ], 
-            "citizenship": "Dual citizenship in United States and Kenya", 
-            "content": "In her teens, Ororo left Cairo and traveled south, more deeply into Africa. As she traveled and her mutant powers developed, she became known as the Windrider, capable of ending droughts with the wave of her hand. Her legend grew across the continent. It was during this time that she met T'Challa, the African prince of the nation of Wakanda. Storm used her powers to save T'Challa's life from the first of many mutant attacks on the prince's kingdom. Ororo spent time in Wakanda following the attack and became very close to T'Challa. T'Challa eventually asked Ororo to marry him, but she refused him.During the subsequent years, and following the emergence of Magneto and his army of mutants across the world, Ororo decided to use her powers for the good of Africa.With most of Africa embroiled in Mutant-Human civil wars, Ororo used her powers for peace, and after helping Kenya out of a deadly civil war, she was embraced by its people as their queen. In the months that followed, Ororo was instrumental in Magneto's victory over the rest of Africa, minus Wakanda, and was key in making sure mutants and humans escaped the conflict unscathed. After installing mutant leadership in Africa, Magneto allowed Ororo to keep her position as queen of Kenya.", 
-            "durability": 1, 
-            "education": "College", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": "None", 
-            "hair": "White\n", 
-            "height": 71, 
-            "id": "Munroe,_Ororo_(House_of_M)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "David  (father, deceased), N'Dare  (mother, deceased)", 
-            "occupation": [
-                "Queen of Kenya", 
-                "Ruler"
-            ], 
-            "placeofbirth": [
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "Storm is a mutant with the ability to manipulate the weather systems of the Earth over a large area and has used these abilities to make major changes to the weather patterns in Africa. She can fly on the winds and summon bolts of lightning from the sky.", 
-            "realname": "Ororo Munroe", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "House of M", 
-            "weight": 127
-        }
-    }
+    "aliases": [
+        "Storm", 
+        "Windrider"
+    ], 
+    "citizenship": "Dual citizenship in United States and Kenya", 
+    "content": "In her teens, Ororo left Cairo and traveled south, more deeply into Africa. As she traveled and her mutant powers developed, she became known as the Windrider, capable of ending droughts with the wave of her hand. Her legend grew across the continent. It was during this time that she met T'Challa, the African prince of the nation of Wakanda. Storm used her powers to save T'Challa's life from the first of many mutant attacks on the prince's kingdom. Ororo spent time in Wakanda following the attack and became very close to T'Challa. T'Challa eventually asked Ororo to marry him, but she refused him.During the subsequent years, and following the emergence of Magneto and his army of mutants across the world, Ororo decided to use her powers for the good of Africa.With most of Africa embroiled in Mutant-Human civil wars, Ororo used her powers for peace, and after helping Kenya out of a deadly civil war, she was embraced by its people as their queen. In the months that followed, Ororo was instrumental in Magneto's victory over the rest of Africa, minus Wakanda, and was key in making sure mutants and humans escaped the conflict unscathed. After installing mutant leadership in Africa, Magneto allowed Ororo to keep her position as queen of Kenya.", 
+    "durability": 1, 
+    "education": "College", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": "None", 
+    "hair": "White\n", 
+    "height": 71, 
+    "id": "Munroe,_Ororo_(House_of_M)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "David  (father, deceased), N'Dare  (mother, deceased)", 
+    "occupation": [
+        "Queen of Kenya", 
+        "Ruler"
+    ], 
+    "placeofbirth": [
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "Storm is a mutant with the ability to manipulate the weather systems of the Earth over a large area and has used these abilities to make major changes to the weather patterns in Africa. She can fly on the winds and summon bolts of lightning from the sky.", 
+    "realname": "Ororo Munroe", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "House of M", 
+    "weight": 127
 }

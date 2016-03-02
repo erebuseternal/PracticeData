@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Purple Girl", 
-                "Persuasion"
-            ], 
-            "citizenship": "Canada", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Yellow\n", 
-            "fighting": 1, 
-            "groupaffiliation": [
-                "Formerly Alpha Flight", 
-                "Beta Flight"
-            ], 
-            "hair": "Black\n", 
-            "height": 67, 
-            "id": "Persuasion", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Zebediah Killgrave (Purple Man, father), Melanie (mother)", 
-            "occupation": [
-                "Adventurer", 
-                "former student"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Secretes pheromones which make others susceptible to her verbal commands", 
-            "realname": "Kara Killgrave", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 111
-        }
-    }
+    "aliases": [
+        "Purple Girl", 
+        "Persuasion"
+    ], 
+    "citizenship": "Canada", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Yellow\n", 
+    "fighting": 1, 
+    "groupaffiliation": [
+        "Formerly Alpha Flight", 
+        "Beta Flight"
+    ], 
+    "hair": "Black\n", 
+    "height": 67, 
+    "id": "Persuasion", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Zebediah Killgrave (Purple Man, father), Melanie (mother)", 
+    "occupation": [
+        "Adventurer", 
+        "former student"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Secretes pheromones which make others susceptible to her verbal commands", 
+    "realname": "Kara Killgrave", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 111
 }

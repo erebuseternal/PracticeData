@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"Captain A-Face\"", 
-            "citizenship": "U.S.A.", 
-            "content": "When Typeface finally caught up to the man who fired him, Spider-Man intervened again, only to be attacked by the Spider-Hybrid. The attack reminded Typeface his brother's last words to him (\"Just live, man\"), and aided Spidey against the foe, and lost the desire for revenge. However, the owner was humiliated by Typeface and found the detonator Type face would've used to blow up the building they were in. When he blew up the building, he killed himself, and it was believed that Typeface had died in the explosion, too.After surviving the explosion, Typeface became a vigilante, and waged a war with the Penny-Ante Gang. And after apprehending them, left a note saying \"Compliments from your friendly neighborhood Typeface\".Recently Typeface emerged as the leader of an Anti-Registration group along with Battlestar, Solo, and other heroes. Most recently, Typeface was involved in a battle against the new, government-sponsored team of Thunderbolts - including Songbird, the Radioactive Man and Venom - who were trying to capture him and Daredevil for remaining unregistered. He was accidentally killed while trying to evade capture.", 
-            "durability": 2, 
-            "education": "B.S. at University of Massachusetts", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 4, 
-            "firstappearance": "Peter Parker: Spider-Man #23 (2000)\n", 
-            "groupaffiliation": [
-                "Leader of an underground anti-Registration Act team", 
-                "formerly United States Army", 
-                "Ace Signs"
-            ], 
-            "hair": "Brown\n", 
-            "height": 69, 
-            "id": "Typeface", 
-            "identity": "Publicly known", 
-            "intelligence": 2, 
-            "knownrelatives": "Joey Gordon (brother, deceased), unnamed ex-wife and son", 
-            "occupation": [
-                "Vigilante", 
-                "former US Army soldier", 
-                "sign maker"
-            ], 
-            "origin": "Peter Parker: Spider-Man #24 (2000)", 
-            "placeofbirth": [
-                "Northampton", 
-                "Massachusetts"
-            ], 
-            "powers": "None", 
-            "realname": "Gordon \"Geordie\" Thomas", 
-            "significantissues": "killed in battle against the new Thunderbolts (Civil War: Front Line #10, 2007)", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 160
-        }
-    }
+    "aliases": "\"Captain A-Face\"", 
+    "citizenship": "U.S.A.", 
+    "content": "When Typeface finally caught up to the man who fired him, Spider-Man intervened again, only to be attacked by the Spider-Hybrid. The attack reminded Typeface his brother's last words to him (\"Just live, man\"), and aided Spidey against the foe, and lost the desire for revenge. However, the owner was humiliated by Typeface and found the detonator Type face would've used to blow up the building they were in. When he blew up the building, he killed himself, and it was believed that Typeface had died in the explosion, too.After surviving the explosion, Typeface became a vigilante, and waged a war with the Penny-Ante Gang. And after apprehending them, left a note saying \"Compliments from your friendly neighborhood Typeface\".Recently Typeface emerged as the leader of an Anti-Registration group along with Battlestar, Solo, and other heroes. Most recently, Typeface was involved in a battle against the new, government-sponsored team of Thunderbolts - including Songbird, the Radioactive Man and Venom - who were trying to capture him and Daredevil for remaining unregistered. He was accidentally killed while trying to evade capture.", 
+    "durability": 2, 
+    "education": "B.S. at University of Massachusetts", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 4, 
+    "firstappearance": "Peter Parker: Spider-Man #23 (2000)\n", 
+    "groupaffiliation": [
+        "Leader of an underground anti-Registration Act team", 
+        "formerly United States Army", 
+        "Ace Signs"
+    ], 
+    "hair": "Brown\n", 
+    "height": 69, 
+    "id": "Typeface", 
+    "identity": "Publicly known", 
+    "intelligence": 2, 
+    "knownrelatives": "Joey Gordon (brother, deceased), unnamed ex-wife and son", 
+    "occupation": [
+        "Vigilante", 
+        "former US Army soldier", 
+        "sign maker"
+    ], 
+    "origin": "Peter Parker: Spider-Man #24 (2000)", 
+    "placeofbirth": [
+        "Northampton", 
+        "Massachusetts"
+    ], 
+    "powers": "None", 
+    "realname": "Gordon \"Geordie\" Thomas", 
+    "significantissues": "killed in battle against the new Thunderbolts (Civil War: Front Line #10, 2007)", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 160
 }

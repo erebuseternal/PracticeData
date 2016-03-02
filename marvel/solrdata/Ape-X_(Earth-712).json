@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed; presumably self-educated", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Squadron Supreme #5 (1986)\n", 
-            "groupaffiliation": [
-                "(Formerly) Squadron Supreme", 
-                "Institute of Evil"
-            ], 
-            "hair": "Brown\n", 
-            "height": 40, 
-            "id": "Ape-X_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "None (Formerly) professional criminal", 
-                "scientist"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Ape-X has enhanced, superhuman intelligence. Her genius extends into many areas.", 
-            "realname": "Xina", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 160
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed; presumably self-educated", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Squadron Supreme #5 (1986)\n", 
+    "groupaffiliation": [
+        "(Formerly) Squadron Supreme", 
+        "Institute of Evil"
+    ], 
+    "hair": "Brown\n", 
+    "height": 40, 
+    "id": "Ape-X_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "None (Formerly) professional criminal", 
+        "scientist"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Ape-X has enhanced, superhuman intelligence. Her genius extends into many areas.", 
+    "realname": "Xina", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 160
 }

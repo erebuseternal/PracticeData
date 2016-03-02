@@ -1,31 +1,27 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Russia", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man Annual #28 (1994)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Gray\n", 
-            "id": "Sytsevich,_Miriam", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "husband (name unrevealed), Aleksei Sytsevich (the Rhino, son), Alexa (last name unrevealed, granddaughter)", 
-            "occupation": "Retired", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Miriam Sytsevich", 
-            "significantissues": [
-                "Came to America (Amazing Spider-Man Annual #28, 1994)", 
-                "grave visited by the Rhino (Fallen Son: Death of Cap America - Spider-Man, 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Russia", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man Annual #28 (1994)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Gray\n", 
+    "id": "Sytsevich,_Miriam", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "husband (name unrevealed), Aleksei Sytsevich (the Rhino, son), Alexa (last name unrevealed, granddaughter)", 
+    "occupation": "Retired", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Miriam Sytsevich", 
+    "significantissues": [
+        "Came to America (Amazing Spider-Man Annual #28, 1994)", 
+        "grave visited by the Rhino (Fallen Son: Death of Cap America - Spider-Man, 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1
 }

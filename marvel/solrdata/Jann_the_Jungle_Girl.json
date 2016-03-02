@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Jann of the Jungle", 
-                "Jungle Girl"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Jungle Tales #1 (1954)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "id": "Jann_the_Jungle_Girl", 
-            "identity": "Public", 
-            "intelligence": 1, 
-            "knownrelatives": "Jann (Grandmother)", 
-            "occupation": [
-                "Adventurer", 
-                "(formerly)stunt woman", 
-                "circus trapeze artist and animal trainer"
-            ], 
-            "origin": "Jungle Tales #1 (1954)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Jane Hastings", 
-            "significantissues": [
-                "Origin and Early adventures in the jungle of the Congo (Jungle Tales #1-71954-5)", 
-                "Jann of the Jungle #8-17 1955-6)", 
-                "Helped Marvel Boy locate the Gorilla Man (Kenneth Hale) of Earth-9904 (What If? #9 1978)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Jann of the Jungle", 
+        "Jungle Girl"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Jungle Tales #1 (1954)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "id": "Jann_the_Jungle_Girl", 
+    "identity": "Public", 
+    "intelligence": 1, 
+    "knownrelatives": "Jann (Grandmother)", 
+    "occupation": [
+        "Adventurer", 
+        "(formerly)stunt woman", 
+        "circus trapeze artist and animal trainer"
+    ], 
+    "origin": "Jungle Tales #1 (1954)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Jane Hastings", 
+    "significantissues": [
+        "Origin and Early adventures in the jungle of the Congo (Jungle Tales #1-71954-5)", 
+        "Jann of the Jungle #8-17 1955-6)", 
+        "Helped Marvel Boy locate the Gorilla Man (Kenneth Hale) of Earth-9904 (What If? #9 1978)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

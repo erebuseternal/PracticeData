@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"Little Shadow\"", 
-            "citizenship": "USA", 
-            "content": "In their late teens, Fire and Silhouette were anti-gang vigilantes allied with adventurer Night Thrasher (Dewayne Taylor), who became Silhouette's lover; however, during a bust gone awry, Silhouette was shot by a gangster while Thrasher restrained Fire from attacking an interfering policeman. Blaming Taylor, Fire went into hiding with Silhouette who lost the use of her legs. Fire later rebuilt the Concrete Dragons street gang until Taylor's New Warriors brought him to justice. Silhouette disowned her brother, reconciled with Taylor and joined the New Warriors, who eventually destroyed Tai, the Well and the cult, though not before Tai killed Miyami. Having discovered her true parentage, Silhouette sought a relationship with her father Chord, while Fire and most of the other pact offspring formed the criminal Folding Circle.", 
-            "durability": 3, 
-            "education": "Unrevealed", 
-            "energy": 5, 
-            "eyes": "Black with white pupils, formerly brown\n", 
-            "fighting": 2, 
-            "firstappearance": "New Warriors #2 (1990)\n", 
-            "groupaffiliation": [
-                "Formerly New Warriors", 
-                "Concrete Dragons"
-            ], 
-            "hair": "Black\n", 
-            "height": 66, 
-            "id": "Silhouette", 
-            "identity": "Publicly known", 
-            "intelligence": 2, 
-            "knownrelatives": "Andrew Chord (father), Miyami Chord (mother, deceased), Midnight's Fire (brother), Tai (grandmother, deceased)", 
-            "occupation": "Adventurer", 
-            "origin": [
-                "New Warriors #2 (1990)", 
-                "New Warriors #23-24 (1992)", 
-                "Night Thrasher #13-14 (1994)"
-            ], 
-            "placeofbirth": [
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "Silhouette's strength, speed, stamina, reflexes, durability, agility and sensory acuity are enhanced beyond those of normal human limits; though her legs are paralyzed, she is remarkably nimble using her crutches and leg braces.", 
-            "realname": "Silhouette \"Sil\" Chord", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 7, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 105
-        }
-    }
+    "aliases": "\"Little Shadow\"", 
+    "citizenship": "USA", 
+    "content": "In their late teens, Fire and Silhouette were anti-gang vigilantes allied with adventurer Night Thrasher (Dewayne Taylor), who became Silhouette's lover; however, during a bust gone awry, Silhouette was shot by a gangster while Thrasher restrained Fire from attacking an interfering policeman. Blaming Taylor, Fire went into hiding with Silhouette who lost the use of her legs. Fire later rebuilt the Concrete Dragons street gang until Taylor's New Warriors brought him to justice. Silhouette disowned her brother, reconciled with Taylor and joined the New Warriors, who eventually destroyed Tai, the Well and the cult, though not before Tai killed Miyami. Having discovered her true parentage, Silhouette sought a relationship with her father Chord, while Fire and most of the other pact offspring formed the criminal Folding Circle.", 
+    "durability": 3, 
+    "education": "Unrevealed", 
+    "energy": 5, 
+    "eyes": "Black with white pupils, formerly brown\n", 
+    "fighting": 2, 
+    "firstappearance": "New Warriors #2 (1990)\n", 
+    "groupaffiliation": [
+        "Formerly New Warriors", 
+        "Concrete Dragons"
+    ], 
+    "hair": "Black\n", 
+    "height": 66, 
+    "id": "Silhouette", 
+    "identity": "Publicly known", 
+    "intelligence": 2, 
+    "knownrelatives": "Andrew Chord (father), Miyami Chord (mother, deceased), Midnight's Fire (brother), Tai (grandmother, deceased)", 
+    "occupation": "Adventurer", 
+    "origin": [
+        "New Warriors #2 (1990)", 
+        "New Warriors #23-24 (1992)", 
+        "Night Thrasher #13-14 (1994)"
+    ], 
+    "placeofbirth": [
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "Silhouette's strength, speed, stamina, reflexes, durability, agility and sensory acuity are enhanced beyond those of normal human limits; though her legs are paralyzed, she is remarkably nimble using her crutches and leg braces.", 
+    "realname": "Silhouette \"Sil\" Chord", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 7, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 105
 }

@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Foggy", 
-                "Guts Nelson", 
-                "impersonated Daredevil"
-            ], 
-            "citizenship": "U.S. Citizen with no criminal record", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Columbia University (undergraduate), Harvard Law School", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Daredevil #1 (1962)\n", 
-            "groupaffiliation": "Daredevil (Matt Murdock)", 
-            "hair": "Brown\n", 
-            "height": 70, 
-            "id": "Nelson,_Foggy", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Edward Nelson (father), Rosalind Sharpe (mother), Anna Nelson (stepmother), Candace Nelson (half-sister), Deborah Harris Nelson (ex-wife)", 
-            "occupation": [
-                "Lawyer", 
-                "former District Attorney"
-            ], 
-            "placeofbirth": [
-                "New York City", 
-                "NY"
-            ], 
-            "powers": "None", 
-            "realname": "Franklin P. Nelson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": [
+        "Foggy", 
+        "Guts Nelson", 
+        "impersonated Daredevil"
+    ], 
+    "citizenship": "U.S. Citizen with no criminal record", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Columbia University (undergraduate), Harvard Law School", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Daredevil #1 (1962)\n", 
+    "groupaffiliation": "Daredevil (Matt Murdock)", 
+    "hair": "Brown\n", 
+    "height": 70, 
+    "id": "Nelson,_Foggy", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Edward Nelson (father), Rosalind Sharpe (mother), Anna Nelson (stepmother), Candace Nelson (half-sister), Deborah Harris Nelson (ex-wife)", 
+    "occupation": [
+        "Lawyer", 
+        "former District Attorney"
+    ], 
+    "placeofbirth": [
+        "New York City", 
+        "NY"
+    ], 
+    "powers": "None", 
+    "realname": "Franklin P. Nelson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

@@ -1,22 +1,18 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "United States", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "groupaffiliation": "agent of Mister Sinister", 
-            "id": "Ricochet_(Stephen_Shaffran)", 
-            "identity": "unknown", 
-            "intelligence": 1, 
-            "occupation": "Senator", 
-            "origin": "X-Factor #71", 
-            "powers": "Stephen can turn other mutants' powers and fears against them.", 
-            "realname": "Stephen Shaffran", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "United States", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "groupaffiliation": "agent of Mister Sinister", 
+    "id": "Ricochet_(Stephen_Shaffran)", 
+    "identity": "unknown", 
+    "intelligence": 1, 
+    "occupation": "Senator", 
+    "origin": "X-Factor #71", 
+    "powers": "Stephen can turn other mutants' powers and fears against them.", 
+    "realname": "Stephen Shaffran", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United Kingdom", 
-            "content": "", 
-            "durability": 1, 
-            "education": "No formal education", 
-            "energy": 1, 
-            "eyes": "Violet\n", 
-            "fighting": 1, 
-            "firstappearance": "Motormouth #1 (1992)\n", 
-            "groupaffiliation": [
-                "Partner of Killpower", 
-                "former member of Dark Guard"
-            ], 
-            "hair": "Silver with black streaks\n", 
-            "height": 64, 
-            "id": "Motormouth", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Adventurer", 
-            "placeofbirth": [
-                "London", 
-                "England"
-            ], 
-            "powers": "Hyper-sonic scream", 
-            "realname": "Harley Davidson", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 105
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United Kingdom", 
+    "content": "", 
+    "durability": 1, 
+    "education": "No formal education", 
+    "energy": 1, 
+    "eyes": "Violet\n", 
+    "fighting": 1, 
+    "firstappearance": "Motormouth #1 (1992)\n", 
+    "groupaffiliation": [
+        "Partner of Killpower", 
+        "former member of Dark Guard"
+    ], 
+    "hair": "Silver with black streaks\n", 
+    "height": 64, 
+    "id": "Motormouth", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Adventurer", 
+    "placeofbirth": [
+        "London", 
+        "England"
+    ], 
+    "powers": "Hyper-sonic scream", 
+    "realname": "Harley Davidson", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 105
 }

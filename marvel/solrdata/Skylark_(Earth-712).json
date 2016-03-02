@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "Later, during the Squadron's Utopia Program, the team's scientist developed the mind-altering behavior modification device. Lady Lark's teammate, the Golden Archer, had grown madly in love with her, and subjected her to the behavior modification device to force her to return his devotion. When his activities was discovered, he was expelled from the group, and Lady Lark, still consumed with devotion, followed him. They both joined Nighthawk's band of Redeemers who hoped to opposed the Squadron's program, and during the final battle between the teams, the Archer was killed and Lady Lark was consumed with grief.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #85\n", 
-            "groupaffiliation": "Formerly Squadron Supreme", 
-            "hair": "Red\n", 
-            "height": 66, 
-            "id": "Skylark_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Adventurer", 
-                "former pop singer"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Skylark can emit sonic and hypersonic frequencies causing a range of effects from shattering glass to upsetting others equilibrium.", 
-            "realname": "Linda Lewis", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 120
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "Later, during the Squadron's Utopia Program, the team's scientist developed the mind-altering behavior modification device. Lady Lark's teammate, the Golden Archer, had grown madly in love with her, and subjected her to the behavior modification device to force her to return his devotion. When his activities was discovered, he was expelled from the group, and Lady Lark, still consumed with devotion, followed him. They both joined Nighthawk's band of Redeemers who hoped to opposed the Squadron's program, and during the final battle between the teams, the Archer was killed and Lady Lark was consumed with grief.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #85\n", 
+    "groupaffiliation": "Formerly Squadron Supreme", 
+    "hair": "Red\n", 
+    "height": 66, 
+    "id": "Skylark_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Adventurer", 
+        "former pop singer"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Skylark can emit sonic and hypersonic frequencies causing a range of effects from shattering glass to upsetting others equilibrium.", 
+    "realname": "Linda Lewis", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 120
 }

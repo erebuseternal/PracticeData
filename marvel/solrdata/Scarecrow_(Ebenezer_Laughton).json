@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Umberto the Uncanny", 
-            "citizenship": "U.S.A.", 
-            "content": "The Cowled Commander later had Scarecrow and his partners spread chaos to emphasize the need for a stronger police force, but they were defeated by Captain America and Falcon, sparking Scarecrow's obsessive hatred of the Captain. Placed in solitary confinement for nearly a year after another unsuccessful clash with Captain America, the already unstable Scarecrow snapped. Upon escaping, he went on a killing spree until Captain America captured him. Imprisoned in the Vault, where Hawkeye and Iron Man recaptured him during a mass breakout, Scarecrow eventually escaped and committed further serial slayings, seeking to \"free the fear\" within his victims, but he was defeated by Ghost Rider (Daniel Ketch). Left for dead, Scarecrow was rescued by the shadowy organization the Firm, who instilled in him the ability to feed off fear, after which he again battled Captain America.", 
-            "durability": 1, 
-            "education": "High school dropout", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales to Astonish #51 (1964)\n", 
-            "groupaffiliation": [
-                "The Exterminators", 
-                "formerly the Thunderbolts Army", 
-                "the Firm", 
-                "Cowled Commander's Crime Wave", 
-                "Maggia superhuman strike force"
-            ], 
-            "hair": "Brown\n", 
-            "height": 72, 
-            "id": "Scarecrow_(Ebenezer_Laughton)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Mother (unnamed), father (unnamed), Ralph (brother)", 
-            "occupation": [
-                "Criminal", 
-                "former carnival performer"
-            ], 
-            "placeofbirth": "Unknown", 
-            "powers": "Scarecrow exudes a mutated pheromone that affects the adrenal glands of anyone within twenty feet of him, triggering panic attacks; this in turn stimulates Scarecrow's own adrenal glands, giving him enhanced strength, agility and durability. During his time as a bodiless spirit, Scarecrow could resurrect the dead and possess the bodies of others.", 
-            "realname": "Ebenezer Laughton", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": "Umberto the Uncanny", 
+    "citizenship": "U.S.A.", 
+    "content": "The Cowled Commander later had Scarecrow and his partners spread chaos to emphasize the need for a stronger police force, but they were defeated by Captain America and Falcon, sparking Scarecrow's obsessive hatred of the Captain. Placed in solitary confinement for nearly a year after another unsuccessful clash with Captain America, the already unstable Scarecrow snapped. Upon escaping, he went on a killing spree until Captain America captured him. Imprisoned in the Vault, where Hawkeye and Iron Man recaptured him during a mass breakout, Scarecrow eventually escaped and committed further serial slayings, seeking to \"free the fear\" within his victims, but he was defeated by Ghost Rider (Daniel Ketch). Left for dead, Scarecrow was rescued by the shadowy organization the Firm, who instilled in him the ability to feed off fear, after which he again battled Captain America.", 
+    "durability": 1, 
+    "education": "High school dropout", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales to Astonish #51 (1964)\n", 
+    "groupaffiliation": [
+        "The Exterminators", 
+        "formerly the Thunderbolts Army", 
+        "the Firm", 
+        "Cowled Commander's Crime Wave", 
+        "Maggia superhuman strike force"
+    ], 
+    "hair": "Brown\n", 
+    "height": 72, 
+    "id": "Scarecrow_(Ebenezer_Laughton)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Mother (unnamed), father (unnamed), Ralph (brother)", 
+    "occupation": [
+        "Criminal", 
+        "former carnival performer"
+    ], 
+    "placeofbirth": "Unknown", 
+    "powers": "Scarecrow exudes a mutated pheromone that affects the adrenal glands of anyone within twenty feet of him, triggering panic attacks; this in turn stimulates Scarecrow's own adrenal glands, giving him enhanced strength, agility and durability. During his time as a bodiless spirit, Scarecrow could resurrect the dead and possess the bodies of others.", 
+    "realname": "Ebenezer Laughton", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

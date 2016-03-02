@@ -1,53 +1,49 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.", 
-            "content": "Soon after, Paige was kidnapped by the techno-organic alien Phalanx, who sought to learn how to assimilate mutants into their collective. Paige and her fellow abductees were rescued by an ad-hoc X-Men team, and subsequently became founding members of Generation X, a team of mutants enrolled at the new Massachusetts branch of Xavier's School. During her time there, Paige studied to become a better X-Man than Sam. She also romanced her teammate Chamber. After the School was closed, Paige was recruited by her former headmaster Banshee into his paramilitary X-Corps. After that group was dismantled, Paige went to study at the reestablished Xavier Institute. Her interest in environmental issues led to her discovering corruption within Worthington Enterprises, the company owned by the X-Man Archangel. Investigating, she and Archangel encountered the Dominant Species, and she was almost killed. Archangel saved her with his healing ability, after which they became romantically involved.", 
-            "durability": 1, 
-            "education": "Various courses at Xavier Institute", 
-            "energy": 1, 
-            "eyes": "Blue (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "(Unidentified) New Mutants #42 (1986); (as Paige) X-Force #32 (1994); (as Husk) Generation X #1 (1994)\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly Xavier Institute", 
-                "Mutantes Sans Fronti\u00e8res", 
-                "X-Corps", 
-                "Generation X"
-            ], 
-            "hair": "Blonde (variable)\n", 
-            "height": 67, 
-            "id": "Husk", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Samuel (Cannonball, brother), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed  siblings, Ray Jr. (adopted brother)", 
-            "occupation": [
-                "Adventurer", 
-                "former student", 
-                "farmer"
-            ], 
-            "origin": "Generation X #24 (1997)", 
-            "placeofbirth": [
-                "Cumberland County", 
-                "Kentucky"
-            ], 
-            "powers": "Husk possesses the ability to alter the submolecular structure of her body underneath her skin, allowing her to shed her outer epidermis to reveal a new layer of varying properties. In the past, Husk has demonstrated the ability to shift into any form that does not exceed her body mass; however, she prefers to change herself into a form resembling her own, but composed of different elements, such as stone, steel, and rubber, with the appropriate properties of those forms, including potential increases in strength, durability, and speed. Husk's transformations usually last an hour, after which the new material sheds to reveal normal skin underneath. Any injuries that Husk incurs while transformed remain when her skin sheds.", 
-            "realname": "Paige Elisabeth Guthrie", 
-            "significantissues": [
-                "With X-Force & New Warriors, vs Gamesmaster (X-Force #32-33/New Warriors #46, 1994)", 
-                "captured by Phalanx, rescued by X-Men (Uncanny X-Men #316-317/X-Men #36-37, 1994)", 
-                "joined Generation X (Generation X #1, 1994)", 
-                "member of X-Corps (Uncanny X-Men #403-406, 2002)", 
-                "with Archangel, vs Dominant Species (Uncanny X-Men #417-420, 2003)", 
-                "with Archangel, vs Weaponeers (Excalibur #11-13, 2005)", 
-                "return to the X-Men (X-Men: Legacy #231, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 128
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.", 
+    "content": "Soon after, Paige was kidnapped by the techno-organic alien Phalanx, who sought to learn how to assimilate mutants into their collective. Paige and her fellow abductees were rescued by an ad-hoc X-Men team, and subsequently became founding members of Generation X, a team of mutants enrolled at the new Massachusetts branch of Xavier's School. During her time there, Paige studied to become a better X-Man than Sam. She also romanced her teammate Chamber. After the School was closed, Paige was recruited by her former headmaster Banshee into his paramilitary X-Corps. After that group was dismantled, Paige went to study at the reestablished Xavier Institute. Her interest in environmental issues led to her discovering corruption within Worthington Enterprises, the company owned by the X-Man Archangel. Investigating, she and Archangel encountered the Dominant Species, and she was almost killed. Archangel saved her with his healing ability, after which they became romantically involved.", 
+    "durability": 1, 
+    "education": "Various courses at Xavier Institute", 
+    "energy": 1, 
+    "eyes": "Blue (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "(Unidentified) New Mutants #42 (1986); (as Paige) X-Force #32 (1994); (as Husk) Generation X #1 (1994)\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly Xavier Institute", 
+        "Mutantes Sans Fronti\u00e8res", 
+        "X-Corps", 
+        "Generation X"
+    ], 
+    "hair": "Blonde (variable)\n", 
+    "height": 67, 
+    "id": "Husk", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Samuel (Cannonball, brother), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed  siblings, Ray Jr. (adopted brother)", 
+    "occupation": [
+        "Adventurer", 
+        "former student", 
+        "farmer"
+    ], 
+    "origin": "Generation X #24 (1997)", 
+    "placeofbirth": [
+        "Cumberland County", 
+        "Kentucky"
+    ], 
+    "powers": "Husk possesses the ability to alter the submolecular structure of her body underneath her skin, allowing her to shed her outer epidermis to reveal a new layer of varying properties. In the past, Husk has demonstrated the ability to shift into any form that does not exceed her body mass; however, she prefers to change herself into a form resembling her own, but composed of different elements, such as stone, steel, and rubber, with the appropriate properties of those forms, including potential increases in strength, durability, and speed. Husk's transformations usually last an hour, after which the new material sheds to reveal normal skin underneath. Any injuries that Husk incurs while transformed remain when her skin sheds.", 
+    "realname": "Paige Elisabeth Guthrie", 
+    "significantissues": [
+        "With X-Force & New Warriors, vs Gamesmaster (X-Force #32-33/New Warriors #46, 1994)", 
+        "captured by Phalanx, rescued by X-Men (Uncanny X-Men #316-317/X-Men #36-37, 1994)", 
+        "joined Generation X (Generation X #1, 1994)", 
+        "member of X-Corps (Uncanny X-Men #403-406, 2002)", 
+        "with Archangel, vs Dominant Species (Uncanny X-Men #417-420, 2003)", 
+        "with Archangel, vs Weaponeers (Excalibur #11-13, 2005)", 
+        "return to the X-Men (X-Men: Legacy #231, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 128
 }

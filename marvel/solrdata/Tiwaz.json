@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Greens", 
-                "Alien", 
-                "Redd", 
-                "Barber", 
-                "James", 
-                "Jamie", 
-                "Brock", 
-                "Rock", 
-                "M", 
-                "others"
-            ], 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Finished college at Planet Matrix;Tutored by the Greatest Perfected Minds (GPM)", 
-            "energy": 1, 
-            "eyes": "(both) Eyes with black irises\n", 
-            "fighting": 1, 
-            "firstappearance": "soon-to-come\n", 
-            "groupaffiliation": [
-                "Leader of the Infernos", 
-                "the Perfectos"
-            ], 
-            "hair": "(both) Red\n", 
-            "height": 0, 
-            "id": "Tiwaz", 
-            "identity": "known to MATRIX-otherwise secret", 
-            "intelligence": 1, 
-            "knownrelatives": "?", 
-            "occupation": [
-                "Hero", 
-                "soon-to-be King of Planet Matrix", 
-                "Pre-God/God"
-            ], 
-            "origin": "Birth of Heroes #1 (1/1/2008)", 
-            "placeofbirth": "? Was claimed to be from Planet Matrix", 
-            "powers": "When John turns into Matrix, every feature on/in him gradually increases;fighting skills, strength, speed, sixth sense,healing factor, intelligence (on occasions), hearing, eyesight, sonic screams,  and taste-there are modes he has only specific abilities with, even some that cannot be controlled", 
-            "realname": "Jonathan Timothy Brock III", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "AAFC (Action Adventure Fantasy Comic)", 
-            "weight": 165
-        }
-    }
+    "aliases": [
+        "Greens", 
+        "Alien", 
+        "Redd", 
+        "Barber", 
+        "James", 
+        "Jamie", 
+        "Brock", 
+        "Rock", 
+        "M", 
+        "others"
+    ], 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Finished college at Planet Matrix;Tutored by the Greatest Perfected Minds (GPM)", 
+    "energy": 1, 
+    "eyes": "(both) Eyes with black irises\n", 
+    "fighting": 1, 
+    "firstappearance": "soon-to-come\n", 
+    "groupaffiliation": [
+        "Leader of the Infernos", 
+        "the Perfectos"
+    ], 
+    "hair": "(both) Red\n", 
+    "height": 0, 
+    "id": "Tiwaz", 
+    "identity": "known to MATRIX-otherwise secret", 
+    "intelligence": 1, 
+    "knownrelatives": "?", 
+    "occupation": [
+        "Hero", 
+        "soon-to-be King of Planet Matrix", 
+        "Pre-God/God"
+    ], 
+    "origin": "Birth of Heroes #1 (1/1/2008)", 
+    "placeofbirth": "? Was claimed to be from Planet Matrix", 
+    "powers": "When John turns into Matrix, every feature on/in him gradually increases;fighting skills, strength, speed, sixth sense,healing factor, intelligence (on occasions), hearing, eyesight, sonic screams,  and taste-there are modes he has only specific abilities with, even some that cannot be controlled", 
+    "realname": "Jonathan Timothy Brock III", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "AAFC (Action Adventure Fantasy Comic)", 
+    "weight": 165
 }

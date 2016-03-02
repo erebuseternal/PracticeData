@@ -1,52 +1,48 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Maha Yogi", 
-                "Warlock", 
-                "Mad Merlin", 
-                "impersonated Merlin"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tutored by the Caretakers; extensively self-taught", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(Mad Merlin) Journey into Mystery #96 (1963), (Warlock) X-Men #30 (1967), (Maha Yogi) X-Men #47 (1968), (Merlin Demonspawn) Captain Marvel #20, (2001)\n", 
-            "groupaffiliation": [
-                "Former leader of an armored mercenary band", 
-                "member of unidentified Vanir tribe"
-            ], 
-            "hair": "Black\n", 
-            "height": 74, 
-            "id": "Merlin_Demonspawn", 
-            "identity": "True nature (and multiple identity usage) unknown to the general inhabitants of Earth.", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Would-be-conqueror", 
-                "former owner of Comic Book Castle", 
-                "chairman of Merlin Industries", 
-                "professional criminal", 
-                "mentalist"
-            ], 
-            "origin": [
-                "Incredible Hulk #210 (1977)", 
-                "Doctor Strange: Sorcerer Supreme #27 (1991)"
-            ], 
-            "placeofbirth": [
-                "Central European continent", 
-                "circa 83rd century B.C."
-            ], 
-            "powers": "Great psychic powers, including the ability to cast illusions, control other's minds, project psionic force bolts, create force fields, telekinesis, and teleportation. While his powers have a limited range, they are potent enough so as to be easily confused for magic. More recently, he has undertaken true magic, utilizing certain intricate spells, enabling him to physically transform others, project magical blasts, etc.", 
-            "realname": "Unrevealed", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 245
-        }
-    }
+    "aliases": [
+        "Maha Yogi", 
+        "Warlock", 
+        "Mad Merlin", 
+        "impersonated Merlin"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tutored by the Caretakers; extensively self-taught", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(Mad Merlin) Journey into Mystery #96 (1963), (Warlock) X-Men #30 (1967), (Maha Yogi) X-Men #47 (1968), (Merlin Demonspawn) Captain Marvel #20, (2001)\n", 
+    "groupaffiliation": [
+        "Former leader of an armored mercenary band", 
+        "member of unidentified Vanir tribe"
+    ], 
+    "hair": "Black\n", 
+    "height": 74, 
+    "id": "Merlin_Demonspawn", 
+    "identity": "True nature (and multiple identity usage) unknown to the general inhabitants of Earth.", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Would-be-conqueror", 
+        "former owner of Comic Book Castle", 
+        "chairman of Merlin Industries", 
+        "professional criminal", 
+        "mentalist"
+    ], 
+    "origin": [
+        "Incredible Hulk #210 (1977)", 
+        "Doctor Strange: Sorcerer Supreme #27 (1991)"
+    ], 
+    "placeofbirth": [
+        "Central European continent", 
+        "circa 83rd century B.C."
+    ], 
+    "powers": "Great psychic powers, including the ability to cast illusions, control other's minds, project psionic force bolts, create force fields, telekinesis, and teleportation. While his powers have a limited range, they are potent enough so as to be easily confused for magic. More recently, he has undertaken true magic, utilizing certain intricate spells, enabling him to physically transform others, project magical blasts, etc.", 
+    "realname": "Unrevealed", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 245
 }

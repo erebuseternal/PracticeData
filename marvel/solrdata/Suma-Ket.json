@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Prophet King of Ancient Atlantis", 
-            "citizenship": [
-                "Unforgiven Dead society", 
-                "formerly Atlantis"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Solid red\n", 
-            "fighting": 1, 
-            "firstappearance": "Namor, the Sub-Mariner #36 (1993)\n", 
-            "groupaffiliation": "Unforgiven Dead", 
-            "hair": "Grey\n", 
-            "height": 76, 
-            "id": "Suma-Ket", 
-            "identity": [
-                "No dual identity", 
-                "existence unknown to Earth's general populace"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Artys-Gran (wife, deceased)", 
-            "occupation": [
-                "Warrior-mage", 
-                "priest", 
-                "king of the Unforgiven Dead", 
-                "former ruler of Atlantis"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "realname": "Suma-Ket", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 230
-        }
-    }
+    "aliases": "Prophet King of Ancient Atlantis", 
+    "citizenship": [
+        "Unforgiven Dead society", 
+        "formerly Atlantis"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Solid red\n", 
+    "fighting": 1, 
+    "firstappearance": "Namor, the Sub-Mariner #36 (1993)\n", 
+    "groupaffiliation": "Unforgiven Dead", 
+    "hair": "Grey\n", 
+    "height": 76, 
+    "id": "Suma-Ket", 
+    "identity": [
+        "No dual identity", 
+        "existence unknown to Earth's general populace"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Artys-Gran (wife, deceased)", 
+    "occupation": [
+        "Warrior-mage", 
+        "priest", 
+        "king of the Unforgiven Dead", 
+        "former ruler of Atlantis"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "realname": "Suma-Ket", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 230
 }

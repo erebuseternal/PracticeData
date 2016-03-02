@@ -1,52 +1,48 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Pulsar", 
-                "Photon", 
-                "Daystar", 
-                "Captain Marvel", 
-                "Sceptre", 
-                "Lady-of-Light"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Dubbed Captain Marvel by the media, Rambeau sought out the Avengers for help in mastering her new powers and became a member-in-training of their group. Befriended and mentored by Avengers veterans Captain America and the Wasp, Monica soon graduated to full membership, serving a lengthy stint during which she became one of the team's most valuable and respected members. One early complication was the memory of an earlier Captain Marvel, the legendary alien warrior Mar-Vell, a deceased honorary member of the Avengers. Rambeau felt awkward about inheriting his title after she learned of his existence, but she retained the name since the Avengers and others regarded her as a worthy heir to Mar-Vell's heroic legacy. Another new Avengers recruit, Mar-Vell's close friend Starfox (Eros), disapproved of Monica using the Captain Marvel name at first; but even he was soon impressed by Monica's character and ability, giving her his blessing and saluting the new Captain Marvel.When an exhausted Wasp stepped down as Avengers chairwoman, Captain America nominated Captain Marvel to replace her as team leader. Though she was overwhelmed at the prospect, Monica accepted the post and filled it quite capably at first, even seeing the team through a conflict with the Olympian gods; however, Monica became increasingly uneasy in her new role, a situation made worse after ambitious new recruit Doctor Druid began undermining her leadership. Finally, when honorary Avengers member Marrina transformed into the gigantic sea monster Leviathan, Captain Marvel led the hunt for the creature; during the battle that followed, Monica made contact with sea water while in her electrical form and accidentally conducted herself across the surface of the ocean, depleting her energies so gravely and dispersing her atoms so widely that she could barely regain physical form, emerging as a frail, withered husk of a woman devoid of super-powers. Forced to retire from the team, Monica fought her way back to health and eventually regained her powers, though in a reduced and altered form that allowed her to surround herself with a manipulable energy field. She resumed crimefighting, facing foes such as Brazilian crimelord Kristina Ramos, Moonstone, Powderkeg, the Sons of the Serpent, the Blue Marvel and the alien Starblasters. At the same time, she served as a cargo ship captain in her friend Ron Morgan's shipping company before starting her own charter business. Her original powers gradually regenerated, fully returning after the alien Stranger helpfully accelerated the process.", 
-            "durability": 5, 
-            "education": "College and Police Academy graduate", 
-            "energy": 7, 
-            "eyes": "Brown\n", 
-            "fighting": 4, 
-            "firstappearance": "Amazing Spider-Man Annual #16 (1982)\n", 
-            "groupaffiliation": [
-                "Formerly Nextwave", 
-                "Secret Avengers", 
-                "Avengers", 
-                "Queen's Vengeance", 
-                "New Orleans Harbor Patrol"
-            ], 
-            "hair": "Black\n", 
-            "height": 60, 
-            "id": "Rambeau,_Monica", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Frank Rambeau (father), Maria Rambeau (mother)", 
-            "occupation": [
-                "Adventurer", 
-                "charter fishing operator", 
-                "former shipping company executive", 
-                "cargo ship captain", 
-                "harbor patrol officer (lieutenant)"
-            ], 
-            "placeofbirth": [
-                "New Orleans", 
-                "Louisiana"
-            ], 
-            "powers": "Pulsar can transform herself into any form of energy within the electromagnetic spectrum. Among the many energy forms she has assumed are cosmic rays, gamma rays, X-rays, ultraviolet radiation, visible light, electricity, infrared radiation, microwaves, radio waves and neutrinos. She is invisible and intangible in many of her energy forms (the most frequent exception being visible light), and is capable of flight in all her energy forms (reaching velocities up to and including light speed). She also has the ability to project these energies from her body while she is in human form, usually in the form of energy blasts from her hands; a variation of this ability enables her to project light-based holographic illusions. When she encounters a new or unfamiliar energy, Pulsar can often duplicate it given enough time for analysis, such as when she replicated and drained the verdant will-powered energies of an extra-dimensional emerald gladiator. Pulsar tends to be physically insubstantial in her energy forms, though with concentration and effort she can sometimes perform tasks such as briefly grasping an object, either by partially solidifying or by applying some sort of force to the object in question.", 
-            "realname": "Monica Rambeau", 
-            "speed": 6, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 130
-        }
-    }
+    "aliases": [
+        "Pulsar", 
+        "Photon", 
+        "Daystar", 
+        "Captain Marvel", 
+        "Sceptre", 
+        "Lady-of-Light"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Dubbed Captain Marvel by the media, Rambeau sought out the Avengers for help in mastering her new powers and became a member-in-training of their group. Befriended and mentored by Avengers veterans Captain America and the Wasp, Monica soon graduated to full membership, serving a lengthy stint during which she became one of the team's most valuable and respected members. One early complication was the memory of an earlier Captain Marvel, the legendary alien warrior Mar-Vell, a deceased honorary member of the Avengers. Rambeau felt awkward about inheriting his title after she learned of his existence, but she retained the name since the Avengers and others regarded her as a worthy heir to Mar-Vell's heroic legacy. Another new Avengers recruit, Mar-Vell's close friend Starfox (Eros), disapproved of Monica using the Captain Marvel name at first; but even he was soon impressed by Monica's character and ability, giving her his blessing and saluting the new Captain Marvel.When an exhausted Wasp stepped down as Avengers chairwoman, Captain America nominated Captain Marvel to replace her as team leader. Though she was overwhelmed at the prospect, Monica accepted the post and filled it quite capably at first, even seeing the team through a conflict with the Olympian gods; however, Monica became increasingly uneasy in her new role, a situation made worse after ambitious new recruit Doctor Druid began undermining her leadership. Finally, when honorary Avengers member Marrina transformed into the gigantic sea monster Leviathan, Captain Marvel led the hunt for the creature; during the battle that followed, Monica made contact with sea water while in her electrical form and accidentally conducted herself across the surface of the ocean, depleting her energies so gravely and dispersing her atoms so widely that she could barely regain physical form, emerging as a frail, withered husk of a woman devoid of super-powers. Forced to retire from the team, Monica fought her way back to health and eventually regained her powers, though in a reduced and altered form that allowed her to surround herself with a manipulable energy field. She resumed crimefighting, facing foes such as Brazilian crimelord Kristina Ramos, Moonstone, Powderkeg, the Sons of the Serpent, the Blue Marvel and the alien Starblasters. At the same time, she served as a cargo ship captain in her friend Ron Morgan's shipping company before starting her own charter business. Her original powers gradually regenerated, fully returning after the alien Stranger helpfully accelerated the process.", 
+    "durability": 5, 
+    "education": "College and Police Academy graduate", 
+    "energy": 7, 
+    "eyes": "Brown\n", 
+    "fighting": 4, 
+    "firstappearance": "Amazing Spider-Man Annual #16 (1982)\n", 
+    "groupaffiliation": [
+        "Formerly Nextwave", 
+        "Secret Avengers", 
+        "Avengers", 
+        "Queen's Vengeance", 
+        "New Orleans Harbor Patrol"
+    ], 
+    "hair": "Black\n", 
+    "height": 60, 
+    "id": "Rambeau,_Monica", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Frank Rambeau (father), Maria Rambeau (mother)", 
+    "occupation": [
+        "Adventurer", 
+        "charter fishing operator", 
+        "former shipping company executive", 
+        "cargo ship captain", 
+        "harbor patrol officer (lieutenant)"
+    ], 
+    "placeofbirth": [
+        "New Orleans", 
+        "Louisiana"
+    ], 
+    "powers": "Pulsar can transform herself into any form of energy within the electromagnetic spectrum. Among the many energy forms she has assumed are cosmic rays, gamma rays, X-rays, ultraviolet radiation, visible light, electricity, infrared radiation, microwaves, radio waves and neutrinos. She is invisible and intangible in many of her energy forms (the most frequent exception being visible light), and is capable of flight in all her energy forms (reaching velocities up to and including light speed). She also has the ability to project these energies from her body while she is in human form, usually in the form of energy blasts from her hands; a variation of this ability enables her to project light-based holographic illusions. When she encounters a new or unfamiliar energy, Pulsar can often duplicate it given enough time for analysis, such as when she replicated and drained the verdant will-powered energies of an extra-dimensional emerald gladiator. Pulsar tends to be physically insubstantial in her energy forms, though with concentration and effort she can sometimes perform tasks such as briefly grasping an object, either by partially solidifying or by applying some sort of force to the object in question.", 
+    "realname": "Monica Rambeau", 
+    "speed": 6, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 130
 }

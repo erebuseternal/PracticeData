@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Chronomancer", 
-                "White Rook"
-            ], 
-            "citizenship": "Unknown", 
-            "content": "Recently, however, Fitzroy increased his power levels substantially and journeyed to a future timeline in which Earth was reduced to medieval technology levels. There Fitzroy set himself up as the Chronomancer and took over, using time-jumping robots with futuristic weapons to keep control. Then he had Shard brought to that time, where he kept her captive, but before his goons got her, they transported Bishop to Fitzroy's realm as well. Bishop, however, remained on the loose, and Fitzroy began to modify Shard to make her human again. His powers increased dramatically, to the point where he could freeze people in a type of stasis and open many more portals than before. In addition, his energy powered the Chronotroopers and his enitre fortress. In the final battle, Fitzroy used Shard as bait for Bishop, and he captured his rival when Shard betrayed him. Fitzroy tortured Bishop mentally and physically before leaving him to \"assume his destiny as Master of Time.\"", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "unknown\n", 
-            "fighting": 1, 
-            "firstappearance": "Uncanny X-Men #281\n", 
-            "groupaffiliation": [
-                "Formerly  Hellfire Club", 
-                "Upstarts", 
-                "Xavier Security Enforcers (trainee)"
-            ], 
-            "hair": "Green\n", 
-            "id": "Trevor_Fitzroy", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Anthony Shaw (father, deceased), Sebastian Shaw(Ancestor)", 
-            "occupation": "Criminal", 
-            "placeofbirth": "Earth-1191", 
-            "powers": "Absorbs life-energy from humans, can use this energy to open portals through time", 
-            "realname": "Trevor Fitzroy", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": [
-                "Marvel Universe", 
-                "formerly Earth-1191"
-            ]
-        }
-    }
+    "aliases": [
+        "The Chronomancer", 
+        "White Rook"
+    ], 
+    "citizenship": "Unknown", 
+    "content": "Recently, however, Fitzroy increased his power levels substantially and journeyed to a future timeline in which Earth was reduced to medieval technology levels. There Fitzroy set himself up as the Chronomancer and took over, using time-jumping robots with futuristic weapons to keep control. Then he had Shard brought to that time, where he kept her captive, but before his goons got her, they transported Bishop to Fitzroy's realm as well. Bishop, however, remained on the loose, and Fitzroy began to modify Shard to make her human again. His powers increased dramatically, to the point where he could freeze people in a type of stasis and open many more portals than before. In addition, his energy powered the Chronotroopers and his enitre fortress. In the final battle, Fitzroy used Shard as bait for Bishop, and he captured his rival when Shard betrayed him. Fitzroy tortured Bishop mentally and physically before leaving him to \"assume his destiny as Master of Time.\"", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "unknown\n", 
+    "fighting": 1, 
+    "firstappearance": "Uncanny X-Men #281\n", 
+    "groupaffiliation": [
+        "Formerly  Hellfire Club", 
+        "Upstarts", 
+        "Xavier Security Enforcers (trainee)"
+    ], 
+    "hair": "Green\n", 
+    "id": "Trevor_Fitzroy", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Anthony Shaw (father, deceased), Sebastian Shaw(Ancestor)", 
+    "occupation": "Criminal", 
+    "placeofbirth": "Earth-1191", 
+    "powers": "Absorbs life-energy from humans, can use this energy to open portals through time", 
+    "realname": "Trevor Fitzroy", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": [
+        "Marvel Universe", 
+        "formerly Earth-1191"
+    ]
 }

@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "White Gorilla", 
-            "citizenship": "Exiled citizen of Wakanda", 
-            "content": "When the T'Calla returned with select members of the Avengers, M'Baku, calling himself the Man-Ape, openly challenged the Panther's right to rule. In the battle that ensued M'Baku succeeded in defeating the Panther. However, when he bound T'Challa to the giant statue of a panther which was the Panther cult's major totem and tried to topple it upon his enemy, the statue instead crumbled, burying him.The believed dead Man-Ape was revived by his supporter N'Gamo and set out to track the Panther down and gain retribution. He tracked him to New York. There the Man-Ape allied himself with the Lethal Legion, kidnapped Monica Lynne, the Black Panther's American girlfriend, and sent word to T'Challa that he would have to once more engage him in mortal combat to free her. Through treachery, the M'Baku once again bested the Panther, taking the Panther captive. When the Avengers came to the T'Challa's rescue, the Lethal Legion managed to ensnare them. Eventually, the Avengers broke free and defeated their captors, and Captain America physically bested the Man-Ape.T'Challa decreed that the Man-Ape could never return to Wakanda without facing penalty of  death. Humiliated, the Man-Ape never risked the attempt and instead wandered the less civilized parts of the world, performing mercenary work to survive. He was eventually contacted again by the Grim Reaper, who was trying to assemble a new Lethal Legion to exact revenge upon the Avengers. The Man-Ape was assigned to free Goliath from his incarceration on the West Coast Avengers Compound. Succeeding in the task, the Man-Ape allied with the Legion until the Reaper's racist attitudes prompted him to abandon the Legion's cause.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #62\n", 
-            "groupaffiliation": [
-                "(formerly) Lethal Legion", 
-                "Masters of Evil"
-            ], 
-            "hair": "Brown\n", 
-            "height": 84, 
-            "id": "Man-Ape", 
-            "identity": "Known only to Wakandan and American authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Mercenary", 
-            "placeofbirth": [
-                "Wakanda", 
-                "Northern Africa"
-            ], 
-            "powers": "Man Ape gained mystical powers by consuming the flesh of a sacred white gorilla. M'Baku's mystically augmented powers include super-human strength, speed, stamina, agility and durability", 
-            "realname": "M'Baku", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 355
-        }
-    }
+    "aliases": "White Gorilla", 
+    "citizenship": "Exiled citizen of Wakanda", 
+    "content": "When the T'Calla returned with select members of the Avengers, M'Baku, calling himself the Man-Ape, openly challenged the Panther's right to rule. In the battle that ensued M'Baku succeeded in defeating the Panther. However, when he bound T'Challa to the giant statue of a panther which was the Panther cult's major totem and tried to topple it upon his enemy, the statue instead crumbled, burying him.The believed dead Man-Ape was revived by his supporter N'Gamo and set out to track the Panther down and gain retribution. He tracked him to New York. There the Man-Ape allied himself with the Lethal Legion, kidnapped Monica Lynne, the Black Panther's American girlfriend, and sent word to T'Challa that he would have to once more engage him in mortal combat to free her. Through treachery, the M'Baku once again bested the Panther, taking the Panther captive. When the Avengers came to the T'Challa's rescue, the Lethal Legion managed to ensnare them. Eventually, the Avengers broke free and defeated their captors, and Captain America physically bested the Man-Ape.T'Challa decreed that the Man-Ape could never return to Wakanda without facing penalty of  death. Humiliated, the Man-Ape never risked the attempt and instead wandered the less civilized parts of the world, performing mercenary work to survive. He was eventually contacted again by the Grim Reaper, who was trying to assemble a new Lethal Legion to exact revenge upon the Avengers. The Man-Ape was assigned to free Goliath from his incarceration on the West Coast Avengers Compound. Succeeding in the task, the Man-Ape allied with the Legion until the Reaper's racist attitudes prompted him to abandon the Legion's cause.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #62\n", 
+    "groupaffiliation": [
+        "(formerly) Lethal Legion", 
+        "Masters of Evil"
+    ], 
+    "hair": "Brown\n", 
+    "height": 84, 
+    "id": "Man-Ape", 
+    "identity": "Known only to Wakandan and American authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Mercenary", 
+    "placeofbirth": [
+        "Wakanda", 
+        "Northern Africa"
+    ], 
+    "powers": "Man Ape gained mystical powers by consuming the flesh of a sacred white gorilla. M'Baku's mystically augmented powers include super-human strength, speed, stamina, agility and durability", 
+    "realname": "M'Baku", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 355
 }

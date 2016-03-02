@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Merlin", 
-                "the Grail Hermit"
-            ], 
-            "citizenship": "U.K.", 
-            "content": "", 
-            "durability": 3, 
-            "education": "Ph.D. in History, B.A. in English Literature", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 4, 
-            "firstappearance": "Knights of Pendragon #8 (1990)\n", 
-            "groupaffiliation": [
-                "Dark Guard", 
-                "formerly Knights Of Pendragon"
-            ], 
-            "hair": "(Hunter) Grey; (Albion) Brown\n", 
-            "height": 0, 
-            "id": "Albion_(Peter_Hunter)", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "History Master at Gatton Prep School", 
-                "Wiltshire", 
-                "England"
-            ], 
-            "placeofbirth": [
-                "Adlestrop", 
-                "England"
-            ], 
-            "powers": "Albion has enhanced strength, agility, and durability, and can fly at speeds near Mach 2, sense the presence of the Bane, and discharge magic flame from his hands. He is well versed in the use of the Arthurian Tarot, utilizing it to divine future events. Albion's armor provides protection from both physical and mystic harm, as well as amplifying his senses. The suit is bonded to him and cannot be removed unless he wills it. For a time, the Pendragons used mystically powered bikes to teleport to and from Avalon.", 
-            "realname": "Peter Hunter", 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Merlin", 
+        "the Grail Hermit"
+    ], 
+    "citizenship": "U.K.", 
+    "content": "", 
+    "durability": 3, 
+    "education": "Ph.D. in History, B.A. in English Literature", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 4, 
+    "firstappearance": "Knights of Pendragon #8 (1990)\n", 
+    "groupaffiliation": [
+        "Dark Guard", 
+        "formerly Knights Of Pendragon"
+    ], 
+    "hair": "(Hunter) Grey; (Albion) Brown\n", 
+    "height": 0, 
+    "id": "Albion_(Peter_Hunter)", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "History Master at Gatton Prep School", 
+        "Wiltshire", 
+        "England"
+    ], 
+    "placeofbirth": [
+        "Adlestrop", 
+        "England"
+    ], 
+    "powers": "Albion has enhanced strength, agility, and durability, and can fly at speeds near Mach 2, sense the presence of the Bane, and discharge magic flame from his hands. He is well versed in the use of the Arthurian Tarot, utilizing it to divine future events. Albion's armor provides protection from both physical and mystic harm, as well as amplifying his senses. The suit is bonded to him and cannot be removed unless he wills it. For a time, the Pendragons used mystically powered bikes to teleport to and from Avalon.", 
+    "realname": "Peter Hunter", 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

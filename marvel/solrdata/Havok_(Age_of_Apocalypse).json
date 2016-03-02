@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Alex and Scott were both given the title of Prelate. In the meantime, their father, Christopher, managed to escape from the Shi'ar empire and returned to Earth in a stolen aircraft. Unfortunately he was also infected with a Brood egg. His aircraft was captured by Infinites and he was sent to Sinister, who kept his return secret from Alex and Scott. After years of being experimented on, Christopher managed to escape and Sinister ordered his Elite Mutant Force to recapture him. Alex and Scott located Christopher in the \"Ghost Lands\" where he revealed that he was their father. Although Christopher told his sons the story of how they got separated, Scott remained unconvinced but Alex believed he was really their father. Their reunion was cut short however when, during a battle between some scavengers, Christopher's Brood egg hatched and Scott was forced to kill his own father to save him. This act would only cause a further rift to appear between Alex and Scott.Havok became a regular at Angel's nightclub \"Heaven\" and began an affair with its singer, Scarlett McKenzie. Due to the fact that Scarlett wasn't a mutant, Havok was forced to keep this affair a secret to avoid being accused of miscegenation. Havok was unaware that Scarlett was secretly working for the Human High Council. When Weapon X and Jean Grey  infiltrated Apocalypse's Atlantic Sea Wall, they clashed with Havok. During the battle, Havok was accidentally fused with a Sentinel when they both entered a transporter together. Beast was later forced to remove the parts of the Sentinel with a bone-saw. In the meantime, Sinister's betrayal of Apocalypse became open and Cyclops put himself in charge, much to Havok's annoyance.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 6, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "Tales from the Age of Apocalypse: Sinister Bloodlines (1995)\n", 
-            "groupaffiliation": "Sinister's Elite Mutant Force", 
-            "hair": "Blond\n", 
-            "height": 72, 
-            "id": "Havok_(Age_of_Apocalypse)", 
-            "identity": "Publicly known", 
-            "intelligence": 2, 
-            "knownrelatives": "Christopher Summers (father, deceased), Katherine Summers (mother, deceased), Sinister (surrogate father), Scott (Cyclops, brother, deceased)", 
-            "occupation": "Commander of the breeding pens", 
-            "placeofbirth": [
-                "Honolulu", 
-                "Hawaii"
-            ], 
-            "powers": "Havok is a mutant with the ability to absorb ambient cosmic energy into the cells of his body and transform it and release it as waves of energy. These waves heat the air in their path turning it to plasma. Havok is immune to the heat energy given off by these blasts.", 
-            "realname": "Alexander \"Alex\" Summers", 
-            "significantissues": [
-                "Reunited with his father who is later killed by Cyclops (Tales from the Age of Apocalypse: Sinister Bloodlines, 1995)", 
-                "Havok gets fused with a Sentinel (Weapon X #1, 1995)", 
-                "Discovers his brother is freeing prisoners from the pens (Factor X #2, 1995)", 
-                "Captures Jean Grey (Factor X #3, 1995)", 
-                "Killed by Weapon X (X-Men: Omega, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Alex and Scott were both given the title of Prelate. In the meantime, their father, Christopher, managed to escape from the Shi'ar empire and returned to Earth in a stolen aircraft. Unfortunately he was also infected with a Brood egg. His aircraft was captured by Infinites and he was sent to Sinister, who kept his return secret from Alex and Scott. After years of being experimented on, Christopher managed to escape and Sinister ordered his Elite Mutant Force to recapture him. Alex and Scott located Christopher in the \"Ghost Lands\" where he revealed that he was their father. Although Christopher told his sons the story of how they got separated, Scott remained unconvinced but Alex believed he was really their father. Their reunion was cut short however when, during a battle between some scavengers, Christopher's Brood egg hatched and Scott was forced to kill his own father to save him. This act would only cause a further rift to appear between Alex and Scott.Havok became a regular at Angel's nightclub \"Heaven\" and began an affair with its singer, Scarlett McKenzie. Due to the fact that Scarlett wasn't a mutant, Havok was forced to keep this affair a secret to avoid being accused of miscegenation. Havok was unaware that Scarlett was secretly working for the Human High Council. When Weapon X and Jean Grey  infiltrated Apocalypse's Atlantic Sea Wall, they clashed with Havok. During the battle, Havok was accidentally fused with a Sentinel when they both entered a transporter together. Beast was later forced to remove the parts of the Sentinel with a bone-saw. In the meantime, Sinister's betrayal of Apocalypse became open and Cyclops put himself in charge, much to Havok's annoyance.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 6, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "Tales from the Age of Apocalypse: Sinister Bloodlines (1995)\n", 
+    "groupaffiliation": "Sinister's Elite Mutant Force", 
+    "hair": "Blond\n", 
+    "height": 72, 
+    "id": "Havok_(Age_of_Apocalypse)", 
+    "identity": "Publicly known", 
+    "intelligence": 2, 
+    "knownrelatives": "Christopher Summers (father, deceased), Katherine Summers (mother, deceased), Sinister (surrogate father), Scott (Cyclops, brother, deceased)", 
+    "occupation": "Commander of the breeding pens", 
+    "placeofbirth": [
+        "Honolulu", 
+        "Hawaii"
+    ], 
+    "powers": "Havok is a mutant with the ability to absorb ambient cosmic energy into the cells of his body and transform it and release it as waves of energy. These waves heat the air in their path turning it to plasma. Havok is immune to the heat energy given off by these blasts.", 
+    "realname": "Alexander \"Alex\" Summers", 
+    "significantissues": [
+        "Reunited with his father who is later killed by Cyclops (Tales from the Age of Apocalypse: Sinister Bloodlines, 1995)", 
+        "Havok gets fused with a Sentinel (Weapon X #1, 1995)", 
+        "Discovers his brother is freeing prisoners from the pens (Factor X #2, 1995)", 
+        "Captures Jean Grey (Factor X #3, 1995)", 
+        "Killed by Weapon X (X-Men: Omega, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 175
 }

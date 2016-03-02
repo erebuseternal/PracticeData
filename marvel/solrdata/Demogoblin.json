@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Formerly Hobgoblin (while merged with Macendale)", 
-            "citizenship": "Inapplicable", 
-            "content": "Jason was then taken to Tombs Prison and incarcerated where Jason Macendale and the entity now known as Demogoblin physically split apart. Demogoblin then broke out of jail and started to \"cleanse the sinners\". He was then rescued by the  Doppelganger and was confronted by Code: Blue, who took down Demogoblin despite not having any superpowers. Demogoblin was then once again captured, but this time telepathically summoned Doppelganger, who set him free. This caught the attention of Spider-Man who quickly rushed to apprehend Demogoblin and Doppelganger. During the battle Venom was drawn into the fight and eventually Ghost Rider and Blaze joined the battle, the result being Demogoblin's arrest again.Some time later Moon Knight began to experience bizarre spells of dizziness and his face began to slowly decay. Deciding that Demogoblin was to blame he paid the demon a visit in jail and demanded to know what he had done to him. During a telepathic and physical scuffle Moon Knight learned that Demogoblin had planted a virus in him that was slowly taking over his body. The result of the virus separated from Moon Knight and became known as Pang. Moon Knight then defeated Demogoblin once again, leaving him in his jail cell. He was freed and joined a gang which included Carnage,  Doppelganger, Shriek and Carrion. Together they torn New York apart until Spider-Man and his fellow super heroes put a stop to the madness.", 
-            "durability": 5, 
-            "education": "Extensive knowledge of black magic", 
-            "energy": 6, 
-            "eyes": "Red\n", 
-            "fighting": 6, 
-            "firstappearance": "Web of Spider-Man #86 (1992)\n", 
-            "groupaffiliation": [
-                "Carnage Family", 
-                "former partner of Doppelganger"
-            ], 
-            "hair": "None\n", 
-            "height": 73, 
-            "id": "Demogoblin", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Pang (Spawn)", 
-            "occupation": "Vigilante", 
-            "origin": "Web of Spider-Man #86 (1992)", 
-            "placeofbirth": [
-                "Presumable \"Otherplace\"", 
-                "presumed to be Belasco's Limbo"
-            ], 
-            "powers": "Demogoblin possesses superhuman strength, capable of lifting around 10 tons. He also had sharp teeth and claws. His skin could cause burns and hallucinations. He could throw or shoot blasts of heat. He had limited telepathic ability developing a telepathic link with both Doppelganger and Jason Macendale. Demogoblin is well versed in black magic and the occult. He could summon a fiery magical glider and used that to fly. He could also magically create razor bats and magical pumpkins which would emotionally paralyze his victims.", 
-            "realname": "Unrevealed", 
-            "speed": 5, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": "Formerly Hobgoblin (while merged with Macendale)", 
+    "citizenship": "Inapplicable", 
+    "content": "Jason was then taken to Tombs Prison and incarcerated where Jason Macendale and the entity now known as Demogoblin physically split apart. Demogoblin then broke out of jail and started to \"cleanse the sinners\". He was then rescued by the  Doppelganger and was confronted by Code: Blue, who took down Demogoblin despite not having any superpowers. Demogoblin was then once again captured, but this time telepathically summoned Doppelganger, who set him free. This caught the attention of Spider-Man who quickly rushed to apprehend Demogoblin and Doppelganger. During the battle Venom was drawn into the fight and eventually Ghost Rider and Blaze joined the battle, the result being Demogoblin's arrest again.Some time later Moon Knight began to experience bizarre spells of dizziness and his face began to slowly decay. Deciding that Demogoblin was to blame he paid the demon a visit in jail and demanded to know what he had done to him. During a telepathic and physical scuffle Moon Knight learned that Demogoblin had planted a virus in him that was slowly taking over his body. The result of the virus separated from Moon Knight and became known as Pang. Moon Knight then defeated Demogoblin once again, leaving him in his jail cell. He was freed and joined a gang which included Carnage,  Doppelganger, Shriek and Carrion. Together they torn New York apart until Spider-Man and his fellow super heroes put a stop to the madness.", 
+    "durability": 5, 
+    "education": "Extensive knowledge of black magic", 
+    "energy": 6, 
+    "eyes": "Red\n", 
+    "fighting": 6, 
+    "firstappearance": "Web of Spider-Man #86 (1992)\n", 
+    "groupaffiliation": [
+        "Carnage Family", 
+        "former partner of Doppelganger"
+    ], 
+    "hair": "None\n", 
+    "height": 73, 
+    "id": "Demogoblin", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Pang (Spawn)", 
+    "occupation": "Vigilante", 
+    "origin": "Web of Spider-Man #86 (1992)", 
+    "placeofbirth": [
+        "Presumable \"Otherplace\"", 
+        "presumed to be Belasco's Limbo"
+    ], 
+    "powers": "Demogoblin possesses superhuman strength, capable of lifting around 10 tons. He also had sharp teeth and claws. His skin could cause burns and hallucinations. He could throw or shoot blasts of heat. He had limited telepathic ability developing a telepathic link with both Doppelganger and Jason Macendale. Demogoblin is well versed in black magic and the occult. He could summon a fiery magical glider and used that to fly. He could also magically create razor bats and magical pumpkins which would emotionally paralyze his victims.", 
+    "realname": "Unrevealed", 
+    "speed": 5, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

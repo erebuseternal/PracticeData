@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.K.", 
-            "content": "During World War II, Baron Blood returned to the countryside near Falsworth Manor to begin a new reign of terror. Montgomery's daughter, Jacqueline, was attacked by the vampire, but saved by the original Human Torch, who drove it off. Jacqueline invited the Torch and his team, the Invaders, to dinner at the manor, where Falsworth then revealed to family and company that there was one other super-hero in their midst \u2014 himself! He told of his career during World War I as Union Jack and volunteered the use of his mansion as a base of operations for the Invaders. He was even inspired to don the Union Jack identity to fight alongside the Invaders against Baron Blood. During the battle, Falsworth finally discovered the identity of the vampire was his brother, John, only to have his brother crush his legs under a boulder. He managed to pry to boulder off, which subsequently knocked Baron Blood onto a stalagmite, impaling him. Although paralyzed from the waist down, he did accompany the Invaders on a mission into Germany, where he met and reconciled with his son Brian, who he had thought fled to German as a Nazi sympathizer. He offered his son the mantle of Union Jack, passing on the legacy.", 
-            "durability": 1, 
-            "education": "College graduate, military training", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Invaders #7 (1976)\n", 
-            "groupaffiliation": [
-                "(formerly) Freedom\u2019s Five", 
-                "associate of the Invaders"
-            ], 
-            "hair": "White; (formerly) Black\n", 
-            "height": 0, 
-            "id": "Union_Jack_(Montgomery_Falsworth)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "William, Lord Falsworth (father, deceased); Lady Falsworth (wife, deceased); John Falsworth (Baron Blood, brother, deceased); Brian Falsworth (Union Jack, son, deceased); Jacqueline Falsworth (Spitfire, daughter); Lord Crichton (son-in-law, deceased); Kenneth Crichton (Baron Blood, grandson, deceased)", 
-            "occupation": [
-                "Aristocrat", 
-                "(formerly) adventurer", 
-                "field marshal in British army"
-            ], 
-            "origin": "Invaders #7 (1976)", 
-            "placeofbirth": [
-                "Falsworth Manor", 
-                "England"
-            ], 
-            "powers": "None", 
-            "realname": "James Montgomery, Lord Falsworth", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 240
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.K.", 
+    "content": "During World War II, Baron Blood returned to the countryside near Falsworth Manor to begin a new reign of terror. Montgomery's daughter, Jacqueline, was attacked by the vampire, but saved by the original Human Torch, who drove it off. Jacqueline invited the Torch and his team, the Invaders, to dinner at the manor, where Falsworth then revealed to family and company that there was one other super-hero in their midst \u2014 himself! He told of his career during World War I as Union Jack and volunteered the use of his mansion as a base of operations for the Invaders. He was even inspired to don the Union Jack identity to fight alongside the Invaders against Baron Blood. During the battle, Falsworth finally discovered the identity of the vampire was his brother, John, only to have his brother crush his legs under a boulder. He managed to pry to boulder off, which subsequently knocked Baron Blood onto a stalagmite, impaling him. Although paralyzed from the waist down, he did accompany the Invaders on a mission into Germany, where he met and reconciled with his son Brian, who he had thought fled to German as a Nazi sympathizer. He offered his son the mantle of Union Jack, passing on the legacy.", 
+    "durability": 1, 
+    "education": "College graduate, military training", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Invaders #7 (1976)\n", 
+    "groupaffiliation": [
+        "(formerly) Freedom\u2019s Five", 
+        "associate of the Invaders"
+    ], 
+    "hair": "White; (formerly) Black\n", 
+    "height": 0, 
+    "id": "Union_Jack_(Montgomery_Falsworth)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "William, Lord Falsworth (father, deceased); Lady Falsworth (wife, deceased); John Falsworth (Baron Blood, brother, deceased); Brian Falsworth (Union Jack, son, deceased); Jacqueline Falsworth (Spitfire, daughter); Lord Crichton (son-in-law, deceased); Kenneth Crichton (Baron Blood, grandson, deceased)", 
+    "occupation": [
+        "Aristocrat", 
+        "(formerly) adventurer", 
+        "field marshal in British army"
+    ], 
+    "origin": "Invaders #7 (1976)", 
+    "placeofbirth": [
+        "Falsworth Manor", 
+        "England"
+    ], 
+    "powers": "None", 
+    "realname": "James Montgomery, Lord Falsworth", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 240
 }

@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Champion of Champions", 
-            "content": "Unprepared for so devastating an attack, the Eternian defenses fell. Government leaders realized that their race faced total extinction. Desperately Eternian scientists prepared to transform Grom, the race\u2019s most outstanding physical specimen, into the receptacle of the collective consciousness and mental might of Eternus. As the surviving population of Eternus marched into huge \u201csynthesizing chambers\u201d scattered across the planet, their organic brains were converted to pure mental energy and projected into Grom. When the process was complete, and only the scientists who conducted the process were left alive, the capsule containing Grom was launched into space to incubate until the being learned to control the powers of his group mind. Eons passed. Then Grom emerged as the Overmind, a warrior who possessed the collective psionic power of the billion brains and who carried in his memory the subliminal command to subdue the universe.The Overmind attacked the first inhabited planet he came upon, the Earth, but was defeated by the Fantastic Four with the aid of the Stranger. The Stranger claimed to be the embodiment of the collective psionic power of all the surviving Gigantians. The Stranger\u2019s psionic abilities proved to be more powerful than those of the Overmind and he shrunk the Overmind to microscopic stature and exiled him to a mote of dust.", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #111 (1971)\n", 
-            "groupaffiliation": "Formerly Defenders", 
-            "hair": "Red\n", 
-            "height": 0, 
-            "id": "Overmind", 
-            "identity": "Unknown to the general public", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Former gladiator", 
-            "placeofbirth": [
-                "Planet Eternus (now non-existent)", 
-                "Andromeda Galaxy"
-            ], 
-            "powers": "Overmind possesses superhuman physical attributes derived from his alien nature as well as vast psionic powers. As the ultimate physical specimen of an ancient alien race, Overmind\u2019s body is far superior to a human being\u2019s, able to lift (press) approximately 10 tons (without augmentation of his psionic powers). He also immune to diseases and aging and has greater than human endurance and recovery time by a factor 5.\nOvermind possesses the combined psionic powers of six moderately-powerful human psionic/telepaths. He can \u201cread\u201d the thoughts of others and project his own thoughts into others\u2019 minds, within an as yet undetermined radius. He could also project illusions of apparently opaque 3-dimensional objects into the minds of those within his field of view, providing it as a single image. It is not known how long he can sustain a given illusion or how many minds he can project illusions into at once. Overmind also possesses limited psychokinetic ability, enabling him to levitate objects (whose weights do not exceed that which he can physically lift without psionic augmentation) within approximately 50 feet of him. He can project psychokinetic force over a range of .001 pounds per square inch to 20 pounds per square inch of overpressure (equivalent to an explosion of 10 pounds of TNT at a range of 15 feet). By directing concussive psychokinetic blasts at people or objects, he could kill a human being at a maximum range of 10 feet or eventually severely deform a plate of 1-inch thick steel. The Overmind also appears to have a degree of precognitive ability, the extent of which is yet unknown. It is also not known how long the Overmind can project his psionic energy before fatigue impairs his abilities.\nAs a group intelligence made up of six once-separated consciousnesses, the Overmind has a gestalt personality greater than the sum of its parts. Through concentration, he can allow one of his six component personalities to temporary manifest itself as dominant. When doing so, he usually creates an illusion of the physical image of the manifest group member.\n\nBy generating as much psionic energy as he can and channeling it back into his physical body, the Overmind can augment his physical strength by a factor of 7 for brief period of exertion. Hence, he can sometimes lift (press) 70 tons. The channeling takes such concentration that he cannot use any of his other abilities at the same time.", 
-            "realname": "Grom", 
-            "significantissues": "Battled the Squadron Supreme (Defenders #112-115, 1982-1983)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 750
-        }
-    }
+    "aliases": "Champion of Champions", 
+    "content": "Unprepared for so devastating an attack, the Eternian defenses fell. Government leaders realized that their race faced total extinction. Desperately Eternian scientists prepared to transform Grom, the race\u2019s most outstanding physical specimen, into the receptacle of the collective consciousness and mental might of Eternus. As the surviving population of Eternus marched into huge \u201csynthesizing chambers\u201d scattered across the planet, their organic brains were converted to pure mental energy and projected into Grom. When the process was complete, and only the scientists who conducted the process were left alive, the capsule containing Grom was launched into space to incubate until the being learned to control the powers of his group mind. Eons passed. Then Grom emerged as the Overmind, a warrior who possessed the collective psionic power of the billion brains and who carried in his memory the subliminal command to subdue the universe.The Overmind attacked the first inhabited planet he came upon, the Earth, but was defeated by the Fantastic Four with the aid of the Stranger. The Stranger claimed to be the embodiment of the collective psionic power of all the surviving Gigantians. The Stranger\u2019s psionic abilities proved to be more powerful than those of the Overmind and he shrunk the Overmind to microscopic stature and exiled him to a mote of dust.", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #111 (1971)\n", 
+    "groupaffiliation": "Formerly Defenders", 
+    "hair": "Red\n", 
+    "height": 0, 
+    "id": "Overmind", 
+    "identity": "Unknown to the general public", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Former gladiator", 
+    "placeofbirth": [
+        "Planet Eternus (now non-existent)", 
+        "Andromeda Galaxy"
+    ], 
+    "powers": "Overmind possesses superhuman physical attributes derived from his alien nature as well as vast psionic powers. As the ultimate physical specimen of an ancient alien race, Overmind\u2019s body is far superior to a human being\u2019s, able to lift (press) approximately 10 tons (without augmentation of his psionic powers). He also immune to diseases and aging and has greater than human endurance and recovery time by a factor 5.\nOvermind possesses the combined psionic powers of six moderately-powerful human psionic/telepaths. He can \u201cread\u201d the thoughts of others and project his own thoughts into others\u2019 minds, within an as yet undetermined radius. He could also project illusions of apparently opaque 3-dimensional objects into the minds of those within his field of view, providing it as a single image. It is not known how long he can sustain a given illusion or how many minds he can project illusions into at once. Overmind also possesses limited psychokinetic ability, enabling him to levitate objects (whose weights do not exceed that which he can physically lift without psionic augmentation) within approximately 50 feet of him. He can project psychokinetic force over a range of .001 pounds per square inch to 20 pounds per square inch of overpressure (equivalent to an explosion of 10 pounds of TNT at a range of 15 feet). By directing concussive psychokinetic blasts at people or objects, he could kill a human being at a maximum range of 10 feet or eventually severely deform a plate of 1-inch thick steel. The Overmind also appears to have a degree of precognitive ability, the extent of which is yet unknown. It is also not known how long the Overmind can project his psionic energy before fatigue impairs his abilities.\nAs a group intelligence made up of six once-separated consciousnesses, the Overmind has a gestalt personality greater than the sum of its parts. Through concentration, he can allow one of his six component personalities to temporary manifest itself as dominant. When doing so, he usually creates an illusion of the physical image of the manifest group member.\n\nBy generating as much psionic energy as he can and channeling it back into his physical body, the Overmind can augment his physical strength by a factor of 7 for brief period of exertion. Hence, he can sometimes lift (press) 70 tons. The channeling takes such concentration that he cannot use any of his other abilities at the same time.", 
+    "realname": "Grom", 
+    "significantissues": "Battled the Squadron Supreme (Defenders #112-115, 1982-1983)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 750
 }

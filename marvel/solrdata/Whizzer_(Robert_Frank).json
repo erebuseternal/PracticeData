@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "groupaffiliation": [
-                "formerly Liberty Legion", 
-                "All-Winners Squad", 
-                "Invaders"
-            ], 
-            "hair": "Unrevealed\n", 
-            "id": "Whizzer_(Robert_Frank)", 
-            "identity": "Unrevealed", 
-            "intelligence": 1, 
-            "knownrelatives": "Miss America (wife), Nuklo (son)", 
-            "occupation": "former Adventurer", 
-            "origin": "USA Comics #1 (Aug. 1941)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Whizzer was capable of running at superhuman speeds", 
-            "realname": "Robert Frank", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "groupaffiliation": [
+        "formerly Liberty Legion", 
+        "All-Winners Squad", 
+        "Invaders"
+    ], 
+    "hair": "Unrevealed\n", 
+    "id": "Whizzer_(Robert_Frank)", 
+    "identity": "Unrevealed", 
+    "intelligence": 1, 
+    "knownrelatives": "Miss America (wife), Nuklo (son)", 
+    "occupation": "former Adventurer", 
+    "origin": "USA Comics #1 (Aug. 1941)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Whizzer was capable of running at superhuman speeds", 
+    "realname": "Robert Frank", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

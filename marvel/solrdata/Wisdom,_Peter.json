@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Winston", 
-                "Mr. W"
-            ], 
-            "citizenship": "U.K.", 
-            "content": "He became the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities. Never the most popular bloke in the team, he became even less so when he started a relationship with the the young Kitty Pryde a.k.a. Shadowcat. Some team members worried that Kitty would only end up being hurt by the rougish Wisdom. Kitty's ex-boyfriend Colossus, having recently left the Acolytes, came to Muir Island seeking Kitty, and was shocked to spy her with Wisdom; not entirely in his right mind, he launched an unprovoked attack on Wisdom. The two came to blows and Colossus beat Wisdom almost to death, confining Wisdom to a wheelchair for some time. Though Wisdom was taken unawares and was drunk at the time, he managed to mount a defense which left Colossus in critical condition too. Following his romance with Kitty, Wisdom went on to create an independent espionage network to police the global intelligence community's treatment of mutants.As the leader and mentor of X-Force, Wisdom, now sporting an eye-patch due to the loss of an eye, at one point seemed to have been killed by genetic terrorist Doctor Niles Roman. His demise was subsequently exposed as a ruse, however, as was the loss of his eye. Wisdom subsequently joined British intelligence agency MI-13.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 3, 
-            "eyes": "Brown\n", 
-            "fighting": 3, 
-            "firstappearance": "Excalibur #86\n", 
-            "groupaffiliation": [
-                "MI-13", 
-                "formerly Excalibur", 
-                "X-Force", 
-                "Black Air", 
-                "MI-6"
-            ], 
-            "hair": "Black\n", 
-            "height": 69, 
-            "id": "Wisdom,_Peter", 
-            "identity": "No dual identity", 
-            "intelligence": 2, 
-            "knownrelatives": "Harold Wisdom (father), unidentified mother (deceased), Romany Wisdom (sister, deceased)", 
-            "occupation": "Government agent", 
-            "placeofbirth": [
-                "England", 
-                "U.K."
-            ], 
-            "powers": "Able to generate \"hot knives,\" blade-shaped darts of pure heat used as projectiles or occasionally, slashing weapons. He can also use them to form shields to burn incoming missiles or to generate thermals beneath him as he falls to slow his descent. Pete has excellent control of his knives, able to cause severe damage or just to stun.", 
-            "realname": "Peter Paul Wisdom", 
-            "significantissues": [
-                "Resigned from Black Air, began dating Shadowcat (Excalibur #88-90)", 
-                "mother died (Excalibur #90)", 
-                "joined Excalibur (Excalibur #91)", 
-                "injured by a jealous Colossus (Excalibur #92-93)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 158
-        }
-    }
+    "aliases": [
+        "Winston", 
+        "Mr. W"
+    ], 
+    "citizenship": "U.K.", 
+    "content": "He became the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities. Never the most popular bloke in the team, he became even less so when he started a relationship with the the young Kitty Pryde a.k.a. Shadowcat. Some team members worried that Kitty would only end up being hurt by the rougish Wisdom. Kitty's ex-boyfriend Colossus, having recently left the Acolytes, came to Muir Island seeking Kitty, and was shocked to spy her with Wisdom; not entirely in his right mind, he launched an unprovoked attack on Wisdom. The two came to blows and Colossus beat Wisdom almost to death, confining Wisdom to a wheelchair for some time. Though Wisdom was taken unawares and was drunk at the time, he managed to mount a defense which left Colossus in critical condition too. Following his romance with Kitty, Wisdom went on to create an independent espionage network to police the global intelligence community's treatment of mutants.As the leader and mentor of X-Force, Wisdom, now sporting an eye-patch due to the loss of an eye, at one point seemed to have been killed by genetic terrorist Doctor Niles Roman. His demise was subsequently exposed as a ruse, however, as was the loss of his eye. Wisdom subsequently joined British intelligence agency MI-13.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 3, 
+    "eyes": "Brown\n", 
+    "fighting": 3, 
+    "firstappearance": "Excalibur #86\n", 
+    "groupaffiliation": [
+        "MI-13", 
+        "formerly Excalibur", 
+        "X-Force", 
+        "Black Air", 
+        "MI-6"
+    ], 
+    "hair": "Black\n", 
+    "height": 69, 
+    "id": "Wisdom,_Peter", 
+    "identity": "No dual identity", 
+    "intelligence": 2, 
+    "knownrelatives": "Harold Wisdom (father), unidentified mother (deceased), Romany Wisdom (sister, deceased)", 
+    "occupation": "Government agent", 
+    "placeofbirth": [
+        "England", 
+        "U.K."
+    ], 
+    "powers": "Able to generate \"hot knives,\" blade-shaped darts of pure heat used as projectiles or occasionally, slashing weapons. He can also use them to form shields to burn incoming missiles or to generate thermals beneath him as he falls to slow his descent. Pete has excellent control of his knives, able to cause severe damage or just to stun.", 
+    "realname": "Peter Paul Wisdom", 
+    "significantissues": [
+        "Resigned from Black Air, began dating Shadowcat (Excalibur #88-90)", 
+        "mother died (Excalibur #90)", 
+        "joined Excalibur (Excalibur #91)", 
+        "injured by a jealous Colossus (Excalibur #92-93)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 158
 }

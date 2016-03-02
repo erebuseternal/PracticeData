@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Paste-Pot Pete", 
-            "citizenship": "Citizen of the U.S.A. with a criminal record", 
-            "content": "For the first time since his unique discovery, Petruski found success as a member of the Frightful Four, which the Wizard founded with Petruski, the Sandman, and Medusa, in order to defeat the Fantastic Four.  The Frightful Four attempted to use the Wizard's anti-grav discs to send the Fantastic Four-minus the Torch-into space, but Johnny appeared after being alerted by Alicia Masters, and forced the Wizard to help him save his teammates.  Then, together, the Fantastic Four defeated the Frightful Four until the Sandman and the Wizard exploded the Wizard's ship as a distraction, and the four criminals escaped.  After this, along with the Wizard\u2019s help on several new projectile weapons and traps, Petruski developed his Trapster codename.The Frightful Four continued to experience small moments of success against their enemies: once, when they kidnapped Susan Richards (then the Invisible Girl) and nearly trapped the Fantastic Four on an island rigged to explode; and another time, when they captured and brainwashed the Thing, turning him against his teammates.  But after the Fantastic Four freed the Thing, they finally managed to subdue the Frightful Four, and Trapster and his allies were turned over to the authorities.The Trapster broke out of prison to try a solo criminal career, but his repeated attempts at revenge against the Fantastic Four were only met with defeat.  Perhaps wisely, he would thereafter only act as a member of the Frightful Four, who would later attempted to catch the Fantastic Four unaware at the home of Agatha Harkness, and even enlisted the help of Thundra and, later, the Brute.  With Electro as a member, the Frightful Four even managed to break into the Fantastic Four\u2019s headquarters with the Trapster disguised as Spider-Man.After redesigning his paste-gun into wrist-mounted shooters, the Trapster hoped for one good clean victory over a well-known hero, and he teamed with the Whirlwind to try to take down Captain America.  After being defeated, the two villains freed themselves and went their separate ways.When the amoral Gideon Trust was seeking to use technology appropriated from the Fantastic Four to invade the dimension known as the Negative Zone, they made the Trapster one of its lead agents.  However, while mining the Zone it of its energies, the Trust compromised the infrastructure of the wall between the two universes, jeopardizing the existence of both.  They were discovered and sought out by the Fantastic Four, who became shipwrecked in their journey and had to elicit aid from a lost community of Puritans in the Zone and their champion, Hellscout.  Ultimately, Trapster and the agents of the Trust were confronted by Annihilus, the ruler of the Negative Zone.  During their battle with Annihilus, they were also caught by the Fantastic Four, Hellscout, and their allies: Maximus the Mad and his Alpha Primates.  The Trust stole Annihilus' cosmic control rod, the source of his powers, but before they could transport it to earth, Hellscout shot the rod, spilling its energies into the prime universe.  By the time the Fantastic Four managed to seal the portal to the Negative Zone and restore balance to the infrastructure between the two universes, Trapster and the agents of the Gideon Trust fled, though this left them trapped when the Fantastic Four managed to return to Earth.Nevertheless, the Trapster was once again a member of the Frightful Four in the Wizard\u2019s bid to make an even more comparative counterpart to the Fantastic Four, this time by using members of his own \u201cfamily,\u201d namely his ex-wife Salamadra and their daughter, Cole.  The ever-loyal Trapster performed as best he could, helping the Wizard outfit his headquarters with new traps, and hoping the Wizard could help Trapster become a better villain.  However, when Cole tried to get help from the Fantastic Four, the Wizard revealed that he hoped Cole would join the Frightful Four in the Trapster\u2019s place.  Viscously turning against the Trapster and despite Petruski\u2019s help in defeating the Fantastic Four and stopping Cole from escaping, the Wizard blasted the Trapster with a beam from his chestplate.  The Trapster was caught in the ultimate trap: stuck in a self-contained time-loop so that he would re-live his last moments over and over again, ad infinitum, with no hope for escape.", 
-            "durability": 1, 
-            "education": "Masters of Science degree", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Paste-Pot Pete: Strange Tales #104 (1951); Trapster: Fantastic Four #38 (1961)\n", 
-            "groupaffiliation": [
-                "Frightful Four", 
-                "formerly Zodiac's Gang", 
-                "former agent of the Gideon Trust"
-            ], 
-            "hair": "Brown\n", 
-            "height": 0, 
-            "id": "Trapster", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Mercenary", 
-                "criminal", 
-                "former research scientist"
-            ], 
-            "placeofbirth": [
-                "Gary", 
-                "Indiana"
-            ], 
-            "powers": "None", 
-            "realname": "Peter Petruski", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 160
-        }
-    }
+    "aliases": "Paste-Pot Pete", 
+    "citizenship": "Citizen of the U.S.A. with a criminal record", 
+    "content": "For the first time since his unique discovery, Petruski found success as a member of the Frightful Four, which the Wizard founded with Petruski, the Sandman, and Medusa, in order to defeat the Fantastic Four.  The Frightful Four attempted to use the Wizard's anti-grav discs to send the Fantastic Four-minus the Torch-into space, but Johnny appeared after being alerted by Alicia Masters, and forced the Wizard to help him save his teammates.  Then, together, the Fantastic Four defeated the Frightful Four until the Sandman and the Wizard exploded the Wizard's ship as a distraction, and the four criminals escaped.  After this, along with the Wizard\u2019s help on several new projectile weapons and traps, Petruski developed his Trapster codename.The Frightful Four continued to experience small moments of success against their enemies: once, when they kidnapped Susan Richards (then the Invisible Girl) and nearly trapped the Fantastic Four on an island rigged to explode; and another time, when they captured and brainwashed the Thing, turning him against his teammates.  But after the Fantastic Four freed the Thing, they finally managed to subdue the Frightful Four, and Trapster and his allies were turned over to the authorities.The Trapster broke out of prison to try a solo criminal career, but his repeated attempts at revenge against the Fantastic Four were only met with defeat.  Perhaps wisely, he would thereafter only act as a member of the Frightful Four, who would later attempted to catch the Fantastic Four unaware at the home of Agatha Harkness, and even enlisted the help of Thundra and, later, the Brute.  With Electro as a member, the Frightful Four even managed to break into the Fantastic Four\u2019s headquarters with the Trapster disguised as Spider-Man.After redesigning his paste-gun into wrist-mounted shooters, the Trapster hoped for one good clean victory over a well-known hero, and he teamed with the Whirlwind to try to take down Captain America.  After being defeated, the two villains freed themselves and went their separate ways.When the amoral Gideon Trust was seeking to use technology appropriated from the Fantastic Four to invade the dimension known as the Negative Zone, they made the Trapster one of its lead agents.  However, while mining the Zone it of its energies, the Trust compromised the infrastructure of the wall between the two universes, jeopardizing the existence of both.  They were discovered and sought out by the Fantastic Four, who became shipwrecked in their journey and had to elicit aid from a lost community of Puritans in the Zone and their champion, Hellscout.  Ultimately, Trapster and the agents of the Trust were confronted by Annihilus, the ruler of the Negative Zone.  During their battle with Annihilus, they were also caught by the Fantastic Four, Hellscout, and their allies: Maximus the Mad and his Alpha Primates.  The Trust stole Annihilus' cosmic control rod, the source of his powers, but before they could transport it to earth, Hellscout shot the rod, spilling its energies into the prime universe.  By the time the Fantastic Four managed to seal the portal to the Negative Zone and restore balance to the infrastructure between the two universes, Trapster and the agents of the Gideon Trust fled, though this left them trapped when the Fantastic Four managed to return to Earth.Nevertheless, the Trapster was once again a member of the Frightful Four in the Wizard\u2019s bid to make an even more comparative counterpart to the Fantastic Four, this time by using members of his own \u201cfamily,\u201d namely his ex-wife Salamadra and their daughter, Cole.  The ever-loyal Trapster performed as best he could, helping the Wizard outfit his headquarters with new traps, and hoping the Wizard could help Trapster become a better villain.  However, when Cole tried to get help from the Fantastic Four, the Wizard revealed that he hoped Cole would join the Frightful Four in the Trapster\u2019s place.  Viscously turning against the Trapster and despite Petruski\u2019s help in defeating the Fantastic Four and stopping Cole from escaping, the Wizard blasted the Trapster with a beam from his chestplate.  The Trapster was caught in the ultimate trap: stuck in a self-contained time-loop so that he would re-live his last moments over and over again, ad infinitum, with no hope for escape.", 
+    "durability": 1, 
+    "education": "Masters of Science degree", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Paste-Pot Pete: Strange Tales #104 (1951); Trapster: Fantastic Four #38 (1961)\n", 
+    "groupaffiliation": [
+        "Frightful Four", 
+        "formerly Zodiac's Gang", 
+        "former agent of the Gideon Trust"
+    ], 
+    "hair": "Brown\n", 
+    "height": 0, 
+    "id": "Trapster", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Mercenary", 
+        "criminal", 
+        "former research scientist"
+    ], 
+    "placeofbirth": [
+        "Gary", 
+        "Indiana"
+    ], 
+    "powers": "None", 
+    "realname": "Peter Petruski", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 160
 }

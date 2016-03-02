@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "When the Scarlet Witch used her powers to recreate the world after the House of M event, she inadvertently recreated both William and Thomas as well. However instead of recreating them as her children, they ended up as the children of other parents. Thomas ended up as the son of the Shepard family while William ended up as the son of the Kaplans family. The two boys had no idea of their true past until Super-Skrull told them enough information to have Vision verify and research the information.", 
-            "durability": 1, 
-            "education": "Still in high school, which school is unknown.", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Young Avengers #10 (2006)\n", 
-            "groupaffiliation": [
-                "Secret Avengers", 
-                "Young Avengers"
-            ], 
-            "hair": "White\n", 
-            "id": "Speed", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Frank Shepherd (adoptive father), Mary Shepherd (adoptive mother), Wanda Maximoff (Scarlet Witch, mother), Vision (father), William \"Billy\" Kaplan (twin brother), Erik Magnus Lehnsherr (Magneto, grandfather), Magda (grandmother, deceased) Pietro Maximoff (Quicksilver, uncle), Lorna Dane (Polaris, aunt)", 
-            "occupation": "Student", 
-            "origin": "Young Avengers #11 (2006)", 
-            "placeofbirth": [
-                "New York", 
-                "New York"
-            ], 
-            "powers": "Thomas has the powers of super-speed and can use his speed to accelerate and destabilize atomic matter thereby causing it to explode.", 
-            "realname": "Thomas Shepherd", 
-            "significantissues": "broken out of prison (Young Avengers #10, 2006)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "When the Scarlet Witch used her powers to recreate the world after the House of M event, she inadvertently recreated both William and Thomas as well. However instead of recreating them as her children, they ended up as the children of other parents. Thomas ended up as the son of the Shepard family while William ended up as the son of the Kaplans family. The two boys had no idea of their true past until Super-Skrull told them enough information to have Vision verify and research the information.", 
+    "durability": 1, 
+    "education": "Still in high school, which school is unknown.", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Young Avengers #10 (2006)\n", 
+    "groupaffiliation": [
+        "Secret Avengers", 
+        "Young Avengers"
+    ], 
+    "hair": "White\n", 
+    "id": "Speed", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Frank Shepherd (adoptive father), Mary Shepherd (adoptive mother), Wanda Maximoff (Scarlet Witch, mother), Vision (father), William \"Billy\" Kaplan (twin brother), Erik Magnus Lehnsherr (Magneto, grandfather), Magda (grandmother, deceased) Pietro Maximoff (Quicksilver, uncle), Lorna Dane (Polaris, aunt)", 
+    "occupation": "Student", 
+    "origin": "Young Avengers #11 (2006)", 
+    "placeofbirth": [
+        "New York", 
+        "New York"
+    ], 
+    "powers": "Thomas has the powers of super-speed and can use his speed to accelerate and destabilize atomic matter thereby causing it to explode.", 
+    "realname": "Thomas Shepherd", 
+    "significantissues": "broken out of prison (Young Avengers #10, 2006)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

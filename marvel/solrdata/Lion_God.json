@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lion lord", 
-                "Mr. Umbala \"Liege to the king of Beasts\"", 
-                "\"Lord of the Veldt", 
-                "\" Avengers of Wrongs", 
-                "Scarlet Lady", 
-                "Eye of Ra", 
-                "She who is powerful", 
-                "possibly Hathor"
-            ], 
-            "citizenship": "Celestial Heliopolis", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #112 (1973)\n", 
-            "groupaffiliation": "Ennead (Gods of Egypt)", 
-            "hair": "Unrevealed\n", 
-            "height": 87, 
-            "id": "Lion_God", 
-            "identity": "The general populace of Earth is unaware of Sekmet's existence", 
-            "intelligence": 1, 
-            "knownrelatives": "Neith (Gaea, grandmother), Nun (Demiurge, grandfather), Ammon Ra (Atum, father), Thoth (uncle), Shu (brother), Bast (Panther God, brother), Tefnut (sister), Khonshu (Chons, half-brother), Mahes (Apedemak, nephew) Geb  (nephew), Nut (niece), Osiris, Seth (grandnephews), others", 
-            "occupation": "Egyptian warrior deity", 
-            "placeofbirth": [
-                "Philae", 
-                "Upper Egypt"
-            ], 
-            "powers": "Sekhmet possessed enormous power, however in his Lion God incarnation his powers appeared to be substantially limited. This was a spirit form requiring a host, teleportation, size-changing, superhuman strength, speed, stamina and durability, density-altering and impervious to pain. He always appeared when summoned but required a human sacrifice.", 
-            "realname": "Sekhmet", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 382
-        }
-    }
+    "aliases": [
+        "Lion lord", 
+        "Mr. Umbala \"Liege to the king of Beasts\"", 
+        "\"Lord of the Veldt", 
+        "\" Avengers of Wrongs", 
+        "Scarlet Lady", 
+        "Eye of Ra", 
+        "She who is powerful", 
+        "possibly Hathor"
+    ], 
+    "citizenship": "Celestial Heliopolis", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #112 (1973)\n", 
+    "groupaffiliation": "Ennead (Gods of Egypt)", 
+    "hair": "Unrevealed\n", 
+    "height": 87, 
+    "id": "Lion_God", 
+    "identity": "The general populace of Earth is unaware of Sekmet's existence", 
+    "intelligence": 1, 
+    "knownrelatives": "Neith (Gaea, grandmother), Nun (Demiurge, grandfather), Ammon Ra (Atum, father), Thoth (uncle), Shu (brother), Bast (Panther God, brother), Tefnut (sister), Khonshu (Chons, half-brother), Mahes (Apedemak, nephew) Geb  (nephew), Nut (niece), Osiris, Seth (grandnephews), others", 
+    "occupation": "Egyptian warrior deity", 
+    "placeofbirth": [
+        "Philae", 
+        "Upper Egypt"
+    ], 
+    "powers": "Sekhmet possessed enormous power, however in his Lion God incarnation his powers appeared to be substantially limited. This was a spirit form requiring a host, teleportation, size-changing, superhuman strength, speed, stamina and durability, density-altering and impervious to pain. He always appeared when summoned but required a human sacrifice.", 
+    "realname": "Sekhmet", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 382
 }

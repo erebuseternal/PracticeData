@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Russia", 
-            "content": "On her very first mission as an Exile, it was clear Magik was closer in temperament to members of Weapon X, the Exiles reality-hopping counterparts. While the rest of the team was busy trying to figure out a way to save lives, Illyana split off from the group and followed the Tallus' instruction with no hesitation - kill the Avengers and prevent them from helping a Japan taken over by Moses Magnum. Illyana destroyed the Avengers' plane and proceeded to kill the surviving members of the team. She even convinced the Colossus of this reality, a member of the Avengers, to help her. He allowed himself to be destroyed so she could succeed.Magik continued her overly brutal ways in the next few realities the Exiles traveled to, allegedly killed a group of Morlock children. Her actions became more and more reckless, regardless of the consequences.Following the death of Sunfire at the hands of a Brood-controlled Mimic, the team was in complete disarray. Morph, furious at the death of his best friend and the woman he loved, stormed off. Illyana tried to console him. Morph called Magik a murderer and told her to leave him alone but she didn't. Instead she revealed the reason she was so vicious. If she failed in repairing the timelines with the rest of the Exiles her family would die. And they would die at her hands.It was the first time Magik revealed her true self to any of them. She and Morph bonded and returned to the team. After the Tallus revealed the mission in this reality was to thin the ranks of the Exiles and Weapon X down to six members, Illyana became obsessed. She even tried to discuss whom to kill with Morph. He told her to calm down and to go along with the plan to save everyone.", 
-            "durability": 1, 
-            "education": "High School", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Exiles #22\n", 
-            "groupaffiliation": "Formerly Exiles", 
-            "hair": "Blonde\n", 
-            "height": 66, 
-            "id": "Magik_(Earth-4210)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Parents, Piotr (Colossus, brother), Mikhail (brother, deceased)", 
-            "occupation": [
-                "Former adventurer", 
-                "sorceress", 
-                "reality traveler"
-            ], 
-            "placeofbirth": "Russia", 
-            "powers": "Magik is a mutant who can teleport herself and others over long distances. This drains her considerably and leaves her in a weakened state following every teleportation. She is also a trained sorceress and can conjure protection spells as well as re-create Soulswords with minor difficulty.", 
-            "realname": "Illyana Rasputin", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-4210", 
-            "weight": 125
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Russia", 
+    "content": "On her very first mission as an Exile, it was clear Magik was closer in temperament to members of Weapon X, the Exiles reality-hopping counterparts. While the rest of the team was busy trying to figure out a way to save lives, Illyana split off from the group and followed the Tallus' instruction with no hesitation - kill the Avengers and prevent them from helping a Japan taken over by Moses Magnum. Illyana destroyed the Avengers' plane and proceeded to kill the surviving members of the team. She even convinced the Colossus of this reality, a member of the Avengers, to help her. He allowed himself to be destroyed so she could succeed.Magik continued her overly brutal ways in the next few realities the Exiles traveled to, allegedly killed a group of Morlock children. Her actions became more and more reckless, regardless of the consequences.Following the death of Sunfire at the hands of a Brood-controlled Mimic, the team was in complete disarray. Morph, furious at the death of his best friend and the woman he loved, stormed off. Illyana tried to console him. Morph called Magik a murderer and told her to leave him alone but she didn't. Instead she revealed the reason she was so vicious. If she failed in repairing the timelines with the rest of the Exiles her family would die. And they would die at her hands.It was the first time Magik revealed her true self to any of them. She and Morph bonded and returned to the team. After the Tallus revealed the mission in this reality was to thin the ranks of the Exiles and Weapon X down to six members, Illyana became obsessed. She even tried to discuss whom to kill with Morph. He told her to calm down and to go along with the plan to save everyone.", 
+    "durability": 1, 
+    "education": "High School", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Exiles #22\n", 
+    "groupaffiliation": "Formerly Exiles", 
+    "hair": "Blonde\n", 
+    "height": 66, 
+    "id": "Magik_(Earth-4210)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Parents, Piotr (Colossus, brother), Mikhail (brother, deceased)", 
+    "occupation": [
+        "Former adventurer", 
+        "sorceress", 
+        "reality traveler"
+    ], 
+    "placeofbirth": "Russia", 
+    "powers": "Magik is a mutant who can teleport herself and others over long distances. This drains her considerably and leaves her in a weakened state following every teleportation. She is also a trained sorceress and can conjure protection spells as well as re-create Soulswords with minor difficulty.", 
+    "realname": "Illyana Rasputin", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-4210", 
+    "weight": 125
 }

@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Nanny finally managed to escape the Right and decided to save young mutants from exploitation by evil-doers. The first such mutant she saved was Peter, whom she turned into her very own Orphan-Maker and used in her subsequent attempts at kidnapping mutants. It has not been revealed how many young mutants Nanny has \"rescued\" this way, as she professes to keep the children in a hibernation-like state, until such a time as they need not fear persecution. Other children are impressed into service to save even more children, such as her team of Lost Boys (and Girls).One such kidnapping attempt (once again from an orphanage used as a front by Mister Sinister, the same place where she freed the Orphan-Maker) brought her into conflict with Cyclops and Jean Grey, who were searching for Cyclops' infant son. Nanny was forced to flee, but she used the Orphan-Maker in a later attempt, this time to \u201cliberate\u201d Franklin Richards from the dangerous lifestyle his parents led. Again, she was thwarted, this time by Mister Fantastic, the Invisible Woman, and Captain America (as the Captain.) Another attempt led Nanny and her teams to fight the original X-Factor over the orphaned babies that were rescued from being used in a demonic spell over Manhattan.Later, Nanny decided that the X-Men needed rescuing from the dangerous life they led, and she tracked them down to their base in Australia. She captured several members, sending them to attack the others. As the battle turned against her, she attempted to flee, and in the process captured Storm. Unfortunately, at this time, Havok unleashed a blast, sending Nanny's ship crashing. Somehow, though, Storm survived, mysteriously transformed into a child, presumably by Nanny. Nanny\u2019s body was never found.Years later, Nanny returned, determined as ever to rescue mutant children from a society that hates and fears them. She bade the Orphan-Maker to rescue the young St. Croix children (M and Penance) by killing their father, but he survived thanks only to the Orphan-Maker\u2019s equipment dysfunction. (Nanny lamented that Peter must be \u201cgrowing up.\u201d) She then tried to have Orphan-Maker save a mutant child who took his school hostage after experiencing years of abuse, but the young mutants of Generation X also arrived, sparking a three-way conflict. The Orphan-Maker ultimately fled after witnessing the young mutant\u2019s parents\u2019 disregard for their own child, who turned out not to be a mutant at all, but merely a troubled, disfigured boy.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "(voice only) X-Factor #33, (fully) X-Factor #34\n", 
-            "groupaffiliation": [
-                "Leader of the Orphan-Maker", 
-                "Lost Boys (and Girls)", 
-                "(formerly) member of the Right"
-            ], 
-            "hair": "Unrevealed\n", 
-            "height": 0, 
-            "id": "Nanny_(cyborg)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Criminal", 
-                "(formerly) scientist/robotics engineer"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Low-level telepathy/mind control", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Nanny finally managed to escape the Right and decided to save young mutants from exploitation by evil-doers. The first such mutant she saved was Peter, whom she turned into her very own Orphan-Maker and used in her subsequent attempts at kidnapping mutants. It has not been revealed how many young mutants Nanny has \"rescued\" this way, as she professes to keep the children in a hibernation-like state, until such a time as they need not fear persecution. Other children are impressed into service to save even more children, such as her team of Lost Boys (and Girls).One such kidnapping attempt (once again from an orphanage used as a front by Mister Sinister, the same place where she freed the Orphan-Maker) brought her into conflict with Cyclops and Jean Grey, who were searching for Cyclops' infant son. Nanny was forced to flee, but she used the Orphan-Maker in a later attempt, this time to \u201cliberate\u201d Franklin Richards from the dangerous lifestyle his parents led. Again, she was thwarted, this time by Mister Fantastic, the Invisible Woman, and Captain America (as the Captain.) Another attempt led Nanny and her teams to fight the original X-Factor over the orphaned babies that were rescued from being used in a demonic spell over Manhattan.Later, Nanny decided that the X-Men needed rescuing from the dangerous life they led, and she tracked them down to their base in Australia. She captured several members, sending them to attack the others. As the battle turned against her, she attempted to flee, and in the process captured Storm. Unfortunately, at this time, Havok unleashed a blast, sending Nanny's ship crashing. Somehow, though, Storm survived, mysteriously transformed into a child, presumably by Nanny. Nanny\u2019s body was never found.Years later, Nanny returned, determined as ever to rescue mutant children from a society that hates and fears them. She bade the Orphan-Maker to rescue the young St. Croix children (M and Penance) by killing their father, but he survived thanks only to the Orphan-Maker\u2019s equipment dysfunction. (Nanny lamented that Peter must be \u201cgrowing up.\u201d) She then tried to have Orphan-Maker save a mutant child who took his school hostage after experiencing years of abuse, but the young mutants of Generation X also arrived, sparking a three-way conflict. The Orphan-Maker ultimately fled after witnessing the young mutant\u2019s parents\u2019 disregard for their own child, who turned out not to be a mutant at all, but merely a troubled, disfigured boy.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "(voice only) X-Factor #33, (fully) X-Factor #34\n", 
+    "groupaffiliation": [
+        "Leader of the Orphan-Maker", 
+        "Lost Boys (and Girls)", 
+        "(formerly) member of the Right"
+    ], 
+    "hair": "Unrevealed\n", 
+    "height": 0, 
+    "id": "Nanny_(cyborg)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Criminal", 
+        "(formerly) scientist/robotics engineer"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Low-level telepathy/mind control", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

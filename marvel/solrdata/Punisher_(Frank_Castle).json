@@ -1,95 +1,91 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Big Nothing", 
-                "Major Bateman", 
-                "Ted Bishop", 
-                "Cliff Callador", 
-                "Castigo", 
-                "Chaloner", 
-                "Fred D'Amato", 
-                "Eastman", 
-                "Charles Fort", 
-                "Frank Loomis", 
-                "McRook", 
-                "Melchior", 
-                "Joe Rainey", 
-                "Frank Rook", 
-                "Richard Rook", 
-                "Tony Knowlen Ross", 
-                "Francis Stronghold", 
-                "Johnny Tower", 
-                "Dmitri Velikoff", 
-                "Frankie Villa", 
-                "Yousoufian", 
-                "numerous others"
-            ], 
-            "citizenship": [
-                "U.S.A. with a criminal record", 
-                "listed in Marine records as a deserter"
-            ], 
-            "content": "Shortly after a tour in Vietnam, Castle, his wife, Maria and their children were in New York's Central Park for an afternoon picnic when they witnessed a Mafia gangland execution; an informant had been hanged from a tree. Seeking to eliminate all witnesses, the Costa crime family murdered them on the spot. However, Castle survived.\nEven though Frank was able to identify all of the shooters the police were unable to help Castle in his quest for justice; they were tied in too deeply to the powerful Costa family. He decided that the only punishment criminals might receive is that of physical destruction. Shortly thereafter, he emblazoned his body armor with a symbol of a death's head, and exacted his revenge. Since then he has waged a one-man war upon crime, taking the name Punisher.", 
-            "durability": 6, 
-            "education": "Extensive military training, partial priesthood training", 
-            "energy": 4, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "Amazing Spider-Man #129 (1974)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly Code Red", 
-                "Secret Avengers", 
-                "Daredevil's Unnamed Super-Hero Team", 
-                "Green Berets", 
-                "U.S. Marine Corps"
-            ], 
-            "hair": "Black\n", 
-            "height": 73, 
-            "id": "Punisher_(Frank_Castle)", 
-            "identity": "Publicly known", 
-            "intelligence": 5, 
-            "knownrelatives": "Maria Elizabeth Castle (wife, deceased), Lisa Barbara Castle (daughter, deceased), Frank David Castle (a.k.a. Frank Jr., son, deceased), Mario Lorenzo Castiglione (father, deceased), Louisa Castiglione (mother, deceased), Fredo and Rocco Castiglione (paternal uncles, deceased)", 
-            "occupation": [
-                "Vigilante", 
-                "former Special Forces instructor", 
-                "U.S. Marine"
-            ], 
-            "origin": [
-                "Marvel Preview #2 (1975)", 
-                "Marvel Super Action #1 (1976)", 
-                "Punisher: Year One #1-4 (1994-1995)", 
-                "Nam #52 (1991)"
-            ], 
-            "placeofbirth": [
-                "Queens", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Frank Castle (born Castiglione)", 
-            "significantissues": [
-                "Fought Hitman (Amazing Spider-Man #174-175, 1977)", 
-                "drugged by Jigsaw, defeated by Kingpin (Spectacular Spider-Man #78, 81-83, 1983)", 
-                "encountered Trust (Punisher #1-5, 1986)", 
-                "adopted Max (Punisher War Zone #37, 1995)", 
-                "face scarred by Jigsaw, repaired by Brewer (Punisher #54-59, 1991-1992)", 
-                "took out Carbone family, faced assassins of Rosalie Carbone (Punisher War Zone #1-12, 1992-1993)", 
-                "opposed first Chunnel plot (Punisher #65-70, 1992)", 
-                "exploded mobster building, believed dead while active in Laastekist (Punisher #86-88/Punisher War Journal #62-64/Punisher War Zone #24-25, 1994)", 
-                "fought Microchip and Stonecold, captured by S.H.I.E.L.D. (Punisher #102-104/Punisher War Journal #79-80/Punisher War Zone #41, 1995)", 
-                "driven mad by Spook, assassinated Fury LMD (Double Edge: Alpha Omega, 1995)", 
-                "worked with Geraci crime family (Punisher #1-10, 1995-1996)", 
-                "fought Ersatz Mutant Liberation Front, lost memory (Punisher #12-16, 1996-1997)", 
-                "agent of angels against Olivier (Punisher #1-4, 1998-1999)", 
-                "took out Gnuccis and Vigilante Squad (Punisher #1-12, 2000-2001)", 
-                "opposed Kreigkopf and Russian (Punisher #1-5, 2001)", 
-                "fought mercenaries of Monastery Hill (Punisher #33-37, 2003-2004)", 
-                "fought Nicky Cavella and CIA, slew Microchip (Punisher #1-6, 2004)"
-            ], 
-            "speed": 5, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": [
+        "Big Nothing", 
+        "Major Bateman", 
+        "Ted Bishop", 
+        "Cliff Callador", 
+        "Castigo", 
+        "Chaloner", 
+        "Fred D'Amato", 
+        "Eastman", 
+        "Charles Fort", 
+        "Frank Loomis", 
+        "McRook", 
+        "Melchior", 
+        "Joe Rainey", 
+        "Frank Rook", 
+        "Richard Rook", 
+        "Tony Knowlen Ross", 
+        "Francis Stronghold", 
+        "Johnny Tower", 
+        "Dmitri Velikoff", 
+        "Frankie Villa", 
+        "Yousoufian", 
+        "numerous others"
+    ], 
+    "citizenship": [
+        "U.S.A. with a criminal record", 
+        "listed in Marine records as a deserter"
+    ], 
+    "content": "Shortly after a tour in Vietnam, Castle, his wife, Maria and their children were in New York's Central Park for an afternoon picnic when they witnessed a Mafia gangland execution; an informant had been hanged from a tree. Seeking to eliminate all witnesses, the Costa crime family murdered them on the spot. However, Castle survived.\nEven though Frank was able to identify all of the shooters the police were unable to help Castle in his quest for justice; they were tied in too deeply to the powerful Costa family. He decided that the only punishment criminals might receive is that of physical destruction. Shortly thereafter, he emblazoned his body armor with a symbol of a death's head, and exacted his revenge. Since then he has waged a one-man war upon crime, taking the name Punisher.", 
+    "durability": 6, 
+    "education": "Extensive military training, partial priesthood training", 
+    "energy": 4, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "Amazing Spider-Man #129 (1974)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly Code Red", 
+        "Secret Avengers", 
+        "Daredevil's Unnamed Super-Hero Team", 
+        "Green Berets", 
+        "U.S. Marine Corps"
+    ], 
+    "hair": "Black\n", 
+    "height": 73, 
+    "id": "Punisher_(Frank_Castle)", 
+    "identity": "Publicly known", 
+    "intelligence": 5, 
+    "knownrelatives": "Maria Elizabeth Castle (wife, deceased), Lisa Barbara Castle (daughter, deceased), Frank David Castle (a.k.a. Frank Jr., son, deceased), Mario Lorenzo Castiglione (father, deceased), Louisa Castiglione (mother, deceased), Fredo and Rocco Castiglione (paternal uncles, deceased)", 
+    "occupation": [
+        "Vigilante", 
+        "former Special Forces instructor", 
+        "U.S. Marine"
+    ], 
+    "origin": [
+        "Marvel Preview #2 (1975)", 
+        "Marvel Super Action #1 (1976)", 
+        "Punisher: Year One #1-4 (1994-1995)", 
+        "Nam #52 (1991)"
+    ], 
+    "placeofbirth": [
+        "Queens", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Frank Castle (born Castiglione)", 
+    "significantissues": [
+        "Fought Hitman (Amazing Spider-Man #174-175, 1977)", 
+        "drugged by Jigsaw, defeated by Kingpin (Spectacular Spider-Man #78, 81-83, 1983)", 
+        "encountered Trust (Punisher #1-5, 1986)", 
+        "adopted Max (Punisher War Zone #37, 1995)", 
+        "face scarred by Jigsaw, repaired by Brewer (Punisher #54-59, 1991-1992)", 
+        "took out Carbone family, faced assassins of Rosalie Carbone (Punisher War Zone #1-12, 1992-1993)", 
+        "opposed first Chunnel plot (Punisher #65-70, 1992)", 
+        "exploded mobster building, believed dead while active in Laastekist (Punisher #86-88/Punisher War Journal #62-64/Punisher War Zone #24-25, 1994)", 
+        "fought Microchip and Stonecold, captured by S.H.I.E.L.D. (Punisher #102-104/Punisher War Journal #79-80/Punisher War Zone #41, 1995)", 
+        "driven mad by Spook, assassinated Fury LMD (Double Edge: Alpha Omega, 1995)", 
+        "worked with Geraci crime family (Punisher #1-10, 1995-1996)", 
+        "fought Ersatz Mutant Liberation Front, lost memory (Punisher #12-16, 1996-1997)", 
+        "agent of angels against Olivier (Punisher #1-4, 1998-1999)", 
+        "took out Gnuccis and Vigilante Squad (Punisher #1-12, 2000-2001)", 
+        "opposed Kreigkopf and Russian (Punisher #1-5, 2001)", 
+        "fought mercenaries of Monastery Hill (Punisher #33-37, 2003-2004)", 
+        "fought Nicky Cavella and CIA, slew Microchip (Punisher #1-6, 2004)"
+    ], 
+    "speed": 5, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

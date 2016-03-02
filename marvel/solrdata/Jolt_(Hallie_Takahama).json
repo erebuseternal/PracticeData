@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Holly Tsuruta", 
-                "Hallie Shimosato"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "The enthusiastic Jolt served with the Thunderbolts for weeks before Zemo, as part of his larger scheme, revealed the team's true identities; as the team fled, Jolt stowed away on their craft, and when some of the Thunderbolts questioned their involvement, she persuaded them to become genuine heroes and help defeat Zemo. Still on the run for past crimes, the Thunderbolts fell under the leadership of the Avenger Hawkeye, who wished to help them redeem themselves to the public. To Jolt's annoyance, Hawkeye insisted that she complete high school, where she was targeted by Scourge, an assassin controlled by government operative Henry Gyrich. Scourge apparently killed Jolt, who was mourned by her teammates. However, Jolt's superhuman form retained some semblance of life, and her former teammate Techno absconded with her body, holding her in stasis for weeks as he considered her condition, ultimately releasing her when Scourge attacked the Thunderbolts' base. Now partially paralyzed but able to assume an energized form, Jolt joined her teammates in defeating Scourge and exposing Gyrich's activities. Now a ward of the state, she joined the government super-team the Redeemers.", 
-            "durability": 1, 
-            "education": "High school dropout", 
-            "energy": 1, 
-            "eyes": "Blue; (energy form) yellow\n", 
-            "fighting": 1, 
-            "firstappearance": "Thunderbolts #1 (1997)\n", 
-            "groupaffiliation": [
-                "Young Allies", 
-                "formerly Redeemers", 
-                "Thunderbolts"
-            ], 
-            "hair": "Black; (energy form) none\n", 
-            "height": 65, 
-            "id": "Jolt_(Hallie_Takahama)", 
-            "identity": [
-                "Publicly known", 
-                "legally deceased"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Robert (father, deceased), Jane (mother, deceased)", 
-            "occupation": "Adventurer", 
-            "origin": "Thunderbolts #1-4 (1997)", 
-            "placeofbirth": [
-                "Ojai", 
-                "California"
-            ], 
-            "powers": "Jolt can change into pure bioelectrical energy which enables her to discharge energy blasts. She possesses enhanced strength, speed, and reflexes.", 
-            "realname": "Helen \u201cHallie\u201d Takahama", 
-            "significantissues": [
-                "Learned true identities of Thunderbolts, persuaded them to fight Baron Zemo (Thunderbolts #10-12, 1998)", 
-                "apparently slain by Scourge (Thunderbolts #34-35, 2000)", 
-                "revived by Techno, rejoined Thunderbolts (Thunderbolts #46-48, 2001)", 
-                "joined Redeemers (Thunderbolts #50, 2001)", 
-                "remained on Counter-Earth, joined Young Allies (Thunderbolts #74, 2003)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 109
-        }
-    }
+    "aliases": [
+        "Holly Tsuruta", 
+        "Hallie Shimosato"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "The enthusiastic Jolt served with the Thunderbolts for weeks before Zemo, as part of his larger scheme, revealed the team's true identities; as the team fled, Jolt stowed away on their craft, and when some of the Thunderbolts questioned their involvement, she persuaded them to become genuine heroes and help defeat Zemo. Still on the run for past crimes, the Thunderbolts fell under the leadership of the Avenger Hawkeye, who wished to help them redeem themselves to the public. To Jolt's annoyance, Hawkeye insisted that she complete high school, where she was targeted by Scourge, an assassin controlled by government operative Henry Gyrich. Scourge apparently killed Jolt, who was mourned by her teammates. However, Jolt's superhuman form retained some semblance of life, and her former teammate Techno absconded with her body, holding her in stasis for weeks as he considered her condition, ultimately releasing her when Scourge attacked the Thunderbolts' base. Now partially paralyzed but able to assume an energized form, Jolt joined her teammates in defeating Scourge and exposing Gyrich's activities. Now a ward of the state, she joined the government super-team the Redeemers.", 
+    "durability": 1, 
+    "education": "High school dropout", 
+    "energy": 1, 
+    "eyes": "Blue; (energy form) yellow\n", 
+    "fighting": 1, 
+    "firstappearance": "Thunderbolts #1 (1997)\n", 
+    "groupaffiliation": [
+        "Young Allies", 
+        "formerly Redeemers", 
+        "Thunderbolts"
+    ], 
+    "hair": "Black; (energy form) none\n", 
+    "height": 65, 
+    "id": "Jolt_(Hallie_Takahama)", 
+    "identity": [
+        "Publicly known", 
+        "legally deceased"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Robert (father, deceased), Jane (mother, deceased)", 
+    "occupation": "Adventurer", 
+    "origin": "Thunderbolts #1-4 (1997)", 
+    "placeofbirth": [
+        "Ojai", 
+        "California"
+    ], 
+    "powers": "Jolt can change into pure bioelectrical energy which enables her to discharge energy blasts. She possesses enhanced strength, speed, and reflexes.", 
+    "realname": "Helen \u201cHallie\u201d Takahama", 
+    "significantissues": [
+        "Learned true identities of Thunderbolts, persuaded them to fight Baron Zemo (Thunderbolts #10-12, 1998)", 
+        "apparently slain by Scourge (Thunderbolts #34-35, 2000)", 
+        "revived by Techno, rejoined Thunderbolts (Thunderbolts #46-48, 2001)", 
+        "joined Redeemers (Thunderbolts #50, 2001)", 
+        "remained on Counter-Earth, joined Young Allies (Thunderbolts #74, 2003)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 109
 }

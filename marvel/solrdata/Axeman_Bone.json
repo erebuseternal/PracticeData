@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Imperial Prime citizen of Sakaar", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Skaar son of Hulk #1 (2008)\n", 
-            "groupaffiliation": "Fillian leader", 
-            "hair": "Bald\n", 
-            "id": "Axeman_Bone", 
-            "identity": [
-                "Known to the inhabitants of Sakaar", 
-                "the general populace of Earth is unaware of the Axeman Bone\u2019s existence."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "None known", 
-            "occupation": [
-                "Tyrant", 
-                "conqueror"
-            ], 
-            "origin": [
-                "Revealed (Skaar Son of the Hulk Presents: The Savage World of Sakaar #1", 
-                "2008.)"
-            ], 
-            "placeofbirth": "Unknown location on the planet Sakaar", 
-            "powers": "Axeman Bone's powers and abilities have yet to be revealed, although it arrears that he has Superhuman strength and the ability heal from severe injuries without medical attention.", 
-            "realname": "Unrevealed", 
-            "significantissues": "Battled Skaar for the first time (Skaar son of the Hulk #2, 2008)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Imperial Prime citizen of Sakaar", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Skaar son of Hulk #1 (2008)\n", 
+    "groupaffiliation": "Fillian leader", 
+    "hair": "Bald\n", 
+    "id": "Axeman_Bone", 
+    "identity": [
+        "Known to the inhabitants of Sakaar", 
+        "the general populace of Earth is unaware of the Axeman Bone\u2019s existence."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "None known", 
+    "occupation": [
+        "Tyrant", 
+        "conqueror"
+    ], 
+    "origin": [
+        "Revealed (Skaar Son of the Hulk Presents: The Savage World of Sakaar #1", 
+        "2008.)"
+    ], 
+    "placeofbirth": "Unknown location on the planet Sakaar", 
+    "powers": "Axeman Bone's powers and abilities have yet to be revealed, although it arrears that he has Superhuman strength and the ability heal from severe injuries without medical attention.", 
+    "realname": "Unrevealed", 
+    "significantissues": "Battled Skaar for the first time (Skaar son of the Hulk #2, 2008)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

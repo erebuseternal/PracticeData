@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Plant-Man", 
-                "Blackheath"
-            ], 
-            "citizenship": "British", 
-            "content": "Count Nefaria broke the Plantman and several others out of prison to serve him as his lieutenants to help bolster his prominence in the Maggia crime family. To this end, the Plantman, the Eel, Unicorn, Porcupine, and Scarecrow captured the X-Men in an extortion attempt, but the mutants turned the tables on their captors. At least the Plantman managed to pilfer technology from the Maggia before his escape. He used this to create a monstrous Leviathan out of animated seaweed to terrorize London. It was stopped by Namor the Sub-Mariner and Triton of the Inhumans, and Smithers escaped.Next, with an army of 1,000 plant simulacra, the Plantman captured the U.S. President by taking over an American military base. The Avengers rescued the President, despite the Plantman\u2019s army and 100-foot tall tree-man.During Smithers subsequent prison sentence in Seagate Federal Penitentiary, he was contacted telepathically by Mentallo, who was being held in a stasis field in the same prison. Mentallo was still capable of using his powers, and he used them to orchestrate a break-out of his fellow prisoners, which included the hero Hawkeye, who was serving time for crimes he performed while a member of the team Thunderbolts, and Headlok whom Mentallo had possessed. The criminals, remotely \"chained\" to one another, escaped as the so-called Chain Gang. The Chain Gang reluctantly agreed to work together to search for a way to survive, deactivate their security manacles, and to search for a weapon of great power left behind by the death of the criminal industrialist Justin Hammer. The weapon had come to the attention of Mentallo by Hammer himself before he died, as Hammer awakened Mentallo's powers while he was in the stasis field. Unknown to his associates, Hawkeye was actually working undercover on behalf of S.H.I.E.L.D. Ultimately, the Chain Gang was tracked down by Hawkeye's former teammate Songbird, who helped Hawkeye defeat the villains. They discovered that Hammer's legacy was a biological toxin that had been ingested by every single villain who had ever worked for him. Smithers was the carrier. Hawkeye, Songbird, and Smithers began a new search for the trigger that would release Plantman's toxin so that it would not fall in the wrong hands.The search ended with Hammer's daughter, Justine, who turned out to be the Crimson Cowl, leader of the Masters of Evil. Hawkeye convinced several members of the Masters of Evil to side with him and Songbird against Crimson Cowl and their former allies, pointing out the dangers of the super-weapon, which would either blackmail or kill them. Hoping to throw off suspicion, Hawkeye made the villains reinvent their costumed identities, thus creating a new team of Thunderbolts, and Smithers joined the group as Blackheath.Beginning with his time in prison, Smithers had noticed that his body was in the process of mutating, drawing him closer to the energy field that he manipulated to control plants. When the Thunderbolts finally confronted the Crimson Cowl, Smithers was captured and experimented upon to reveal the secrets of the bio-toxin. During this procedure, Smithers' spirit connected with the energy field, the so-called Verdant Green, the embodiment of the Earth's biosphere. The Verdant Green pointed out that Smithers could release the toxin, removing humanity from the biosphere and allowing the plants to flourish in its pre-industrial days. Instead, Smithers chose to release an antidote for the toxin into the atmosphere and appeared to die in the attempt.The Thunderbolts ultimately defeated the Cowl and her Masters of Evil, but they were confronted by the Elite Agents of SHIELD who caught up with them and wanted the remains of Blackheath's body. Finally, Smithers was able to revive himself by sucking the moisture from the villain Hydro-Man, leaving Hydro-Man's body desiccated. The Thunderbolts were aided against SHIELD by the arrival of the true Citizen V, who needed the team's immediate help with his agency's ship-- the engines of which were made of alien technology that had began distorting, threatening to suck the Earth into the null space of a white hole. In so doing, the Thunderbolts encountered the original Thunderbolts, who emerged from the void after severing the alien ship's presence from where they had been trapped on Counter-Earth. The two teams of Thunderbolts combined forces to plug the void and shunt the alien ship from Earth, similar to the manner in which Baron Zemo's team stopped the threat on Counter-Earth.After much discussion, most of the costumed heroes and villains chose to part company. Smithers elected to join the Thunderbolts, hoping that their new mission, to rule the world in order to save it, would closely match his own goals of protecting the Verdant Green from humans. He increasingly began to lose touch with his humanity, increasingly motivated by his connection to the Green.Blackheath joined the Thunderbolts in many acts of questionable heroism under Zemo\u2019s leadership, where the ends justified the means. Zemo\u2019s ultimate plan involved the creation of \u201cthe Liberator,\u201d a device that would drain abnormal uses energy throughout the world and hopefully reduce global threats, eliminate superhuman terrorism, and stabilize the world\u2019s status quo. The Thunderbolts succeeded in launching the Liberator, only to be confronted by the Avengers. Feeling betrayed, Moonstone absorbed the powers that the Liberator had harnessed, combining them with her already-increased powers of the moonstone. The Thunderbolts and the Avengers teamed up to defeat Moonstone, ultimately removing the alien gems that gave her powers.", 
-            "durability": 1, 
-            "education": "no formal education", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #113 (1951)\n", 
-            "groupaffiliation": [
-                "Formerly Thunderbolts", 
-                "former associate of the Maggia (under Count Nefaria)", 
-                "ally of the Wizard"
-            ], 
-            "hair": "Gray\n", 
-            "height": 72, 
-            "id": "Plantman", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "unrevealed", 
-            "occupation": [
-                "Former criminal", 
-                "gardener/lab assistant"
-            ], 
-            "placeofbirth": [
-                "London", 
-                "England"
-            ], 
-            "powers": "As Blackheath, Samuel Smithers' body seems completely composed of vegetable matter, allowing him superhuman strength and resistance to injury. He can also alter his shape and elongate his body. He is capable of mentally communicating with the Verdant Green, the psychic embodiment of Earth's biosphere, and he can mentally command plant and vegetable matter.", 
-            "realname": "Samuel Smithers", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 193
-        }
-    }
+    "aliases": [
+        "Plant-Man", 
+        "Blackheath"
+    ], 
+    "citizenship": "British", 
+    "content": "Count Nefaria broke the Plantman and several others out of prison to serve him as his lieutenants to help bolster his prominence in the Maggia crime family. To this end, the Plantman, the Eel, Unicorn, Porcupine, and Scarecrow captured the X-Men in an extortion attempt, but the mutants turned the tables on their captors. At least the Plantman managed to pilfer technology from the Maggia before his escape. He used this to create a monstrous Leviathan out of animated seaweed to terrorize London. It was stopped by Namor the Sub-Mariner and Triton of the Inhumans, and Smithers escaped.Next, with an army of 1,000 plant simulacra, the Plantman captured the U.S. President by taking over an American military base. The Avengers rescued the President, despite the Plantman\u2019s army and 100-foot tall tree-man.During Smithers subsequent prison sentence in Seagate Federal Penitentiary, he was contacted telepathically by Mentallo, who was being held in a stasis field in the same prison. Mentallo was still capable of using his powers, and he used them to orchestrate a break-out of his fellow prisoners, which included the hero Hawkeye, who was serving time for crimes he performed while a member of the team Thunderbolts, and Headlok whom Mentallo had possessed. The criminals, remotely \"chained\" to one another, escaped as the so-called Chain Gang. The Chain Gang reluctantly agreed to work together to search for a way to survive, deactivate their security manacles, and to search for a weapon of great power left behind by the death of the criminal industrialist Justin Hammer. The weapon had come to the attention of Mentallo by Hammer himself before he died, as Hammer awakened Mentallo's powers while he was in the stasis field. Unknown to his associates, Hawkeye was actually working undercover on behalf of S.H.I.E.L.D. Ultimately, the Chain Gang was tracked down by Hawkeye's former teammate Songbird, who helped Hawkeye defeat the villains. They discovered that Hammer's legacy was a biological toxin that had been ingested by every single villain who had ever worked for him. Smithers was the carrier. Hawkeye, Songbird, and Smithers began a new search for the trigger that would release Plantman's toxin so that it would not fall in the wrong hands.The search ended with Hammer's daughter, Justine, who turned out to be the Crimson Cowl, leader of the Masters of Evil. Hawkeye convinced several members of the Masters of Evil to side with him and Songbird against Crimson Cowl and their former allies, pointing out the dangers of the super-weapon, which would either blackmail or kill them. Hoping to throw off suspicion, Hawkeye made the villains reinvent their costumed identities, thus creating a new team of Thunderbolts, and Smithers joined the group as Blackheath.Beginning with his time in prison, Smithers had noticed that his body was in the process of mutating, drawing him closer to the energy field that he manipulated to control plants. When the Thunderbolts finally confronted the Crimson Cowl, Smithers was captured and experimented upon to reveal the secrets of the bio-toxin. During this procedure, Smithers' spirit connected with the energy field, the so-called Verdant Green, the embodiment of the Earth's biosphere. The Verdant Green pointed out that Smithers could release the toxin, removing humanity from the biosphere and allowing the plants to flourish in its pre-industrial days. Instead, Smithers chose to release an antidote for the toxin into the atmosphere and appeared to die in the attempt.The Thunderbolts ultimately defeated the Cowl and her Masters of Evil, but they were confronted by the Elite Agents of SHIELD who caught up with them and wanted the remains of Blackheath's body. Finally, Smithers was able to revive himself by sucking the moisture from the villain Hydro-Man, leaving Hydro-Man's body desiccated. The Thunderbolts were aided against SHIELD by the arrival of the true Citizen V, who needed the team's immediate help with his agency's ship-- the engines of which were made of alien technology that had began distorting, threatening to suck the Earth into the null space of a white hole. In so doing, the Thunderbolts encountered the original Thunderbolts, who emerged from the void after severing the alien ship's presence from where they had been trapped on Counter-Earth. The two teams of Thunderbolts combined forces to plug the void and shunt the alien ship from Earth, similar to the manner in which Baron Zemo's team stopped the threat on Counter-Earth.After much discussion, most of the costumed heroes and villains chose to part company. Smithers elected to join the Thunderbolts, hoping that their new mission, to rule the world in order to save it, would closely match his own goals of protecting the Verdant Green from humans. He increasingly began to lose touch with his humanity, increasingly motivated by his connection to the Green.Blackheath joined the Thunderbolts in many acts of questionable heroism under Zemo\u2019s leadership, where the ends justified the means. Zemo\u2019s ultimate plan involved the creation of \u201cthe Liberator,\u201d a device that would drain abnormal uses energy throughout the world and hopefully reduce global threats, eliminate superhuman terrorism, and stabilize the world\u2019s status quo. The Thunderbolts succeeded in launching the Liberator, only to be confronted by the Avengers. Feeling betrayed, Moonstone absorbed the powers that the Liberator had harnessed, combining them with her already-increased powers of the moonstone. The Thunderbolts and the Avengers teamed up to defeat Moonstone, ultimately removing the alien gems that gave her powers.", 
+    "durability": 1, 
+    "education": "no formal education", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #113 (1951)\n", 
+    "groupaffiliation": [
+        "Formerly Thunderbolts", 
+        "former associate of the Maggia (under Count Nefaria)", 
+        "ally of the Wizard"
+    ], 
+    "hair": "Gray\n", 
+    "height": 72, 
+    "id": "Plantman", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "unrevealed", 
+    "occupation": [
+        "Former criminal", 
+        "gardener/lab assistant"
+    ], 
+    "placeofbirth": [
+        "London", 
+        "England"
+    ], 
+    "powers": "As Blackheath, Samuel Smithers' body seems completely composed of vegetable matter, allowing him superhuman strength and resistance to injury. He can also alter his shape and elongate his body. He is capable of mentally communicating with the Verdant Green, the psychic embodiment of Earth's biosphere, and he can mentally command plant and vegetable matter.", 
+    "realname": "Samuel Smithers", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 193
 }

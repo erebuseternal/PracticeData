@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Despite his previous aversion to killing, Frank, now Frank Schlichting, next appeared on the West Coast to make a name for himself as a criminal mercenary. Applying to Eugene Kligger of the now-defunct criminal organization known as the Corporation, Schlichting was outfitted with the armor, equipment, and identity of the Constrictor and became their special operative and hit man.His first public mission brought him into conflict with the Hulk, but the Corporation soon dissolved and left the Constrictor as a freelance criminal. He then ran afoul of Captain America. He sought employment from the criminal financier Justin Hammer and was ordered alongside other hired criminals to take out Iron Man, but he was unsuccessful. He next teamed up with Sabretooth in a partnership, but the two were thwarted by Luke Cage and Iron Fist. The Constrictor was invited to join the criminal organization, the Serpent Society, at one point, but he refused, and he embarked on several solo criminal activities, which were stopped by the likes of Captain America and Spider-Man.The Constrictor joined another group, the Masters of Evil, under the leadership of the latest Crimson Cowl. The Masters sought to pool their resources from various crimes, and soon tried their hands at a worldwide blackmail scheme, but they were all defeated by the Thunderbolts.More recently, the villain Sabretooth was left for dead when his Adamantium-laced skeleton was ripped from his body by the villain Apocalypse. The Constrictor was forced by the hero Gambit to give up his coils to save Sabretooth's life, although Frank soon obtained his current Vibranium models.The Constrictor briefly shared an apartment with two other villains, Titania (actually Copycat in disguise) and Deadpool. During a rare moment of camaraderie, he revealed that he had a daughter by the name of Mia Payne, although she remains unaware of her father's career as the Constrictor. (Nick Fury had told Payne's family that Payne, whose cover had been as a business executive, had died in a plane crash.)Recently, the Constrictor has come into a large amount of money. During an armed hijacking, he and fellow villains Jack O'Lantern and the Armadillo were thwarted by Hercules, who left the Constrictor seriously injured. The Constrictor sued Hercules for damages, and Hercules was convinced by Jennifer Walters, She-Hulk, to do the honorable thing and pay up. With his $168 million in damages, the Constrictor became a member of the idle rich.", 
-            "durability": 1, 
-            "education": "unspecified college degree", 
-            "energy": 1, 
-            "eyes": "Blue-gray\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #212 (1962)\n", 
-            "groupaffiliation": [
-                "Initiative", 
-                "formerly S.H.I.E.L.D.", 
-                "Six Pack", 
-                "Masters of Evil", 
-                "former agent of the Corporation and Justin Hammer", 
-                "former ally of Copycat (who posed as Titania)", 
-                "Deadpool", 
-                "Sabretooth", 
-                "and Viper"
-            ], 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Constrictor", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Mia Payne (daughter)", 
-            "occupation": [
-                "Mercenary", 
-                "idle rich", 
-                "former S.H.I.E.L.D. agent"
-            ], 
-            "placeofbirth": [
-                "Racine", 
-                "Wisconsin"
-            ], 
-            "powers": "None", 
-            "realname": "Frank Schlichting (formerly Frank Payne)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Despite his previous aversion to killing, Frank, now Frank Schlichting, next appeared on the West Coast to make a name for himself as a criminal mercenary. Applying to Eugene Kligger of the now-defunct criminal organization known as the Corporation, Schlichting was outfitted with the armor, equipment, and identity of the Constrictor and became their special operative and hit man.His first public mission brought him into conflict with the Hulk, but the Corporation soon dissolved and left the Constrictor as a freelance criminal. He then ran afoul of Captain America. He sought employment from the criminal financier Justin Hammer and was ordered alongside other hired criminals to take out Iron Man, but he was unsuccessful. He next teamed up with Sabretooth in a partnership, but the two were thwarted by Luke Cage and Iron Fist. The Constrictor was invited to join the criminal organization, the Serpent Society, at one point, but he refused, and he embarked on several solo criminal activities, which were stopped by the likes of Captain America and Spider-Man.The Constrictor joined another group, the Masters of Evil, under the leadership of the latest Crimson Cowl. The Masters sought to pool their resources from various crimes, and soon tried their hands at a worldwide blackmail scheme, but they were all defeated by the Thunderbolts.More recently, the villain Sabretooth was left for dead when his Adamantium-laced skeleton was ripped from his body by the villain Apocalypse. The Constrictor was forced by the hero Gambit to give up his coils to save Sabretooth's life, although Frank soon obtained his current Vibranium models.The Constrictor briefly shared an apartment with two other villains, Titania (actually Copycat in disguise) and Deadpool. During a rare moment of camaraderie, he revealed that he had a daughter by the name of Mia Payne, although she remains unaware of her father's career as the Constrictor. (Nick Fury had told Payne's family that Payne, whose cover had been as a business executive, had died in a plane crash.)Recently, the Constrictor has come into a large amount of money. During an armed hijacking, he and fellow villains Jack O'Lantern and the Armadillo were thwarted by Hercules, who left the Constrictor seriously injured. The Constrictor sued Hercules for damages, and Hercules was convinced by Jennifer Walters, She-Hulk, to do the honorable thing and pay up. With his $168 million in damages, the Constrictor became a member of the idle rich.", 
+    "durability": 1, 
+    "education": "unspecified college degree", 
+    "energy": 1, 
+    "eyes": "Blue-gray\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #212 (1962)\n", 
+    "groupaffiliation": [
+        "Initiative", 
+        "formerly S.H.I.E.L.D.", 
+        "Six Pack", 
+        "Masters of Evil", 
+        "former agent of the Corporation and Justin Hammer", 
+        "former ally of Copycat (who posed as Titania)", 
+        "Deadpool", 
+        "Sabretooth", 
+        "and Viper"
+    ], 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Constrictor", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Mia Payne (daughter)", 
+    "occupation": [
+        "Mercenary", 
+        "idle rich", 
+        "former S.H.I.E.L.D. agent"
+    ], 
+    "placeofbirth": [
+        "Racine", 
+        "Wisconsin"
+    ], 
+    "powers": "None", 
+    "realname": "Frank Schlichting (formerly Frank Payne)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #85\n", 
-            "groupaffiliation": [
-                "(At time of death) Redeemers", 
-                "(Formerly) Squadron Supreme"
-            ], 
-            "hair": "Brown\n", 
-            "height": 74, 
-            "id": "Nighthawk_(Kyle_Richmond)_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "(At time of death) Adventurer", 
-                "industrialist", 
-                "(Formerly) President of the United States of America of Earth-712"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Kyle Richmond", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 220
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #85\n", 
+    "groupaffiliation": [
+        "(At time of death) Redeemers", 
+        "(Formerly) Squadron Supreme"
+    ], 
+    "hair": "Brown\n", 
+    "height": 74, 
+    "id": "Nighthawk_(Kyle_Richmond)_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "(At time of death) Adventurer", 
+        "industrialist", 
+        "(Formerly) President of the United States of America of Earth-712"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Kyle Richmond", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 220
 }

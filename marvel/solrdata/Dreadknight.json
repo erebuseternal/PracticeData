@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Exiled citizen of Latveria", 
-            "content": "Anguished and humiliated, Velsing fled from Latveria and eventually came under the care of the Children, the genetic creations of Dr. Victor von Frankenstein, who in turn were tended by Frankenstein's great-granddaughter Victoria. While being nursed back to health in Castle Frankenstein, Velsing encountered the former Black Knight's winged horse, which Victoria had tried to restore to normal, but only succeeded in mutating it further. Using the horse and his scientific intellect, he decided to use his terrifying visage to seek vengeance on Doctor Doom with a new identity Dreadknight.", 
-            "durability": 1, 
-            "education": "Degree in Engineering", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Iron Man #101 (1977)\n", 
-            "groupaffiliation": [
-                "Formerly Masters of Evil", 
-                "Frightful Four"
-            ], 
-            "hair": "None\n", 
-            "height": 68, 
-            "id": "Dreadknight", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former engineer", 
-            "placeofbirth": [
-                "Schonstadt", 
-                "Latveria"
-            ], 
-            "powers": "None", 
-            "realname": "Bram Velsing", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 160
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Exiled citizen of Latveria", 
+    "content": "Anguished and humiliated, Velsing fled from Latveria and eventually came under the care of the Children, the genetic creations of Dr. Victor von Frankenstein, who in turn were tended by Frankenstein's great-granddaughter Victoria. While being nursed back to health in Castle Frankenstein, Velsing encountered the former Black Knight's winged horse, which Victoria had tried to restore to normal, but only succeeded in mutating it further. Using the horse and his scientific intellect, he decided to use his terrifying visage to seek vengeance on Doctor Doom with a new identity Dreadknight.", 
+    "durability": 1, 
+    "education": "Degree in Engineering", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Iron Man #101 (1977)\n", 
+    "groupaffiliation": [
+        "Formerly Masters of Evil", 
+        "Frightful Four"
+    ], 
+    "hair": "None\n", 
+    "height": 68, 
+    "id": "Dreadknight", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former engineer", 
+    "placeofbirth": [
+        "Schonstadt", 
+        "Latveria"
+    ], 
+    "powers": "None", 
+    "realname": "Bram Velsing", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 160
 }

@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Citizen of Xarth Three", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Guardians of the Galaxy #5 (2008)\n", 
-            "groupaffiliation": "Formerly Luminals", 
-            "hair": "Orange tendrils\n", 
-            "id": "Massdriver", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former protector of Xarth Three", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Xarth Three", 
-            "powers": "Massdriver had rock hard skin giving her extraordinary durability, most likely on a superhuman level, and her strength and stamina had been compared to that of the cosmic being called Terrax, the former Herald of Galactus", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Fought with Drax on Knowhere and ended up in intensive care (Guardians of the Galaxy #5, 2008)", 
-                "Massdriver returns from The Fault with an entity inside her, causing her death (Guardians of the Galaxy #20-21, 2010)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Citizen of Xarth Three", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Guardians of the Galaxy #5 (2008)\n", 
+    "groupaffiliation": "Formerly Luminals", 
+    "hair": "Orange tendrils\n", 
+    "id": "Massdriver", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former protector of Xarth Three", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Xarth Three", 
+    "powers": "Massdriver had rock hard skin giving her extraordinary durability, most likely on a superhuman level, and her strength and stamina had been compared to that of the cosmic being called Terrax, the former Herald of Galactus", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Fought with Drax on Knowhere and ended up in intensive care (Guardians of the Galaxy #5, 2008)", 
+        "Massdriver returns from The Fault with an entity inside her, causing her death (Guardians of the Galaxy #20-21, 2010)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

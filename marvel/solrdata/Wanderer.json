@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "High Pope and Emperor of India and Ethiopia", 
-                "the Keeper of Memories", 
-                "John the Presbyter", 
-                "John the Priest", 
-                "Patriarch John", 
-                "Presbyter loannes", 
-                "Presbyter John", 
-                "Senapus", 
-                "Sultan John of Babylon", 
-                "the Wanderer"
-            ], 
-            "citizenship": [
-                "Pentoxere", 
-                "a kingdom in eastern Asia"
-            ], 
-            "content": "He sat affixed in the chair for over seven hundred years until the Human Torch and Wyatt Wingfoot fell into his hidden chamber while searching for the Great Refuge of the Inhumans. Their presence awoke him, and he attacked them with his Evil Eye as a display of power. He explained his presence there, but because he couldn\u2019t trust them he sealed them within an unbreakable, airless shield. Though soon his knight\u2019s code of chivalry forced him to release them before they could suffocate.The Torch realized that the Evil Eye might be the key to the escape of the Inhumans, and he stole it from the Wanderer and flew off before the Wanderer could explain that a safety button had to be pressed or else it would soon overload and explode. The Wanderer briefed Wyatt on this, who boarded the Black Panther\u2019s Gyro-Cruiser and fired a beam of destructive light at Johnny, knocking the Evil Eye from his hands. The artifact exploded moments later, creating an explosion similar to an atomic bomb\u2019s;  thankfully, the Torch was far enough away that it only put out his flame. Then, together with Wyatt, the Wanderer revealed to Johnny that they were only trying to help him, though Johnny stayed fixed on the notion that the Evil Eye was his only hope to save Crystal and suggested that he would have been better off if they hadn\u2019t stopped him.", 
-            "durability": 1, 
-            "education": "Training as a knight", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #54 (1966)\n", 
-            "groupaffiliation": "Four Muses of Eurth", 
-            "hair": "Red\n", 
-            "height": 73, 
-            "id": "Wanderer", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "Either Gaspar, Melchior or Balthasar (alleged ancestor)", 
-            "occupation": [
-                "Wanderer", 
-                "former servant of King Richard"
-            ], 
-            "placeofbirth": "Pentoxere", 
-            "powers": "None", 
-            "realname": "Prester John", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": [
+        "High Pope and Emperor of India and Ethiopia", 
+        "the Keeper of Memories", 
+        "John the Presbyter", 
+        "John the Priest", 
+        "Patriarch John", 
+        "Presbyter loannes", 
+        "Presbyter John", 
+        "Senapus", 
+        "Sultan John of Babylon", 
+        "the Wanderer"
+    ], 
+    "citizenship": [
+        "Pentoxere", 
+        "a kingdom in eastern Asia"
+    ], 
+    "content": "He sat affixed in the chair for over seven hundred years until the Human Torch and Wyatt Wingfoot fell into his hidden chamber while searching for the Great Refuge of the Inhumans. Their presence awoke him, and he attacked them with his Evil Eye as a display of power. He explained his presence there, but because he couldn\u2019t trust them he sealed them within an unbreakable, airless shield. Though soon his knight\u2019s code of chivalry forced him to release them before they could suffocate.The Torch realized that the Evil Eye might be the key to the escape of the Inhumans, and he stole it from the Wanderer and flew off before the Wanderer could explain that a safety button had to be pressed or else it would soon overload and explode. The Wanderer briefed Wyatt on this, who boarded the Black Panther\u2019s Gyro-Cruiser and fired a beam of destructive light at Johnny, knocking the Evil Eye from his hands. The artifact exploded moments later, creating an explosion similar to an atomic bomb\u2019s;  thankfully, the Torch was far enough away that it only put out his flame. Then, together with Wyatt, the Wanderer revealed to Johnny that they were only trying to help him, though Johnny stayed fixed on the notion that the Evil Eye was his only hope to save Crystal and suggested that he would have been better off if they hadn\u2019t stopped him.", 
+    "durability": 1, 
+    "education": "Training as a knight", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #54 (1966)\n", 
+    "groupaffiliation": "Four Muses of Eurth", 
+    "hair": "Red\n", 
+    "height": 73, 
+    "id": "Wanderer", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "Either Gaspar, Melchior or Balthasar (alleged ancestor)", 
+    "occupation": [
+        "Wanderer", 
+        "former servant of King Richard"
+    ], 
+    "placeofbirth": "Pentoxere", 
+    "powers": "None", 
+    "realname": "Prester John", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

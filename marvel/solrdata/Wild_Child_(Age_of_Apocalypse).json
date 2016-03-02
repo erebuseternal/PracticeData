@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Canada", 
-            "content": "During Canada's final days, Beta Flight was released in an attempt to slow the charge of Apocalypse's Infinites. While the Canadian evacuation planes for Iceland were being loaded, Holocaust, along with a platoon of Infinite soldiers, attempted to massacre the escaping Canadians. Wild Child fought valiantly alongside his Beta Flight team allowing hundreds to escape Nova Scotia. Holocaust killed most of Beta Flight but allowed Gibney to live. Believing Wild Child's ferocity would be an amazing asset for Apocalypse, Holocaust captured him.Holocaust would use Wild Child as his first strike against an enemy - dropped onto a battlefield, Wild Child tore apart anything in his path. But the boy could not distinguish between ally and foe. After attacking Holocaust himself during the battle of Mexico City, Wild Child was placed in the soldier rehabilitation center located on Alcatraz Island. Holocaust would later send a near-death Sabretooth to Alcatraz as well. He placed him in the cell with Wild Child, hoping the ferocious boy would tear Sabretooth apart. Instead, after days of fighting each other, Wild Child became subservient to Sabretooth. The two escaped Alcatraz and Sabretooth brought Wild Child with him to the X-Men. They were accepted as part of Magneto's team despite their shady pasts.During the final days of Apocalypse's rule, Wild Child was a major player when Sabretooth and Holocaust fought a brutal battle. During the fight, Sabretooth was able to pry the location of the Infinite production plant in Indianapolis from Holocaust. The Horseman, believing he had already beaten Sabretooth, was surprised when Sabretooth sent Wild Child to inform the rest of the X-Men of his plans. Wild Child delivered this key information to Rogue by touching her skin and allowing her to absorb his memories.", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": [
-                "Formerly X-Men", 
-                "Beta Flight", 
-                "Weapon X"
-            ], 
-            "hair": "Blond\n", 
-            "height": 66, 
-            "id": "Wild_Child_(Age_of_Apocalypse)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Adventurer", 
-                "freedom fighter"
-            ], 
-            "placeofbirth": "Canada", 
-            "powers": "Wild Child is a mutant with an accelerated healing factor similar in nature to Wolverine's but nowhere near as advanced. Wild Child also has sharpened claws and teeth which he uses to attack his enemies.", 
-            "realname": "Kyle Gibney", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 155
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Canada", 
+    "content": "During Canada's final days, Beta Flight was released in an attempt to slow the charge of Apocalypse's Infinites. While the Canadian evacuation planes for Iceland were being loaded, Holocaust, along with a platoon of Infinite soldiers, attempted to massacre the escaping Canadians. Wild Child fought valiantly alongside his Beta Flight team allowing hundreds to escape Nova Scotia. Holocaust killed most of Beta Flight but allowed Gibney to live. Believing Wild Child's ferocity would be an amazing asset for Apocalypse, Holocaust captured him.Holocaust would use Wild Child as his first strike against an enemy - dropped onto a battlefield, Wild Child tore apart anything in his path. But the boy could not distinguish between ally and foe. After attacking Holocaust himself during the battle of Mexico City, Wild Child was placed in the soldier rehabilitation center located on Alcatraz Island. Holocaust would later send a near-death Sabretooth to Alcatraz as well. He placed him in the cell with Wild Child, hoping the ferocious boy would tear Sabretooth apart. Instead, after days of fighting each other, Wild Child became subservient to Sabretooth. The two escaped Alcatraz and Sabretooth brought Wild Child with him to the X-Men. They were accepted as part of Magneto's team despite their shady pasts.During the final days of Apocalypse's rule, Wild Child was a major player when Sabretooth and Holocaust fought a brutal battle. During the fight, Sabretooth was able to pry the location of the Infinite production plant in Indianapolis from Holocaust. The Horseman, believing he had already beaten Sabretooth, was surprised when Sabretooth sent Wild Child to inform the rest of the X-Men of his plans. Wild Child delivered this key information to Rogue by touching her skin and allowing her to absorb his memories.", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": [
+        "Formerly X-Men", 
+        "Beta Flight", 
+        "Weapon X"
+    ], 
+    "hair": "Blond\n", 
+    "height": 66, 
+    "id": "Wild_Child_(Age_of_Apocalypse)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Adventurer", 
+        "freedom fighter"
+    ], 
+    "placeofbirth": "Canada", 
+    "powers": "Wild Child is a mutant with an accelerated healing factor similar in nature to Wolverine's but nowhere near as advanced. Wild Child also has sharpened claws and teeth which he uses to attack his enemies.", 
+    "realname": "Kyle Gibney", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 155
 }

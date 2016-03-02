@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "United States of America", 
-            "content": "Later, Sidewinder invited his former group to join the Serpent Society, along with several other snake-themed villains.  With his economical knowledge, Sidewinder's team of mercenaries proved to be one of the most formidable organization in the country.  However, Viper invaded the group and turned several members against Sidewinder, promising even larger amounts of profit.  Sidewinder abandoned the group, and turned leadership over to Cobra, who later took the name King Cobra.  Stressed from the life of a criminal, Sidewinder decided to leave the industry, but not without first saving Diamondback from the Serpent Society's death sentence.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Two-in-One #64\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly Serpent Society", 
-                "Serpent Squad"
-            ], 
-            "hair": "Bald\n", 
-            "height": 69, 
-            "id": "Sidewinder_(Seth_Voelker)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Sister (name unrevealed)", 
-            "occupation": [
-                "Formerly a college professor", 
-                "financial analyst", 
-                "and criminal"
-            ], 
-            "placeofbirth": [
-                "Kenosha", 
-                "Wisconsin"
-            ], 
-            "powers": "None", 
-            "realname": "Seth Voelker", 
-            "significantissues": [
-                "Sent by Roxxon to find the Serpent Crown, battled the Thing and Stingray (Marvel Two-in-One #64-66)", 
-                "formed the Serpent Society (Captain America #310)", 
-                "invited the new Serpent Squad to join the Society (Captain America #338)", 
-                "ambushed by Viper's forces, leaves the Serpent Society (Captain America #341-342)", 
-                "rescues Diamondback from death (Captain America #380-381)", 
-                "speaks about reformed villainy on a talk show (New Thunderbolts #7)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "United States of America", 
+    "content": "Later, Sidewinder invited his former group to join the Serpent Society, along with several other snake-themed villains.  With his economical knowledge, Sidewinder's team of mercenaries proved to be one of the most formidable organization in the country.  However, Viper invaded the group and turned several members against Sidewinder, promising even larger amounts of profit.  Sidewinder abandoned the group, and turned leadership over to Cobra, who later took the name King Cobra.  Stressed from the life of a criminal, Sidewinder decided to leave the industry, but not without first saving Diamondback from the Serpent Society's death sentence.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Two-in-One #64\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly Serpent Society", 
+        "Serpent Squad"
+    ], 
+    "hair": "Bald\n", 
+    "height": 69, 
+    "id": "Sidewinder_(Seth_Voelker)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Sister (name unrevealed)", 
+    "occupation": [
+        "Formerly a college professor", 
+        "financial analyst", 
+        "and criminal"
+    ], 
+    "placeofbirth": [
+        "Kenosha", 
+        "Wisconsin"
+    ], 
+    "powers": "None", 
+    "realname": "Seth Voelker", 
+    "significantissues": [
+        "Sent by Roxxon to find the Serpent Crown, battled the Thing and Stingray (Marvel Two-in-One #64-66)", 
+        "formed the Serpent Society (Captain America #310)", 
+        "invited the new Serpent Squad to join the Society (Captain America #338)", 
+        "ambushed by Viper's forces, leaves the Serpent Society (Captain America #341-342)", 
+        "rescues Diamondback from death (Captain America #380-381)", 
+        "speaks about reformed villainy on a talk show (New Thunderbolts #7)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

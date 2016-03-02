@@ -1,53 +1,49 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Boom-Boom", 
-                "Boomer", 
-                "Meltdown", 
-                "Mutate #35", 
-                "Time Bomb", 
-                "Nancy Forrester"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Following her father's near-death experience with Sebastian Shaw and Holocaust, Tabitha underwent a drastic change in looks and personality. She renamed herself Meltdown and became something of a loose cannon. When ex-spy Pete Wisdom assumed leadership of X-Force, he introduced them to the shadowy world of covert operations. After a mission, the team was considered deceased (including Tabitha).", 
-            "durability": 2, 
-            "education": "High School dropout", 
-            "energy": 4, 
-            "eyes": "Blue\n", 
-            "fighting": 4, 
-            "firstappearance": "(As Time Bomb/Boom-Boom) Secret Wars II #5 (1985); (as Boomer) X-Factor #84 (1992); (as Meltdown) X-Force #51 (1996)\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly Nextwave", 
-                "X-Force", 
-                "Genoshan Mutates", 
-                "New Mutants", 
-                "X-Terminators / X-Factor (trainee)", 
-                "Fallen Angels"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 65, 
-            "id": "Smith,_Tabitha", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Martin Louis Smith (father), Mandy Smith (step-mother), Wanda Jo Bialowsky-Smith (step-mother)", 
-            "occupation": [
-                "Adventurer", 
-                "former student", 
-                "thief"
-            ], 
-            "placeofbirth": [
-                "Roanoke", 
-                "Virginia"
-            ], 
-            "powers": "Can psionically generate, release and reabsorb plasma; can time detonation of same", 
-            "realname": "Tabitha Smith", 
-            "significantissues": "Helps Beast in San Francisco (X-Men: Manifest Destiny # 1, 2008), killed by Leper Queen (X-Force #13, 2009), saved by X-23 (X-Force #17, 2009)", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "Boom-Boom", 
+        "Boomer", 
+        "Meltdown", 
+        "Mutate #35", 
+        "Time Bomb", 
+        "Nancy Forrester"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Following her father's near-death experience with Sebastian Shaw and Holocaust, Tabitha underwent a drastic change in looks and personality. She renamed herself Meltdown and became something of a loose cannon. When ex-spy Pete Wisdom assumed leadership of X-Force, he introduced them to the shadowy world of covert operations. After a mission, the team was considered deceased (including Tabitha).", 
+    "durability": 2, 
+    "education": "High School dropout", 
+    "energy": 4, 
+    "eyes": "Blue\n", 
+    "fighting": 4, 
+    "firstappearance": "(As Time Bomb/Boom-Boom) Secret Wars II #5 (1985); (as Boomer) X-Factor #84 (1992); (as Meltdown) X-Force #51 (1996)\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly Nextwave", 
+        "X-Force", 
+        "Genoshan Mutates", 
+        "New Mutants", 
+        "X-Terminators / X-Factor (trainee)", 
+        "Fallen Angels"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 65, 
+    "id": "Smith,_Tabitha", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Martin Louis Smith (father), Mandy Smith (step-mother), Wanda Jo Bialowsky-Smith (step-mother)", 
+    "occupation": [
+        "Adventurer", 
+        "former student", 
+        "thief"
+    ], 
+    "placeofbirth": [
+        "Roanoke", 
+        "Virginia"
+    ], 
+    "powers": "Can psionically generate, release and reabsorb plasma; can time detonation of same", 
+    "realname": "Tabitha Smith", 
+    "significantissues": "Helps Beast in San Francisco (X-Men: Manifest Destiny # 1, 2008), killed by Leper Queen (X-Force #13, 2009), saved by X-23 (X-Force #17, 2009)", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

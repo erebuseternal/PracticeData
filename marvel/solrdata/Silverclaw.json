@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Daughter of the Volcano God", 
-                "La Garra Argentada", 
-                "La Garra Plata"
-            ], 
-            "citizenship": "Costa Verde", 
-            "content": "Years ago Jamie Santiago returned from one of many journeys into the Andes with an infant girl he claimed was his by Peliali. Revealed as a shape-shifter at her christening, Lupe grew up teased by other children. When her father died, Lupe was taken in by the Church orphanage, despite their misgivings about her \u201cungodly\u201d powers. When a TV ad brought the orphanage a letter from Edwin Jarvis they decided to make Lupe his sponsor, believing that his connections to Iron Man might be able to help her someday. Lupe began a correspondence with Jarvis that lasted several years, though not revealing her birthright. Agents of Moses Magnum learned of her powers while traveling to America and forced her to fight the Avengers while they stole a seismic cannon being shipped through JFK Airport. Lupe cooperated on the condition that no hostages or bystanders were killed. Once Magnum Force escaped, Lupe, now called Silverclaw, helped the Avengers retrieve the cannon.Lupe attended college classes until a telegram warned her of an old Costa Verde prophecy coming true. Once Silverclaw and the Avengers arrived they discovered that sorcerer Kulan Gath had transformed the Kamekeri into Hyborian Era (circa 10, 000 B.C.) versions of themselves and was intending to sacrifice Peliali in order to attain godhood and destroy the Earth. The Avengers were able to distract Gath long enough for Silverclaw to channel the belief of the Kamekeri into Peliali allowing her to escape and leaving Gath to the mercy of his demonic masters.", 
-            "durability": 1, 
-            "education": "College student (Empire State University)", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #8 (1998)\n", 
-            "groupaffiliation": "Avengers (reserve)", 
-            "hair": "Black, white on the ends\n", 
-            "height": 60, 
-            "id": "Silverclaw", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Jaime Santiago (father, deceased), Peliali (mother, deceased), Edwin Jarvis (American sponsor)", 
-            "occupation": [
-                "Avenger (reservist)", 
-                "college student", 
-                "protector of the Kamekeri"
-            ], 
-            "placeofbirth": [
-                "The village of Kamekeri", 
-                "Costa Verde"
-            ], 
-            "powers": "Silverclaw can either partially or fully take the form and abilities of any jungle creature native to Costa Verde (possibly to all of South America), adopting a silver color in action. She has a mystical link to the lands and peoples of Costa Verde, though the limits of this connection are as yet unexplored.", 
-            "realname": "Maria de Guadalupe \"Lupe\" Santiago", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": [
+        "Daughter of the Volcano God", 
+        "La Garra Argentada", 
+        "La Garra Plata"
+    ], 
+    "citizenship": "Costa Verde", 
+    "content": "Years ago Jamie Santiago returned from one of many journeys into the Andes with an infant girl he claimed was his by Peliali. Revealed as a shape-shifter at her christening, Lupe grew up teased by other children. When her father died, Lupe was taken in by the Church orphanage, despite their misgivings about her \u201cungodly\u201d powers. When a TV ad brought the orphanage a letter from Edwin Jarvis they decided to make Lupe his sponsor, believing that his connections to Iron Man might be able to help her someday. Lupe began a correspondence with Jarvis that lasted several years, though not revealing her birthright. Agents of Moses Magnum learned of her powers while traveling to America and forced her to fight the Avengers while they stole a seismic cannon being shipped through JFK Airport. Lupe cooperated on the condition that no hostages or bystanders were killed. Once Magnum Force escaped, Lupe, now called Silverclaw, helped the Avengers retrieve the cannon.Lupe attended college classes until a telegram warned her of an old Costa Verde prophecy coming true. Once Silverclaw and the Avengers arrived they discovered that sorcerer Kulan Gath had transformed the Kamekeri into Hyborian Era (circa 10, 000 B.C.) versions of themselves and was intending to sacrifice Peliali in order to attain godhood and destroy the Earth. The Avengers were able to distract Gath long enough for Silverclaw to channel the belief of the Kamekeri into Peliali allowing her to escape and leaving Gath to the mercy of his demonic masters.", 
+    "durability": 1, 
+    "education": "College student (Empire State University)", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #8 (1998)\n", 
+    "groupaffiliation": "Avengers (reserve)", 
+    "hair": "Black, white on the ends\n", 
+    "height": 60, 
+    "id": "Silverclaw", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Jaime Santiago (father, deceased), Peliali (mother, deceased), Edwin Jarvis (American sponsor)", 
+    "occupation": [
+        "Avenger (reservist)", 
+        "college student", 
+        "protector of the Kamekeri"
+    ], 
+    "placeofbirth": [
+        "The village of Kamekeri", 
+        "Costa Verde"
+    ], 
+    "powers": "Silverclaw can either partially or fully take the form and abilities of any jungle creature native to Costa Verde (possibly to all of South America), adopting a silver color in action. She has a mystical link to the lands and peoples of Costa Verde, though the limits of this connection are as yet unexplored.", 
+    "realname": "Maria de Guadalupe \"Lupe\" Santiago", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

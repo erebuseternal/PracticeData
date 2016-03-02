@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Discovering that the newborn would begin to emit dangerous radiation, the Franks agreed to seal their son in a suspended animation capsule for a period of 25 years, the hope being that his radiation would diminish to acceptable levels. However, the government building in which the Frank boy was housed was destroyed, and the capsule came into the possession of the Avengers. Robert Frank donned his old Whizzer outfit and confronted the Avengers in order to take the capsule for himself. Shortly after their scuffle, the capsule in which the Frank boy was housed began to tremble and glow, and eventually the boy \u2013 Nuklo \u2013 escaped. The Avengers battled Nuklo, but realized he was immensely powerful. The \u201cboy\u201d more than held his own against Earth\u2019s Mightest Heroes, splitting off two copies of himself to fight the Avengers in separate instances. Eventually the Scarlet Witch encased Nuklo in a hex sphere which reduced his size, weakened him, and caused him to fall unconscious.Nuklo was placed back into his capsule, back under the care of the US government. But he was utilized by a rogue army faction which had allied itself with the Living Laser, then under the influence of the Serpent Crown. Shortly after the Avengers discovered the Laser\u2019s whereabouts, the army unleashed Nuklo who promptly grew to enormous size to battle not only the Avengers, but destroy anything in his path. His radiation levels built up to close to critical mass endangering the entire city of Los Angeles. It took Nuklo\u2019s father, the Whizzer, to stop him; the speedster plowed into his son at top speed, causing an implosion rather than explosion.Nuklo was eventually taken to Project Pegasus for sanctuary and study. After his radiation levels dropped significantly, he moved to a general hospital in New York City under the care of a Dr. Ira S. Bishoff. But Dr. Bishoff was actually the Whizzer\u2019s old enemy Isbisa, who drained some of Nuklo\u2019s remaining radiation into himself to use against the Whizzer. The Whizzer died in battle protecting his son from Isbisa, but Nuklo was permanently cured of his excess radiation.", 
-            "durability": 1, 
-            "education": "High school equivalency", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Giant-Size Avengers #1, 1974\n", 
-            "groupaffiliation": "V-Battalion", 
-            "hair": "Bald\n", 
-            "height": 0, 
-            "id": "Nuklo", 
-            "identity": "Known to the authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Robert Frank (Whizzer, father), Madeline Frank (Miss America, mother)", 
-            "occupation": "Former service station attendant", 
-            "origin": [
-                "Giant-Size Avengers #1", 
-                "1974"
-            ], 
-            "placeofbirth": [
-                "Mount Athena", 
-                "NY"
-            ], 
-            "powers": "Nuklo possesses superhuman strength, endurance, speed and resistance to injury. \nBefore he was cured of his excess radiation, Nuklo possessed the ability to expel enough nuclear radiation to increase his size and split into separate beings that could fuse back together, but he no longer possesses this power. He also no longer radiates toxic levels of radiation.", 
-            "realname": "Robert Frank Jr.", 
-            "significantissues": [
-                "Giant-Size Avengers #1 (1974)", 
-                "Avengers Annual #6 (1976)", 
-                "Vision and Scarlet Witch #2 (1982)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 245
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Discovering that the newborn would begin to emit dangerous radiation, the Franks agreed to seal their son in a suspended animation capsule for a period of 25 years, the hope being that his radiation would diminish to acceptable levels. However, the government building in which the Frank boy was housed was destroyed, and the capsule came into the possession of the Avengers. Robert Frank donned his old Whizzer outfit and confronted the Avengers in order to take the capsule for himself. Shortly after their scuffle, the capsule in which the Frank boy was housed began to tremble and glow, and eventually the boy \u2013 Nuklo \u2013 escaped. The Avengers battled Nuklo, but realized he was immensely powerful. The \u201cboy\u201d more than held his own against Earth\u2019s Mightest Heroes, splitting off two copies of himself to fight the Avengers in separate instances. Eventually the Scarlet Witch encased Nuklo in a hex sphere which reduced his size, weakened him, and caused him to fall unconscious.Nuklo was placed back into his capsule, back under the care of the US government. But he was utilized by a rogue army faction which had allied itself with the Living Laser, then under the influence of the Serpent Crown. Shortly after the Avengers discovered the Laser\u2019s whereabouts, the army unleashed Nuklo who promptly grew to enormous size to battle not only the Avengers, but destroy anything in his path. His radiation levels built up to close to critical mass endangering the entire city of Los Angeles. It took Nuklo\u2019s father, the Whizzer, to stop him; the speedster plowed into his son at top speed, causing an implosion rather than explosion.Nuklo was eventually taken to Project Pegasus for sanctuary and study. After his radiation levels dropped significantly, he moved to a general hospital in New York City under the care of a Dr. Ira S. Bishoff. But Dr. Bishoff was actually the Whizzer\u2019s old enemy Isbisa, who drained some of Nuklo\u2019s remaining radiation into himself to use against the Whizzer. The Whizzer died in battle protecting his son from Isbisa, but Nuklo was permanently cured of his excess radiation.", 
+    "durability": 1, 
+    "education": "High school equivalency", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Giant-Size Avengers #1, 1974\n", 
+    "groupaffiliation": "V-Battalion", 
+    "hair": "Bald\n", 
+    "height": 0, 
+    "id": "Nuklo", 
+    "identity": "Known to the authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Robert Frank (Whizzer, father), Madeline Frank (Miss America, mother)", 
+    "occupation": "Former service station attendant", 
+    "origin": [
+        "Giant-Size Avengers #1", 
+        "1974"
+    ], 
+    "placeofbirth": [
+        "Mount Athena", 
+        "NY"
+    ], 
+    "powers": "Nuklo possesses superhuman strength, endurance, speed and resistance to injury. \nBefore he was cured of his excess radiation, Nuklo possessed the ability to expel enough nuclear radiation to increase his size and split into separate beings that could fuse back together, but he no longer possesses this power. He also no longer radiates toxic levels of radiation.", 
+    "realname": "Robert Frank Jr.", 
+    "significantissues": [
+        "Giant-Size Avengers #1 (1974)", 
+        "Avengers Annual #6 (1976)", 
+        "Vision and Scarlet Witch #2 (1982)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 245
 }

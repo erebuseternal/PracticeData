@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Executioner", 
-            "citizenship": "Republic of Ireland", 
-            "content": "Alongside Excalibur, Feron rarely used his powers or fought, remaining behind in Braddock Manor, though he helped against the Troll Associates and followed the team to the future of Earth 811, Rachel's home reality. As they returned from the mission, Captain Britain was lost in the timestream. This severely affected his lover, Meggan, who entered a fugue state, remaining unmoving in a waterfall. Feeling the empath's pain, Feron attempted to contact and help her, but he was overwhelmed by her pain and turned into water himself, loosing his corporeal form for a time.", 
-            "durability": 2, 
-            "education": "Educated in magic and the classics; otherwise unrevealed", 
-            "energy": 6, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Excalibur #48 (1992)\n", 
-            "groupaffiliation": [
-                "(formerly) Crazy Gang", 
-                "Excalibur", 
-                "County Sligo monks"
-            ], 
-            "hair": "Black\n", 
-            "height": 66, 
-            "id": "Feron", 
-            "identity": "No dual identity", 
-            "intelligence": 3, 
-            "knownrelatives": "Feron (a thousand generations of ancestors all of that name)", 
-            "occupation": [
-                "Mystic", 
-                "former sentinel awaiting the coming of the Anti-Phoenix"
-            ], 
-            "origin": "Excalibur #50 (1992)", 
-            "placeofbirth": [
-                "Monastery", 
-                "County Sligo", 
-                "Republic of Ireland"
-            ], 
-            "powers": "Feron can cast binding spells, create lifelike illusions, fire mystic bolts and generate mystic shields. He always levitates a few feet off the ground, and can fly. He can sense the location of the Anti-Phoenix when it is close by. After a short lifetime of training in the mystic arts, he is presumably able to utilize magic for a variety of other, unrevealed effects.", 
-            "realname": "Feron", 
-            "significantissues": [
-                "Expected the Phoenix Force, denied (Excalibur #48, 1992)", 
-                "battled Necrom (Excalibur #50, 1992)", 
-                "attempted to help Meggan while she grieved for Captain Britan (Excalibur #70, 1993)", 
-                "crashed Captain Britain's bachelor party (Excalibur #124, 1998)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": "Executioner", 
+    "citizenship": "Republic of Ireland", 
+    "content": "Alongside Excalibur, Feron rarely used his powers or fought, remaining behind in Braddock Manor, though he helped against the Troll Associates and followed the team to the future of Earth 811, Rachel's home reality. As they returned from the mission, Captain Britain was lost in the timestream. This severely affected his lover, Meggan, who entered a fugue state, remaining unmoving in a waterfall. Feeling the empath's pain, Feron attempted to contact and help her, but he was overwhelmed by her pain and turned into water himself, loosing his corporeal form for a time.", 
+    "durability": 2, 
+    "education": "Educated in magic and the classics; otherwise unrevealed", 
+    "energy": 6, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Excalibur #48 (1992)\n", 
+    "groupaffiliation": [
+        "(formerly) Crazy Gang", 
+        "Excalibur", 
+        "County Sligo monks"
+    ], 
+    "hair": "Black\n", 
+    "height": 66, 
+    "id": "Feron", 
+    "identity": "No dual identity", 
+    "intelligence": 3, 
+    "knownrelatives": "Feron (a thousand generations of ancestors all of that name)", 
+    "occupation": [
+        "Mystic", 
+        "former sentinel awaiting the coming of the Anti-Phoenix"
+    ], 
+    "origin": "Excalibur #50 (1992)", 
+    "placeofbirth": [
+        "Monastery", 
+        "County Sligo", 
+        "Republic of Ireland"
+    ], 
+    "powers": "Feron can cast binding spells, create lifelike illusions, fire mystic bolts and generate mystic shields. He always levitates a few feet off the ground, and can fly. He can sense the location of the Anti-Phoenix when it is close by. After a short lifetime of training in the mystic arts, he is presumably able to utilize magic for a variety of other, unrevealed effects.", 
+    "realname": "Feron", 
+    "significantissues": [
+        "Expected the Phoenix Force, denied (Excalibur #48, 1992)", 
+        "battled Necrom (Excalibur #50, 1992)", 
+        "attempted to help Meggan while she grieved for Captain Britan (Excalibur #70, 1993)", 
+        "crashed Captain Britain's bachelor party (Excalibur #124, 1998)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Deviant Lemuria", 
-            "content": "The Avengers hoped to stop the resurrection of Ghaur, but despite their help and the help of Kro, his children, and other Deviants known as Delta Force, Ghaur revived himself and once again took over leadership of Lemuria. Soon, Ghaur launched an attempt to create a Deviant equivalent of the Uni-Mind, the so-called \"Anti-Mind,\" and captured a number of Eternals. He was stopped once more by Kro, who led a rebellion against Ghaur, and the Eternals were rescued along with the help of Thena and the Heroes for Hire.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Yellow\n", 
-            "fighting": 1, 
-            "firstappearance": "Eternals #2 (1985)\n", 
-            "hair": "Black\n", 
-            "height": 76, 
-            "id": "Ghaur", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "Unknown", 
-            "occupation": [
-                "Formerly unofficial leader of the Deviants", 
-                "Currently High Priest would be conqueror"
-            ], 
-            "origin": "Verbal description only (Eternals #2 1985)", 
-            "powers": "Ghaur has great mind control powers which he can only use on Deviants whose genetic codes are known to him. Ghaur has mastered the power-stunt of altering a Deviant\u2019s malleable genetic structure, so that he might bestow any new body alteration upon a Deviant or just as easily kill the victim by inducing a lethal mutation. Kro, who has unearthly control over his own body, is immune to Ghaur\u2019s powers.", 
-            "realname": "Ghaur", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Deviant Lemuria", 
+    "content": "The Avengers hoped to stop the resurrection of Ghaur, but despite their help and the help of Kro, his children, and other Deviants known as Delta Force, Ghaur revived himself and once again took over leadership of Lemuria. Soon, Ghaur launched an attempt to create a Deviant equivalent of the Uni-Mind, the so-called \"Anti-Mind,\" and captured a number of Eternals. He was stopped once more by Kro, who led a rebellion against Ghaur, and the Eternals were rescued along with the help of Thena and the Heroes for Hire.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Yellow\n", 
+    "fighting": 1, 
+    "firstappearance": "Eternals #2 (1985)\n", 
+    "hair": "Black\n", 
+    "height": 76, 
+    "id": "Ghaur", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "Unknown", 
+    "occupation": [
+        "Formerly unofficial leader of the Deviants", 
+        "Currently High Priest would be conqueror"
+    ], 
+    "origin": "Verbal description only (Eternals #2 1985)", 
+    "powers": "Ghaur has great mind control powers which he can only use on Deviants whose genetic codes are known to him. Ghaur has mastered the power-stunt of altering a Deviant\u2019s malleable genetic structure, so that he might bestow any new body alteration upon a Deviant or just as easily kill the victim by inducing a lethal mutation. Kro, who has unearthly control over his own body, is immune to Ghaur\u2019s powers.", 
+    "realname": "Ghaur", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

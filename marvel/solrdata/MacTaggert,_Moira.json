@@ -1,54 +1,50 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Last name frequently misspelled MacTaggart", 
-            "citizenship": "U.K.", 
-            "content": "Moira forged a brilliant career as a leading geneticist, earning a Nobel Prize, and founded a Mutant Research Center on Muir Island off the coast of Scotland. After renewing contact with Xavier, they discussed the possibility of establishing a school for training mutants. Moira became Xavier\u2019s silent partner in founding the Xavier Institute for Gifted Youngsters and its\u2019 first team of mutant students, the X-Men.When Moira\u2019s son Kevin began to manifest destructive superhuman mutant powers, she attempted to \u201ccure\u201d him, but her efforts were in vain and she was forced to keep him imprisoned. Moira also came to take a young mutant Scottish girl named Rahne Sinclair as her ward, sending her to study at Xavier\u2019s as a member of the New Mutants.Moira finally met the X-Men while claiming to be their new housekeeper, but they soon learned her true profession. During her affiliation with the X-Men, Moira fell in love with Sean Cassidy. Meanwhile, Kevin escaped Muir Isle and began to possess the bodies of others, draining their life energies to power his ability to warp perceptions of reality. As Proteus, Kevin terrorized the town of Edinburgh and was confronted by the X-Men. Kevin attacked and possessed his father\u2019s body, killing him, before being killed himself by Colossus.", 
-            "durability": 1, 
-            "education": "PhD in genetics", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men #96 (1976)\n", 
-            "groupaffiliation": [
-                "Formerly Excalibur", 
-                "Muir Island X-Men (leader)"
-            ], 
-            "hair": "Brown\n", 
-            "height": 67, 
-            "id": "MacTaggert,_Moira", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Alasdhair Kinross & Lilibet (ancestors), Lord Kinross (father, deceased), Joseph MacTaggert (husband, deceased), Kevin MacTaggert (Proteus, son, deceased), Rahne Sinclair (Wolfsbane, ward)", 
-            "occupation": [
-                "Former geneticist", 
-                "student"
-            ], 
-            "origin": [
-                "Uncanny X-Men #389 (2001)", 
-                "Excalibur #79 (1994)", 
-                "X-Men #117 (1979)", 
-                "Cable #-1 (1997)", 
-                "Uncanny X-Men #273 (1991)", 
-                "Uncanny X-Men #300 (1993)"
-            ], 
-            "placeofbirth": [
-                "Kinross Estate", 
-                "Scotland"
-            ], 
-            "powers": "None", 
-            "realname": "Moira MacTaggert", 
-            "significantissues": [
-                "Met Xavier (Uncanny X-Men #389, 2001)", 
-                "engaged to Xavier, broke off engagement (X-Men #117, 1979)", 
-                "met X-Men (X-Men #96, 1976)", 
-                "revealed to have contracted Legacy Virus (Excalibur #79-80, 1994)", 
-                "discovered cure for Legacy Virus, critically injured in attack on Muir Island, imparted cure to Xavier, died (Uncanny X-Men #388/Bishop: The Last X-Man #16/X-Men #108, 2001)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 135
-        }
-    }
+    "aliases": "Last name frequently misspelled MacTaggart", 
+    "citizenship": "U.K.", 
+    "content": "Moira forged a brilliant career as a leading geneticist, earning a Nobel Prize, and founded a Mutant Research Center on Muir Island off the coast of Scotland. After renewing contact with Xavier, they discussed the possibility of establishing a school for training mutants. Moira became Xavier\u2019s silent partner in founding the Xavier Institute for Gifted Youngsters and its\u2019 first team of mutant students, the X-Men.When Moira\u2019s son Kevin began to manifest destructive superhuman mutant powers, she attempted to \u201ccure\u201d him, but her efforts were in vain and she was forced to keep him imprisoned. Moira also came to take a young mutant Scottish girl named Rahne Sinclair as her ward, sending her to study at Xavier\u2019s as a member of the New Mutants.Moira finally met the X-Men while claiming to be their new housekeeper, but they soon learned her true profession. During her affiliation with the X-Men, Moira fell in love with Sean Cassidy. Meanwhile, Kevin escaped Muir Isle and began to possess the bodies of others, draining their life energies to power his ability to warp perceptions of reality. As Proteus, Kevin terrorized the town of Edinburgh and was confronted by the X-Men. Kevin attacked and possessed his father\u2019s body, killing him, before being killed himself by Colossus.", 
+    "durability": 1, 
+    "education": "PhD in genetics", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men #96 (1976)\n", 
+    "groupaffiliation": [
+        "Formerly Excalibur", 
+        "Muir Island X-Men (leader)"
+    ], 
+    "hair": "Brown\n", 
+    "height": 67, 
+    "id": "MacTaggert,_Moira", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Alasdhair Kinross & Lilibet (ancestors), Lord Kinross (father, deceased), Joseph MacTaggert (husband, deceased), Kevin MacTaggert (Proteus, son, deceased), Rahne Sinclair (Wolfsbane, ward)", 
+    "occupation": [
+        "Former geneticist", 
+        "student"
+    ], 
+    "origin": [
+        "Uncanny X-Men #389 (2001)", 
+        "Excalibur #79 (1994)", 
+        "X-Men #117 (1979)", 
+        "Cable #-1 (1997)", 
+        "Uncanny X-Men #273 (1991)", 
+        "Uncanny X-Men #300 (1993)"
+    ], 
+    "placeofbirth": [
+        "Kinross Estate", 
+        "Scotland"
+    ], 
+    "powers": "None", 
+    "realname": "Moira MacTaggert", 
+    "significantissues": [
+        "Met Xavier (Uncanny X-Men #389, 2001)", 
+        "engaged to Xavier, broke off engagement (X-Men #117, 1979)", 
+        "met X-Men (X-Men #96, 1976)", 
+        "revealed to have contracted Legacy Virus (Excalibur #79-80, 1994)", 
+        "discovered cure for Legacy Virus, critically injured in attack on Muir Island, imparted cure to Xavier, died (Uncanny X-Men #388/Bishop: The Last X-Man #16/X-Men #108, 2001)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 135
 }

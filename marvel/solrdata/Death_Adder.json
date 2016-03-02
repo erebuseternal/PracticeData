@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue-green\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Two-in-One #64\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly Serpent Society", 
-                "Serpent Squad"
-            ], 
-            "hair": "Black\n", 
-            "height": 66, 
-            "id": "Death_Adder", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Mr. and Mrs. Burroughs (parents)", 
-            "occupation": "Professional criminal", 
-            "origin": "Unrevealed", 
-            "placeofbirth": [
-                "Rochester", 
-                "New York"
-            ], 
-            "powers": "Death Adder had the ability to breathe underwater, above-average strength and superhuman speed in water.", 
-            "realname": "Roland Burroughs", 
-            "significantissues": [
-                "Sent to search for the Serpent Crown, battled the Thing and Triton (Marvel Two-in-One #64-65)", 
-                "joined the Serpent Society (Captain America #310)", 
-                "murdered M.O.D.O.K. (Captain America #313)", 
-                "killed by the Scourge of the Underworld (Captain America #318)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue-green\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Two-in-One #64\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly Serpent Society", 
+        "Serpent Squad"
+    ], 
+    "hair": "Black\n", 
+    "height": 66, 
+    "id": "Death_Adder", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Mr. and Mrs. Burroughs (parents)", 
+    "occupation": "Professional criminal", 
+    "origin": "Unrevealed", 
+    "placeofbirth": [
+        "Rochester", 
+        "New York"
+    ], 
+    "powers": "Death Adder had the ability to breathe underwater, above-average strength and superhuman speed in water.", 
+    "realname": "Roland Burroughs", 
+    "significantissues": [
+        "Sent to search for the Serpent Crown, battled the Thing and Triton (Marvel Two-in-One #64-65)", 
+        "joined the Serpent Society (Captain America #310)", 
+        "murdered M.O.D.O.K. (Captain America #313)", 
+        "killed by the Scourge of the Underworld (Captain America #318)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

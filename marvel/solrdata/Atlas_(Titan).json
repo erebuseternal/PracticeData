@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "\"He Who Endures\" (literal translation)", 
-                "\"Thinker of Mischief\""
-            ], 
-            "citizenship": "Olympus (exiled)", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #356 (1985)\n", 
-            "groupaffiliation": "Titans", 
-            "hair": "Gray\n", 
-            "height": 9600, 
-            "id": "Atlas_(Titan)", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "occupation": [
-                "Axis Mundi", 
-                "former Titan war chief"
-            ], 
-            "placeofbirth": "Olympus", 
-            "realname": "Atlas", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 705
-        }
-    }
+    "aliases": [
+        "\"He Who Endures\" (literal translation)", 
+        "\"Thinker of Mischief\""
+    ], 
+    "citizenship": "Olympus (exiled)", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #356 (1985)\n", 
+    "groupaffiliation": "Titans", 
+    "hair": "Gray\n", 
+    "height": 9600, 
+    "id": "Atlas_(Titan)", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "occupation": [
+        "Axis Mundi", 
+        "former Titan war chief"
+    ], 
+    "placeofbirth": "Olympus", 
+    "realname": "Atlas", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 705
 }

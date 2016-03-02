@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Great Mother", 
-                "Dyndymene Rhea", 
-                "Agdistis"
-            ], 
-            "citizenship": "Citizen of Olympia", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Eternals #1 (1985)\n", 
-            "groupaffiliation": "Eternals", 
-            "hair": "White\n", 
-            "height": 60, 
-            "id": "Cybele", 
-            "identity": "Cybele's existence is not known to the general public of Earth.", 
-            "intelligence": 1, 
-            "knownrelatives": "Zuras (husband, deceased), Thena (formerly Azura, daughter), Mentor (formerly Alars, brother-in-law), Starfox (Eros, nephew), Thanos (nephew, deceased)", 
-            "occupation": "None", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Cybele possessed superhuman strength, durability, and stamina. She could also manipulate energy and psionic powers of the mind such as hypnosis.", 
-            "realname": "Cybele", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": [
+        "The Great Mother", 
+        "Dyndymene Rhea", 
+        "Agdistis"
+    ], 
+    "citizenship": "Citizen of Olympia", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Eternals #1 (1985)\n", 
+    "groupaffiliation": "Eternals", 
+    "hair": "White\n", 
+    "height": 60, 
+    "id": "Cybele", 
+    "identity": "Cybele's existence is not known to the general public of Earth.", 
+    "intelligence": 1, 
+    "knownrelatives": "Zuras (husband, deceased), Thena (formerly Azura, daughter), Mentor (formerly Alars, brother-in-law), Starfox (Eros, nephew), Thanos (nephew, deceased)", 
+    "occupation": "None", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Cybele possessed superhuman strength, durability, and stamina. She could also manipulate energy and psionic powers of the mind such as hypnosis.", 
+    "realname": "Cybele", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

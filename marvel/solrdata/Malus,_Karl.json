@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "content": "", 
-            "durability": 1, 
-            "education": "BS in Biology from University of California at Los Angeles", 
-            "energy": 1, 
-            "fighting": 1, 
-            "groupaffiliation": [
-                "Former employee of Power Broker", 
-                "Inc.", 
-                "employed by the Fly", 
-                "Power Man (now Atlas)", 
-                "creator of Armadillo", 
-                "Ms. Marvel", 
-                "and most of the Unlimited Class Wrestling Federation"
-            ], 
-            "id": "Malus,_Karl", 
-            "intelligence": 1, 
-            "realname": "Dr. Karl Malus", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "content": "", 
+    "durability": 1, 
+    "education": "BS in Biology from University of California at Los Angeles", 
+    "energy": 1, 
+    "fighting": 1, 
+    "groupaffiliation": [
+        "Former employee of Power Broker", 
+        "Inc.", 
+        "employed by the Fly", 
+        "Power Man (now Atlas)", 
+        "creator of Armadillo", 
+        "Ms. Marvel", 
+        "and most of the Unlimited Class Wrestling Federation"
+    ], 
+    "id": "Malus,_Karl", 
+    "intelligence": 1, 
+    "realname": "Dr. Karl Malus", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

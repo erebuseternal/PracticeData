@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A. with a criminal record for attempted robbery", 
-            "content": "", 
-            "durability": 2, 
-            "education": "Graduate of Midtown High School and Certified Nurse's Aid program", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 2, 
-            "firstappearance": "Amazing Fantasy Vol. 1 #15 (1962)\n", 
-            "groupaffiliation": "Formerly Osborn Industries", 
-            "hair": "Blonde\n", 
-            "height": 69, 
-            "id": "Allan,_Liz", 
-            "identity": "No dual identity", 
-            "intelligence": 2, 
-            "knownrelatives": "Wilson Allan (father), Doris Raxton (mother), Norman Harold Osborn (son), Harold \"Harry\" Osborn (Green Goblin, ex-husband), Mark Raxton (Molten Man, stepbrother)", 
-            "occupation": [
-                "Independent means", 
-                "former executive of Osborn Industries", 
-                "nurse's aid"
-            ], 
-            "placeofbirth": [
-                "Queens", 
-                "New York"
-            ], 
-            "realname": "Elizabeth Allan Osborn", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 135
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A. with a criminal record for attempted robbery", 
+    "content": "", 
+    "durability": 2, 
+    "education": "Graduate of Midtown High School and Certified Nurse's Aid program", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 2, 
+    "firstappearance": "Amazing Fantasy Vol. 1 #15 (1962)\n", 
+    "groupaffiliation": "Formerly Osborn Industries", 
+    "hair": "Blonde\n", 
+    "height": 69, 
+    "id": "Allan,_Liz", 
+    "identity": "No dual identity", 
+    "intelligence": 2, 
+    "knownrelatives": "Wilson Allan (father), Doris Raxton (mother), Norman Harold Osborn (son), Harold \"Harry\" Osborn (Green Goblin, ex-husband), Mark Raxton (Molten Man, stepbrother)", 
+    "occupation": [
+        "Independent means", 
+        "former executive of Osborn Industries", 
+        "nurse's aid"
+    ], 
+    "placeofbirth": [
+        "Queens", 
+        "New York"
+    ], 
+    "realname": "Elizabeth Allan Osborn", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 135
 }

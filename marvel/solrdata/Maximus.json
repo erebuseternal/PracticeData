@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Maximus the Magnificent", 
-                "Maximus the Mad"
-            ], 
-            "citizenship": "Attilan", 
-            "content": "Maximus fired his weapon, and in disgust his brother dealt him a blow that knocked him off his feet. But soon, his weapon\u2019s ineffectualness proved that humans and Inhumans were originally of the same species. When Medusa explained this to him, he went insane and reversed the power of his atmo-gun, creating a Negative Zone around Attilan, trapping the Inhumans within it for some time while the Fantastic Four escaped. Maximus became lost in his madness, babbling about becoming King one day and creating strange inventions. One of which was a very helpful device that allowed his cousin Triton to breathe air like any other Inhuman. But though he continued to taunt his fellow Inhumans, saying that only he knew how to break the barrier around Attilan, Black Bolt soon revealed the secret that only Maximus and Medusa knew: that he remained silent because the merest whisper from his lips would cause immense destruction. He announced this by destroying the barrier around the city, freeing the Inhumans to once again walk the human world. Then their Council of Elders announced that they wished the royal family to split up and explore the human world, which Black Bolt agreed to, and they sped off. Maximus was left in the city, rambling that he now had his chance to reclaim the crown and rule the Inhumans.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #47\n", 
-            "groupaffiliation": [
-                "Royal Family of the Inhumans", 
-                "former leader of \"Evil Inhumans", 
-                "\"  and ally of Shatterstar"
-            ], 
-            "hair": "Black\n", 
-            "height": 60, 
-            "id": "Maximus", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Agon (father, deceased), Rynda (mother, deceased), Black Bolt (brother), Crystal, Medusa, Gorgon, Karnak, Triton (cousins)", 
-            "occupation": [
-                "Would-be Conqueror", 
-                "former leader of the Inhumans"
-            ], 
-            "origin": [
-                "Thor #149", 
-                "Avengers #95"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Maximus has the previously oppressed power of limited mind control.", 
-            "realname": "Maximus", 
-            "significantissues": "Fantastic Four #47 (intro)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": [
+        "Maximus the Magnificent", 
+        "Maximus the Mad"
+    ], 
+    "citizenship": "Attilan", 
+    "content": "Maximus fired his weapon, and in disgust his brother dealt him a blow that knocked him off his feet. But soon, his weapon\u2019s ineffectualness proved that humans and Inhumans were originally of the same species. When Medusa explained this to him, he went insane and reversed the power of his atmo-gun, creating a Negative Zone around Attilan, trapping the Inhumans within it for some time while the Fantastic Four escaped. Maximus became lost in his madness, babbling about becoming King one day and creating strange inventions. One of which was a very helpful device that allowed his cousin Triton to breathe air like any other Inhuman. But though he continued to taunt his fellow Inhumans, saying that only he knew how to break the barrier around Attilan, Black Bolt soon revealed the secret that only Maximus and Medusa knew: that he remained silent because the merest whisper from his lips would cause immense destruction. He announced this by destroying the barrier around the city, freeing the Inhumans to once again walk the human world. Then their Council of Elders announced that they wished the royal family to split up and explore the human world, which Black Bolt agreed to, and they sped off. Maximus was left in the city, rambling that he now had his chance to reclaim the crown and rule the Inhumans.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #47\n", 
+    "groupaffiliation": [
+        "Royal Family of the Inhumans", 
+        "former leader of \"Evil Inhumans", 
+        "\"  and ally of Shatterstar"
+    ], 
+    "hair": "Black\n", 
+    "height": 60, 
+    "id": "Maximus", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Agon (father, deceased), Rynda (mother, deceased), Black Bolt (brother), Crystal, Medusa, Gorgon, Karnak, Triton (cousins)", 
+    "occupation": [
+        "Would-be Conqueror", 
+        "former leader of the Inhumans"
+    ], 
+    "origin": [
+        "Thor #149", 
+        "Avengers #95"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Maximus has the previously oppressed power of limited mind control.", 
+    "realname": "Maximus", 
+    "significantissues": "Fantastic Four #47 (intro)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

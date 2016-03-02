@@ -1,67 +1,63 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Jean-Paul Martin", 
-            "citizenship": "Canada", 
-            "content": "Jean-Paul returned to his passion for skiing, and by secretly using his powers he quickly became a world champion, winning a gold medal at the Olympics and becoming famous and wealthy. At that time, the Canadian government\u2019s Department H had begun forming a team of superhuman operatives, Alpha Flight. The team\u2019s founder, James Hudson, had already recruited Jean-Paul\u2019s sister as Aurora, and after seeing a photo of Jean-Paul he noticed their resemblance and discovered they were siblings. Hudson invited Jean-Paul to join the team as well, and he was overjoyed to learn that he had a sister, joining the team as Northstar to be with her. The twin\u2019s reunion came as a surprise to all, for when they touched they created a flash of intense light. The team\u2019s first mission was to reclaim former government operative Wolverine, who had defected and joined the American X-Men team. Ambushing the X-Men in Calgary, Alpha Flight held their own, but the battle caused much damage and the government opted to let Wolverine go rather than face massive rebuilding costs. Shortly thereafter, Department H was closed and Alpha Flight disbanded. Later visiting his sister, Northstar was shocked to discover that she had a dual personality, alternating between the free-spirited Aurora and the shy, reserved Jeanne-Marie. When Hudson reformed Alpha Flight without government funding, Northstar managed to convince his sister to return with him. After his sister began to switch personalities with increasing frequency, Northstar sought psychiatric help for her.Later, Northstar took his sister to visit Belmonde, but the reunion turned to tragedy after Belmonde was killed by Deadly Ernest who then kidnapped Aurora. With the help of the enigmatic Nemesis, Northstar rescued his sister. The siblings later argued over Northstar\u2019s mistaken assumption that Aurora had romanced Ernest to prevent him from harming her. Shocked at her brother\u2019s arrogance, Aurora angrily told him she never wanted to see him again. Despite Northstar\u2019s pleas for forgiveness, Aurora stayed true to her word, and he eventually ceased operating as a member of Alpha Flight on a regular basis. Aurora ultimately sought to break her ties with him completely by having her teammate and then-lover Sasquatch alter her powers so they were not the same as his. Ultimately reconciling their differences following the apparent death of Sasquatch, the twins joined Alpha Flight in opposing the gamma-spawned Hulk, who was rampaging through Vancouver. During the battle, the twins discovered that, as a result of Aurora\u2019s altered powers, they could now no longer touch each other without temporarily canceling out their powers. The Hulk was eventually driven back to the U.S., and the Canadian government realized that Alpha Flight was necessary and reinstated the team\u2019s funding. Northstar returned to active status with the team, but his terrorist past would soon come back to haunt him after former members of Cell Combattre began turning up dead. After the killer was exposed, Northstar was pardoned for his past indiscretions by Canada\u2019s Prime Minister.Shortly thereafter, Northstar grew ill until he became almost completely incapacitated. While Alpha Flight sought a cure, the Norse trickster god Loki appeared to the twins, convincing them that they were not mutants but the children of an Asgardian elf, and that Northstar was dying because he could not exist without his light. Aurora willingly expended her power to bathe Northstar in her light, curing him. She was then captured by demons and became trapped in the Asgardian netherworld, while Northstar was welcomed into the realm of Asgard by his supposed brethren. Loki was summoned before the higher gods, They Who Sit Above in Shadow, and berated for his actions. In attempted atonement, he transported Aurora to a monastery on Earth, but was sent to the netherworld himself as punishment. Northstar remained in Asgard until his former teammates rescued him from being slain by Dark Elves worshipping Llan the Sorceror, and during the ensuing battle against Llan he was able to restore Aurora\u2019s powers. As a side effect, both siblings proved able to generate light individually. After discovering an abandoned baby girl who had been born with the AIDS virus, Northstar adopted her, naming her Joanne, but she died weeks later. Northstar then publicly announced his homosexuality, hoping that his celebrity status would increase interest in HIV prevention. Following another disbanding of Alpha Flight, Northstar was implicated in the murder of a tabloid reporter, and the Canadian government dispatched Department K\u2019s Weapon P.R.I.M.E. unit to bring him in. At the same time, Northstar was targeted by the manic assassin Arcade, who had been employed by Carl Kerridge, a businessman who sought to cleanse the human race of supposed impurities. Northstar was able to gather enough evidence to prove his innocence and convict Kerridge.", 
-            "durability": 1, 
-            "education": "High school level", 
-            "energy": 2, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men #120 (1979)\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly Hydra", 
-                "Xavier Institute Faculty/Alpha Squadron (teacher/advisor)", 
-                "Alpha Flight", 
-                "Front de Lib\u00e9ration du Qu\u00e9bec/Cell Combattre"
-            ], 
-            "hair": "Black, silver streaks\n", 
-            "height": 71, 
-            "id": "Northstar", 
-            "identity": "Public", 
-            "intelligence": 1, 
-            "knownrelatives": "Jean-Baptiste Beaubier (father, deceased), unnamed mother (deceased), Louis Martin (adoptive father, deceased), unnamed adoptive mother (deceased), Jeanne-Marie Beaubier (Aurora, sister), Joanne Beaubier (adopted daughter, deceased)", 
-            "occupation": [
-                "Former terrorist", 
-                "adventurer", 
-                "teacher", 
-                "businessman", 
-                "novelist", 
-                "professional skier", 
-                "trapeze artist", 
-                "thief"
-            ], 
-            "origin": [
-                "Alpha Flight #10 (1984)", 
-                "Northstar #1-2 (1994)", 
-                "Marvel Fanfare #28 (1986)"
-            ], 
-            "placeofbirth": [
-                "Montreal", 
-                "Qu\u00e9bec", 
-                "Canada"
-            ], 
-            "powers": "Northstar can move and fly at superhuman speed. He can channel a portion of the kinetic energy of the atomic motion in his body's molecules in a single direction, accelerating his body to a velocity in direct proportion to the amount of kinetic energy he has tapped. It is theoretically possible for Northstar to reach 99% of the speed of light (186,272 miles per second in a vacuum), but his inability to breathe at such speeds and the damage his body would suffer from wind and friction prevent him.\nAs a side effect of partially robbing his molecules of their atomic motion, the binding forces within and between the molecules increase which enhances the sheer toughness of Northstar\u2019s entire body. This effect gives his skin enough durability to withstand speeds up to at least Mach 10 without injury. Northstar can also vary the rate of acceleration of his molecules to release a cascade of photons as bright as a lighthouse beacon.", 
-            "realname": "Jean-Paul Beaubier", 
-            "significantissues": [
-                "With Alpha Flight, first opposed X-Men (X-Men #120, 1979)", 
-                "joined reorganized Alpha Flight (Alpha Flight #1, 1983)", 
-                "identity made public (Alpha Flight #41-42, 1986-1987)", 
-                "deceived by Loki (Alpha Flight #50, 1987)", 
-                "Loki\u2019s lies exposed (Alpha Flight #81-82, 1990)", 
-                "openly revealed sexuality (Alpha Flight #106, 1992)", 
-                "Alpha Flight disbanded (Alpha Flight #130, 1994)", 
-                "framed by Kerridge (Northstar #1-4, 1994)", 
-                "promoted book, briefly joined X-Men (Uncanny X-Men #392, 2001)", 
-                "fully joined X-Men (Uncanny X-Men #414, 2002)", 
-                "killed by brainwashed Wolverine, resurrected by Hydra, led attack on Helicarrier, vs deprogrammed Wolverine, captured (Wolverine #25-28, 2005)"
-            ], 
-            "speed": 2, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 185
-        }
-    }
+    "aliases": "Jean-Paul Martin", 
+    "citizenship": "Canada", 
+    "content": "Jean-Paul returned to his passion for skiing, and by secretly using his powers he quickly became a world champion, winning a gold medal at the Olympics and becoming famous and wealthy. At that time, the Canadian government\u2019s Department H had begun forming a team of superhuman operatives, Alpha Flight. The team\u2019s founder, James Hudson, had already recruited Jean-Paul\u2019s sister as Aurora, and after seeing a photo of Jean-Paul he noticed their resemblance and discovered they were siblings. Hudson invited Jean-Paul to join the team as well, and he was overjoyed to learn that he had a sister, joining the team as Northstar to be with her. The twin\u2019s reunion came as a surprise to all, for when they touched they created a flash of intense light. The team\u2019s first mission was to reclaim former government operative Wolverine, who had defected and joined the American X-Men team. Ambushing the X-Men in Calgary, Alpha Flight held their own, but the battle caused much damage and the government opted to let Wolverine go rather than face massive rebuilding costs. Shortly thereafter, Department H was closed and Alpha Flight disbanded. Later visiting his sister, Northstar was shocked to discover that she had a dual personality, alternating between the free-spirited Aurora and the shy, reserved Jeanne-Marie. When Hudson reformed Alpha Flight without government funding, Northstar managed to convince his sister to return with him. After his sister began to switch personalities with increasing frequency, Northstar sought psychiatric help for her.Later, Northstar took his sister to visit Belmonde, but the reunion turned to tragedy after Belmonde was killed by Deadly Ernest who then kidnapped Aurora. With the help of the enigmatic Nemesis, Northstar rescued his sister. The siblings later argued over Northstar\u2019s mistaken assumption that Aurora had romanced Ernest to prevent him from harming her. Shocked at her brother\u2019s arrogance, Aurora angrily told him she never wanted to see him again. Despite Northstar\u2019s pleas for forgiveness, Aurora stayed true to her word, and he eventually ceased operating as a member of Alpha Flight on a regular basis. Aurora ultimately sought to break her ties with him completely by having her teammate and then-lover Sasquatch alter her powers so they were not the same as his. Ultimately reconciling their differences following the apparent death of Sasquatch, the twins joined Alpha Flight in opposing the gamma-spawned Hulk, who was rampaging through Vancouver. During the battle, the twins discovered that, as a result of Aurora\u2019s altered powers, they could now no longer touch each other without temporarily canceling out their powers. The Hulk was eventually driven back to the U.S., and the Canadian government realized that Alpha Flight was necessary and reinstated the team\u2019s funding. Northstar returned to active status with the team, but his terrorist past would soon come back to haunt him after former members of Cell Combattre began turning up dead. After the killer was exposed, Northstar was pardoned for his past indiscretions by Canada\u2019s Prime Minister.Shortly thereafter, Northstar grew ill until he became almost completely incapacitated. While Alpha Flight sought a cure, the Norse trickster god Loki appeared to the twins, convincing them that they were not mutants but the children of an Asgardian elf, and that Northstar was dying because he could not exist without his light. Aurora willingly expended her power to bathe Northstar in her light, curing him. She was then captured by demons and became trapped in the Asgardian netherworld, while Northstar was welcomed into the realm of Asgard by his supposed brethren. Loki was summoned before the higher gods, They Who Sit Above in Shadow, and berated for his actions. In attempted atonement, he transported Aurora to a monastery on Earth, but was sent to the netherworld himself as punishment. Northstar remained in Asgard until his former teammates rescued him from being slain by Dark Elves worshipping Llan the Sorceror, and during the ensuing battle against Llan he was able to restore Aurora\u2019s powers. As a side effect, both siblings proved able to generate light individually. After discovering an abandoned baby girl who had been born with the AIDS virus, Northstar adopted her, naming her Joanne, but she died weeks later. Northstar then publicly announced his homosexuality, hoping that his celebrity status would increase interest in HIV prevention. Following another disbanding of Alpha Flight, Northstar was implicated in the murder of a tabloid reporter, and the Canadian government dispatched Department K\u2019s Weapon P.R.I.M.E. unit to bring him in. At the same time, Northstar was targeted by the manic assassin Arcade, who had been employed by Carl Kerridge, a businessman who sought to cleanse the human race of supposed impurities. Northstar was able to gather enough evidence to prove his innocence and convict Kerridge.", 
+    "durability": 1, 
+    "education": "High school level", 
+    "energy": 2, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men #120 (1979)\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly Hydra", 
+        "Xavier Institute Faculty/Alpha Squadron (teacher/advisor)", 
+        "Alpha Flight", 
+        "Front de Lib\u00e9ration du Qu\u00e9bec/Cell Combattre"
+    ], 
+    "hair": "Black, silver streaks\n", 
+    "height": 71, 
+    "id": "Northstar", 
+    "identity": "Public", 
+    "intelligence": 1, 
+    "knownrelatives": "Jean-Baptiste Beaubier (father, deceased), unnamed mother (deceased), Louis Martin (adoptive father, deceased), unnamed adoptive mother (deceased), Jeanne-Marie Beaubier (Aurora, sister), Joanne Beaubier (adopted daughter, deceased)", 
+    "occupation": [
+        "Former terrorist", 
+        "adventurer", 
+        "teacher", 
+        "businessman", 
+        "novelist", 
+        "professional skier", 
+        "trapeze artist", 
+        "thief"
+    ], 
+    "origin": [
+        "Alpha Flight #10 (1984)", 
+        "Northstar #1-2 (1994)", 
+        "Marvel Fanfare #28 (1986)"
+    ], 
+    "placeofbirth": [
+        "Montreal", 
+        "Qu\u00e9bec", 
+        "Canada"
+    ], 
+    "powers": "Northstar can move and fly at superhuman speed. He can channel a portion of the kinetic energy of the atomic motion in his body's molecules in a single direction, accelerating his body to a velocity in direct proportion to the amount of kinetic energy he has tapped. It is theoretically possible for Northstar to reach 99% of the speed of light (186,272 miles per second in a vacuum), but his inability to breathe at such speeds and the damage his body would suffer from wind and friction prevent him.\nAs a side effect of partially robbing his molecules of their atomic motion, the binding forces within and between the molecules increase which enhances the sheer toughness of Northstar\u2019s entire body. This effect gives his skin enough durability to withstand speeds up to at least Mach 10 without injury. Northstar can also vary the rate of acceleration of his molecules to release a cascade of photons as bright as a lighthouse beacon.", 
+    "realname": "Jean-Paul Beaubier", 
+    "significantissues": [
+        "With Alpha Flight, first opposed X-Men (X-Men #120, 1979)", 
+        "joined reorganized Alpha Flight (Alpha Flight #1, 1983)", 
+        "identity made public (Alpha Flight #41-42, 1986-1987)", 
+        "deceived by Loki (Alpha Flight #50, 1987)", 
+        "Loki\u2019s lies exposed (Alpha Flight #81-82, 1990)", 
+        "openly revealed sexuality (Alpha Flight #106, 1992)", 
+        "Alpha Flight disbanded (Alpha Flight #130, 1994)", 
+        "framed by Kerridge (Northstar #1-4, 1994)", 
+        "promoted book, briefly joined X-Men (Uncanny X-Men #392, 2001)", 
+        "fully joined X-Men (Uncanny X-Men #414, 2002)", 
+        "killed by brainwashed Wolverine, resurrected by Hydra, led attack on Helicarrier, vs deprogrammed Wolverine, captured (Wolverine #25-28, 2005)"
+    ], 
+    "speed": 2, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 185
 }

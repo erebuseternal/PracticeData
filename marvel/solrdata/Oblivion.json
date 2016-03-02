@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Lord of the Outer Void", 
-            "citizenship": "Inapplicable", 
-            "content": "Oblivion occasionally gives shape and substance to parts of itself. One such \"child\" was Mirage, who rebelled against Oblivion and fled into portions of the multiverse with greater space and time than Oblivion's outer void home, and came to Earth under the assumed name of  Marge. Oblivion created other children (the Idiot, Kali, and White Light) which he sent after Mirage but she defeated them, allying herself with the human Iceman. In doing so Mirage fled across time and Iceman followed, however, Oblivion claimed him and pulled him to the edges of the Outer Void later Kali killed Iceman's father in the past, before Iceman had been born (actually creating a divergent timeline in which Iceman had never been born). Oblivion there demanded that Iceman convinced Mirage to return to him, and when Mirage finally did, she willingly reemerged into her \"father.\"When Oblivion sensed the half-Inhuman, half-Deviant Maelstrom's potential to upset the balances of his universe, he sent Deathurge to serve (and observe) Maelstrom. After Maelstrom slew the abstract Anomaly and assumed that universal role, he sought out Oblivion and asked him for the secret of cosmic awareness; Oblivion sent him to slay Eon and take that knowledge. Maelstrom plotted to destroy the universe in its entirety by disrupting a black hole at its center, and to then use his position as Anomaly to usurp Oblivion's role. Oblivion sent Deathurge to Earth to distract its protectors and willing allowed Maelstrom to act as its avatar in this plot, but Oblivion's spatial opposite, Infinity, briefly empowered Quasar as her own avatar and Maelstrom was defeated. Death, Eternity, Infinity, and Oblivion met to address the issue, and Oblivion absorbed Maelstorm into his being for safe keeping.", 
-            "durability": 1, 
-            "education": "Inapplicable", 
-            "energy": 1, 
-            "eyes": "Variable\n", 
-            "fighting": 1, 
-            "firstappearance": "Iceman #3 (1985)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Variable\n", 
-            "height": 0, 
-            "id": "Oblivion", 
-            "identity": [
-                "Inapplicable", 
-                "the general populace is unaware of Oblivion's existence"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Death, Eternity, Infinity (all claimed \"siblings\"); Deathurge, Idiot, Kali, Kid Reaper, Mirage, White Light (all \"children\")", 
-            "occupation": [
-                "Abstract entity", 
-                "personification of non-existence along the spatial axis."
-            ], 
-            "origin": "Unknown", 
-            "placeofbirth": "Inapplicable", 
-            "powers": "Oblivion embodies non-existence and possesses near-omnipotent cosmic powers.", 
-            "realname": "Inapplicable", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Inapplicable\n"
-        }
-    }
+    "aliases": "Lord of the Outer Void", 
+    "citizenship": "Inapplicable", 
+    "content": "Oblivion occasionally gives shape and substance to parts of itself. One such \"child\" was Mirage, who rebelled against Oblivion and fled into portions of the multiverse with greater space and time than Oblivion's outer void home, and came to Earth under the assumed name of  Marge. Oblivion created other children (the Idiot, Kali, and White Light) which he sent after Mirage but she defeated them, allying herself with the human Iceman. In doing so Mirage fled across time and Iceman followed, however, Oblivion claimed him and pulled him to the edges of the Outer Void later Kali killed Iceman's father in the past, before Iceman had been born (actually creating a divergent timeline in which Iceman had never been born). Oblivion there demanded that Iceman convinced Mirage to return to him, and when Mirage finally did, she willingly reemerged into her \"father.\"When Oblivion sensed the half-Inhuman, half-Deviant Maelstrom's potential to upset the balances of his universe, he sent Deathurge to serve (and observe) Maelstrom. After Maelstrom slew the abstract Anomaly and assumed that universal role, he sought out Oblivion and asked him for the secret of cosmic awareness; Oblivion sent him to slay Eon and take that knowledge. Maelstrom plotted to destroy the universe in its entirety by disrupting a black hole at its center, and to then use his position as Anomaly to usurp Oblivion's role. Oblivion sent Deathurge to Earth to distract its protectors and willing allowed Maelstrom to act as its avatar in this plot, but Oblivion's spatial opposite, Infinity, briefly empowered Quasar as her own avatar and Maelstrom was defeated. Death, Eternity, Infinity, and Oblivion met to address the issue, and Oblivion absorbed Maelstorm into his being for safe keeping.", 
+    "durability": 1, 
+    "education": "Inapplicable", 
+    "energy": 1, 
+    "eyes": "Variable\n", 
+    "fighting": 1, 
+    "firstappearance": "Iceman #3 (1985)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Variable\n", 
+    "height": 0, 
+    "id": "Oblivion", 
+    "identity": [
+        "Inapplicable", 
+        "the general populace is unaware of Oblivion's existence"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Death, Eternity, Infinity (all claimed \"siblings\"); Deathurge, Idiot, Kali, Kid Reaper, Mirage, White Light (all \"children\")", 
+    "occupation": [
+        "Abstract entity", 
+        "personification of non-existence along the spatial axis."
+    ], 
+    "origin": "Unknown", 
+    "placeofbirth": "Inapplicable", 
+    "powers": "Oblivion embodies non-existence and possesses near-omnipotent cosmic powers.", 
+    "realname": "Inapplicable", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Inapplicable\n"
 }

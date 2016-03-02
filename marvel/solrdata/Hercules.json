@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Greece", 
-            "content": "In the course of these Labors, Hercules provoked the wrath of three immortals who remain his enemies to this day. By slaughtering the man-eating Stymphalian Birds, he enraged the war god Ares, to whom they were sacred. In temporarily capturing Cerberus, the three-headed hound that serves as guardian to the Olympian underworld (not to be confused with the shape-shifting giant of the same name), Hercules offended Pluto, the lord of that realm. By killing the Nemean Lion, the Hydra, and other creatures spawned by the inconceivably grotesque and powerful monster Typhoeus, Hercules gained the bitter enmity of Typhon, the immortal humanoid offspring of Typhoeus and a Titaness.However, it was the centaur Nessus who caused Hercules's mortal demise. Nessus kidnapped Hercules's wife Deianeira, whereupon Hercules shot him with an arrow. Feigning a wish to make amends, the dying centaur told Deianeira how to make a love charm from his allegedly enchanted blood, aware that it was now tainted with the lethal poison of the Hydra, in which Hercules had dipped his arrows. Some time after Nessus's death, Deianeira, distraught over her husband's latest infidelity, rubbed the supposed love charm into Hercules's shirt. When Hercules's donned the shirt, the poison quickly worked and caused Hercules great pain.  In an attempt to end this pain, he built a funeral pyre for himself and set it ablaze.  Zeus intervened however, consuming the pyre with his thunderbolts and bringing Hercules to Olympus to be made a true immortal.", 
-            "durability": 7, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 7, 
-            "firstappearance": "THOR ANNUAL #1\n", 
-            "groupaffiliation": [
-                "Gods of Olympus", 
-                "Avengers", 
-                "formerly Secret Avengers", 
-                "Champions (of Los Angeles)", 
-                "God Squad"
-            ], 
-            "hair": "Dark brown\n", 
-            "height": 77, 
-            "id": "Hercules", 
-            "identity": [
-                "Publicly known", 
-                "however", 
-                "not all modern day Earth people believe Hercules is the actual Hercules of myth."
-            ], 
-            "intelligence": 4, 
-            "knownrelatives": "Zeus (father), Alcmena (mother, deceased), Amphitryon (foster father, deceased), Iphycles (half-brother, deceased), Neptune (Poseidon) and Hades(Pluto) (uncles), Ares, Apollo, Hermes, Hephaestus (half-brothers), Venus (Aphrodite), Athena, Artemis (half-sisters)", 
-            "occupation": "Adventurer", 
-            "placeofbirth": [
-                "Thebes", 
-                "Greece"
-            ], 
-            "powers": "Hercules's principal power is his superhuman strength. Hercules's strength is well in excess of the \"Class 100\" Level (able to lift/press in excess of 100 tons), making him, one of the strongest beings in the Marvel Universe. Hercules has highly developed leg muscles, although they do not match those of the Hulk. Hercules can make a standing high jump of at least 100 feet in Earth's gravity.\nHercules is also an Olympian thereby being an immortal, and as true immortals, the Olympian gods do not age and are not susceptible to disease. Although they can be wounded in battle, they cannot die by any conventional means, and have a rapid healing rate. Hercules has a greater resistance to physical injury than any other Olympian god except for Zeus, and possibly Neptune and Pluto. Hercules is virtually tireless. His supernaturally enhanced musculature produces no fatigue poisons. He can even survive unprotected in the vacuum of space for a brief period of time. Only an injury of such magnititude that it incinerated him or dispersed a major portion of his bodily molecules could kill Hercules. In at least some such cases, Zeus or one of the other gods might still be able to resurrect him.", 
-            "realname": "Heracles", 
-            "speed": 5, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 325
-        }
-    }
+    "citizenship": "Greece", 
+    "content": "In the course of these Labors, Hercules provoked the wrath of three immortals who remain his enemies to this day. By slaughtering the man-eating Stymphalian Birds, he enraged the war god Ares, to whom they were sacred. In temporarily capturing Cerberus, the three-headed hound that serves as guardian to the Olympian underworld (not to be confused with the shape-shifting giant of the same name), Hercules offended Pluto, the lord of that realm. By killing the Nemean Lion, the Hydra, and other creatures spawned by the inconceivably grotesque and powerful monster Typhoeus, Hercules gained the bitter enmity of Typhon, the immortal humanoid offspring of Typhoeus and a Titaness.However, it was the centaur Nessus who caused Hercules's mortal demise. Nessus kidnapped Hercules's wife Deianeira, whereupon Hercules shot him with an arrow. Feigning a wish to make amends, the dying centaur told Deianeira how to make a love charm from his allegedly enchanted blood, aware that it was now tainted with the lethal poison of the Hydra, in which Hercules had dipped his arrows. Some time after Nessus's death, Deianeira, distraught over her husband's latest infidelity, rubbed the supposed love charm into Hercules's shirt. When Hercules's donned the shirt, the poison quickly worked and caused Hercules great pain.  In an attempt to end this pain, he built a funeral pyre for himself and set it ablaze.  Zeus intervened however, consuming the pyre with his thunderbolts and bringing Hercules to Olympus to be made a true immortal.", 
+    "durability": 7, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 7, 
+    "firstappearance": "THOR ANNUAL #1\n", 
+    "groupaffiliation": [
+        "Gods of Olympus", 
+        "Avengers", 
+        "formerly Secret Avengers", 
+        "Champions (of Los Angeles)", 
+        "God Squad"
+    ], 
+    "hair": "Dark brown\n", 
+    "height": 77, 
+    "id": "Hercules", 
+    "identity": [
+        "Publicly known", 
+        "however", 
+        "not all modern day Earth people believe Hercules is the actual Hercules of myth."
+    ], 
+    "intelligence": 4, 
+    "knownrelatives": "Zeus (father), Alcmena (mother, deceased), Amphitryon (foster father, deceased), Iphycles (half-brother, deceased), Neptune (Poseidon) and Hades(Pluto) (uncles), Ares, Apollo, Hermes, Hephaestus (half-brothers), Venus (Aphrodite), Athena, Artemis (half-sisters)", 
+    "occupation": "Adventurer", 
+    "placeofbirth": [
+        "Thebes", 
+        "Greece"
+    ], 
+    "powers": "Hercules's principal power is his superhuman strength. Hercules's strength is well in excess of the \"Class 100\" Level (able to lift/press in excess of 100 tons), making him, one of the strongest beings in the Marvel Universe. Hercules has highly developed leg muscles, although they do not match those of the Hulk. Hercules can make a standing high jump of at least 100 feet in Earth's gravity.\nHercules is also an Olympian thereby being an immortal, and as true immortals, the Olympian gods do not age and are not susceptible to disease. Although they can be wounded in battle, they cannot die by any conventional means, and have a rapid healing rate. Hercules has a greater resistance to physical injury than any other Olympian god except for Zeus, and possibly Neptune and Pluto. Hercules is virtually tireless. His supernaturally enhanced musculature produces no fatigue poisons. He can even survive unprotected in the vacuum of space for a brief period of time. Only an injury of such magnititude that it incinerated him or dispersed a major portion of his bodily molecules could kill Hercules. In at least some such cases, Zeus or one of the other gods might still be able to resurrect him.", 
+    "realname": "Heracles", 
+    "speed": 5, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 325
 }

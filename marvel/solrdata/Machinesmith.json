@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Starr Saxon", 
-                "Mister Fear"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Furious, Saxon hoped to gain revenge. He sought out one of Daredevil\u2019s previous foes, Mister Fear, killing him after learning the location of his costume and equipment. Saxon became Mister Fear and battled Daredevil atop a hovercraft of his own design. At the height of the battle, however, Saxon fell hundreds of feet to the ground.Saxon had prepared for such an eventuality, however. Unseen by Daredevil or the authorities, robots retrieved his dying body and brought him back to his workshop. There, they transferred his brain patterns into a robotic body. Though initially dismayed by his condition, Saxon constructed for himself a more human-looking body and resumed custom-building robots under the name Machinesmith. He specialized in constructing robotic simulacra that looked and acted exactly like their human models. At least two robots have been discovered-- the first being a duplicate of Baron Strucker, a robot so lifelike that the SHIELD had it under surveillance for a number of years before they discovered the truth. Another was a duplicate of Magneto, who Machinesmith convinced Mesmero believed was real for several months, dictating many of Mesmero\u2019s plots against the X-Men. Perhaps there have been many more clients and robots that remain undiscovered.Despite his successes, Machinesmith grew to hate his pseudo-life. When he found his programming would not allow him to terminate himself, he drew Captain America into a plot, and in the end, manipulating the hero into destroying his central computer system, seemingly destroying him.In reality, Saxon did not die. He reappeared as a key aide to the Red Skull and a recurring member of the Red Skull's Skeleton Crew. This affiliation brought Saxon into conflict with Captain America and his team, the Avengers. At one point, Saxon joined Mother Night in capturing and brainwashing the support crew of the Avengers headquarters, thereby launching an assault on the team. However, Saxon was exposed and captured by the Avengers. Due to his machine-consciousness, however, Saxon has continually been able to escape from his captors.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "(human) Green; (currently) variable\n", 
-            "fighting": 1, 
-            "firstappearance": "(as Starr Saxon) Daredevil #49; (as Mister Fear) Daredevil #54; (as Machinesmith) Marvel Two-in-One #47\n", 
-            "groupaffiliation": [
-                "(formerly) Masters of Evil", 
-                "master of Mesmero and the Demi-Men"
-            ], 
-            "hair": "(human) Bald, red facial hair;\u00a0; (currently) none\n", 
-            "height": 0, 
-            "id": "Machinesmith", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Criminal", 
-                "robot maker"
-            ], 
-            "origin": "Marvel Two-in-One #47", 
-            "placeofbirth": [
-                "Memphis", 
-                "Tennessee"
-            ], 
-            "powers": "After his physical death, Saxon's consciousness was housed in a machine. He therefore can transit his memory, personality, and thinking ability to any specially created cybernetic device, and can control such devices' abilities and/or weapons.", 
-            "realname": "Samuel Saxon", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 295
-        }
-    }
+    "aliases": [
+        "Starr Saxon", 
+        "Mister Fear"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Furious, Saxon hoped to gain revenge. He sought out one of Daredevil\u2019s previous foes, Mister Fear, killing him after learning the location of his costume and equipment. Saxon became Mister Fear and battled Daredevil atop a hovercraft of his own design. At the height of the battle, however, Saxon fell hundreds of feet to the ground.Saxon had prepared for such an eventuality, however. Unseen by Daredevil or the authorities, robots retrieved his dying body and brought him back to his workshop. There, they transferred his brain patterns into a robotic body. Though initially dismayed by his condition, Saxon constructed for himself a more human-looking body and resumed custom-building robots under the name Machinesmith. He specialized in constructing robotic simulacra that looked and acted exactly like their human models. At least two robots have been discovered-- the first being a duplicate of Baron Strucker, a robot so lifelike that the SHIELD had it under surveillance for a number of years before they discovered the truth. Another was a duplicate of Magneto, who Machinesmith convinced Mesmero believed was real for several months, dictating many of Mesmero\u2019s plots against the X-Men. Perhaps there have been many more clients and robots that remain undiscovered.Despite his successes, Machinesmith grew to hate his pseudo-life. When he found his programming would not allow him to terminate himself, he drew Captain America into a plot, and in the end, manipulating the hero into destroying his central computer system, seemingly destroying him.In reality, Saxon did not die. He reappeared as a key aide to the Red Skull and a recurring member of the Red Skull's Skeleton Crew. This affiliation brought Saxon into conflict with Captain America and his team, the Avengers. At one point, Saxon joined Mother Night in capturing and brainwashing the support crew of the Avengers headquarters, thereby launching an assault on the team. However, Saxon was exposed and captured by the Avengers. Due to his machine-consciousness, however, Saxon has continually been able to escape from his captors.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "(human) Green; (currently) variable\n", 
+    "fighting": 1, 
+    "firstappearance": "(as Starr Saxon) Daredevil #49; (as Mister Fear) Daredevil #54; (as Machinesmith) Marvel Two-in-One #47\n", 
+    "groupaffiliation": [
+        "(formerly) Masters of Evil", 
+        "master of Mesmero and the Demi-Men"
+    ], 
+    "hair": "(human) Bald, red facial hair;\u00a0; (currently) none\n", 
+    "height": 0, 
+    "id": "Machinesmith", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Criminal", 
+        "robot maker"
+    ], 
+    "origin": "Marvel Two-in-One #47", 
+    "placeofbirth": [
+        "Memphis", 
+        "Tennessee"
+    ], 
+    "powers": "After his physical death, Saxon's consciousness was housed in a machine. He therefore can transit his memory, personality, and thinking ability to any specially created cybernetic device, and can control such devices' abilities and/or weapons.", 
+    "realname": "Samuel Saxon", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 295
 }

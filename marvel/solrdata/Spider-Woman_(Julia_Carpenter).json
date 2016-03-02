@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Spider-Woman", 
-                "considered using Ariadne"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Arrogant, greedy and self-absorbed, Julia's ex-husband Larry had lost custody of their daughter Rachel after Julia divorced him for cheating on her; but when Julia's secret Spider-Woman career led to frequent unexplained absences on her part, Larry sued for custody of Rachel and won. Meanwhile, Julia served reluctantly with the ruthless CSA-sponsored super-team Freedom Force until they arrested the Avengers on false treason charges. A sympathetic Julia freed them and became a fugitive herself, though the Avengers were soon exonerated. Cooper later gave Carpenter a second chance, employing her as a solo operative supervised by unscrupulous CSA agent Mike Clemson; but after aiding the Avengers against the Pacific Overlords, Julia joined the Avengers and cut ties with the CSA. While serving with the western Avengers roster, Julia fought the criminal trio Deathweb; their powers, like hers, came from the formula of the CSA's Dr. Carter Napier. Deathweb and their employer, the Manipulator, fought Julia several times, killing Larry and Napier, threatening Rachel and menacing Julia's parents, the Cornwalls, who as Amazon jungle guides had helped locate the ingredients for Napier's formula; but Julia ultimately defeated the villains, saving her daughter and parents.When the Avengers decided to close their west coast base, Julia resigned in protest and joined several other ex-western Avengers in founding the new Force Works super-team, though it soon disbanded and Julia renewed her ties with the Avengers on an inactive basis. She was later forced to retire from superheroics after a crippling attack by a rival criminal Spider-Woman, Charlotte Witter, who drained away Carpenter's superhuman powers. Aided by the young new Spider-Woman, Mattie Franklin, Witter lost possession of the stolen powers.Shortly after the Superhuman Registration act was passed, Julia was persuaded by Tony Stark (Iron Man) to join his team. Alongside with Ms.Marvel and Wonder Man, her mission was to train other registered super heroes to perform government-authorized security activities. As well as the standard apprehension of unregistered super heroes.She was soon sent to go after the Shroud (Max Coleridge),an unregistered super hero and Julia's new boyfriend. Julia helped him escape from government soldiers and became a fugitive herself.  After sending three squads to the hospital, stealing clothes and a car they headed to Colorado to pick up Rachel on their way to Canada.  After an ambush by Ms. Marvel and Wonder Man, Shroud was captured, but Arachne evaded the attack and went to her parents in Colorado, where Rachel was staying.  Following another ambush by Ms. Marvel )this time including Ara\u00f1a) Arachne was captured and ripped from the arms of her daughter.  She was incarcerated and held in chains, before being sent to the Negative Zone.", 
-            "durability": 2, 
-            "education": "College dropout, federal agent training", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "Marvel Super Heroes Secret Wars #6 (1984)\n", 
-            "groupaffiliation": [
-                "Omega Flight", 
-                "formerly Avengers", 
-                "Queen's Vengeance", 
-                "Force Works", 
-                "Secret Defenders", 
-                "Commission on Superhuman Activities", 
-                "Freedom Force"
-            ], 
-            "hair": "Strawberry blonde\n", 
-            "height": 60, 
-            "id": "Spider-Woman_(Julia_Carpenter)", 
-            "identity": [
-                "Secret", 
-                "known to certain government officials"
-            ], 
-            "intelligence": 3, 
-            "knownrelatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "government operative"
-            ], 
-            "placeofbirth": [
-                "Los Angeles", 
-                "California"
-            ], 
-            "powers": "As Spider-Woman, Julia possesses enhanced strength, speed, stamina, agility and reflexes. She could generate and manipulate strands of psionic force, which she often wove into adhesive \"psi-webs\" to snare her targets. By concentrating this psionic force in her hands and feet, she could cling to and crawl across any surface, even scaling sheer walls. She was later depowered.  Currently, she was repowered and goes by the code-name 'Arachne'.  As Arachne, she has displayed many of her original powers, though it is unclear if she possesses all of her original powers.", 
-            "realname": "Julia Cornwall Carpenter", 
-            "speed": 5, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Spider-Woman", 
+        "considered using Ariadne"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Arrogant, greedy and self-absorbed, Julia's ex-husband Larry had lost custody of their daughter Rachel after Julia divorced him for cheating on her; but when Julia's secret Spider-Woman career led to frequent unexplained absences on her part, Larry sued for custody of Rachel and won. Meanwhile, Julia served reluctantly with the ruthless CSA-sponsored super-team Freedom Force until they arrested the Avengers on false treason charges. A sympathetic Julia freed them and became a fugitive herself, though the Avengers were soon exonerated. Cooper later gave Carpenter a second chance, employing her as a solo operative supervised by unscrupulous CSA agent Mike Clemson; but after aiding the Avengers against the Pacific Overlords, Julia joined the Avengers and cut ties with the CSA. While serving with the western Avengers roster, Julia fought the criminal trio Deathweb; their powers, like hers, came from the formula of the CSA's Dr. Carter Napier. Deathweb and their employer, the Manipulator, fought Julia several times, killing Larry and Napier, threatening Rachel and menacing Julia's parents, the Cornwalls, who as Amazon jungle guides had helped locate the ingredients for Napier's formula; but Julia ultimately defeated the villains, saving her daughter and parents.When the Avengers decided to close their west coast base, Julia resigned in protest and joined several other ex-western Avengers in founding the new Force Works super-team, though it soon disbanded and Julia renewed her ties with the Avengers on an inactive basis. She was later forced to retire from superheroics after a crippling attack by a rival criminal Spider-Woman, Charlotte Witter, who drained away Carpenter's superhuman powers. Aided by the young new Spider-Woman, Mattie Franklin, Witter lost possession of the stolen powers.Shortly after the Superhuman Registration act was passed, Julia was persuaded by Tony Stark (Iron Man) to join his team. Alongside with Ms.Marvel and Wonder Man, her mission was to train other registered super heroes to perform government-authorized security activities. As well as the standard apprehension of unregistered super heroes.She was soon sent to go after the Shroud (Max Coleridge),an unregistered super hero and Julia's new boyfriend. Julia helped him escape from government soldiers and became a fugitive herself.  After sending three squads to the hospital, stealing clothes and a car they headed to Colorado to pick up Rachel on their way to Canada.  After an ambush by Ms. Marvel and Wonder Man, Shroud was captured, but Arachne evaded the attack and went to her parents in Colorado, where Rachel was staying.  Following another ambush by Ms. Marvel )this time including Ara\u00f1a) Arachne was captured and ripped from the arms of her daughter.  She was incarcerated and held in chains, before being sent to the Negative Zone.", 
+    "durability": 2, 
+    "education": "College dropout, federal agent training", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "Marvel Super Heroes Secret Wars #6 (1984)\n", 
+    "groupaffiliation": [
+        "Omega Flight", 
+        "formerly Avengers", 
+        "Queen's Vengeance", 
+        "Force Works", 
+        "Secret Defenders", 
+        "Commission on Superhuman Activities", 
+        "Freedom Force"
+    ], 
+    "hair": "Strawberry blonde\n", 
+    "height": 60, 
+    "id": "Spider-Woman_(Julia_Carpenter)", 
+    "identity": [
+        "Secret", 
+        "known to certain government officials"
+    ], 
+    "intelligence": 3, 
+    "knownrelatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "government operative"
+    ], 
+    "placeofbirth": [
+        "Los Angeles", 
+        "California"
+    ], 
+    "powers": "As Spider-Woman, Julia possesses enhanced strength, speed, stamina, agility and reflexes. She could generate and manipulate strands of psionic force, which she often wove into adhesive \"psi-webs\" to snare her targets. By concentrating this psionic force in her hands and feet, she could cling to and crawl across any surface, even scaling sheer walls. She was later depowered.  Currently, she was repowered and goes by the code-name 'Arachne'.  As Arachne, she has displayed many of her original powers, though it is unclear if she possesses all of her original powers.", 
+    "realname": "Julia Cornwall Carpenter", 
+    "speed": 5, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

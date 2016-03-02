@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Tanya Sweet", 
-            "citizenship": "U.S.A.", 
-            "content": "Sidewinder later asked Black Mamba to join the Serpent Society, where she became friends with Asp and Diamondback, and lover of Sidewinder.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Two-In-One #64 (1980)\n", 
-            "groupaffiliation": [
-                "Women Warriors", 
-                "formerly B.A.D. Girls", 
-                "Inc.", 
-                "Secret Avengers", 
-                "Femizons", 
-                "Masters of Evil", 
-                "Serpent Society"
-            ], 
-            "hair": "Black\n", 
-            "height": 60, 
-            "id": "Black_Mamba", 
-            "identity": "Known to the authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Mercenary", 
-                "former call girl"
-            ], 
-            "placeofbirth": [
-                "Chicago", 
-                "Illinois"
-            ], 
-            "powers": "Black Mamba has the ability to generate darkforce energy and telepathic abilities which allow her to generate peoples fantasies and nightmares.", 
-            "realname": "Tanya Sealy", 
-            "significantissues": [
-                "formed B.A.D. Girls Inc with Asp and Diamondback (Captain America #385, 1991)", 
-                "trial of Diamondback (Captain America #380-382, 1990-1991)", 
-                "B.A.D. Girls Inc. hired by Cable to recover hard drive (Cable & Dead pool #20-23, 2005)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 115
-        }
-    }
+    "aliases": "Tanya Sweet", 
+    "citizenship": "U.S.A.", 
+    "content": "Sidewinder later asked Black Mamba to join the Serpent Society, where she became friends with Asp and Diamondback, and lover of Sidewinder.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Two-In-One #64 (1980)\n", 
+    "groupaffiliation": [
+        "Women Warriors", 
+        "formerly B.A.D. Girls", 
+        "Inc.", 
+        "Secret Avengers", 
+        "Femizons", 
+        "Masters of Evil", 
+        "Serpent Society"
+    ], 
+    "hair": "Black\n", 
+    "height": 60, 
+    "id": "Black_Mamba", 
+    "identity": "Known to the authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Mercenary", 
+        "former call girl"
+    ], 
+    "placeofbirth": [
+        "Chicago", 
+        "Illinois"
+    ], 
+    "powers": "Black Mamba has the ability to generate darkforce energy and telepathic abilities which allow her to generate peoples fantasies and nightmares.", 
+    "realname": "Tanya Sealy", 
+    "significantissues": [
+        "formed B.A.D. Girls Inc with Asp and Diamondback (Captain America #385, 1991)", 
+        "trial of Diamondback (Captain America #380-382, 1990-1991)", 
+        "B.A.D. Girls Inc. hired by Cable to recover hard drive (Cable & Dead pool #20-23, 2005)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 115
 }

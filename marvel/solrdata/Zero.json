@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Wavelength displacement unit", 
-                "Algorithmic wavelength dampening ambient-energy absorbing modular unit", 
-                "Zero Unit", 
-                "Blank Man", 
-                "\"Neutered albino Schwarzenegger", 
-                "\" Clamoring container of synthetic cells and arteries"
-            ], 
-            "citizenship": [
-                "Earth-4935", 
-                "late 38th century"
-            ], 
-            "content": "During his time as a member of the Front, Zero teleported Stryfe on a mission of arson, assisted them in the liberation of Rusty Collins and Skids from federal custody. He used his abilities to whisk the front away from X-Force and possible capture. Zero also help the Nasty Boys escape capture.", 
-            "durability": 1, 
-            "education": "Programmed with data from Apocalypse (En Saban Nur), Stryfe and Askani", 
-            "energy": 1, 
-            "eyes": "None\n", 
-            "fighting": 1, 
-            "firstappearance": "New Mutants #86 (1990)\n", 
-            "groupaffiliation": "Formerly Stryfe (Cable's clone)'s Mutant Liberation Front", 
-            "hair": "None\n", 
-            "height": 72, 
-            "id": "Zero", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "ADAM Unit-Eleven, others in the ADAM series", 
-            "occupation": [
-                "Peacekeeper", 
-                "former terrorist", 
-                "servant of Stryfe"
-            ], 
-            "origin": "X-Force #17 (1992)", 
-            "placeofbirth": [
-                "Former site of New Orleans", 
-                "Nor-Am Pact region", 
-                "Earth-4935", 
-                "late 38th century"
-            ], 
-            "powers": "Zero possessed the power of teleportational travel, although, he was unable to teleport to a place where he had never been before. He can not hold a teleprtational warp open longer than a minute at a time. His power were a product of genetic mutation. He was mute, therefore unable to communicate verbally with others.", 
-            "realname": "A.D.A.M. Unit (Ambient-Energy Dampening Actualization Module) Unit Zero", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": [
+        "Wavelength displacement unit", 
+        "Algorithmic wavelength dampening ambient-energy absorbing modular unit", 
+        "Zero Unit", 
+        "Blank Man", 
+        "\"Neutered albino Schwarzenegger", 
+        "\" Clamoring container of synthetic cells and arteries"
+    ], 
+    "citizenship": [
+        "Earth-4935", 
+        "late 38th century"
+    ], 
+    "content": "During his time as a member of the Front, Zero teleported Stryfe on a mission of arson, assisted them in the liberation of Rusty Collins and Skids from federal custody. He used his abilities to whisk the front away from X-Force and possible capture. Zero also help the Nasty Boys escape capture.", 
+    "durability": 1, 
+    "education": "Programmed with data from Apocalypse (En Saban Nur), Stryfe and Askani", 
+    "energy": 1, 
+    "eyes": "None\n", 
+    "fighting": 1, 
+    "firstappearance": "New Mutants #86 (1990)\n", 
+    "groupaffiliation": "Formerly Stryfe (Cable's clone)'s Mutant Liberation Front", 
+    "hair": "None\n", 
+    "height": 72, 
+    "id": "Zero", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "ADAM Unit-Eleven, others in the ADAM series", 
+    "occupation": [
+        "Peacekeeper", 
+        "former terrorist", 
+        "servant of Stryfe"
+    ], 
+    "origin": "X-Force #17 (1992)", 
+    "placeofbirth": [
+        "Former site of New Orleans", 
+        "Nor-Am Pact region", 
+        "Earth-4935", 
+        "late 38th century"
+    ], 
+    "powers": "Zero possessed the power of teleportational travel, although, he was unable to teleport to a place where he had never been before. He can not hold a teleprtational warp open longer than a minute at a time. His power were a product of genetic mutation. He was mute, therefore unable to communicate verbally with others.", 
+    "realname": "A.D.A.M. Unit (Ambient-Energy Dampening Actualization Module) Unit Zero", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

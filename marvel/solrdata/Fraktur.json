@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Kakarantharaian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Nova #18 (2009)\n", 
-            "groupaffiliation": "Nova Corps", 
-            "hair": "None\n", 
-            "id": "Fraktur", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Fin Fang Foom (distant cousin)", 
-            "occupation": "Peace Keeper", 
-            "placeofbirth": "Kakaranthara", 
-            "powers": "As a Kakarantharaian Fraktur possessed massive strength and resistance to injury. She was capable of flight, and could survive the cold vacuum of space.", 
-            "realname": "Fraktur", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Kakarantharaian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Nova #18 (2009)\n", 
+    "groupaffiliation": "Nova Corps", 
+    "hair": "None\n", 
+    "id": "Fraktur", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Fin Fang Foom (distant cousin)", 
+    "occupation": "Peace Keeper", 
+    "placeofbirth": "Kakaranthara", 
+    "powers": "As a Kakarantharaian Fraktur possessed massive strength and resistance to injury. She was capable of flight, and could survive the cold vacuum of space.", 
+    "realname": "Fraktur", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

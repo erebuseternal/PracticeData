@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Canada", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men #120\n", 
-            "groupaffiliation": "Alpha Flight", 
-            "hair": "Black\n", 
-            "height": 70, 
-            "id": "Shaman_(Michael_Twoyoungmen)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Kathryn Twyoungmen (wife, deceased), Elizabeth (daughter)", 
-            "occupation": [
-                "Physician", 
-                "surgeon", 
-                "adventurer"
-            ], 
-            "placeofbirth": [
-                "Sarcee Indian Reservation", 
-                "Calgary", 
-                "Canada"
-            ], 
-            "powers": "Shaman has no superhuman physical powers, but is an above average athlete with limited knowledge of hand-to-hand combat. His superhuman capacities derive from his mystical knowledge and the \u201cmedicine pouch\u201d which he carries. Shaman can perform a wide variety of magical feats, only a few of which have yet to be described. Shaman can levitate by tapping the ambient mystical energy of the Earth. The speed at which he can traverse from point to point during levitation is not yet known.", 
-            "realname": "Michael Twoyoungmen", 
-            "significantissues": "Deceased (New Avengers #16)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Canada", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men #120\n", 
+    "groupaffiliation": "Alpha Flight", 
+    "hair": "Black\n", 
+    "height": 70, 
+    "id": "Shaman_(Michael_Twoyoungmen)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Kathryn Twyoungmen (wife, deceased), Elizabeth (daughter)", 
+    "occupation": [
+        "Physician", 
+        "surgeon", 
+        "adventurer"
+    ], 
+    "placeofbirth": [
+        "Sarcee Indian Reservation", 
+        "Calgary", 
+        "Canada"
+    ], 
+    "powers": "Shaman has no superhuman physical powers, but is an above average athlete with limited knowledge of hand-to-hand combat. His superhuman capacities derive from his mystical knowledge and the \u201cmedicine pouch\u201d which he carries. Shaman can perform a wide variety of magical feats, only a few of which have yet to be described. Shaman can levitate by tapping the ambient mystical energy of the Earth. The speed at which he can traverse from point to point during levitation is not yet known.", 
+    "realname": "Michael Twoyoungmen", 
+    "significantissues": "Deceased (New Avengers #16)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

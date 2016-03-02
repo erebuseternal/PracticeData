@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "U.S.A. (presumed", 
-                "legally deceased)"
-            ], 
-            "content": "Cypher became close with Warlock, who aided Ramsey in battle situations by merging with him, creating a single being that operated as a gestalt. When they merged, they took the form of Ramsey\u2019s human body covered with Warlock's \"living circuitry,\" allowing Ramsey to perceive his environment in the same way Warlock did. At first, Ramsey's and Warlock's consciousnesses remained separate within the single body; the more the pair merged, their personalities rapidly began to resemble one another's. Cypher also aided Warlock in his fight against his father, the Magus, by reprogramming the Magus to an infant state.Following the capture of the New Mutants by the mad scientist the Ani-Mator, on the island known as \"Paradise\" in the Atlantic Ocean, Cypher was killed when he dove in front of a bullet fired by the Ani-Mator at Wolfsbane. One of the Phalanx, humans mutated by the Technarch, later took a form combining the minds and powers of Cypher and Warlock, as Douglock, and later Warlock.", 
-            "durability": 1, 
-            "education": "High school, university level courses in languages & computer science", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(As Ramsey) New Mutants #13 (1984), (as Cypher) New Mutants Annual #1 (1984)\n", 
-            "groupaffiliation": [
-                "New Mutants", 
-                "X-Force"
-            ], 
-            "hair": "Blond\n", 
-            "height": 69, 
-            "id": "Cypher_(Douglas_Ramsey)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Philip Ramsey (father), Sheila Ramsey (mother)", 
-            "occupation": [
-                "Former student", 
-                "adventurer"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Cypher was a master of translating languages, spoken or written, human or alien in origin, including deciphering codes and computer languages. Cypher\u2019s skills were such that he was once able to make great headway in translating the written language of an extraterrestrial race in a matter of minutes.\nCypher\u2019s mutant talent for translating differed from the translating ability that a human who is a genius in this field, yet not a mutant, possesses, even though both people might achieve the same results with any given translation problem. Cypher\u2019s mutant talent was an intuitive one which worked on a subconscious level, and which may in part be related to telepathy. A non-mutant human, even a genius, would have to work out a translation consciously, step by step. Cypher, however, could subconsciously solve the problem. Hence, Cypher could reach the correct solution by means that appeared to be leaps of logic, and he himself may not have been consciously aware of the entire process by which he reached the right answer.", 
-            "realname": "Douglas Aaron Ramsey", 
-            "significantissues": [
-                "Began friendship with Kitty Pryde (New Mutants #13, 1984)", 
-                "applied for admission into White Queen's Massachusetts Academy (Uncanny X-Men #180/New Mutants #16, 1984)", 
-                "initiated communication with alien Warlock, joined New Mutants (New Mutants #21, 1984)", 
-                "with New Mutants, helped defeat Magus (New Mutants #50, 1987)", 
-                "killed by Ani-Mator (New Mutants #60, 1988)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "U.S.A. (presumed", 
+        "legally deceased)"
+    ], 
+    "content": "Cypher became close with Warlock, who aided Ramsey in battle situations by merging with him, creating a single being that operated as a gestalt. When they merged, they took the form of Ramsey\u2019s human body covered with Warlock's \"living circuitry,\" allowing Ramsey to perceive his environment in the same way Warlock did. At first, Ramsey's and Warlock's consciousnesses remained separate within the single body; the more the pair merged, their personalities rapidly began to resemble one another's. Cypher also aided Warlock in his fight against his father, the Magus, by reprogramming the Magus to an infant state.Following the capture of the New Mutants by the mad scientist the Ani-Mator, on the island known as \"Paradise\" in the Atlantic Ocean, Cypher was killed when he dove in front of a bullet fired by the Ani-Mator at Wolfsbane. One of the Phalanx, humans mutated by the Technarch, later took a form combining the minds and powers of Cypher and Warlock, as Douglock, and later Warlock.", 
+    "durability": 1, 
+    "education": "High school, university level courses in languages & computer science", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(As Ramsey) New Mutants #13 (1984), (as Cypher) New Mutants Annual #1 (1984)\n", 
+    "groupaffiliation": [
+        "New Mutants", 
+        "X-Force"
+    ], 
+    "hair": "Blond\n", 
+    "height": 69, 
+    "id": "Cypher_(Douglas_Ramsey)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Philip Ramsey (father), Sheila Ramsey (mother)", 
+    "occupation": [
+        "Former student", 
+        "adventurer"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Cypher was a master of translating languages, spoken or written, human or alien in origin, including deciphering codes and computer languages. Cypher\u2019s skills were such that he was once able to make great headway in translating the written language of an extraterrestrial race in a matter of minutes.\nCypher\u2019s mutant talent for translating differed from the translating ability that a human who is a genius in this field, yet not a mutant, possesses, even though both people might achieve the same results with any given translation problem. Cypher\u2019s mutant talent was an intuitive one which worked on a subconscious level, and which may in part be related to telepathy. A non-mutant human, even a genius, would have to work out a translation consciously, step by step. Cypher, however, could subconsciously solve the problem. Hence, Cypher could reach the correct solution by means that appeared to be leaps of logic, and he himself may not have been consciously aware of the entire process by which he reached the right answer.", 
+    "realname": "Douglas Aaron Ramsey", 
+    "significantissues": [
+        "Began friendship with Kitty Pryde (New Mutants #13, 1984)", 
+        "applied for admission into White Queen's Massachusetts Academy (Uncanny X-Men #180/New Mutants #16, 1984)", 
+        "initiated communication with alien Warlock, joined New Mutants (New Mutants #21, 1984)", 
+        "with New Mutants, helped defeat Magus (New Mutants #50, 1987)", 
+        "killed by Ani-Mator (New Mutants #60, 1988)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

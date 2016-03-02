@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Beelzebub", 
-                "Satan", 
-                "Duma", 
-                "Keriel", 
-                "Mastema", 
-                "Beliar", 
-                "Gadreel", 
-                "numerous others"
-            ], 
-            "citizenship": "Inapplicable", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red iris with black sclera\n", 
-            "fighting": 1, 
-            "firstappearance": "Uncanny X-Men #428 (2003)\n", 
-            "groupaffiliation": "Neyaphem (leader)", 
-            "hair": "Gray (formerly black)\n", 
-            "height": 72, 
-            "id": "Azazel_(mutant)", 
-            "identity": "None", 
-            "intelligence": 1, 
-            "knownrelatives": "Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)", 
-            "occupation": [
-                "Would-be-conqueror", 
-                "former ruler"
-            ], 
-            "origin": "Uncanny X-Men #433 (2004)", 
-            "placeofbirth": [
-                "Isla des Demonas", 
-                "Caribbean Sea"
-            ], 
-            "powers": "Azazel can teleport by opening a portal into another dimension, traveling through it, and returning via another portal back to his originating dimension. While in this other dimension, Azazel can manipulate its energies to open small viewing portals to Earth or generate devastating energy blasts. Azazel shares a mental bond with his offspring via which he can control their minds to a limited degree. An extremely long-lived mutant.", 
-            "realname": "Azazel", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 149
-        }
-    }
+    "aliases": [
+        "Beelzebub", 
+        "Satan", 
+        "Duma", 
+        "Keriel", 
+        "Mastema", 
+        "Beliar", 
+        "Gadreel", 
+        "numerous others"
+    ], 
+    "citizenship": "Inapplicable", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red iris with black sclera\n", 
+    "fighting": 1, 
+    "firstappearance": "Uncanny X-Men #428 (2003)\n", 
+    "groupaffiliation": "Neyaphem (leader)", 
+    "hair": "Gray (formerly black)\n", 
+    "height": 72, 
+    "id": "Azazel_(mutant)", 
+    "identity": "None", 
+    "intelligence": 1, 
+    "knownrelatives": "Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)", 
+    "occupation": [
+        "Would-be-conqueror", 
+        "former ruler"
+    ], 
+    "origin": "Uncanny X-Men #433 (2004)", 
+    "placeofbirth": [
+        "Isla des Demonas", 
+        "Caribbean Sea"
+    ], 
+    "powers": "Azazel can teleport by opening a portal into another dimension, traveling through it, and returning via another portal back to his originating dimension. While in this other dimension, Azazel can manipulate its energies to open small viewing portals to Earth or generate devastating energy blasts. Azazel shares a mental bond with his offspring via which he can control their minds to a limited degree. An extremely long-lived mutant.", 
+    "realname": "Azazel", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 149
 }

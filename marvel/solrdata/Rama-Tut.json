@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Rama-Tut", 
-            "citizenship": "Formerly Egypt", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "As Rama-Tut, (Fantastic Four #19,1963)\n", 
-            "groupaffiliation": "Allied himself with Apocalypse", 
-            "hair": "Black (as Rama-Tut), Gray (as Nathan Richards)\n", 
-            "id": "Rama-Tut", 
-            "identity": "As Rama-Tut unknown to the general populace of Earth.", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified mother and father; \nNathaniel & Cassandra Richards, their unidentified son, and matriarch of the Eyriennes (ancestors); Tara (Huntara), Reed Richards (Mr. Fantastic), Franklin and Valeria Richards, various Eyriennes (common ancestry); Victor Von Doom (alleged ancestor); Ramades (son), Marcus Kang I-XXIII (sons, deceased), Marcus Immortus (son, deceased); Kang,Immortus, Scarlet Centurion, Iron Lad, and numerous other alternate dimensional counterparts and their offspring; possibly terminal Ravonna (wife, deceased)", 
-            "occupation": [
-                "Conqueror and ruler", 
-                "Pharaoh"
-            ], 
-            "origin": "Fantastic Four #19 (1963)", 
-            "placeofbirth": "Unknown", 
-            "powers": "Unrevealed", 
-            "realname": "Nathaniel Richards", 
-            "significantissues": "While behind the scenes, Immortus stranded Rama-Tut in heroic age,there he observed Doctor Doom meeting younger Rama-Tut (Avengers #269/Fantastic Four Annual #2, 1986/1964)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Rama-Tut", 
+    "citizenship": "Formerly Egypt", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "As Rama-Tut, (Fantastic Four #19,1963)\n", 
+    "groupaffiliation": "Allied himself with Apocalypse", 
+    "hair": "Black (as Rama-Tut), Gray (as Nathan Richards)\n", 
+    "id": "Rama-Tut", 
+    "identity": "As Rama-Tut unknown to the general populace of Earth.", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified mother and father; \nNathaniel & Cassandra Richards, their unidentified son, and matriarch of the Eyriennes (ancestors); Tara (Huntara), Reed Richards (Mr. Fantastic), Franklin and Valeria Richards, various Eyriennes (common ancestry); Victor Von Doom (alleged ancestor); Ramades (son), Marcus Kang I-XXIII (sons, deceased), Marcus Immortus (son, deceased); Kang,Immortus, Scarlet Centurion, Iron Lad, and numerous other alternate dimensional counterparts and their offspring; possibly terminal Ravonna (wife, deceased)", 
+    "occupation": [
+        "Conqueror and ruler", 
+        "Pharaoh"
+    ], 
+    "origin": "Fantastic Four #19 (1963)", 
+    "placeofbirth": "Unknown", 
+    "powers": "Unrevealed", 
+    "realname": "Nathaniel Richards", 
+    "significantissues": "While behind the scenes, Immortus stranded Rama-Tut in heroic age,there he observed Doctor Doom meeting younger Rama-Tut (Avengers #269/Fantastic Four Annual #2, 1986/1964)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

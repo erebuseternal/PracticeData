@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"Nate the Great\"", 
-            "citizenship": "U.S.A.", 
-            "content": "Nate\u2019s subconscious need for companionship created a physical body for the Red Queen of Earth-998, posing as the dissipated essence of Madelyne Pryor, the deceased clone of Jean Grey. Nate and Madelyne became fast friends, journeying through Europe until Pryor left to join the newly reformed Hellfire Club. Nate subsequently encountered the evil Dark Beast, a fellow refugee from his own time, who informed Nate that his vast powers were burning out his young body and that he would die before he turned 21.Eventually, Nate realized the full extent of his powers and became a modern-day mutant shaman. To save humanity from destruction by an alien Harvester, Nate sacrificed himself to merge his energies with the alien\u2019s and, through the conduit it had forged with the world, into every being on the planet, thus rendering the world\u2019s energy useless to the Harvester\u2019s race.", 
-            "durability": 6, 
-            "education": "Tutored by Sinister", 
-            "energy": 5, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "X-Man #1 (1995)\n", 
-            "groupaffiliation": [
-                "New Mutants", 
-                "Formerly X-Men", 
-                "Brotherhood of Mutants", 
-                "Forge's resistance"
-            ], 
-            "hair": "Brown with white streak\n", 
-            "height": 69, 
-            "id": "X-Man", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)", 
-            "occupation": [
-                "Former shaman", 
-                "adventurer", 
-                "freedom fighter"
-            ], 
-            "origin": "X-Man #-1 (1997)", 
-            "placeofbirth": "American Northeast of Earth-295", 
-            "powers": "Nate Grey possessed vast psionic abilities. He was a high-level telepath, able to project his astral form across the world, create sophisticated illusions, pull other psionic entities onto the astral plane, and read, probe, and control the minds of others. He was also an extremely powerful telekinetic who could phase through solid matter, create destructive psionic spikes, and lift objects weighing up to 10 tons.", 
-            "realname": "Nate Grey", 
-            "significantissues": [
-                "Transported to Earth-616 (X-Men: Omega/X-Men: Prime, 1995)", 
-                "opposed Onslaught (Avengers #400/X-Man #19/Onslaught: Marvel Universe, 1996)", 
-                "sought by Apocalypse as new host (X-Man #59-60/Uncanny X-Men #377/X-Men #97, 2000)", 
-                "became Earth's shaman (X-Man #67-70, 2000)", 
-                "vs Harvester, physical form dissipated (X-Man #75, 2001)", 
-                "return (Dark X-Men #1, 2009)"
-            ], 
-            "speed": 4, 
-            "strength": 6, 
-            "universe": [
-                "Marvel Universe", 
-                "formerly Earth-295 (Age of Apocalypse)"
-            ], 
-            "weight": 135
-        }
-    }
+    "aliases": "\"Nate the Great\"", 
+    "citizenship": "U.S.A.", 
+    "content": "Nate\u2019s subconscious need for companionship created a physical body for the Red Queen of Earth-998, posing as the dissipated essence of Madelyne Pryor, the deceased clone of Jean Grey. Nate and Madelyne became fast friends, journeying through Europe until Pryor left to join the newly reformed Hellfire Club. Nate subsequently encountered the evil Dark Beast, a fellow refugee from his own time, who informed Nate that his vast powers were burning out his young body and that he would die before he turned 21.Eventually, Nate realized the full extent of his powers and became a modern-day mutant shaman. To save humanity from destruction by an alien Harvester, Nate sacrificed himself to merge his energies with the alien\u2019s and, through the conduit it had forged with the world, into every being on the planet, thus rendering the world\u2019s energy useless to the Harvester\u2019s race.", 
+    "durability": 6, 
+    "education": "Tutored by Sinister", 
+    "energy": 5, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "X-Man #1 (1995)\n", 
+    "groupaffiliation": [
+        "New Mutants", 
+        "Formerly X-Men", 
+        "Brotherhood of Mutants", 
+        "Forge's resistance"
+    ], 
+    "hair": "Brown with white streak\n", 
+    "height": 69, 
+    "id": "X-Man", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)", 
+    "occupation": [
+        "Former shaman", 
+        "adventurer", 
+        "freedom fighter"
+    ], 
+    "origin": "X-Man #-1 (1997)", 
+    "placeofbirth": "American Northeast of Earth-295", 
+    "powers": "Nate Grey possessed vast psionic abilities. He was a high-level telepath, able to project his astral form across the world, create sophisticated illusions, pull other psionic entities onto the astral plane, and read, probe, and control the minds of others. He was also an extremely powerful telekinetic who could phase through solid matter, create destructive psionic spikes, and lift objects weighing up to 10 tons.", 
+    "realname": "Nate Grey", 
+    "significantissues": [
+        "Transported to Earth-616 (X-Men: Omega/X-Men: Prime, 1995)", 
+        "opposed Onslaught (Avengers #400/X-Man #19/Onslaught: Marvel Universe, 1996)", 
+        "sought by Apocalypse as new host (X-Man #59-60/Uncanny X-Men #377/X-Men #97, 2000)", 
+        "became Earth's shaman (X-Man #67-70, 2000)", 
+        "vs Harvester, physical form dissipated (X-Man #75, 2001)", 
+        "return (Dark X-Men #1, 2009)"
+    ], 
+    "speed": 4, 
+    "strength": 6, 
+    "universe": [
+        "Marvel Universe", 
+        "formerly Earth-295 (Age of Apocalypse)"
+    ], 
+    "weight": 135
 }

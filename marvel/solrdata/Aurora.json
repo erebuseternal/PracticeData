@@ -1,58 +1,54 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Once mistaken for Danielle Belmonde", 
-            "citizenship": "Canada", 
-            "content": "As a member of Alpha Flight, Aurora fought such opponents as the X-Men, Machine Man, the Great Beast Tundra and the ancient mystic Ranark the Ravager. Beaubier\u2019s dual personality persisted, with each persona regarding the other as an entirely different person. As the prim and proper Jeanne-Marie, Beaubier had little memory of her activities while under the control of the uninhibited Aurora persona. Later, Aurora accompanied Northstar to visit his old mentor Belmonde, but the reunion turned to tragedy after Belmonde was killed by Ernest St. Ives (Deadly Ernest). Mistakenly believing Aurora to be Belmonde\u2019s daughter, St. Ives kidnapped her. With the help of the enigmatic Nemesis, Northstar managed to rescue his sister and St. Ives was seemingly killed. The siblings later argued over Northstar\u2019s mistaken assumption that Aurora had romanced St. Ives to prevent him from harming her. Shocked at her brother\u2019s arrogance and insolence, Aurora angrily told him she never wanted to see him again. She ultimately sought to break her ties with Northstar completely, by having her teammate and then-lover Sasquatch (Walter Langkowski) alter her cellular structure to change her superhuman powers to be different from her brother\u2019s. She could now generate brilliant light on her own, no longer requiring contact with Northstar. The experiment also rendered her mutant nature undetectable.Becoming a more pacifistic adventurer devoted to spiritual healing, Aurora resigned from active duty with Alpha Flight and joined the Gamma Flight support team in the psychiatric counseling unit to work on rehabilitating Alpha Flight\u2019s incarcerated prisoners. She was later captured by Headlok, who mentally tortured her for weeks. Ultimately, Headlok\u2019s mental tampering restored her original dual personality, allowing the Jeanne-Marie persona to resurface and defeat Headlok by expending the last of Aurora\u2019s healing powers. During the \u201cInfinity Crusade,\u201d Jeanne-Marie\u2019s religious beliefs made her a pawn of the Goddess, and her trip to the Goddess\u2019 Paradise Omega Base revealed its existence to the heroes. Aurora regained her free will following the Goddess\u2019 defeat. Aurora continued with Alpha Flight, battling foes such as the Hand, Wyre, the Wrecking Crew, the Hardliners and a new Omega Flight until Alpha disbanded once more. Aurora briefly romanced her former teammate Wild Child, who had joined the government-sponsored X-Factor team. When a new, more militaristic Department H arose, they deemed Aurora a threat and had her committed to a psychiatric ward. She was released by the terrorist organization the Brotherhood, led by Havok (Alex Summers), and remained with them until the group was dissolved. Aurora later reunited with the other Alpha Flight founders to investigate a new Department H, assisting its new Alpha Flight team against the latest Weapon X, carrier of the virulent bacterium Thetagen-24.", 
-            "durability": 3, 
-            "education": "Madame DuPont's School for Girls", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "(As Beaubier) X-Men #120 (1979), (as Aurora) X-Men #121 (1979)\n", 
-            "groupaffiliation": [
-                "Formerly Weapon X", 
-                "Brotherhood", 
-                "Alpha Flight", 
-                "Gamma Flight"
-            ], 
-            "hair": "Black\n", 
-            "height": 71, 
-            "id": "Aurora", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Jean-Baptiste Beaubier (father, deceased), unidentified mother (deceased), Jean-Paul Beaubier (Northstar, twin brother) Joanna Beaubier (adopted niece, deceased); Lois and Genevieve Martin (first cousins once removed/adopted parents, deceased)", 
-            "occupation": [
-                "Terrorist", 
-                "former adventurer", 
-                "nun", 
-                "history/geography teacher"
-            ], 
-            "origin": "Alpha Flight #9-10 (1984)", 
-            "placeofbirth": [
-                "Montreal", 
-                "Quebec", 
-                "Canada"
-            ], 
-            "powers": "Aurora possesses the ability to move and fly at superhuman speeds. Through an act of concentration, she can channel a portion of the kinetic energy of the atomic motion in her body\u2019s molecules in a single direction, accelerating her body to a velocity in direct proportion to the amount of kinetic energy she has tapped. It is theoretically possible for Aurora to reach 99% of the speed of light (186,272 miles per second in a vacuum), but practical reasons - such as her inability to breathe at such speeds and the damage her body would suffer from wind and friction - prevent her from reaching anywhere near that speed. Even a fraction of such velocity of a solid object through Earth\u2019s atmosphere would wreak havoc on the atmosphere and on the land or sea below. As a side effect of partially robbing her molecules of their atomic motion, the binding forces within and between the molecules increase which enhances the sheer toughness of Aurora\u2019s entire body. This effect gives her skin enough durability to withstand speeds up to at least Mach 10 without injury. Formerly, by coming into physical contact with her brother, Aurora could vary the rate of acceleration of her molecules to release a cascade of photons as bright as a lighthouse beacon.\nFollowing alteration of her cellular structure by Sasquatch, Aurora\u2019s powers evolved from being able to generate light by herself to the point where she could transform into a being of pure light, the energy from which could bring inner peace to others. When these powers were exhausted, Aurora was still able to generate light and could alter its intensity from a hypnotic glow to dazzling brilliance or even concussive force.\n\nAfter genetic modification by the Weapon X Project, Aurora can now accelerate the molecules within an inanimate object or a living being by touch, causing it to tear itself apart from the subsequent stress generated upon it.", 
-            "realname": "Jeanne-Marie Beaubier", 
-            "significantissues": [
-                "With Alpha Flight, first opposed X-Men (X-Men #120, 1979)", 
-                "with Northstar, opposed Deadly Ernest (Alpha Flight #7-8, 1984)", 
-                "powers altered by Sasquatch (Alpha Flight #17, 1984)", 
-                "deceived by Loki (Alpha Flight #50, 1987)", 
-                "new life as nun (Alpha Flight #64, 1988)", 
-                "with Alpha Flight & Fantastic Four, opposed Headlok, healing powers revealed (Alpha Flight #93-94, 1991)", 
-                "held prisoner by Headlok, expended healing powers (Alpha Flight #102-104, 1991-1992)", 
-                "Alpha Flight disbanded (Alpha Flight #130, 1994)", 
-                "associated with Brotherhood (X-Man #43, 1998)", 
-                "joined Weapon X (Weapon X: The Draft \u2013 Wild Child, 2002)", 
-                "mind restored (X-Men Annual #1, 2007)"
-            ], 
-            "speed": 6, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": "Once mistaken for Danielle Belmonde", 
+    "citizenship": "Canada", 
+    "content": "As a member of Alpha Flight, Aurora fought such opponents as the X-Men, Machine Man, the Great Beast Tundra and the ancient mystic Ranark the Ravager. Beaubier\u2019s dual personality persisted, with each persona regarding the other as an entirely different person. As the prim and proper Jeanne-Marie, Beaubier had little memory of her activities while under the control of the uninhibited Aurora persona. Later, Aurora accompanied Northstar to visit his old mentor Belmonde, but the reunion turned to tragedy after Belmonde was killed by Ernest St. Ives (Deadly Ernest). Mistakenly believing Aurora to be Belmonde\u2019s daughter, St. Ives kidnapped her. With the help of the enigmatic Nemesis, Northstar managed to rescue his sister and St. Ives was seemingly killed. The siblings later argued over Northstar\u2019s mistaken assumption that Aurora had romanced St. Ives to prevent him from harming her. Shocked at her brother\u2019s arrogance and insolence, Aurora angrily told him she never wanted to see him again. She ultimately sought to break her ties with Northstar completely, by having her teammate and then-lover Sasquatch (Walter Langkowski) alter her cellular structure to change her superhuman powers to be different from her brother\u2019s. She could now generate brilliant light on her own, no longer requiring contact with Northstar. The experiment also rendered her mutant nature undetectable.Becoming a more pacifistic adventurer devoted to spiritual healing, Aurora resigned from active duty with Alpha Flight and joined the Gamma Flight support team in the psychiatric counseling unit to work on rehabilitating Alpha Flight\u2019s incarcerated prisoners. She was later captured by Headlok, who mentally tortured her for weeks. Ultimately, Headlok\u2019s mental tampering restored her original dual personality, allowing the Jeanne-Marie persona to resurface and defeat Headlok by expending the last of Aurora\u2019s healing powers. During the \u201cInfinity Crusade,\u201d Jeanne-Marie\u2019s religious beliefs made her a pawn of the Goddess, and her trip to the Goddess\u2019 Paradise Omega Base revealed its existence to the heroes. Aurora regained her free will following the Goddess\u2019 defeat. Aurora continued with Alpha Flight, battling foes such as the Hand, Wyre, the Wrecking Crew, the Hardliners and a new Omega Flight until Alpha disbanded once more. Aurora briefly romanced her former teammate Wild Child, who had joined the government-sponsored X-Factor team. When a new, more militaristic Department H arose, they deemed Aurora a threat and had her committed to a psychiatric ward. She was released by the terrorist organization the Brotherhood, led by Havok (Alex Summers), and remained with them until the group was dissolved. Aurora later reunited with the other Alpha Flight founders to investigate a new Department H, assisting its new Alpha Flight team against the latest Weapon X, carrier of the virulent bacterium Thetagen-24.", 
+    "durability": 3, 
+    "education": "Madame DuPont's School for Girls", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "(As Beaubier) X-Men #120 (1979), (as Aurora) X-Men #121 (1979)\n", 
+    "groupaffiliation": [
+        "Formerly Weapon X", 
+        "Brotherhood", 
+        "Alpha Flight", 
+        "Gamma Flight"
+    ], 
+    "hair": "Black\n", 
+    "height": 71, 
+    "id": "Aurora", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Jean-Baptiste Beaubier (father, deceased), unidentified mother (deceased), Jean-Paul Beaubier (Northstar, twin brother) Joanna Beaubier (adopted niece, deceased); Lois and Genevieve Martin (first cousins once removed/adopted parents, deceased)", 
+    "occupation": [
+        "Terrorist", 
+        "former adventurer", 
+        "nun", 
+        "history/geography teacher"
+    ], 
+    "origin": "Alpha Flight #9-10 (1984)", 
+    "placeofbirth": [
+        "Montreal", 
+        "Quebec", 
+        "Canada"
+    ], 
+    "powers": "Aurora possesses the ability to move and fly at superhuman speeds. Through an act of concentration, she can channel a portion of the kinetic energy of the atomic motion in her body\u2019s molecules in a single direction, accelerating her body to a velocity in direct proportion to the amount of kinetic energy she has tapped. It is theoretically possible for Aurora to reach 99% of the speed of light (186,272 miles per second in a vacuum), but practical reasons - such as her inability to breathe at such speeds and the damage her body would suffer from wind and friction - prevent her from reaching anywhere near that speed. Even a fraction of such velocity of a solid object through Earth\u2019s atmosphere would wreak havoc on the atmosphere and on the land or sea below. As a side effect of partially robbing her molecules of their atomic motion, the binding forces within and between the molecules increase which enhances the sheer toughness of Aurora\u2019s entire body. This effect gives her skin enough durability to withstand speeds up to at least Mach 10 without injury. Formerly, by coming into physical contact with her brother, Aurora could vary the rate of acceleration of her molecules to release a cascade of photons as bright as a lighthouse beacon.\nFollowing alteration of her cellular structure by Sasquatch, Aurora\u2019s powers evolved from being able to generate light by herself to the point where she could transform into a being of pure light, the energy from which could bring inner peace to others. When these powers were exhausted, Aurora was still able to generate light and could alter its intensity from a hypnotic glow to dazzling brilliance or even concussive force.\n\nAfter genetic modification by the Weapon X Project, Aurora can now accelerate the molecules within an inanimate object or a living being by touch, causing it to tear itself apart from the subsequent stress generated upon it.", 
+    "realname": "Jeanne-Marie Beaubier", 
+    "significantissues": [
+        "With Alpha Flight, first opposed X-Men (X-Men #120, 1979)", 
+        "with Northstar, opposed Deadly Ernest (Alpha Flight #7-8, 1984)", 
+        "powers altered by Sasquatch (Alpha Flight #17, 1984)", 
+        "deceived by Loki (Alpha Flight #50, 1987)", 
+        "new life as nun (Alpha Flight #64, 1988)", 
+        "with Alpha Flight & Fantastic Four, opposed Headlok, healing powers revealed (Alpha Flight #93-94, 1991)", 
+        "held prisoner by Headlok, expended healing powers (Alpha Flight #102-104, 1991-1992)", 
+        "Alpha Flight disbanded (Alpha Flight #130, 1994)", 
+        "associated with Brotherhood (X-Man #43, 1998)", 
+        "joined Weapon X (Weapon X: The Draft \u2013 Wild Child, 2002)", 
+        "mind restored (X-Men Annual #1, 2007)"
+    ], 
+    "speed": 6, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

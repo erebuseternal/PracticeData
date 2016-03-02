@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Unknown location in Hell", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Defenders #93 (1981)\n", 
-            "groupaffiliation": "Six Fingered Hand", 
-            "hair": "None\n", 
-            "id": "Fashima", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None known", 
-            "occupation": "Demon", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "As a demon Fashima was immune to conventional diseases and aging, possessed advanced healing, and could take possession of the mind and bodies of her victims.", 
-            "realname": "Fashima", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Unknown location in Hell", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Defenders #93 (1981)\n", 
+    "groupaffiliation": "Six Fingered Hand", 
+    "hair": "None\n", 
+    "id": "Fashima", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None known", 
+    "occupation": "Demon", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "As a demon Fashima was immune to conventional diseases and aging, possessed advanced healing, and could take possession of the mind and bodies of her victims.", 
+    "realname": "Fashima", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

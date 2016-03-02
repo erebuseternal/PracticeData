@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Vulcan (Roman name)", 
-                "Fire-God", 
-                "Smithy God", 
-                "\"Heph'\""
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Educated by the Nereids", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #129 (1966)\n", 
-            "groupaffiliation": [
-                "Olympians", 
-                "the Olympus Group/Dodekatheon"
-            ], 
-            "hair": "Black (sometimes brown)\n", 
-            "height": 77, 
-            "id": "Hephaestus", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Zeus (father), Hera (mother), Eris, Hebe (sisters), Aphordite (ex-wife), Demeter, Vesta/Hestia (aunts), Pluto/Hades,  Poseidon (uncles), Ares (brother), Apollo, Dionysus, Hercules, Hermes (half-brothers), Athena, Artemis]], Hebe (half-sisters), Cronus (grandfather), Rhea (grandmother), Ouranus (great-grandfather), Gaea (great-grandmother), numerous others", 
-            "occupation": [
-                "God of fire mas metal", 
-                "weapon maker and armorer of Olympus"
-            ], 
-            "placeofbirth": "Olympus", 
-            "powers": "Hephaestus possesses the conventional superhuman physical attributes of an Olympian god, the lifting of 40 tons. Although lame in his right leg, he possesses great physical power in his arms and shoulders.", 
-            "realname": "Hephaestus Aetnaeus", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 645
-        }
-    }
+    "aliases": [
+        "Vulcan (Roman name)", 
+        "Fire-God", 
+        "Smithy God", 
+        "\"Heph'\""
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Educated by the Nereids", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #129 (1966)\n", 
+    "groupaffiliation": [
+        "Olympians", 
+        "the Olympus Group/Dodekatheon"
+    ], 
+    "hair": "Black (sometimes brown)\n", 
+    "height": 77, 
+    "id": "Hephaestus", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Zeus (father), Hera (mother), Eris, Hebe (sisters), Aphordite (ex-wife), Demeter, Vesta/Hestia (aunts), Pluto/Hades,  Poseidon (uncles), Ares (brother), Apollo, Dionysus, Hercules, Hermes (half-brothers), Athena, Artemis]], Hebe (half-sisters), Cronus (grandfather), Rhea (grandmother), Ouranus (great-grandfather), Gaea (great-grandmother), numerous others", 
+    "occupation": [
+        "God of fire mas metal", 
+        "weapon maker and armorer of Olympus"
+    ], 
+    "placeofbirth": "Olympus", 
+    "powers": "Hephaestus possesses the conventional superhuman physical attributes of an Olympian god, the lifting of 40 tons. Although lame in his right leg, he possesses great physical power in his arms and shoulders.", 
+    "realname": "Hephaestus Aetnaeus", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 645
 }

@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Lord Ravenous", 
-            "citizenship": "Negative Zone", 
-            "content": "While seeking to unlock the possibilities of biological application of the Power Cosmic, Annihilus assigned Ravenous and his Seekers the task of finding the famed Heralds of Galactus. He was to capture them alive for experimentation. The Annihilation Wave destroyed the Xandar Cluster. While Ravenous and his Seekers were sent out through that region of space to find Air-Walker and Firelord, both of whom were former Heralds of Galactus that  were native to the planet Xandar.Ravenous had control of dog like creatures called Currs. The Currs are the Seekers tracking devices. These Currs are attached to the Seekers by glowing umbilical cords. They have no eyes, but they use sensory like tentacles to find their way through the cosmos. Currs appear to come in packs of threes and are conduits of the Opposing Force, increasing the Seekers power and allowing them to track the Heralds through hyperspace with no apparent problems. Upon locating Air-Walker, Ravenous became disappointed that Air-Walker was an android being and thus he terminated him in spite of the Silver Surfer interference.The Seekers tracked the Silver Surfer to the Skrull controlled Tercera Prime Peripheral System of the Andromeda Galaxy; there they were defeated in a futile attempt to apprehend him. After their defeat, the Silver Surfer fled to the Obada\u2019an Rim within the Badoon, Skrull Neutral Zone. He had been summoned there by his former master, Galactus, who had sensed the magnitude of the Annihilation Wave.  Galactus decided to bestow a massive gift of the Power Cosmic to his former Herald, thus increasing his power tremendously. The arrogant Ravenous engaged the Surfer fiercely, but he was handed a humbling defeat by the newly unleashed power of the Herald. However the Ex-Herald Terrax the Tamer, was not as fortunate as the Silver Surfer. He was tracked and captured by the Seekers on star-sleds.Ravenous appeared with a group of cosmic warriors on the planet of Daedalus 5 which consisted of: Terrax the Tamer (who was under mind control), Paibok the Power Skrull, a giant Mad Thinker android, and the Infant Terrible. They were ordered to attack the United Front. This group was held to a stale mate by Nova and the others. Ravenous noticed Praxagora, a being from the Negative Zone, standing with the United Front. Not willing to concede the battle, he unleashed the Centurions. They were 100 super powered beings from the planets in the Negative Zone. The United Front fell to the overwhelming might of the new attackers. The Front retreated from the planet.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Annihilation: Silver Surfer #1 (2006)\n", 
-            "groupaffiliation": [
-                "Commander of the Seekers", 
-                "Annihilation Wave"
-            ], 
-            "hair": "None\n", 
-            "height": 79, 
-            "id": "Ravenous", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Ruler", 
-                "former agent of Annihilus"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Undisclosed location within the Negative Zone", 
-            "powers": "All the Seekers contain the Essence or the Opposing Force. It is the equivalent of the Power Cosmic. It provides him with superhuman strength and durability, and can survive in the depths of space without breathing aid. This makes the Seekers of the Negative Zone more than an adequate match for the Heralds of Galactus.", 
-            "realname": "Ravenous", 
-            "significantissues": [
-                "Ravenous and the Seekers are introduced and Air-Walker is destroyed. (Annihilation: Silver Surfer #1-4 2006)", 
-                "Ravenous defeats the Kree and they surrender half their Empire. (Annihilation 1-6, 2006-07)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 975
-        }
-    }
+    "aliases": "Lord Ravenous", 
+    "citizenship": "Negative Zone", 
+    "content": "While seeking to unlock the possibilities of biological application of the Power Cosmic, Annihilus assigned Ravenous and his Seekers the task of finding the famed Heralds of Galactus. He was to capture them alive for experimentation. The Annihilation Wave destroyed the Xandar Cluster. While Ravenous and his Seekers were sent out through that region of space to find Air-Walker and Firelord, both of whom were former Heralds of Galactus that  were native to the planet Xandar.Ravenous had control of dog like creatures called Currs. The Currs are the Seekers tracking devices. These Currs are attached to the Seekers by glowing umbilical cords. They have no eyes, but they use sensory like tentacles to find their way through the cosmos. Currs appear to come in packs of threes and are conduits of the Opposing Force, increasing the Seekers power and allowing them to track the Heralds through hyperspace with no apparent problems. Upon locating Air-Walker, Ravenous became disappointed that Air-Walker was an android being and thus he terminated him in spite of the Silver Surfer interference.The Seekers tracked the Silver Surfer to the Skrull controlled Tercera Prime Peripheral System of the Andromeda Galaxy; there they were defeated in a futile attempt to apprehend him. After their defeat, the Silver Surfer fled to the Obada\u2019an Rim within the Badoon, Skrull Neutral Zone. He had been summoned there by his former master, Galactus, who had sensed the magnitude of the Annihilation Wave.  Galactus decided to bestow a massive gift of the Power Cosmic to his former Herald, thus increasing his power tremendously. The arrogant Ravenous engaged the Surfer fiercely, but he was handed a humbling defeat by the newly unleashed power of the Herald. However the Ex-Herald Terrax the Tamer, was not as fortunate as the Silver Surfer. He was tracked and captured by the Seekers on star-sleds.Ravenous appeared with a group of cosmic warriors on the planet of Daedalus 5 which consisted of: Terrax the Tamer (who was under mind control), Paibok the Power Skrull, a giant Mad Thinker android, and the Infant Terrible. They were ordered to attack the United Front. This group was held to a stale mate by Nova and the others. Ravenous noticed Praxagora, a being from the Negative Zone, standing with the United Front. Not willing to concede the battle, he unleashed the Centurions. They were 100 super powered beings from the planets in the Negative Zone. The United Front fell to the overwhelming might of the new attackers. The Front retreated from the planet.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Annihilation: Silver Surfer #1 (2006)\n", 
+    "groupaffiliation": [
+        "Commander of the Seekers", 
+        "Annihilation Wave"
+    ], 
+    "hair": "None\n", 
+    "height": 79, 
+    "id": "Ravenous", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Ruler", 
+        "former agent of Annihilus"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Undisclosed location within the Negative Zone", 
+    "powers": "All the Seekers contain the Essence or the Opposing Force. It is the equivalent of the Power Cosmic. It provides him with superhuman strength and durability, and can survive in the depths of space without breathing aid. This makes the Seekers of the Negative Zone more than an adequate match for the Heralds of Galactus.", 
+    "realname": "Ravenous", 
+    "significantissues": [
+        "Ravenous and the Seekers are introduced and Air-Walker is destroyed. (Annihilation: Silver Surfer #1-4 2006)", 
+        "Ravenous defeats the Kree and they surrender half their Empire. (Annihilation 1-6, 2006-07)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 975
 }

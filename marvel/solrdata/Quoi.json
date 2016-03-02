@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Q", 
-                "One Who Would Change the Universe", 
-                "Celestial Messiah"
-            ], 
-            "citizenship": "Tamal", 
-            "content": "When Mantis and a group of Avenger journeyed to Tamal to protect Quoi from the Thanosi, they discovered that Quoi had entered an angst-ridden phase in his existence, preferring to call himself \"Q\" which he claimed was the weirdest of Earth's letters. The Thanosi empowered several servants, including the Plasmagen Primo and Cap'n Reptyl, to bring him the Celestial Messiah, but it was the pirate Raptra who succeeded in capturing Quoi, hoping to use him to save her from the wrath of the Thanosi. When the Thanosi refused to bargain with her, Raptra found herself making an uneasy alliance with Quoi, taking refuge in a region of space known as the Rot, where the unholy spawn of Death and the Thanosi was consuming space. There they came face-to-face with both the Avengers (who now had a new reality displaced ally, Haywire) and the Thanosi. After battling the Thanosi on the Astral plane, Quoi came to terms with his feelings towards his mother and joined with her to oppose the incursion of the deadly Rot, which destroyed all it touched. Quoi failed in his attempt to drive back the Rot, but after the Thanosi destroyed it with the help of Death, Quoi elected to remain in the region, helping bring new life to the decimated area of space. At his side was Raptra, the saurian pirate who was inspired by his nobility and for whom he had proclaimed his love.", 
-            "durability": 1, 
-            "education": "Equivalent of Earth high school", 
-            "energy": 1, 
-            "eyes": "Green (compound)\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #325 (1988)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Green\n", 
-            "height": 68, 
-            "id": "Quoi", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Mantis (mother), Supreme Exemplar of the Cotati (father)", 
-            "occupation": "Messiah", 
-            "origin": "Avengers: Celestial Quest #2 (2001)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "He has powers over the basic forces of life itself, allowing him to absorb energy from the universe around him (including from other beings) and channel it into various applications, such as energy blast or the ability to heal his surroundings. As he grows into his role as the Celestial Messiah, more abilities will inevitably be revealed.", 
-            "realname": "Sequoia", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": [
+        "Q", 
+        "One Who Would Change the Universe", 
+        "Celestial Messiah"
+    ], 
+    "citizenship": "Tamal", 
+    "content": "When Mantis and a group of Avenger journeyed to Tamal to protect Quoi from the Thanosi, they discovered that Quoi had entered an angst-ridden phase in his existence, preferring to call himself \"Q\" which he claimed was the weirdest of Earth's letters. The Thanosi empowered several servants, including the Plasmagen Primo and Cap'n Reptyl, to bring him the Celestial Messiah, but it was the pirate Raptra who succeeded in capturing Quoi, hoping to use him to save her from the wrath of the Thanosi. When the Thanosi refused to bargain with her, Raptra found herself making an uneasy alliance with Quoi, taking refuge in a region of space known as the Rot, where the unholy spawn of Death and the Thanosi was consuming space. There they came face-to-face with both the Avengers (who now had a new reality displaced ally, Haywire) and the Thanosi. After battling the Thanosi on the Astral plane, Quoi came to terms with his feelings towards his mother and joined with her to oppose the incursion of the deadly Rot, which destroyed all it touched. Quoi failed in his attempt to drive back the Rot, but after the Thanosi destroyed it with the help of Death, Quoi elected to remain in the region, helping bring new life to the decimated area of space. At his side was Raptra, the saurian pirate who was inspired by his nobility and for whom he had proclaimed his love.", 
+    "durability": 1, 
+    "education": "Equivalent of Earth high school", 
+    "energy": 1, 
+    "eyes": "Green (compound)\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #325 (1988)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Green\n", 
+    "height": 68, 
+    "id": "Quoi", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Mantis (mother), Supreme Exemplar of the Cotati (father)", 
+    "occupation": "Messiah", 
+    "origin": "Avengers: Celestial Quest #2 (2001)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "He has powers over the basic forces of life itself, allowing him to absorb energy from the universe around him (including from other beings) and channel it into various applications, such as energy blast or the ability to heal his surroundings. As he grows into his role as the Celestial Messiah, more abilities will inevitably be revealed.", 
+    "realname": "Sequoia", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

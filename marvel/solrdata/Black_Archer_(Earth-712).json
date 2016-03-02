@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Golden Archer", 
-                "Hawkeye"
-            ], 
-            "citizenship": "Australia of Earth-712 with no criminal record", 
-            "content": "", 
-            "durability": 3, 
-            "education": "Unrevealed; presumably had a college degree and a degree in medicine", 
-            "energy": 5, 
-            "eyes": "Blue\n", 
-            "fighting": 5, 
-            "firstappearance": "Avengers #85 (as Hawkeye), Avengers #141 (as Golden Archer), Squadron Supreme #10 (as Black Archer)\n", 
-            "groupaffiliation": "(At time of death) Redeemers (Formerly) Squadron Supreme", 
-            "hair": "Black\n", 
-            "height": 65, 
-            "id": "Black_Archer_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 3, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "(At time of death) Adventurer", 
-                "(Formerly) government agent", 
-                "cab driver"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Wyatt McDonald", 
-            "speed": 3, 
-            "strength": 3, 
-            "universe": "Earth-712", 
-            "weight": 185
-        }
-    }
+    "aliases": [
+        "Golden Archer", 
+        "Hawkeye"
+    ], 
+    "citizenship": "Australia of Earth-712 with no criminal record", 
+    "content": "", 
+    "durability": 3, 
+    "education": "Unrevealed; presumably had a college degree and a degree in medicine", 
+    "energy": 5, 
+    "eyes": "Blue\n", 
+    "fighting": 5, 
+    "firstappearance": "Avengers #85 (as Hawkeye), Avengers #141 (as Golden Archer), Squadron Supreme #10 (as Black Archer)\n", 
+    "groupaffiliation": "(At time of death) Redeemers (Formerly) Squadron Supreme", 
+    "hair": "Black\n", 
+    "height": 65, 
+    "id": "Black_Archer_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 3, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "(At time of death) Adventurer", 
+        "(Formerly) government agent", 
+        "cab driver"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Wyatt McDonald", 
+    "speed": 3, 
+    "strength": 3, 
+    "universe": "Earth-712", 
+    "weight": 185
 }

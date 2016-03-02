@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Inapplicable", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "She-Hulks #3 (2011)\n", 
-            "groupaffiliation": "None", 
-            "hair": "None\n", 
-            "id": "Byte", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Mad Thinker (creator)", 
-            "occupation": "Servant of the Mad Thinker", 
-            "origin": "She-Hulks #3 (2011)", 
-            "placeofbirth": "A lab in Switzerland", 
-            "powers": "Byte is sonic-powered and was created to be ten times stronger than other Gammadroids.", 
-            "realname": "Byte", 
-            "significantissues": [
-                "About to receive sonic powers from Klaw (She-Hulks #3, 2011)", 
-                "versus She-Hulks but was defeated (She-Hulks #4, 2011)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Inapplicable", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "She-Hulks #3 (2011)\n", 
+    "groupaffiliation": "None", 
+    "hair": "None\n", 
+    "id": "Byte", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Mad Thinker (creator)", 
+    "occupation": "Servant of the Mad Thinker", 
+    "origin": "She-Hulks #3 (2011)", 
+    "placeofbirth": "A lab in Switzerland", 
+    "powers": "Byte is sonic-powered and was created to be ten times stronger than other Gammadroids.", 
+    "realname": "Byte", 
+    "significantissues": [
+        "About to receive sonic powers from Klaw (She-Hulks #3, 2011)", 
+        "versus She-Hulks but was defeated (She-Hulks #4, 2011)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

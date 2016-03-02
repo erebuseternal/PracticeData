@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Unrevealed", 
-            "content": "Later on Binary Stasis Twelve Dyson Sphere, an artificial habitat shell with a caged sun at its heart. Raker and the Cardinal engaged the Guardians in combat. Raker and his religious comrades revealed the power of the belief-battery, (this was a fundamental power of the mind allowing them to achieve all that they believed), allowing them to withstand any form of assault that the Guardians unleashed upon them.  While in a direct struggle with Adam Warlock, Raker exclaimed that Warlock\u2019s new powers were nothing more than malevolent witchcraft, before releasing a ferocious blast of energy from his midsection dispelling the threat of the golden hero. Another Cardinal revealed that the power of belief could also regenerate severed limbs, during his confrontation with Drax the Destroyer. At the height of this battle two of Raker's Cardinal was engulfed by the biomass of the Dyson Sphere. All fifty-two hundred of the sphere's inhabitants had been fused into one dreadful biomass. Raker believed Warlock to be the culprit behind the demonic biomass that consumed his faithful brethren.  Raker assaulted Star-Lord as a ploy to distract Warlock so that he could stab him and get the DNA evidence needed to reveal if the assumption of the Matriarch were correct.Raker reported that the tissue samples were positive and it was truly Warlock in the presence of the Guardians, although this information created a new query, just who was within the cocoon within the Church? The answer to that query has yet to be revealed.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "Guardians of the Galaxy #2\n", 
-            "groupaffiliation": "Universal Church of Truth", 
-            "hair": "Unrevealed\n", 
-            "id": "Raker", 
-            "identity": "The general populace of Earth was unaware of Raker's existence", 
-            "intelligence": 1, 
-            "knownrelatives": "Unknown", 
-            "occupation": "Cardinal of the Universal Church of Truth", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "As a member of the Universal Church of Truth, Raker possessed the power to access the belief-battery, which allowed  Raker to do anything that he believed he could do, this granted him superhuman strength, stamina, reflexes and durability.", 
-            "realname": "Raker", 
-            "significantissues": [
-                "summoned by the Matriarch (Guardians of the Galaxy #2, 2008)", 
-                "retrieved the DNA evidence from Adam Warlock (Guardians of the Galaxy #3, 2008)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Unrevealed", 
+    "content": "Later on Binary Stasis Twelve Dyson Sphere, an artificial habitat shell with a caged sun at its heart. Raker and the Cardinal engaged the Guardians in combat. Raker and his religious comrades revealed the power of the belief-battery, (this was a fundamental power of the mind allowing them to achieve all that they believed), allowing them to withstand any form of assault that the Guardians unleashed upon them.  While in a direct struggle with Adam Warlock, Raker exclaimed that Warlock\u2019s new powers were nothing more than malevolent witchcraft, before releasing a ferocious blast of energy from his midsection dispelling the threat of the golden hero. Another Cardinal revealed that the power of belief could also regenerate severed limbs, during his confrontation with Drax the Destroyer. At the height of this battle two of Raker's Cardinal was engulfed by the biomass of the Dyson Sphere. All fifty-two hundred of the sphere's inhabitants had been fused into one dreadful biomass. Raker believed Warlock to be the culprit behind the demonic biomass that consumed his faithful brethren.  Raker assaulted Star-Lord as a ploy to distract Warlock so that he could stab him and get the DNA evidence needed to reveal if the assumption of the Matriarch were correct.Raker reported that the tissue samples were positive and it was truly Warlock in the presence of the Guardians, although this information created a new query, just who was within the cocoon within the Church? The answer to that query has yet to be revealed.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "Guardians of the Galaxy #2\n", 
+    "groupaffiliation": "Universal Church of Truth", 
+    "hair": "Unrevealed\n", 
+    "id": "Raker", 
+    "identity": "The general populace of Earth was unaware of Raker's existence", 
+    "intelligence": 1, 
+    "knownrelatives": "Unknown", 
+    "occupation": "Cardinal of the Universal Church of Truth", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "As a member of the Universal Church of Truth, Raker possessed the power to access the belief-battery, which allowed  Raker to do anything that he believed he could do, this granted him superhuman strength, stamina, reflexes and durability.", 
+    "realname": "Raker", 
+    "significantissues": [
+        "summoned by the Matriarch (Guardians of the Galaxy #2, 2008)", 
+        "retrieved the DNA evidence from Adam Warlock (Guardians of the Galaxy #3, 2008)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

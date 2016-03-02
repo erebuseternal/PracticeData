@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unknown", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Unknown\n", 
-            "fighting": 1, 
-            "firstappearance": "Thor #138 (1967)\n", 
-            "groupaffiliation": "Unknown", 
-            "hair": "Unknown\n", 
-            "id": "Orikal", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unknown", 
-            "occupation": [
-                "Prophet", 
-                "weapons builder"
-            ], 
-            "origin": "Unknown", 
-            "placeofbirth": "Unknown dimension", 
-            "powers": "Orikal possesses the Infinate Eye.", 
-            "realname": "Unknown", 
-            "significantissues": "Enslaved by Geirrodur, he aids his attempt to defeat Odin. (Thor #138, 1967), Set free by Thor and vanishes to unknown dimensional realm. (Thor #139, 1967)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unknown", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Unknown\n", 
+    "fighting": 1, 
+    "firstappearance": "Thor #138 (1967)\n", 
+    "groupaffiliation": "Unknown", 
+    "hair": "Unknown\n", 
+    "id": "Orikal", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unknown", 
+    "occupation": [
+        "Prophet", 
+        "weapons builder"
+    ], 
+    "origin": "Unknown", 
+    "placeofbirth": "Unknown dimension", 
+    "powers": "Orikal possesses the Infinate Eye.", 
+    "realname": "Unknown", 
+    "significantissues": "Enslaved by Geirrodur, he aids his attempt to defeat Odin. (Thor #138, 1967), Set free by Thor and vanishes to unknown dimensional realm. (Thor #139, 1967)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Formerly Transia", 
-                "currently House of M"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unknown", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": "House of M", 
-            "hair": "Auburn\n", 
-            "height": 67, 
-            "id": "Wanda_(House_of_M)", 
-            "identity": "Known worldwide as a member of the House of M", 
-            "intelligence": 1, 
-            "knownrelatives": "Magnus (Magneto, father), Magda (mother, deceased), Anya (sister, deceased), Pietro (Quicksilver, brother), Lorna (Polaris, half-sister), Tyler (son), unnamed children, nieces and nephews", 
-            "occupation": "Royalty", 
-            "placeofbirth": [
-                "Wundagore", 
-                "Transia", 
-                "Europe"
-            ], 
-            "realname": "Wanda", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "House of M", 
-            "weight": 132
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Formerly Transia", 
+        "currently House of M"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unknown", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": "House of M", 
+    "hair": "Auburn\n", 
+    "height": 67, 
+    "id": "Wanda_(House_of_M)", 
+    "identity": "Known worldwide as a member of the House of M", 
+    "intelligence": 1, 
+    "knownrelatives": "Magnus (Magneto, father), Magda (mother, deceased), Anya (sister, deceased), Pietro (Quicksilver, brother), Lorna (Polaris, half-sister), Tyler (son), unnamed children, nieces and nephews", 
+    "occupation": "Royalty", 
+    "placeofbirth": [
+        "Wundagore", 
+        "Transia", 
+        "Europe"
+    ], 
+    "realname": "Wanda", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "House of M", 
+    "weight": 132
 }

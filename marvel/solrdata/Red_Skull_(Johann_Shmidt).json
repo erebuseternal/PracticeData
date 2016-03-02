@@ -1,59 +1,55 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Dell Rusk", 
-                "Bettman P. Lyles", 
-                "the Agent of a Thousand Faces", 
-                "The Man", 
-                "Cyrus Fenton", 
-                "Teacher", 
-                "Tod March", 
-                "John Smith", 
-                "Aleksander Lukin."
-            ], 
-            "citizenship": "Citizen of Germany sought by authorities throughout the world for war crimes and major offenses", 
-            "content": "In his late teens during the rise of the Third Reich, Shmidt got his most prosperous job, a bellhop in a major hotel. There he served the rooms of Adolf Hitler himself. By chance, he was present when Hitler was furiously berating an officer and swore he could train Johann himself, a simple bellhop, to be a better National Socialist. Looking closely at him and sensing his dark inner nature, Hitler decided to take up the challenge and recruited Shmidt.Dissatisfied with the standard drill instruction his subordinates used to train Shmidt, Hitler took over personally. Upon completion, Hitler gave Shmidt a unique uniform with a grotesque red skull mask, and he emerged as the Red Skull. His role was the embodiment of Nazi intimidation, while Hitler could remain the popular leader of Germany. The Red Skull was appointed head of Nazi terrorist activities with an additional large role in external espionage and sabotage. He was spectacularly successful, wreaking havoc throughout Europe in the early stages of World War II. The propaganda effect was so great that the United States government decided to counter it by creating their own equivalent using the recipient of the lost Operation Rebirth, Steve Rogers, Captain America.The two counterparts soon clashed in what would be a series of engagements throughout the war, ending with a final battle that left the Skull buried under the rubble of a bombed building. Because he was immediately exposed to an experimental gas there, he remained in suspended animation for decades.Johann was eventually rescued in modern times by the terrorist organization, HYDRA. The Skull quickly subverted a HYDRA cell to his own ambitions of world conquest and the death of Captain America.File:MikeFichera--RedSkull-CosmicCube.jpgThe Skull and Captain America resumed their personal war against each other. The Skull was consistently frustrated by failure; not even when the Skull possessed the reality-altering Cosmic Cube could he claim victory. At one point, the Skull's health failing, he had Nazi geneticist Arnim Zola make him into an imitation of the Captain's civilian identity, Steve Rogers, using cloned tissue from Captain America's body. Under the alias of Mr. Smith, the Red Skull had Douglas Rockwell, the head of the U.S. president's Commission on Superhuman Activities, make unreasonable demands upon Captain America, while  arranging for the Taskmaster to train a replacement for Captain America, appointed the violent and mentally unstable John Walker. When the CSA's requests forced Rogers to relinquish the Captain America identity, the CSA assigned John Walker to fill the role. As the new Captain America, Walker was manipulated by the Skull to act in a manner which publicly disgraced the image of the hero. The Skull then tried unsuccessfully to use Walker to kill Rogers (now \"the Captain.\") When Rogers defeated Walker, the Skull tried to blow the Dust of Death on Rogers. Walker hit the Skull him from behind with his shield, exposing Shmidt to the dust. He suffered the signature facial disfigurement attributed to the Dust, yet survived due to years of exposure to low doses. Rogers later reclaimed the Captain America title.Red Skull had control over multiple criminal organizations, including the Watchdogs, a group of right-wing militiamen, and the Scourge of the Underworld, an organization devoted to murdering super villains. He proposed an alliance with the Kingpin of Crime (Wilson Fisk), one of New York City's top organized crime bosses, to bring a new designer drug to New York but the Kingpin refused to form an alliance with a Nazi. Fisk defeated the Skull in hand to hand combat, sparing his life on the condition he never come near the Kingpin's territory again. However fellow Nazi Baron Wolfgang von Strucker, leader of the terrorist organization HYDRA, gratefully allowed the Skull the use of HYDRA's resources after the Skull's agents brought Strucker back from the dead.", 
-            "durability": 3, 
-            "education": "unknown", 
-            "energy": 1, 
-            "eyes": "(both bodies) Blue\n", 
-            "fighting": 5, 
-            "firstappearance": "Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)\n", 
-            "groupaffiliation": [
-                "Special operative in the government of Germany's Third Reich", 
-                "former leader of most currently active Nazi subversives throughout the world", 
-                "former ally of THEM and A.I.M.", 
-                "former leader of the Nevada-based fragment of Hydra", 
-                "leader of the People's Militia", 
-                "former partner of Hate-Monger", 
-                "creator of Scourge of the Underworld"
-            ], 
-            "hair": "(original body) Reddish blond, later none; (cloned body) blond, later none\n", 
-            "height": 0, 
-            "id": "Red_Skull_(Johann_Shmidt)", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Hermann Shmidt (father, deceased), Martha Shmidt (mother, deceased), Sinthea Shmidt (Mother Superior/Sin, daughter)", 
-            "occupation": [
-                "Former beggar", 
-                "thief", 
-                "menial laborer", 
-                "bellboy", 
-                "terrorist leader for the Third Reich", 
-                "would-be world conqueror"
-            ], 
-            "origin": [
-                "Tales of Suspense #66 (1965)", 
-                "Captain America #298 (1984)"
-            ], 
-            "placeofbirth": "An unidentified village in Germany", 
-            "powers": "None", 
-            "realname": "Johann Shmidt", 
-            "speed": 3, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 195
-        }
-    }
+    "aliases": [
+        "Dell Rusk", 
+        "Bettman P. Lyles", 
+        "the Agent of a Thousand Faces", 
+        "The Man", 
+        "Cyrus Fenton", 
+        "Teacher", 
+        "Tod March", 
+        "John Smith", 
+        "Aleksander Lukin."
+    ], 
+    "citizenship": "Citizen of Germany sought by authorities throughout the world for war crimes and major offenses", 
+    "content": "In his late teens during the rise of the Third Reich, Shmidt got his most prosperous job, a bellhop in a major hotel. There he served the rooms of Adolf Hitler himself. By chance, he was present when Hitler was furiously berating an officer and swore he could train Johann himself, a simple bellhop, to be a better National Socialist. Looking closely at him and sensing his dark inner nature, Hitler decided to take up the challenge and recruited Shmidt.Dissatisfied with the standard drill instruction his subordinates used to train Shmidt, Hitler took over personally. Upon completion, Hitler gave Shmidt a unique uniform with a grotesque red skull mask, and he emerged as the Red Skull. His role was the embodiment of Nazi intimidation, while Hitler could remain the popular leader of Germany. The Red Skull was appointed head of Nazi terrorist activities with an additional large role in external espionage and sabotage. He was spectacularly successful, wreaking havoc throughout Europe in the early stages of World War II. The propaganda effect was so great that the United States government decided to counter it by creating their own equivalent using the recipient of the lost Operation Rebirth, Steve Rogers, Captain America.The two counterparts soon clashed in what would be a series of engagements throughout the war, ending with a final battle that left the Skull buried under the rubble of a bombed building. Because he was immediately exposed to an experimental gas there, he remained in suspended animation for decades.Johann was eventually rescued in modern times by the terrorist organization, HYDRA. The Skull quickly subverted a HYDRA cell to his own ambitions of world conquest and the death of Captain America.File:MikeFichera--RedSkull-CosmicCube.jpgThe Skull and Captain America resumed their personal war against each other. The Skull was consistently frustrated by failure; not even when the Skull possessed the reality-altering Cosmic Cube could he claim victory. At one point, the Skull's health failing, he had Nazi geneticist Arnim Zola make him into an imitation of the Captain's civilian identity, Steve Rogers, using cloned tissue from Captain America's body. Under the alias of Mr. Smith, the Red Skull had Douglas Rockwell, the head of the U.S. president's Commission on Superhuman Activities, make unreasonable demands upon Captain America, while  arranging for the Taskmaster to train a replacement for Captain America, appointed the violent and mentally unstable John Walker. When the CSA's requests forced Rogers to relinquish the Captain America identity, the CSA assigned John Walker to fill the role. As the new Captain America, Walker was manipulated by the Skull to act in a manner which publicly disgraced the image of the hero. The Skull then tried unsuccessfully to use Walker to kill Rogers (now \"the Captain.\") When Rogers defeated Walker, the Skull tried to blow the Dust of Death on Rogers. Walker hit the Skull him from behind with his shield, exposing Shmidt to the dust. He suffered the signature facial disfigurement attributed to the Dust, yet survived due to years of exposure to low doses. Rogers later reclaimed the Captain America title.Red Skull had control over multiple criminal organizations, including the Watchdogs, a group of right-wing militiamen, and the Scourge of the Underworld, an organization devoted to murdering super villains. He proposed an alliance with the Kingpin of Crime (Wilson Fisk), one of New York City's top organized crime bosses, to bring a new designer drug to New York but the Kingpin refused to form an alliance with a Nazi. Fisk defeated the Skull in hand to hand combat, sparing his life on the condition he never come near the Kingpin's territory again. However fellow Nazi Baron Wolfgang von Strucker, leader of the terrorist organization HYDRA, gratefully allowed the Skull the use of HYDRA's resources after the Skull's agents brought Strucker back from the dead.", 
+    "durability": 3, 
+    "education": "unknown", 
+    "energy": 1, 
+    "eyes": "(both bodies) Blue\n", 
+    "fighting": 5, 
+    "firstappearance": "Captain America Comics #1 (1941), (modern) Tales of Suspense #66 (1965)\n", 
+    "groupaffiliation": [
+        "Special operative in the government of Germany's Third Reich", 
+        "former leader of most currently active Nazi subversives throughout the world", 
+        "former ally of THEM and A.I.M.", 
+        "former leader of the Nevada-based fragment of Hydra", 
+        "leader of the People's Militia", 
+        "former partner of Hate-Monger", 
+        "creator of Scourge of the Underworld"
+    ], 
+    "hair": "(original body) Reddish blond, later none; (cloned body) blond, later none\n", 
+    "height": 0, 
+    "id": "Red_Skull_(Johann_Shmidt)", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Hermann Shmidt (father, deceased), Martha Shmidt (mother, deceased), Sinthea Shmidt (Mother Superior/Sin, daughter)", 
+    "occupation": [
+        "Former beggar", 
+        "thief", 
+        "menial laborer", 
+        "bellboy", 
+        "terrorist leader for the Third Reich", 
+        "would-be world conqueror"
+    ], 
+    "origin": [
+        "Tales of Suspense #66 (1965)", 
+        "Captain America #298 (1984)"
+    ], 
+    "placeofbirth": "An unidentified village in Germany", 
+    "powers": "None", 
+    "realname": "Johann Shmidt", 
+    "speed": 3, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 195
 }

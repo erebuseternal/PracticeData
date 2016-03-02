@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Tenebrous of the Darkness", 
-                "Tenebrous of the Darkness Between"
-            ], 
-            "citizenship": "Not applicable", 
-            "content": "Unfortunately it was through the Crunch Cascade that the Annihilation Wave started its invasion of the positive universe. The wave did irreparable damage to the Kyln, and Aegis and Tenebrous were released back into the living universe once more, adding further fuel to the chaos that was engulfing all life. There were two other former powerful inmates freed from the Kyln, Kosmos the Maker formerly the Beyonder, and the Fallen One first Herald of Galactus. Tenebrous captured and drained the Fallen One of his power, leaving him as a lifeless husk. Thanos of Titan came to the rescue of the Fallen One. Thanos brokered a deal with Tenebrous for the return of the Fallen One.", 
-            "durability": 7, 
-            "education": "Unrevealed", 
-            "energy": 7, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 7, 
-            "firstappearance": "Annihilation: Silver Surfer #3 (2006)\n", 
-            "groupaffiliation": "Proemial Gods", 
-            "hair": "Unrevealed\n", 
-            "height": 0, 
-            "id": "Tenebrous", 
-            "identity": "Not known to the inhabitants of Earth.", 
-            "intelligence": 6, 
-            "knownrelatives": "Aegis, Antiphon the Overseer, Brio, Diableri and several other unnamed siblings", 
-            "occupation": "Tasked with cleansing the universe of unsuitable life forms.", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "The Living Universe", 
-            "powers": "Tenebrous is believed to possess the Power Cosmic, which enables him to gather, channel and manipulate large quantities of cosmic energy. The full extent of Tenebrous' power is unknown.", 
-            "realname": "Tenebrous", 
-            "significantissues": [
-                "fought with Aegis against Galactus and Silver Surfer, defeated them and gave them to Annihilation Wave (Annihilation #1, 2006)", 
-                "Tenebrous and Aegis were both defeated by the Silver Surfer (Annihilation: Heralds of Galactus #2, 2007)"
-            ], 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": "variable\n"
-        }
-    }
+    "aliases": [
+        "Tenebrous of the Darkness", 
+        "Tenebrous of the Darkness Between"
+    ], 
+    "citizenship": "Not applicable", 
+    "content": "Unfortunately it was through the Crunch Cascade that the Annihilation Wave started its invasion of the positive universe. The wave did irreparable damage to the Kyln, and Aegis and Tenebrous were released back into the living universe once more, adding further fuel to the chaos that was engulfing all life. There were two other former powerful inmates freed from the Kyln, Kosmos the Maker formerly the Beyonder, and the Fallen One first Herald of Galactus. Tenebrous captured and drained the Fallen One of his power, leaving him as a lifeless husk. Thanos of Titan came to the rescue of the Fallen One. Thanos brokered a deal with Tenebrous for the return of the Fallen One.", 
+    "durability": 7, 
+    "education": "Unrevealed", 
+    "energy": 7, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 7, 
+    "firstappearance": "Annihilation: Silver Surfer #3 (2006)\n", 
+    "groupaffiliation": "Proemial Gods", 
+    "hair": "Unrevealed\n", 
+    "height": 0, 
+    "id": "Tenebrous", 
+    "identity": "Not known to the inhabitants of Earth.", 
+    "intelligence": 6, 
+    "knownrelatives": "Aegis, Antiphon the Overseer, Brio, Diableri and several other unnamed siblings", 
+    "occupation": "Tasked with cleansing the universe of unsuitable life forms.", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "The Living Universe", 
+    "powers": "Tenebrous is believed to possess the Power Cosmic, which enables him to gather, channel and manipulate large quantities of cosmic energy. The full extent of Tenebrous' power is unknown.", 
+    "realname": "Tenebrous", 
+    "significantissues": [
+        "fought with Aegis against Galactus and Silver Surfer, defeated them and gave them to Annihilation Wave (Annihilation #1, 2006)", 
+        "Tenebrous and Aegis were both defeated by the Silver Surfer (Annihilation: Heralds of Galactus #2, 2007)"
+    ], 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": "variable\n"
 }

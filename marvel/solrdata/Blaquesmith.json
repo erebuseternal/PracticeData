@@ -1,52 +1,48 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Mind-Rider", 
-            "citizenship": "Unrevealed", 
-            "content": "After Dayspring became the soldier Cable and traveled to the modern era of Earth-616, Mother Askani bade Blaquesmith follow him. Soon after arriving, Blaquesmith was approached by Finality, leader of the Dark Sisterhood, whose aims he believed coincided with his own. He supplied the Sisterhood with psimitars, the Askani\u2019s weapon of choice, and trained them in their use. Ultimately reunited with his former student, Blaquesmith began aiding Cable in his quest to prevent Apocalypse\u2019s ascension. Blaquesmith soon asked Cable to destroy the perceived threat posed by Nate Grey, an alternate reality version of Cable from Earth-295; however, after a brief clash, Cable joined forces with Nate - much to Blaquesmith\u2019s chagrin - to tackle the larger threat of Exodus. Blaquesmith later faced the psionic entity Onslaught, who destroyed his base. Believed killed, Blaquesmith was rescued by Cable from the time-traveling pharaoh Rama-Tut. He set up a new base in New York\u2019s Hell\u2019s Kitchen district and resumed his guidance of Cable. Blaquesmith soon encountered Apocalypse\u2019s former servant Ozymandias and learned of the Twelve, a group of mutants who were destined to usher in a golden age for mutantkind, and of Cable\u2019s role as their gatherer. Cyclops foiled Apocalypse\u2019s attempt to usurp the Twelve\u2019s power, merging with Apocalypse himself. In a misguided attempt to eliminate Apocalypse, Blaquesmith hired the mercenary Gauntlet to assassinate Cyclops, but Cable and Jean freed him and Cable supposedly fulfilled his destiny by slaying Apocalypse. Subsequently, when Cable was attacked by the Dark Sisterhood, Blaquesmith was again believed killed.", 
-            "durability": 2, 
-            "education": "Trained by Askani Sisterhood; trained as mechanic by Voltayre", 
-            "energy": 1, 
-            "eyes": "No visible irises\n", 
-            "fighting": 3, 
-            "firstappearance": "(Unidentified) X-Men: Prime (1995); (identified) Cable #21 (1995)\n", 
-            "groupaffiliation": [
-                "Clan Askani", 
-                "formerly the Underground"
-            ], 
-            "hair": "Black\n", 
-            "height": 63, 
-            "id": "Blaquesmith", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Unidentified mother", 
-            "occupation": [
-                "Teacher", 
-                "freedom fighter", 
-                "former student", 
-                "apprentice mechanic"
-            ], 
-            "origin": "X-Men: Phoenix #1-2 (1999-2000)", 
-            "placeofbirth": "Unrevealed location on Earth-4935", 
-            "powers": "Blaquesmith is a high order telepath and telekinetic with extensive Askani training in these skills, as well as being trained in time manipulation.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "First met Rachel Summers, joined Askani (X-Men: Phoenix #1-3, 1999-2000)", 
-                "traveled to past of Earth-616, detected Nate Grey's arrival, reunited with Cable (X-Men: Prime/Cable #21, 1995)", 
-                "tracked Nate, warned Xavier of perceived threat (X-Man #6 & 8-10, 1995)", 
-                "with Cable, opposed Nate (Cable #29-30/X-Man #14/Cable #31, 1996)", 
-                "attacked by Onslaught (Cable #32, 1996)", 
-                "captured by Rama-Tut, rescued by Cable (Cable #57, 1998)", 
-                "met Ozymandias, learned of the Twelve (Cable #64-67, 1999)", 
-                "hired Gauntlet to assassinate merged Cyclops/Apocalypse (X-Men: The Search For Cyclops #1-4, 2001)", 
-                "with Cable, opposed Dark Sisterhood (Cable #89-91, 2001)", 
-                "impersonated by Novotny (Soldier X #1-3, 2002)", 
-                "with Cable's Underground, opposed Weapon X (Weapon X #6-13, 2003)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 105
-        }
-    }
+    "aliases": "Mind-Rider", 
+    "citizenship": "Unrevealed", 
+    "content": "After Dayspring became the soldier Cable and traveled to the modern era of Earth-616, Mother Askani bade Blaquesmith follow him. Soon after arriving, Blaquesmith was approached by Finality, leader of the Dark Sisterhood, whose aims he believed coincided with his own. He supplied the Sisterhood with psimitars, the Askani\u2019s weapon of choice, and trained them in their use. Ultimately reunited with his former student, Blaquesmith began aiding Cable in his quest to prevent Apocalypse\u2019s ascension. Blaquesmith soon asked Cable to destroy the perceived threat posed by Nate Grey, an alternate reality version of Cable from Earth-295; however, after a brief clash, Cable joined forces with Nate - much to Blaquesmith\u2019s chagrin - to tackle the larger threat of Exodus. Blaquesmith later faced the psionic entity Onslaught, who destroyed his base. Believed killed, Blaquesmith was rescued by Cable from the time-traveling pharaoh Rama-Tut. He set up a new base in New York\u2019s Hell\u2019s Kitchen district and resumed his guidance of Cable. Blaquesmith soon encountered Apocalypse\u2019s former servant Ozymandias and learned of the Twelve, a group of mutants who were destined to usher in a golden age for mutantkind, and of Cable\u2019s role as their gatherer. Cyclops foiled Apocalypse\u2019s attempt to usurp the Twelve\u2019s power, merging with Apocalypse himself. In a misguided attempt to eliminate Apocalypse, Blaquesmith hired the mercenary Gauntlet to assassinate Cyclops, but Cable and Jean freed him and Cable supposedly fulfilled his destiny by slaying Apocalypse. Subsequently, when Cable was attacked by the Dark Sisterhood, Blaquesmith was again believed killed.", 
+    "durability": 2, 
+    "education": "Trained by Askani Sisterhood; trained as mechanic by Voltayre", 
+    "energy": 1, 
+    "eyes": "No visible irises\n", 
+    "fighting": 3, 
+    "firstappearance": "(Unidentified) X-Men: Prime (1995); (identified) Cable #21 (1995)\n", 
+    "groupaffiliation": [
+        "Clan Askani", 
+        "formerly the Underground"
+    ], 
+    "hair": "Black\n", 
+    "height": 63, 
+    "id": "Blaquesmith", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Unidentified mother", 
+    "occupation": [
+        "Teacher", 
+        "freedom fighter", 
+        "former student", 
+        "apprentice mechanic"
+    ], 
+    "origin": "X-Men: Phoenix #1-2 (1999-2000)", 
+    "placeofbirth": "Unrevealed location on Earth-4935", 
+    "powers": "Blaquesmith is a high order telepath and telekinetic with extensive Askani training in these skills, as well as being trained in time manipulation.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "First met Rachel Summers, joined Askani (X-Men: Phoenix #1-3, 1999-2000)", 
+        "traveled to past of Earth-616, detected Nate Grey's arrival, reunited with Cable (X-Men: Prime/Cable #21, 1995)", 
+        "tracked Nate, warned Xavier of perceived threat (X-Man #6 & 8-10, 1995)", 
+        "with Cable, opposed Nate (Cable #29-30/X-Man #14/Cable #31, 1996)", 
+        "attacked by Onslaught (Cable #32, 1996)", 
+        "captured by Rama-Tut, rescued by Cable (Cable #57, 1998)", 
+        "met Ozymandias, learned of the Twelve (Cable #64-67, 1999)", 
+        "hired Gauntlet to assassinate merged Cyclops/Apocalypse (X-Men: The Search For Cyclops #1-4, 2001)", 
+        "with Cable, opposed Dark Sisterhood (Cable #89-91, 2001)", 
+        "impersonated by Novotny (Soldier X #1-3, 2002)", 
+        "with Cable's Underground, opposed Weapon X (Weapon X #6-13, 2003)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 105
 }

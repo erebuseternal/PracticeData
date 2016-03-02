@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Moondragon", 
-            "citizenship": "U.S.A.", 
-            "content": "Pam had now become convinced that her condition was a result of her being in the early stages of pregnancy, although when she saw the doctor for the second time, he was not able to confirm her suspicions, due to her test coming back negative.  This new information escalated her fears and to make matters worse one night she was attacked by a giant hand, which resulted in her jetting form her apartment into the streets outside, where she was mysteriously contacted telepathically  by the Avenger known as Moondragon, also known to the inhabitants of Earth as Heather Douglas. Moondragon was Pamela\u2019s cousin. Heather informed Pamela how she gained her powers and became the super-hero Moondragon. She continued to spin her story explaining to Pamela, how she had succumbed to the extraterrestrial Dragon of the Moon that corrupted her mind, and set on a course of destruction, resulting in her body being destroyed while battling the Defenders. The Eternals of Titan had cloned a new body for Heather on Titan, but Heather's soul had hidden itself within Pamela. Heather was now conscious enough to speak with Pamela, and directed her to enter her ship, Sensia II, which would bring her to Titan.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Solo Avengers #16 (1989)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Blonde\n", 
-            "height": 66, 
-            "id": "Sundragon", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Heather Douglas (Moondragon, cousin), Arthur Douglas (Drax, uncle), Yvette Steckley Douglas (aunt, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former magazine editor"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "After falling into a sun, and Pamela's powers were released, she assumed the name Sundragon, due to her now having the power of a sun.", 
-            "realname": "Pamela Douglas", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 103
-        }
-    }
+    "aliases": "Moondragon", 
+    "citizenship": "U.S.A.", 
+    "content": "Pam had now become convinced that her condition was a result of her being in the early stages of pregnancy, although when she saw the doctor for the second time, he was not able to confirm her suspicions, due to her test coming back negative.  This new information escalated her fears and to make matters worse one night she was attacked by a giant hand, which resulted in her jetting form her apartment into the streets outside, where she was mysteriously contacted telepathically  by the Avenger known as Moondragon, also known to the inhabitants of Earth as Heather Douglas. Moondragon was Pamela\u2019s cousin. Heather informed Pamela how she gained her powers and became the super-hero Moondragon. She continued to spin her story explaining to Pamela, how she had succumbed to the extraterrestrial Dragon of the Moon that corrupted her mind, and set on a course of destruction, resulting in her body being destroyed while battling the Defenders. The Eternals of Titan had cloned a new body for Heather on Titan, but Heather's soul had hidden itself within Pamela. Heather was now conscious enough to speak with Pamela, and directed her to enter her ship, Sensia II, which would bring her to Titan.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Solo Avengers #16 (1989)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Blonde\n", 
+    "height": 66, 
+    "id": "Sundragon", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Heather Douglas (Moondragon, cousin), Arthur Douglas (Drax, uncle), Yvette Steckley Douglas (aunt, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former magazine editor"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "After falling into a sun, and Pamela's powers were released, she assumed the name Sundragon, due to her now having the power of a sun.", 
+    "realname": "Pamela Douglas", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 103
 }

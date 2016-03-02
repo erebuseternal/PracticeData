@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "As Jubilee, Sunspot and Guido kept the Sh'ar forces at bay, Gambit went with Lila and Deathbird to steal the M'Krann Crystal. After Gambit successfully received a shard of the crystal, Lila transported the rest of the team back to Earth, sadly without Sunspot who sacrificed his life for the team. As they returned, Gambit split the team into two separate groups in order to escape from Rictor and try and give the crystal shard to Magneto. Jubilee went with Guido but unbeknownst to the team, Guido was actually a secret operative working for Apocalypse. After taking Magneto's son and the crystal shard, Jubilee tried to escape from Guido but was unfortunately captured by the traitor and forced to hand over the crystal shard and Magneto's son.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Gambit and the X-Ternals # 1 (1995)\n", 
-            "groupaffiliation": "X-Ternals", 
-            "hair": "Black\n", 
-            "height": 65, 
-            "id": "Jubilee_(Age_of_Apocalypse)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Adventurer", 
-            "placeofbirth": "U.S.A.", 
-            "powers": "Jubilee can generate multi-colored globules of plasma energy. She can vary the power and intensity of each blast, ranging from blinding flashes to a detonation of objects at a molecular level.", 
-            "realname": "Jubilation Lee", 
-            "significantissues": [
-                "Fought Madri (Gambit and the X-Ternals #1, 1995)", 
-                "fought the Imperial Guard (Gambit and the X-Ternals # 2, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 115
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "As Jubilee, Sunspot and Guido kept the Sh'ar forces at bay, Gambit went with Lila and Deathbird to steal the M'Krann Crystal. After Gambit successfully received a shard of the crystal, Lila transported the rest of the team back to Earth, sadly without Sunspot who sacrificed his life for the team. As they returned, Gambit split the team into two separate groups in order to escape from Rictor and try and give the crystal shard to Magneto. Jubilee went with Guido but unbeknownst to the team, Guido was actually a secret operative working for Apocalypse. After taking Magneto's son and the crystal shard, Jubilee tried to escape from Guido but was unfortunately captured by the traitor and forced to hand over the crystal shard and Magneto's son.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Gambit and the X-Ternals # 1 (1995)\n", 
+    "groupaffiliation": "X-Ternals", 
+    "hair": "Black\n", 
+    "height": 65, 
+    "id": "Jubilee_(Age_of_Apocalypse)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Adventurer", 
+    "placeofbirth": "U.S.A.", 
+    "powers": "Jubilee can generate multi-colored globules of plasma energy. She can vary the power and intensity of each blast, ranging from blinding flashes to a detonation of objects at a molecular level.", 
+    "realname": "Jubilation Lee", 
+    "significantissues": [
+        "Fought Madri (Gambit and the X-Ternals #1, 1995)", 
+        "fought the Imperial Guard (Gambit and the X-Ternals # 2, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 115
 }

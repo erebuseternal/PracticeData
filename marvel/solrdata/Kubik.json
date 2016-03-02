@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Cosmic Cube", 
-            "citizenship": "Inapplicable", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Pupil of the Shaper of Worlds and he possessed vast knowledge of space and time.", 
-            "energy": 1, 
-            "eyes": "White (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "(as Cosmic Cube)Tales of Suspense #79 (1966): (as Kubik) Avengers #289 (1988)\n", 
-            "groupaffiliation": "None", 
-            "hair": "None\n", 
-            "height": 0, 
-            "id": "Kubik", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Inapplicable", 
-            "occupation": [
-                "Explorer", 
-                "philosopher", 
-                "formerly an inanimate object of power"
-            ], 
-            "origin": "Captain American Annual #7 (1983)", 
-            "placeofbirth": "An unspecified laboratory of the subversive organization A.I.M.", 
-            "powers": "Infinite: Kubik could manipulate reality without any apparent limit. Reality remains restructured until Kubik consciously alters it: reality does not revert to an unaffected state after any time interval or in an event Kubik was to lose consciousness.", 
-            "realname": "Kubik", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Variable\n"
-        }
-    }
+    "aliases": "The Cosmic Cube", 
+    "citizenship": "Inapplicable", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Pupil of the Shaper of Worlds and he possessed vast knowledge of space and time.", 
+    "energy": 1, 
+    "eyes": "White (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "(as Cosmic Cube)Tales of Suspense #79 (1966): (as Kubik) Avengers #289 (1988)\n", 
+    "groupaffiliation": "None", 
+    "hair": "None\n", 
+    "height": 0, 
+    "id": "Kubik", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Inapplicable", 
+    "occupation": [
+        "Explorer", 
+        "philosopher", 
+        "formerly an inanimate object of power"
+    ], 
+    "origin": "Captain American Annual #7 (1983)", 
+    "placeofbirth": "An unspecified laboratory of the subversive organization A.I.M.", 
+    "powers": "Infinite: Kubik could manipulate reality without any apparent limit. Reality remains restructured until Kubik consciously alters it: reality does not revert to an unaffected state after any time interval or in an event Kubik was to lose consciousness.", 
+    "realname": "Kubik", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Variable\n"
 }

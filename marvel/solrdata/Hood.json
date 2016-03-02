@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "He went to his cousin\u2019s apartment shortly thereafter and learned he could also become invisible while wearing the cloak. He initially used this new ability to pursue more petty thefts, but King convinced him to steal a black-market diamond shipment, unaware it belonged to crimelord Dennis Golembuski, a.k.a. the Golem. Robbins easily stole the jewels despite Golembuski\u2019s agents \u2014 Constrictor, Shocker, and Jack O'Lantern  \u2014 but was surprised by two police officers and accidentally shot and fatally wounded one. Identified as the Hood, Robbins found himself wanted by both Golumbuski and the FBI. He also found his supernatural garments at times caused him to lose control over his new powers.", 
-            "durability": 1, 
-            "education": "High school dropout", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Hood #1 (2002)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 70, 
-            "id": "Hood", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Arthur Robbins (father, deceased), Eliza Robbins (mother), John King (cousin), unidentified child", 
-            "occupation": [
-                "Adventurer", 
-                "petty criminal"
-            ], 
-            "placeofbirth": [
-                "Brooklyn", 
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Parker Robbins", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 165
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "He went to his cousin\u2019s apartment shortly thereafter and learned he could also become invisible while wearing the cloak. He initially used this new ability to pursue more petty thefts, but King convinced him to steal a black-market diamond shipment, unaware it belonged to crimelord Dennis Golembuski, a.k.a. the Golem. Robbins easily stole the jewels despite Golembuski\u2019s agents \u2014 Constrictor, Shocker, and Jack O'Lantern  \u2014 but was surprised by two police officers and accidentally shot and fatally wounded one. Identified as the Hood, Robbins found himself wanted by both Golumbuski and the FBI. He also found his supernatural garments at times caused him to lose control over his new powers.", 
+    "durability": 1, 
+    "education": "High school dropout", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Hood #1 (2002)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 70, 
+    "id": "Hood", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Arthur Robbins (father, deceased), Eliza Robbins (mother), John King (cousin), unidentified child", 
+    "occupation": [
+        "Adventurer", 
+        "petty criminal"
+    ], 
+    "placeofbirth": [
+        "Brooklyn", 
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Parker Robbins", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 165
 }

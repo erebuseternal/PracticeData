@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Formerly Captain Universe", 
-            "citizenship": "Homeworld\u2019s First Zone", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Private tutoring and military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Micronauts #1 (1978)\n", 
-            "groupaffiliation": [
-                "The Microns (leader)", 
-                "formerly the Micronauts (leader)"
-            ], 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Rann,_Arcturus", 
-            "identity": "Publicly known in Microverse", 
-            "intelligence": 1, 
-            "knownrelatives": "Dallan and Sepsis Rann (parents, deceased), Wayfinder (ancestor, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "explorer"
-            ], 
-            "origin": "Micronauts #38 (1982)", 
-            "placeofbirth": [
-                "Homeworld", 
-                "the Microverse"
-            ], 
-            "powers": "Rann is a latent low-level telepath who has accessed phenomenal power via the Enigma Force", 
-            "realname": "Arcturus Rann", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 178
-        }
-    }
+    "aliases": "Formerly Captain Universe", 
+    "citizenship": "Homeworld\u2019s First Zone", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Private tutoring and military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Micronauts #1 (1978)\n", 
+    "groupaffiliation": [
+        "The Microns (leader)", 
+        "formerly the Micronauts (leader)"
+    ], 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Rann,_Arcturus", 
+    "identity": "Publicly known in Microverse", 
+    "intelligence": 1, 
+    "knownrelatives": "Dallan and Sepsis Rann (parents, deceased), Wayfinder (ancestor, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "explorer"
+    ], 
+    "origin": "Micronauts #38 (1982)", 
+    "placeofbirth": [
+        "Homeworld", 
+        "the Microverse"
+    ], 
+    "powers": "Rann is a latent low-level telepath who has accessed phenomenal power via the Enigma Force", 
+    "realname": "Arcturus Rann", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 178
 }

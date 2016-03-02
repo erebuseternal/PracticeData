@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White (no iris)\n", 
-            "fighting": 1, 
-            "firstappearance": "Captain Marvel #15 (2001)\n", 
-            "groupaffiliation": "None", 
-            "hair": "White\n", 
-            "id": "Fredd", 
-            "identity": "The general inhabitants of Earth are unaware of Fredd's existences.", 
-            "intelligence": 1, 
-            "knownrelatives": "Elysius (mother) and the original Captain Marvel (father) via a process of cloning", 
-            "occupation": "Would be world conqueror", 
-            "origin": [
-                "Fredd revealed his origin (Captain Marvel #16", 
-                "2001)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Fredd was an immensely powerful being, whose true powers were undefined. He possessed Nega Bands from an alternate dimension. Unlike the Captain Marvel of the 616 Universe, Fredd had mastered the Nega-Bands and he could control almost any kind of energy for both offensive and defensive purposes.", 
-            "realname": "Fredd", 
-            "significantissues": [
-                "Freed convinced the Psycho Man to assist him (Captain Marvel #15, 2001)", 
-                "Fredd destroyed Psycho Man's ship after being defeated by Captain Marvel (Captain Marvel #16, 2001)"
-            ], 
-            "speed": 1, 
-            "strength": 1
-        }
-    }
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White (no iris)\n", 
+    "fighting": 1, 
+    "firstappearance": "Captain Marvel #15 (2001)\n", 
+    "groupaffiliation": "None", 
+    "hair": "White\n", 
+    "id": "Fredd", 
+    "identity": "The general inhabitants of Earth are unaware of Fredd's existences.", 
+    "intelligence": 1, 
+    "knownrelatives": "Elysius (mother) and the original Captain Marvel (father) via a process of cloning", 
+    "occupation": "Would be world conqueror", 
+    "origin": [
+        "Fredd revealed his origin (Captain Marvel #16", 
+        "2001)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Fredd was an immensely powerful being, whose true powers were undefined. He possessed Nega Bands from an alternate dimension. Unlike the Captain Marvel of the 616 Universe, Fredd had mastered the Nega-Bands and he could control almost any kind of energy for both offensive and defensive purposes.", 
+    "realname": "Fredd", 
+    "significantissues": [
+        "Freed convinced the Psycho Man to assist him (Captain Marvel #15, 2001)", 
+        "Fredd destroyed Psycho Man's ship after being defeated by Captain Marvel (Captain Marvel #16, 2001)"
+    ], 
+    "speed": 1, 
+    "strength": 1
 }

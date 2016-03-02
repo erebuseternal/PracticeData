@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Menace", 
-                "Madam Menace", 
-                "Armorer of the Underworld", 
-                "Queen of the International Jet-Setters"
-            ], 
-            "citizenship": "U.S. Citizen", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Bachelors from Massachusetts Institute of Technology", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "hair": "Black (dyed brown)\n", 
-            "height": 66, 
-            "id": "Madame_Menace", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "occupation": [
-                "Industrialist", 
-                "inventor"
-            ], 
-            "powers": "None", 
-            "realname": "Sunset Bain", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Menace", 
+        "Madam Menace", 
+        "Armorer of the Underworld", 
+        "Queen of the International Jet-Setters"
+    ], 
+    "citizenship": "U.S. Citizen", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Bachelors from Massachusetts Institute of Technology", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "hair": "Black (dyed brown)\n", 
+    "height": 66, 
+    "id": "Madame_Menace", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "occupation": [
+        "Industrialist", 
+        "inventor"
+    ], 
+    "powers": "None", 
+    "realname": "Sunset Bain", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

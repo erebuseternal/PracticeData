@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Starlight", 
-                "formerly Red Guardian", 
-                "Zdezda Syvet (\"Starlight\" in Russian)"
-            ], 
-            "citizenship": "Russian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Doctorate in medicine and extensive training in neurological surgery.", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Defenders #35 (1976)\n", 
-            "groupaffiliation": [
-                "People's Protectorate", 
-                "formerly Partner of the Presence", 
-                "Defenders"
-            ], 
-            "hair": "Black\n", 
-            "height": 69, 
-            "id": "Starlight", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Dr. Andrei Belinsky (father)", 
-            "occupation": [
-                "Neurosurgeon", 
-                "Adventurer"
-            ], 
-            "placeofbirth": [
-                "St. Petersburg", 
-                "Russia"
-            ], 
-            "powers": "Store, release, and generate nuclear energy", 
-            "realname": "Tania Belinskaya", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": [
+        "Starlight", 
+        "formerly Red Guardian", 
+        "Zdezda Syvet (\"Starlight\" in Russian)"
+    ], 
+    "citizenship": "Russian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Doctorate in medicine and extensive training in neurological surgery.", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Defenders #35 (1976)\n", 
+    "groupaffiliation": [
+        "People's Protectorate", 
+        "formerly Partner of the Presence", 
+        "Defenders"
+    ], 
+    "hair": "Black\n", 
+    "height": 69, 
+    "id": "Starlight", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Dr. Andrei Belinsky (father)", 
+    "occupation": [
+        "Neurosurgeon", 
+        "Adventurer"
+    ], 
+    "placeofbirth": [
+        "St. Petersburg", 
+        "Russia"
+    ], 
+    "powers": "Store, release, and generate nuclear energy", 
+    "realname": "Tania Belinskaya", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

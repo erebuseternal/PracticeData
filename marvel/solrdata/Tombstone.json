@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A. with a criminal record", 
-            "content": "After they parted Robertson went to meet an informant for a story, only to see him killed by Lincoln. Once again he was threatened by Lincoln, and as before, kept silent.  After 20 years, and discovering that Tombstone was operating in New York, Robertson testified against Tombstone and had him incarcerated, but not before having his spine severely injured by the criminal. However, Robertson was also sent to prison for withholding evidence, and to make matters worse for him, he was put in the same cell as Lonnie. Tombstone later broke free from prison and took Robertson with him. In a later meeting Tombstone arranged an ambush for Robertson at the Osborn Chemical plant, but the trap was discovered by Spider-Man. During the incident Robertson shot Tombstone, sending him into a room with the experimental chemical Diox-3, which gave him superhuman abilities.", 
-            "durability": 6, 
-            "education": "High school dropout", 
-            "energy": 2, 
-            "eyes": "Pink\n", 
-            "fighting": 5, 
-            "firstappearance": "Web of Spider-Man #36 (1988)\n", 
-            "groupaffiliation": [
-                "Formerly Sinister Twelve", 
-                "former ally of Hammerhead"
-            ], 
-            "hair": "White\n", 
-            "height": 79, 
-            "id": "Tombstone", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Mob Enforcer", 
-            "origin": "Spectacular Spider-Man #139 (1988)", 
-            "placeofbirth": [
-                "Harlem", 
-                "New York"
-            ], 
-            "powers": "Tombstone has superhuman strength and enhanced durability. His skin has also turned hard as rock.", 
-            "realname": "Lonnie Thompson Lincoln", 
-            "speed": 3, 
-            "strength": 5, 
-            "universe": "Marvel Universe", 
-            "weight": 215
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A. with a criminal record", 
+    "content": "After they parted Robertson went to meet an informant for a story, only to see him killed by Lincoln. Once again he was threatened by Lincoln, and as before, kept silent.  After 20 years, and discovering that Tombstone was operating in New York, Robertson testified against Tombstone and had him incarcerated, but not before having his spine severely injured by the criminal. However, Robertson was also sent to prison for withholding evidence, and to make matters worse for him, he was put in the same cell as Lonnie. Tombstone later broke free from prison and took Robertson with him. In a later meeting Tombstone arranged an ambush for Robertson at the Osborn Chemical plant, but the trap was discovered by Spider-Man. During the incident Robertson shot Tombstone, sending him into a room with the experimental chemical Diox-3, which gave him superhuman abilities.", 
+    "durability": 6, 
+    "education": "High school dropout", 
+    "energy": 2, 
+    "eyes": "Pink\n", 
+    "fighting": 5, 
+    "firstappearance": "Web of Spider-Man #36 (1988)\n", 
+    "groupaffiliation": [
+        "Formerly Sinister Twelve", 
+        "former ally of Hammerhead"
+    ], 
+    "hair": "White\n", 
+    "height": 79, 
+    "id": "Tombstone", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Mob Enforcer", 
+    "origin": "Spectacular Spider-Man #139 (1988)", 
+    "placeofbirth": [
+        "Harlem", 
+        "New York"
+    ], 
+    "powers": "Tombstone has superhuman strength and enhanced durability. His skin has also turned hard as rock.", 
+    "realname": "Lonnie Thompson Lincoln", 
+    "speed": 3, 
+    "strength": 5, 
+    "universe": "Marvel Universe", 
+    "weight": 215
 }

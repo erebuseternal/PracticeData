@@ -1,59 +1,55 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "(Kuan-Yin) posed as Magneto before being killed", 
-                "(Shen) None"
-            ], 
-            "citizenship": "China", 
-            "content": "Cyclops later visited Kuan-Yin to seek help against the threat of Nano-Sentinels released by the malevolent Cassandra Nova. They were captured by the alien Shi'ar's Imperial Guard, which had fallen under Nova's control, but managed to escape to the Xavier Institute where Kuan-Yin healed the X-Men, allowing them to better oppose Nova. Kuan-Yin subsequently took up a teaching position at the Institute and came to instruct the Special Class, into which he unsuccessfully attempted to recruit the powerful young mutant Carter Ghazikhanian. At some point, Kuan-Yin was coerced by an unknown party into believing he was the X-Men's nemesis Magneto, and he launched a devastating attack on Manhattan which was opposed by the X-Men. Kuan-Yin killed Jean Grey and was subsequently slain by Wolverine.Later, the X-Men were called to China after Shen's powers had again flared out of control. Opposed by the Eight Immortals, the Chinese Army, and Chinese national hero the Collective Man, the X-Men prevailed. After taking Shen to the Institute, he sensed that the individual responsible for his brother's corruption had been hiding amongst the X-Men for some time, and was still in their midst. Shen subsequently joined the X-Men in opposing an attack by the Brotherhood of Mutants. To stop the killing, Shen saw no alternative but to release his black hole, pulling the villains into the void. He then left the X-Men to reflect on the immensity of his actions.", 
-            "durability": 4, 
-            "education": "Unrevealed", 
-            "energy": 7, 
-            "eyes": "(both) Inapplicable\n", 
-            "fighting": 5, 
-            "firstappearance": "(Kuan-Yin) New X-Men 2001 Annual (2001); (Shen) X-Men #157 (2004)\n", 
-            "groupaffiliation": [
-                "(Kuan-Yin) Formerly Brotherhood of Mutants", 
-                "Xavier Institute Faculty", 
-                "X-Men", 
-                "(Shen) Formerly X-Men"
-            ], 
-            "hair": "(both) Inapplicable\n", 
-            "height": 0, 
-            "id": "Xorn", 
-            "identity": "Secret", 
-            "intelligence": 6, 
-            "knownrelatives": "Unidentified parents, unidentified aunt & uncle", 
-            "occupation": [
-                "(Kuan-Yin) Former terrorist", 
-                "teacher", 
-                "adventurer", 
-                "(Shen) Former adventurer"
-            ], 
-            "origin": [
-                "(Kuan-Yin) New X-Men 2001 Annual (2001)", 
-                "(Shen) X-Men #157-159 (2004)"
-            ], 
-            "placeofbirth": [
-                "Xianjiang Uygur", 
-                "China"
-            ], 
-            "powers": "The Xorns' possess miniature stars in their brains, each having a primary state. Kuan-Yin's star manifested as a sun, while Shen's star manifests as a black hole. Kuan-Yin's sun was capable of emitting blinding light that could instantly incinerate another being. Shen's black hole emits an intense gravity field that not even light can escape. The Xorns are capable of reversing their stars' natural states. That is, Kuan-Yin could cause his star to collapse in on itself to form a black hole, while Shen is able to cause his star to flare into a sun.\nThe Xorns can also feel the movement of energy and emotion on many scales. They possess gravitational senses that allow them to manipulate energy for a variety of purposes, including warping of gravitational fields, sensing when a death has occurred in their vicinity, shaking gravitational particles in the air around them to allow them to speak other languages, and to heal others. Given the nature of their mutant abilities, the Xorns do not need to breathe, nor do they require food or water to survive.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Kuan-Yin rescued by X-Men, joined team (New X-Men Annual 2001)", 
-                "Kuan-Yin with X-Men, vs Imperial Guard (New X-Men #122-126, 2002)", 
-                "Kuan-Yin began teaching Special Class (New X-Men #135, 2003)", 
-                "Kuan-Yin sought to recruit Carter into Special Class (Uncanny X-Men #430, 2003)", 
-                "Kuan-Yin impersonated Magneto, attacked Manhattan, killed Jean, killed by Wolverine (New X-Men #146-150, 2003-2004)", 
-                "Shen found by X-Men, taken to Institute (X-Men #157-160, 2004)", 
-                "Shen briefly joined X-Men, vs Brotherhood, left X-Men (X-Men #162-164, 2004-2005)"
-            ], 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": [
+        "(Kuan-Yin) posed as Magneto before being killed", 
+        "(Shen) None"
+    ], 
+    "citizenship": "China", 
+    "content": "Cyclops later visited Kuan-Yin to seek help against the threat of Nano-Sentinels released by the malevolent Cassandra Nova. They were captured by the alien Shi'ar's Imperial Guard, which had fallen under Nova's control, but managed to escape to the Xavier Institute where Kuan-Yin healed the X-Men, allowing them to better oppose Nova. Kuan-Yin subsequently took up a teaching position at the Institute and came to instruct the Special Class, into which he unsuccessfully attempted to recruit the powerful young mutant Carter Ghazikhanian. At some point, Kuan-Yin was coerced by an unknown party into believing he was the X-Men's nemesis Magneto, and he launched a devastating attack on Manhattan which was opposed by the X-Men. Kuan-Yin killed Jean Grey and was subsequently slain by Wolverine.Later, the X-Men were called to China after Shen's powers had again flared out of control. Opposed by the Eight Immortals, the Chinese Army, and Chinese national hero the Collective Man, the X-Men prevailed. After taking Shen to the Institute, he sensed that the individual responsible for his brother's corruption had been hiding amongst the X-Men for some time, and was still in their midst. Shen subsequently joined the X-Men in opposing an attack by the Brotherhood of Mutants. To stop the killing, Shen saw no alternative but to release his black hole, pulling the villains into the void. He then left the X-Men to reflect on the immensity of his actions.", 
+    "durability": 4, 
+    "education": "Unrevealed", 
+    "energy": 7, 
+    "eyes": "(both) Inapplicable\n", 
+    "fighting": 5, 
+    "firstappearance": "(Kuan-Yin) New X-Men 2001 Annual (2001); (Shen) X-Men #157 (2004)\n", 
+    "groupaffiliation": [
+        "(Kuan-Yin) Formerly Brotherhood of Mutants", 
+        "Xavier Institute Faculty", 
+        "X-Men", 
+        "(Shen) Formerly X-Men"
+    ], 
+    "hair": "(both) Inapplicable\n", 
+    "height": 0, 
+    "id": "Xorn", 
+    "identity": "Secret", 
+    "intelligence": 6, 
+    "knownrelatives": "Unidentified parents, unidentified aunt & uncle", 
+    "occupation": [
+        "(Kuan-Yin) Former terrorist", 
+        "teacher", 
+        "adventurer", 
+        "(Shen) Former adventurer"
+    ], 
+    "origin": [
+        "(Kuan-Yin) New X-Men 2001 Annual (2001)", 
+        "(Shen) X-Men #157-159 (2004)"
+    ], 
+    "placeofbirth": [
+        "Xianjiang Uygur", 
+        "China"
+    ], 
+    "powers": "The Xorns' possess miniature stars in their brains, each having a primary state. Kuan-Yin's star manifested as a sun, while Shen's star manifests as a black hole. Kuan-Yin's sun was capable of emitting blinding light that could instantly incinerate another being. Shen's black hole emits an intense gravity field that not even light can escape. The Xorns are capable of reversing their stars' natural states. That is, Kuan-Yin could cause his star to collapse in on itself to form a black hole, while Shen is able to cause his star to flare into a sun.\nThe Xorns can also feel the movement of energy and emotion on many scales. They possess gravitational senses that allow them to manipulate energy for a variety of purposes, including warping of gravitational fields, sensing when a death has occurred in their vicinity, shaking gravitational particles in the air around them to allow them to speak other languages, and to heal others. Given the nature of their mutant abilities, the Xorns do not need to breathe, nor do they require food or water to survive.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Kuan-Yin rescued by X-Men, joined team (New X-Men Annual 2001)", 
+        "Kuan-Yin with X-Men, vs Imperial Guard (New X-Men #122-126, 2002)", 
+        "Kuan-Yin began teaching Special Class (New X-Men #135, 2003)", 
+        "Kuan-Yin sought to recruit Carter into Special Class (Uncanny X-Men #430, 2003)", 
+        "Kuan-Yin impersonated Magneto, attacked Manhattan, killed Jean, killed by Wolverine (New X-Men #146-150, 2003-2004)", 
+        "Shen found by X-Men, taken to Institute (X-Men #157-160, 2004)", 
+        "Shen briefly joined X-Men, vs Brotherhood, left X-Men (X-Men #162-164, 2004-2005)"
+    ], 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

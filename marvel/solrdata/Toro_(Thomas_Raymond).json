@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Human Torch", 
-            "citizenship": "United States of America", 
-            "content": "One day costumed criminal named Asbestos Lady and her gang invaded Raymond\u2019s home. The Asbestos Lady utilized fire in her crimes, protecting herself with asbestos and intended to force Raymond to develop new means by which she could use asbestos in crime. Human Torch (Jim Hammond) had been watching the Raymond\u2019s home, suspecting that the Asbestos Lady would contact such a noted authority on asbestos, broke in and captured the gang. The Asbestos Lady, however, escaped. The Torch learned about Thomas\u2019 immunity to fire from him parents, and decided to keep watch over the Raymond\u2019s, both to protect them from the Asbestos Lady and to monitor Thomas\u2019 development. Soon afterwards, Fred Raymond learned that his wife had only few more weeks to live. He kept the news from her and instead hurriedly arranged a vacation trip for the family, which would be Nora\u2019s last. They embarked on the trip by train, but the Asbestos Lady, obsessed with making up for her failure to capture Raymond, had a huge tree trunk placed on the tracks. The train hit the trunk and was derailed and wrecked. Fred and Nora Raymond died when the train burst into flames, but Thomas escaped. A married team of circus fire-eaters, Tom and Ellie Alexander, were driving by and saw Thomas rushing into the flames unharmed to try to find his parents. Moved by both sympathy for the orphan\u2019s plight and by the realization that he would prove a boon to their act, the Alexander\u2019s decided to take him under their wing.But week\u2019s later news reports began to spread about the amazing boy fire-eater and his immunity to flame. Human Torch and the Asbestos Lady simultaneously realized who Toro was and each set to find him. The Human Torch capture the Asbestos Lady and her gang and then headed for the circus where Toro was performing. As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed. The Torch realized that Toro had the same powers that he himself did. The Torch became Toro\u2019s legal guardian and trained Toro in the use of his powers. They later became a crime fighting team.When the United States entered World War II, Torch and Toro became founding members of the Invaders. Toro remained with the Invaders for the length of the war, expect when he was serving with the Kid Commandos. Toro was present when the Human Torch killed Adolph Hitler. After the war Toro and the Torch continued with the Invaders under its new name, the All-Winners Squad.In 1949 criminals paralyzed the Torch and Toro with a spray of \u201csolution X-R\u201d which they had obtained from the Soviet Union. The criminals left Toro behind, believing him to be no real threat without his mentor and buried the Torch in the Nevada desert. Toro retired from crime fighting upon recovering. In December 1953, an atomic bomb test released the Torch, who resumed his partnership with Toro for two more years. But the Torch discovered that the radiation he had absorbed from the bomb blast was causing him to malfunction. He bid farewell to Toro and flew to the desert, where the drained his power supply by going nova. Toro eventually realized that the Torch had \u201cdied\u201d and so Toro retired from crime fighting once again. He got married and led a normal life in relative obscurity.", 
-            "durability": 1, 
-            "education": "N/A", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "groupaffiliation": [
-                "Invaders", 
-                "Kid Commandos", 
-                "All-Winners Squad"
-            ], 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Toro_(Thomas_Raymond)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Fred (father, deceased), Nora (mother, deceased), Ann (wife)", 
-            "occupation": [
-                "Circus \u201cfire-eater\u201d", 
-                "adventurer"
-            ], 
-            "origin": "Invaders #22", 
-            "powers": "Toro is a mutant who possesses the mental ability to control ambient heat energy and the physical ability to envelop his entire body or portions of his body with fiery plasma without harming himself. His flame's normal temperature is approximately 780 F, but he could raise it to 2500 F. He is able to form flame to objects, but if he doesn\u2019t concentrate on the object it will only last about three minutes. Toro could also fly, absorb flames and he was invulnerable to any flame even when he was in his human form.", 
-            "realname": "Thomas \u201cToro\u201d Raymond", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 115
-        }
-    }
+    "aliases": "Human Torch", 
+    "citizenship": "United States of America", 
+    "content": "One day costumed criminal named Asbestos Lady and her gang invaded Raymond\u2019s home. The Asbestos Lady utilized fire in her crimes, protecting herself with asbestos and intended to force Raymond to develop new means by which she could use asbestos in crime. Human Torch (Jim Hammond) had been watching the Raymond\u2019s home, suspecting that the Asbestos Lady would contact such a noted authority on asbestos, broke in and captured the gang. The Asbestos Lady, however, escaped. The Torch learned about Thomas\u2019 immunity to fire from him parents, and decided to keep watch over the Raymond\u2019s, both to protect them from the Asbestos Lady and to monitor Thomas\u2019 development. Soon afterwards, Fred Raymond learned that his wife had only few more weeks to live. He kept the news from her and instead hurriedly arranged a vacation trip for the family, which would be Nora\u2019s last. They embarked on the trip by train, but the Asbestos Lady, obsessed with making up for her failure to capture Raymond, had a huge tree trunk placed on the tracks. The train hit the trunk and was derailed and wrecked. Fred and Nora Raymond died when the train burst into flames, but Thomas escaped. A married team of circus fire-eaters, Tom and Ellie Alexander, were driving by and saw Thomas rushing into the flames unharmed to try to find his parents. Moved by both sympathy for the orphan\u2019s plight and by the realization that he would prove a boon to their act, the Alexander\u2019s decided to take him under their wing.But week\u2019s later news reports began to spread about the amazing boy fire-eater and his immunity to flame. Human Torch and the Asbestos Lady simultaneously realized who Toro was and each set to find him. The Human Torch capture the Asbestos Lady and her gang and then headed for the circus where Toro was performing. As the Torch approached Toro, his presence caused Toro to burst into flame like the Torch himself, but while remaining unharmed. The Torch realized that Toro had the same powers that he himself did. The Torch became Toro\u2019s legal guardian and trained Toro in the use of his powers. They later became a crime fighting team.When the United States entered World War II, Torch and Toro became founding members of the Invaders. Toro remained with the Invaders for the length of the war, expect when he was serving with the Kid Commandos. Toro was present when the Human Torch killed Adolph Hitler. After the war Toro and the Torch continued with the Invaders under its new name, the All-Winners Squad.In 1949 criminals paralyzed the Torch and Toro with a spray of \u201csolution X-R\u201d which they had obtained from the Soviet Union. The criminals left Toro behind, believing him to be no real threat without his mentor and buried the Torch in the Nevada desert. Toro retired from crime fighting upon recovering. In December 1953, an atomic bomb test released the Torch, who resumed his partnership with Toro for two more years. But the Torch discovered that the radiation he had absorbed from the bomb blast was causing him to malfunction. He bid farewell to Toro and flew to the desert, where the drained his power supply by going nova. Toro eventually realized that the Torch had \u201cdied\u201d and so Toro retired from crime fighting once again. He got married and led a normal life in relative obscurity.", 
+    "durability": 1, 
+    "education": "N/A", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "groupaffiliation": [
+        "Invaders", 
+        "Kid Commandos", 
+        "All-Winners Squad"
+    ], 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Toro_(Thomas_Raymond)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Fred (father, deceased), Nora (mother, deceased), Ann (wife)", 
+    "occupation": [
+        "Circus \u201cfire-eater\u201d", 
+        "adventurer"
+    ], 
+    "origin": "Invaders #22", 
+    "powers": "Toro is a mutant who possesses the mental ability to control ambient heat energy and the physical ability to envelop his entire body or portions of his body with fiery plasma without harming himself. His flame's normal temperature is approximately 780 F, but he could raise it to 2500 F. He is able to form flame to objects, but if he doesn\u2019t concentrate on the object it will only last about three minutes. Toro could also fly, absorb flames and he was invulnerable to any flame even when he was in his human form.", 
+    "realname": "Thomas \u201cToro\u201d Raymond", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 115
 }

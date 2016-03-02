@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A. (presumed)", 
-            "content": "Lykos survived and journeyed to the Savage Land where he once again fought the X-Men as Sauron. For a time, as Lykos, he proved an ally to both the X-Men and Ka-Zar. Ultimately reverting to his Sauron form, he usurped the leadership of the Savage Land Mutates and opposed Ka-Zar, Spider-Man, and the X-Men. Defeated, he reverted to human form again and was reunited with Tanya. Later, he and Tanya were captured by the Toad who was seeking recruits for a new Brotherhood of Evil Mutants. Forced to absorb Tanya\u2019s energy (possibly fatally), Lykos was transformed into Sauron again and joined the Brotherhood in opposing first X-Force and then X-Factor. After the Brotherhood disbanded, Sauron returned to the Savage Land and, with the Mutates, opposed various members of the X-Men. Capturing Cyclops and Havok, Sauron drained their energies which caused him to mutate further. Jean Grey engaged Sauron telepathically, allowing Lykos\u2019 personality to force his alter ego\u2019s psyche in making a suicide leap into the abyss of his own mind, thus reducing Sauron\u2019s physical form to a pure, animal-like state.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 4, 
-            "eyes": "(As Lykos) Brown; (as Sauron) Red\n", 
-            "fighting": 2, 
-            "firstappearance": "(As Lykos) X-Men #59 (1963), (as Sauron) X-Men #60 (1963)\n", 
-            "groupaffiliation": [
-                "Savage Land Mutates", 
-                "formerly Weapon X", 
-                "Brotherhood Of Evil Mutants"
-            ], 
-            "hair": "(As Lykos) Brown; (as Sauron) None\n", 
-            "height": 0, 
-            "id": "Sauron", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Unidentified father (deceased)", 
-            "occupation": [
-                "Terrorist", 
-                "former psychiatrist"
-            ], 
-            "origin": "X-Men #60 (1963)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Sauron has a toothed beak, 12-foot wingspan, and razor-sharp claws. In this form, he possesses superhuman strength and a hypnotizing stare. Genetic enhancement by the Weapon X Program granted Sauron the ability to expel the energy he absorbs as blasts of concussive energy from his hands. Recently, Sauron\u2019s powers mutated further, allowing him to absorb and utilize mutant powers as well as breathe fire.", 
-            "realname": "Karl Lykos", 
-            "significantissues": [
-                "With Mutates, vs X-Men & allies (Marvel Fanfare #1-4, 1982)", 
-                "recruited into Brotherhood (X-Force #5, 1991)", 
-                "recruited into Weapon X (Deadpool #57, 2001)", 
-                "broken out of Raft (New Avengers #1, 2004)", 
-                "with Mutates, vs Avengers (New Avengers #5-6, 2005)", 
-                "with Mutates, vs New Mutants (New Mutants vol.3 #10, 2010)"
-            ], 
-            "speed": 4, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 170
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A. (presumed)", 
+    "content": "Lykos survived and journeyed to the Savage Land where he once again fought the X-Men as Sauron. For a time, as Lykos, he proved an ally to both the X-Men and Ka-Zar. Ultimately reverting to his Sauron form, he usurped the leadership of the Savage Land Mutates and opposed Ka-Zar, Spider-Man, and the X-Men. Defeated, he reverted to human form again and was reunited with Tanya. Later, he and Tanya were captured by the Toad who was seeking recruits for a new Brotherhood of Evil Mutants. Forced to absorb Tanya\u2019s energy (possibly fatally), Lykos was transformed into Sauron again and joined the Brotherhood in opposing first X-Force and then X-Factor. After the Brotherhood disbanded, Sauron returned to the Savage Land and, with the Mutates, opposed various members of the X-Men. Capturing Cyclops and Havok, Sauron drained their energies which caused him to mutate further. Jean Grey engaged Sauron telepathically, allowing Lykos\u2019 personality to force his alter ego\u2019s psyche in making a suicide leap into the abyss of his own mind, thus reducing Sauron\u2019s physical form to a pure, animal-like state.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 4, 
+    "eyes": "(As Lykos) Brown; (as Sauron) Red\n", 
+    "fighting": 2, 
+    "firstappearance": "(As Lykos) X-Men #59 (1963), (as Sauron) X-Men #60 (1963)\n", 
+    "groupaffiliation": [
+        "Savage Land Mutates", 
+        "formerly Weapon X", 
+        "Brotherhood Of Evil Mutants"
+    ], 
+    "hair": "(As Lykos) Brown; (as Sauron) None\n", 
+    "height": 0, 
+    "id": "Sauron", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Unidentified father (deceased)", 
+    "occupation": [
+        "Terrorist", 
+        "former psychiatrist"
+    ], 
+    "origin": "X-Men #60 (1963)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Sauron has a toothed beak, 12-foot wingspan, and razor-sharp claws. In this form, he possesses superhuman strength and a hypnotizing stare. Genetic enhancement by the Weapon X Program granted Sauron the ability to expel the energy he absorbs as blasts of concussive energy from his hands. Recently, Sauron\u2019s powers mutated further, allowing him to absorb and utilize mutant powers as well as breathe fire.", 
+    "realname": "Karl Lykos", 
+    "significantissues": [
+        "With Mutates, vs X-Men & allies (Marvel Fanfare #1-4, 1982)", 
+        "recruited into Brotherhood (X-Force #5, 1991)", 
+        "recruited into Weapon X (Deadpool #57, 2001)", 
+        "broken out of Raft (New Avengers #1, 2004)", 
+        "with Mutates, vs Avengers (New Avengers #5-6, 2005)", 
+        "with Mutates, vs New Mutants (New Mutants vol.3 #10, 2010)"
+    ], 
+    "speed": 4, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 170
 }

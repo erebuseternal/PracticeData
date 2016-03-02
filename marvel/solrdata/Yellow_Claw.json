@@ -1,55 +1,51 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Golden Claw", 
-                "Master Plan", 
-                "the Claw", 
-                "Tzing Jao", 
-                "Bhagwan Sri Ananda", 
-                "The One", 
-                "others"
-            ], 
-            "citizenship": "China", 
-            "content": "However, as Plan Tzu aged, he grew less concerned over the Atlas Foundation's  traditional pursuits of world domination and hoped that his successor would instead use its covert power and influence for humanity's greater good. His selected successor, Woo Yen Jet, was taken to America, however, as his parents wanted no part of Khan's legacy. He was named Jimmy Woo and grew to become one of the nation's top FBI agents. Secretly monitoring Woo, the Atlas Foundation decided to help him advance his career and hone his skills by creating a super-menace for Woo to defeat: thus the Yellow Claw.Some of these schemes included employing Nazi war criminal Fritz Von Voltzman as an assistant. He unleashed mutant psychics who could alter reality, hypnotists, microscopic armies, a giant robot of the god Temujai, killer mutated sea gulls called Screemies, and other menaces, but at every turn resourceful Jimmy Woo and his allies would thwart the plans of \"the Yellow Claw.\" The Claw's grandniece, Suwan, fell in love with Jimmy, often defying her granduncle and helping Jimmy gain the upper hand. In recent years, the Yellow Claw continued his deception, clashing with S.H.I.E.L.D. Director Nick Fury, drawing in Jimmy Woo, now a S.H.I.E.L.D. agent himself, as well as Captain America and other heroes. During this latter adventure, he professed his long life was ending, and he attempted to prepare Suwan to be his successor by planting the spirit of Fan-le-tamen, a ruthless Egyptian princess, into her body. However, the possessed Suwan turned on the Claw, who forced Fan-le-tamen's spirit from Suwan, restoring the Claw's failing health but slaying her in the process. (The full motivations behind this plan remain unrevealed in light of the Claw's recent confession to be Plan Tzu working on Woo's behalf.) Other times, the Yellow Claw clashed with the Mandarin, another Asian warlord, once fighting him as part of the super-villain contest of the extradimensional Black Lama. Later still, the Claw once became the leader of a faction of Hydra with the support of Madame Hydra, whom he then claimed to be his new heir.In more recent years, an aging Jimmy Woo, confined to an obscure desk job at S.H.I.E.L.D., recently renewed his investigations of the Atlas Foundation alongside a team of rogue S.H.I.E.L.D. agents, but his team was killed and Woo himself nearly slain while invading the Temple of Atlas. Kept alive by Plan Tzu and his men until help arrived, Woo was taken into S.H.I.E.L.D. custody and maintained on life support. The Atlas Foundation had recovered Woo's former ally, the robot M-11, and allowed it to recruit others of Woo's allies to liberate him and rejuvenate him using Marvel Boy's alien science. Woo went on to recruit more heroes, and together they subsequently exposed and shut down many subversive Atlas operations operating under various legitimate business fronts, finally invading the Temple of Atlas itself.", 
-            "durability": 1, 
-            "education": "Extensive knowledge in various sciences and black magic", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Yellow Claw #1 (1956)\n", 
-            "groupaffiliation": [
-                "Atlas Foundation", 
-                "(formerly) Hydra", 
-                "the Sept"
-            ], 
-            "hair": "Bald, black mustache\n", 
-            "height": 74, 
-            "id": "Yellow_Claw", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Suwan (grandniece, deceased); Genghis Khan (ancestor, deceased)", 
-            "occupation": [
-                "Khan of the Eternal Empire", 
-                "CEO of the Atlas Foundation", 
-                "(formerly) would-be conqueror"
-            ], 
-            "origin": "Agents of Atlas #6 (2007)", 
-            "placeofbirth": "Somewhere in mainland China", 
-            "powers": "Project illusions directly into the minds of others, mystically raise the dead, and other sorcerours feats. He had aged little, if at all, over the past several decades.", 
-            "realname": "Plan Tzu", 
-            "significantissues": [
-                "Formed alliance with Communists, fought Jimmy Woo (Yellow Claw #1-4, 1956-7)", 
-                "controlled Sub-Mariner, fought First Line (Marvel: The Lost Generation #3, 2000)", 
-                "slew Suwan (Captain America #167, 1973)", 
-                "fought and killed the Mandarin (Iron Man #69-71, 1974)", 
-                "led his own Hydra faction (Nick Fury Agent of S.H.I.E.L.D. #12-14, 1990)", 
-                "revealed the truth of past deeds as a front for the Atlas Foundation, stepped down as leader of Atlas to be consumed by Mr. Lao (Agents of Atlas #1-6, 2006-7)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": [
+        "Golden Claw", 
+        "Master Plan", 
+        "the Claw", 
+        "Tzing Jao", 
+        "Bhagwan Sri Ananda", 
+        "The One", 
+        "others"
+    ], 
+    "citizenship": "China", 
+    "content": "However, as Plan Tzu aged, he grew less concerned over the Atlas Foundation's  traditional pursuits of world domination and hoped that his successor would instead use its covert power and influence for humanity's greater good. His selected successor, Woo Yen Jet, was taken to America, however, as his parents wanted no part of Khan's legacy. He was named Jimmy Woo and grew to become one of the nation's top FBI agents. Secretly monitoring Woo, the Atlas Foundation decided to help him advance his career and hone his skills by creating a super-menace for Woo to defeat: thus the Yellow Claw.Some of these schemes included employing Nazi war criminal Fritz Von Voltzman as an assistant. He unleashed mutant psychics who could alter reality, hypnotists, microscopic armies, a giant robot of the god Temujai, killer mutated sea gulls called Screemies, and other menaces, but at every turn resourceful Jimmy Woo and his allies would thwart the plans of \"the Yellow Claw.\" The Claw's grandniece, Suwan, fell in love with Jimmy, often defying her granduncle and helping Jimmy gain the upper hand. In recent years, the Yellow Claw continued his deception, clashing with S.H.I.E.L.D. Director Nick Fury, drawing in Jimmy Woo, now a S.H.I.E.L.D. agent himself, as well as Captain America and other heroes. During this latter adventure, he professed his long life was ending, and he attempted to prepare Suwan to be his successor by planting the spirit of Fan-le-tamen, a ruthless Egyptian princess, into her body. However, the possessed Suwan turned on the Claw, who forced Fan-le-tamen's spirit from Suwan, restoring the Claw's failing health but slaying her in the process. (The full motivations behind this plan remain unrevealed in light of the Claw's recent confession to be Plan Tzu working on Woo's behalf.) Other times, the Yellow Claw clashed with the Mandarin, another Asian warlord, once fighting him as part of the super-villain contest of the extradimensional Black Lama. Later still, the Claw once became the leader of a faction of Hydra with the support of Madame Hydra, whom he then claimed to be his new heir.In more recent years, an aging Jimmy Woo, confined to an obscure desk job at S.H.I.E.L.D., recently renewed his investigations of the Atlas Foundation alongside a team of rogue S.H.I.E.L.D. agents, but his team was killed and Woo himself nearly slain while invading the Temple of Atlas. Kept alive by Plan Tzu and his men until help arrived, Woo was taken into S.H.I.E.L.D. custody and maintained on life support. The Atlas Foundation had recovered Woo's former ally, the robot M-11, and allowed it to recruit others of Woo's allies to liberate him and rejuvenate him using Marvel Boy's alien science. Woo went on to recruit more heroes, and together they subsequently exposed and shut down many subversive Atlas operations operating under various legitimate business fronts, finally invading the Temple of Atlas itself.", 
+    "durability": 1, 
+    "education": "Extensive knowledge in various sciences and black magic", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Yellow Claw #1 (1956)\n", 
+    "groupaffiliation": [
+        "Atlas Foundation", 
+        "(formerly) Hydra", 
+        "the Sept"
+    ], 
+    "hair": "Bald, black mustache\n", 
+    "height": 74, 
+    "id": "Yellow_Claw", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Suwan (grandniece, deceased); Genghis Khan (ancestor, deceased)", 
+    "occupation": [
+        "Khan of the Eternal Empire", 
+        "CEO of the Atlas Foundation", 
+        "(formerly) would-be conqueror"
+    ], 
+    "origin": "Agents of Atlas #6 (2007)", 
+    "placeofbirth": "Somewhere in mainland China", 
+    "powers": "Project illusions directly into the minds of others, mystically raise the dead, and other sorcerours feats. He had aged little, if at all, over the past several decades.", 
+    "realname": "Plan Tzu", 
+    "significantissues": [
+        "Formed alliance with Communists, fought Jimmy Woo (Yellow Claw #1-4, 1956-7)", 
+        "controlled Sub-Mariner, fought First Line (Marvel: The Lost Generation #3, 2000)", 
+        "slew Suwan (Captain America #167, 1973)", 
+        "fought and killed the Mandarin (Iron Man #69-71, 1974)", 
+        "led his own Hydra faction (Nick Fury Agent of S.H.I.E.L.D. #12-14, 1990)", 
+        "revealed the truth of past deeds as a front for the Atlas Foundation, stepped down as leader of Atlas to be consumed by Mr. Lao (Agents of Atlas #1-6, 2006-7)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

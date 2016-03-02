@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Darkhold Dwarf", 
-            "citizenship": [
-                "Unknown", 
-                "possible Demon"
-            ], 
-            "content": "Page users and spells via the Dwarf included: Donald Walsh gained immortality but only by being transformed into \"Chameleon Worms,\" Morton Thurnton summoned the Hellhound, which ultimately devoured him to recover a Darkhold page he had eaten to hide it; Aurora Poule attained beauty but then was raped; Aurora subsequently used a revenge spell that led Chthon's N'Garai demon spawn to slaughter her hometown of Perfection; Reverend Styge obtained resurrection powers before being slain by the Punisher (Frank Castle); the aged and paralyzed Clair Van Ripper summoned a demon to commit murders she could no longer do herself; imprisoned serial killer Norman Zachos sought to escape his paranoid visions only to be tormented by real demons; Reginald Hayward's memory spell unwittingly caused demons to mirror the 1941 Pearl Harbor attack; Sarrah Roberts' wish spell summoned the \"Wish-demon\" who fulfilled wishes in the most violent way possible; Louis Hastings used the wish spell page to summon the Other but only to tell it she refused to fall for the trick of using it to revive her deceased daughter, Caprice; Jinx used the wish spell to save Victoria; vampire hunter Blade used the Demogorge page, becoming Switchblade and attempting to eradicate all occult beings, including his allies; Louise Hastings sacrificed her own soul to reverse the Demogorge spell, restoring Blade and his victims; Frank West's spell enabled him to see the Troids, which emerged from the skin of the victims he beat, but eventually he went mad imagining a Troid queen trapped him; Johnny Farmer became the Harvestor, able to graft other people's parts to his own body; Modred sought to restore his own soul but surrendered it again after learning  his beloved Janice had lost her soul in exchange: Morbius stole Styge's Resurrection page  form the Redeemers to revive his deceased lover, Martine, though she was possessed by the demonic Lilin Parasite; Victoria's \"spell of healing\" saved her lover, Nash, but the demon Monstrosity retraced Victoria's steps, slaying all it encountered until she renounced the spell; and Spider-Man fan Brian Kornfeld was transformed into the monstrous Spider-X. the Dwarf presented Sam Buchanan with a page that would make Victoria love him, but he refused to use it. around this time the Darklove page was used in Manhattan, briefly unleashing Darklove.", 
-            "durability": 1, 
-            "education": "Unrevealed, although it is known that Dwarf has a vast understanding of the pages from the \"Book of Sins.\"", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Darkhold: Pages from the Book of Sins #3\n", 
-            "groupaffiliation": [
-                "Angent of Chthon", 
-                "user of the Darkhold"
-            ], 
-            "hair": "Black\n", 
-            "height": 48, 
-            "id": "Dwarf", 
-            "identity": "The general populace of Earth is unaware of the Dwarf existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Messenger of the Darkhold", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Dawrf possesses the power to teleport himself and others, the limits to the distance he could travel in unknown. He has some knowledge of black magic and appears to be capable of manipulating the minds of others to utilize the pages of the Darkhold.", 
-            "realname": "Unrevealed", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 130
-        }
-    }
+    "aliases": "The Darkhold Dwarf", 
+    "citizenship": [
+        "Unknown", 
+        "possible Demon"
+    ], 
+    "content": "Page users and spells via the Dwarf included: Donald Walsh gained immortality but only by being transformed into \"Chameleon Worms,\" Morton Thurnton summoned the Hellhound, which ultimately devoured him to recover a Darkhold page he had eaten to hide it; Aurora Poule attained beauty but then was raped; Aurora subsequently used a revenge spell that led Chthon's N'Garai demon spawn to slaughter her hometown of Perfection; Reverend Styge obtained resurrection powers before being slain by the Punisher (Frank Castle); the aged and paralyzed Clair Van Ripper summoned a demon to commit murders she could no longer do herself; imprisoned serial killer Norman Zachos sought to escape his paranoid visions only to be tormented by real demons; Reginald Hayward's memory spell unwittingly caused demons to mirror the 1941 Pearl Harbor attack; Sarrah Roberts' wish spell summoned the \"Wish-demon\" who fulfilled wishes in the most violent way possible; Louis Hastings used the wish spell page to summon the Other but only to tell it she refused to fall for the trick of using it to revive her deceased daughter, Caprice; Jinx used the wish spell to save Victoria; vampire hunter Blade used the Demogorge page, becoming Switchblade and attempting to eradicate all occult beings, including his allies; Louise Hastings sacrificed her own soul to reverse the Demogorge spell, restoring Blade and his victims; Frank West's spell enabled him to see the Troids, which emerged from the skin of the victims he beat, but eventually he went mad imagining a Troid queen trapped him; Johnny Farmer became the Harvestor, able to graft other people's parts to his own body; Modred sought to restore his own soul but surrendered it again after learning  his beloved Janice had lost her soul in exchange: Morbius stole Styge's Resurrection page  form the Redeemers to revive his deceased lover, Martine, though she was possessed by the demonic Lilin Parasite; Victoria's \"spell of healing\" saved her lover, Nash, but the demon Monstrosity retraced Victoria's steps, slaying all it encountered until she renounced the spell; and Spider-Man fan Brian Kornfeld was transformed into the monstrous Spider-X. the Dwarf presented Sam Buchanan with a page that would make Victoria love him, but he refused to use it. around this time the Darklove page was used in Manhattan, briefly unleashing Darklove.", 
+    "durability": 1, 
+    "education": "Unrevealed, although it is known that Dwarf has a vast understanding of the pages from the \"Book of Sins.\"", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Darkhold: Pages from the Book of Sins #3\n", 
+    "groupaffiliation": [
+        "Angent of Chthon", 
+        "user of the Darkhold"
+    ], 
+    "hair": "Black\n", 
+    "height": 48, 
+    "id": "Dwarf", 
+    "identity": "The general populace of Earth is unaware of the Dwarf existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Messenger of the Darkhold", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Dawrf possesses the power to teleport himself and others, the limits to the distance he could travel in unknown. He has some knowledge of black magic and appears to be capable of manipulating the minds of others to utilize the pages of the Darkhold.", 
+    "realname": "Unrevealed", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 130
 }

@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Calibre #1 (1995)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Bald\n", 
-            "height": 82, 
-            "id": "Marko,_Cain_(Age_of_Apocalypse)", 
-            "identity": [
-                "Secret", 
-                "known to citizens of Avalon"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Charles Xavier (brother, deceased)", 
-            "occupation": [
-                "Monk", 
-                "guide"
-            ], 
-            "placeofbirth": [
-                "Berkley", 
-                "California"
-            ], 
-            "powers": "Cain Marko has enhanced physical strength and durability to the point in which a hand-launched rocket attack could not harm him. It is unclear how Cain was granted these abilities.", 
-            "realname": "Cain Marko", 
-            "significantissues": [
-                "Leads Switchback to Avalon (X-Calibre #1, 1995)", 
-                "suffers an aneurism and dies (X-Calibre #3, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 900
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Calibre #1 (1995)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Bald\n", 
+    "height": 82, 
+    "id": "Marko,_Cain_(Age_of_Apocalypse)", 
+    "identity": [
+        "Secret", 
+        "known to citizens of Avalon"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Charles Xavier (brother, deceased)", 
+    "occupation": [
+        "Monk", 
+        "guide"
+    ], 
+    "placeofbirth": [
+        "Berkley", 
+        "California"
+    ], 
+    "powers": "Cain Marko has enhanced physical strength and durability to the point in which a hand-launched rocket attack could not harm him. It is unclear how Cain was granted these abilities.", 
+    "realname": "Cain Marko", 
+    "significantissues": [
+        "Leads Switchback to Avalon (X-Calibre #1, 1995)", 
+        "suffers an aneurism and dies (X-Calibre #3, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 900
 }

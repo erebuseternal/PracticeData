@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lu", 
-                "Luu", 
-                "Luey", 
-                "Pope Lunatik"
-            ], 
-            "citizenship": "Panto-9", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Self-educated", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Comics Presents #172 (1995)\n", 
-            "groupaffiliation": [
-                "None", 
-                "although he was an ally of Skreet"
-            ], 
-            "hair": "Orange\n", 
-            "height": 74, 
-            "id": "Lunatik_(unrevealed)", 
-            "identity": [
-                "Secret", 
-                "Lunatik's existence was not known to the general populace of Earth."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Pope of the Interstel Church of Perpetual Annoyance", 
-            "origin": "Lunatik #1 (1995)", 
-            "placeofbirth": "Wy'nkar-7", 
-            "powers": "Since he first came into existence, Lunatik has been gradually evolving into greater levels of maturity, strength and intelligence. He was immensely super-strong (lifting 100 tons) and durable, as well as extremely long-lived. He had long teeth in a large extended jaw. The extent to which he had evolved has yet to be revealed.", 
-            "realname": "Unrevealed", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 300
-        }
-    }
+    "aliases": [
+        "Lu", 
+        "Luu", 
+        "Luey", 
+        "Pope Lunatik"
+    ], 
+    "citizenship": "Panto-9", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Self-educated", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Comics Presents #172 (1995)\n", 
+    "groupaffiliation": [
+        "None", 
+        "although he was an ally of Skreet"
+    ], 
+    "hair": "Orange\n", 
+    "height": 74, 
+    "id": "Lunatik_(unrevealed)", 
+    "identity": [
+        "Secret", 
+        "Lunatik's existence was not known to the general populace of Earth."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Pope of the Interstel Church of Perpetual Annoyance", 
+    "origin": "Lunatik #1 (1995)", 
+    "placeofbirth": "Wy'nkar-7", 
+    "powers": "Since he first came into existence, Lunatik has been gradually evolving into greater levels of maturity, strength and intelligence. He was immensely super-strong (lifting 100 tons) and durable, as well as extremely long-lived. He had long teeth in a large extended jaw. The extent to which he had evolved has yet to be revealed.", 
+    "realname": "Unrevealed", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 300
 }

@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "After they were defeated, the Institute members were all behavior modified to be well-behaved citizens and follow the commands of all Squadron members. After the behavior modification Lamprey and all of the Institute members were inducted into the Squadron Supreme. Lamprey was completely rehabilitated and was a fully functioning Squadron member helping them build Squadron City and even going so far as to play tennis with the Whizzer. Lamprey was present during the battle between the Squadron's Hyperion and the Earth-616 Hyperion, and verified the identity of the Earth-712 Hyperion. Later Lamprey was conscripted by Tom Thumb to travel with him into the future and steal a sample of the Scarlet Centurion's Panacea Potion and destroyed all other samples in the process. Lamprey was also present when Quagmire was thought to have died.", 
-            "durability": 1, 
-            "education": "High school drop-out", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Squadron Supreme #5\n", 
-            "groupaffiliation": [
-                "(At time of death) Redeemers", 
-                "(Formerly) Institute of Evil", 
-                "Squadron Supreme"
-            ], 
-            "hair": "Brown\n", 
-            "height": 72, 
-            "id": "Lamprey_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "(At time of death) Adventurer", 
-                "public champion", 
-                "(Formerly) professional criminal"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Lamprey possessed the power to absorb energy from other superhuman beings and use that energy to enhance his own physical strength and other physical attributes (specifically speed, stamina, agility, reflexes, and durability) and also enabling him to fly. Unaugmented by outside energy, his attributes were peak human and he could not fly. Lamprey also possessed the ability to leech energy out of machines and objects such as Blue Eagles electronic wings. Lamprey leeched energy by making physical contact with whatever he was leeching energy out of. Every second of contact with an energy source empowered Lamprey with approximately one hour's worth of augmented powers. Lamprey had also been noted as having possessed a fairly keen intellect.", 
-            "realname": "Donald McGuiggan", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 210
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "After they were defeated, the Institute members were all behavior modified to be well-behaved citizens and follow the commands of all Squadron members. After the behavior modification Lamprey and all of the Institute members were inducted into the Squadron Supreme. Lamprey was completely rehabilitated and was a fully functioning Squadron member helping them build Squadron City and even going so far as to play tennis with the Whizzer. Lamprey was present during the battle between the Squadron's Hyperion and the Earth-616 Hyperion, and verified the identity of the Earth-712 Hyperion. Later Lamprey was conscripted by Tom Thumb to travel with him into the future and steal a sample of the Scarlet Centurion's Panacea Potion and destroyed all other samples in the process. Lamprey was also present when Quagmire was thought to have died.", 
+    "durability": 1, 
+    "education": "High school drop-out", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Squadron Supreme #5\n", 
+    "groupaffiliation": [
+        "(At time of death) Redeemers", 
+        "(Formerly) Institute of Evil", 
+        "Squadron Supreme"
+    ], 
+    "hair": "Brown\n", 
+    "height": 72, 
+    "id": "Lamprey_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "(At time of death) Adventurer", 
+        "public champion", 
+        "(Formerly) professional criminal"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Lamprey possessed the power to absorb energy from other superhuman beings and use that energy to enhance his own physical strength and other physical attributes (specifically speed, stamina, agility, reflexes, and durability) and also enabling him to fly. Unaugmented by outside energy, his attributes were peak human and he could not fly. Lamprey also possessed the ability to leech energy out of machines and objects such as Blue Eagles electronic wings. Lamprey leeched energy by making physical contact with whatever he was leeching energy out of. Every second of contact with an energy source empowered Lamprey with approximately one hour's worth of augmented powers. Lamprey had also been noted as having possessed a fairly keen intellect.", 
+    "realname": "Donald McGuiggan", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 210
 }

@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Inapplicable", 
-            "content": "Two weeks prior to its confrontation with Red Hulk, the Gammadroid was ordered to protect its master against a rampaging Red She-Hulk. The robot warned its upgrades weren't complete, but the point was moot to the terrified Mad Thinker. Gammadroid did its best, but in the end, Red She-Hulk deactivated it by pulling out some of its inner components. The Gammadroid was then used to uncover a time machine stolen from Doctor Doom by Thundra in order to look one year into the Intelligencia's future.One Gammadroid led to several, but even a small army of these powerful androids could not stop the sensational She-Hulk and Lyra from capturing the Mad Thinker.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "None\n", 
-            "fighting": 1, 
-            "firstappearance": "Fall of the Hulks: Gamma (2010)\n", 
-            "groupaffiliation": "Intelligencia", 
-            "hair": "None\n", 
-            "id": "Gammadroid", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Mad Thinker (creator)", 
-            "occupation": "Instrument of the Intelligencia", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The full capabilities of the Gammadroid have yet to be revealed, but it has demonstrated the ability to form different types of weaponry - both blunt and sharp - with its hands, superhuman strength and durability, and the ability to leap long distances - the maximum distance of each jump is not known at this time. It is unclear if it possesses any of the functions of its predecessor, the Awesome Android, but the Gammadroid's power source has been augmented by both gamma and cosmic energy, presumably making it far stronger than the Mad Thinker's previous creation.\n\n\nThe Gammadroid can be actively taken over by the Mad Thinker using a virtual reality device, presumably of his own design, and in doing so the Gammadroid can operate complex machinery. The VR device allows others to see what it sees and it will work even over great distances.", 
-            "realname": "Inapplicable", 
-            "significantissues": [
-                "First Appearance (Fall of the Hulks: Gamma #1, 2010)", 
-                "versus Red Hulk (Hulk #21, 2010)", 
-                "versus Red She-Hulk (World War Hulks #1, 2010)", 
-                "found Thundra's time machine and looked a year into the future (Fall of the Hulks: Red Hulk #4, 2010)", 
-                "several Gammadroids were defeated by She-Hulk and Lyra (She-Hulks #3, 2011)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Inapplicable", 
+    "content": "Two weeks prior to its confrontation with Red Hulk, the Gammadroid was ordered to protect its master against a rampaging Red She-Hulk. The robot warned its upgrades weren't complete, but the point was moot to the terrified Mad Thinker. Gammadroid did its best, but in the end, Red She-Hulk deactivated it by pulling out some of its inner components. The Gammadroid was then used to uncover a time machine stolen from Doctor Doom by Thundra in order to look one year into the Intelligencia's future.One Gammadroid led to several, but even a small army of these powerful androids could not stop the sensational She-Hulk and Lyra from capturing the Mad Thinker.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "None\n", 
+    "fighting": 1, 
+    "firstappearance": "Fall of the Hulks: Gamma (2010)\n", 
+    "groupaffiliation": "Intelligencia", 
+    "hair": "None\n", 
+    "id": "Gammadroid", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Mad Thinker (creator)", 
+    "occupation": "Instrument of the Intelligencia", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The full capabilities of the Gammadroid have yet to be revealed, but it has demonstrated the ability to form different types of weaponry - both blunt and sharp - with its hands, superhuman strength and durability, and the ability to leap long distances - the maximum distance of each jump is not known at this time. It is unclear if it possesses any of the functions of its predecessor, the Awesome Android, but the Gammadroid's power source has been augmented by both gamma and cosmic energy, presumably making it far stronger than the Mad Thinker's previous creation.\n\n\nThe Gammadroid can be actively taken over by the Mad Thinker using a virtual reality device, presumably of his own design, and in doing so the Gammadroid can operate complex machinery. The VR device allows others to see what it sees and it will work even over great distances.", 
+    "realname": "Inapplicable", 
+    "significantissues": [
+        "First Appearance (Fall of the Hulks: Gamma #1, 2010)", 
+        "versus Red Hulk (Hulk #21, 2010)", 
+        "versus Red She-Hulk (World War Hulks #1, 2010)", 
+        "found Thundra's time machine and looked a year into the future (Fall of the Hulks: Red Hulk #4, 2010)", 
+        "several Gammadroids were defeated by She-Hulk and Lyra (She-Hulks #3, 2011)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,55 +1,51 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lady Comet", 
-                "Angel"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Angelica moved back home, determined to live a normal life - until Night Thrasher uncovered her secret identity and pressured her into helping him found the New Warriors. As a mainstay of that super-youth group, Firestar grew into a formidable albeit reluctant champion, and she forged a lasting romance with fellow Warrior Justice, eventually following him to the legendary Avengers super-team he had long idolized. Shortly before joining the Avengers, Angelica had discovered that the microwave radiation she manipulated was threatening to render her sterile. This problem was solved by Hank Pym, who created a special suit to siphon off Firestar's excess radiation. Free from one of her greatest fears, Firestar resumed her adventures with renewed zeal. For a time, Firestar and Justice infiltrated he Triune Understanding spiritual movement at the behest of Avengers founder Iron Man. After the Triune's corrupt leadership was exposed and neutralized, the couple helped the Avengers thwart Kang's attempted conquest of Earth, then opted for Avengers reserve status to devote more time to their personal lives.", 
-            "durability": 3, 
-            "education": "High school, plus Massachusetts Academy classes", 
-            "energy": 7, 
-            "eyes": "Green\n", 
-            "fighting": 3, 
-            "firstappearance": "(historical) Spider-Man and his Amazing Friends #1 (1981); (in continuity) Uncanny X-Men #193 (1985)\n", 
-            "groupaffiliation": [
-                "Formerly Avengers", 
-                "Triune Understanding", 
-                "New Warriors (co-founder)", 
-                "Hellions"
-            ], 
-            "hair": "Red\n", 
-            "height": 62, 
-            "id": "Firestar", 
-            "identity": [
-                "Secret", 
-                "but known to certain government officials"
-            ], 
-            "intelligence": 3, 
-            "knownrelatives": "Bartholomew \"Bart\" Jones (father), \"Nana\" (grandmother, deceased), Vance Astrovik (Justice, fianc\u00e9)", 
-            "occupation": [
-                "Adventurer", 
-                "former student", 
-                "former cultist"
-            ], 
-            "origin": "Firestar #1-4 (1986)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Firestar's mastery of microwave energy allows her to generate near-limitless amounts of heat and enables her to fly with enough thrust to carry huge weights aloft. Microwave manipulation,  thermal energy blasts", 
-            "realname": "Angelica Jones", 
-            "significantissues": [
-                "Discovered powers, lost grandmother, mentored by Emma Frost, betrayed by Frost, deserted Frost (Firestar #1-4, 1986)", 
-                "fought and later befriended X-Men (Uncanny X-Men #193, 1985)", 
-                "joined New Warriors, first met Vance Astrovik (New Warriors #1, 1990)", 
-                "committed herself to Vance (New Warriors #26, 1992)", 
-                "learned her powers were poisoning her (New Warriors #63-64, 1995)", 
-                "joined Avengers (Avengers #1-4, 1998)", 
-                "power problems remedied by Hank Pym (Avengers #12, 1999)"
-            ], 
-            "speed": 6, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 101
-        }
-    }
+    "aliases": [
+        "Lady Comet", 
+        "Angel"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Angelica moved back home, determined to live a normal life - until Night Thrasher uncovered her secret identity and pressured her into helping him found the New Warriors. As a mainstay of that super-youth group, Firestar grew into a formidable albeit reluctant champion, and she forged a lasting romance with fellow Warrior Justice, eventually following him to the legendary Avengers super-team he had long idolized. Shortly before joining the Avengers, Angelica had discovered that the microwave radiation she manipulated was threatening to render her sterile. This problem was solved by Hank Pym, who created a special suit to siphon off Firestar's excess radiation. Free from one of her greatest fears, Firestar resumed her adventures with renewed zeal. For a time, Firestar and Justice infiltrated he Triune Understanding spiritual movement at the behest of Avengers founder Iron Man. After the Triune's corrupt leadership was exposed and neutralized, the couple helped the Avengers thwart Kang's attempted conquest of Earth, then opted for Avengers reserve status to devote more time to their personal lives.", 
+    "durability": 3, 
+    "education": "High school, plus Massachusetts Academy classes", 
+    "energy": 7, 
+    "eyes": "Green\n", 
+    "fighting": 3, 
+    "firstappearance": "(historical) Spider-Man and his Amazing Friends #1 (1981); (in continuity) Uncanny X-Men #193 (1985)\n", 
+    "groupaffiliation": [
+        "Formerly Avengers", 
+        "Triune Understanding", 
+        "New Warriors (co-founder)", 
+        "Hellions"
+    ], 
+    "hair": "Red\n", 
+    "height": 62, 
+    "id": "Firestar", 
+    "identity": [
+        "Secret", 
+        "but known to certain government officials"
+    ], 
+    "intelligence": 3, 
+    "knownrelatives": "Bartholomew \"Bart\" Jones (father), \"Nana\" (grandmother, deceased), Vance Astrovik (Justice, fianc\u00e9)", 
+    "occupation": [
+        "Adventurer", 
+        "former student", 
+        "former cultist"
+    ], 
+    "origin": "Firestar #1-4 (1986)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Firestar's mastery of microwave energy allows her to generate near-limitless amounts of heat and enables her to fly with enough thrust to carry huge weights aloft. Microwave manipulation,  thermal energy blasts", 
+    "realname": "Angelica Jones", 
+    "significantissues": [
+        "Discovered powers, lost grandmother, mentored by Emma Frost, betrayed by Frost, deserted Frost (Firestar #1-4, 1986)", 
+        "fought and later befriended X-Men (Uncanny X-Men #193, 1985)", 
+        "joined New Warriors, first met Vance Astrovik (New Warriors #1, 1990)", 
+        "committed herself to Vance (New Warriors #26, 1992)", 
+        "learned her powers were poisoning her (New Warriors #63-64, 1995)", 
+        "joined Avengers (Avengers #1-4, 1998)", 
+        "power problems remedied by Hank Pym (Avengers #12, 1999)"
+    ], 
+    "speed": 6, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 101
 }

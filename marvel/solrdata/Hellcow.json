@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Bovine Blood-Beast", 
-                "Cowled Cow", 
-                "Farm Killer", 
-                "Recreant Ruminant"
-            ], 
-            "citizenship": "Inapplicable", 
-            "content": "", 
-            "durability": 5, 
-            "education": "None", 
-            "energy": 2, 
-            "eyes": "Red\n", 
-            "fighting": 3, 
-            "firstappearance": "Giant Sized Man-Thing #5\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 54, 
-            "id": "Hellcow", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Dracula (transformed her into vampire)", 
-            "occupation": "Former milking cow", 
-            "origin": "Giant Sized Man-Thing #5", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Bessie is a vampire and has the ability to fly and could turn into mist. She also has apparently strength and durability far above those of any normal cow. However being a vampire she must suck blood from victims in order to sustain her immortality. She has the basic vulnerablities as other vampires such as religious items, sunlight, wooden stakes, garlic, and other vampire weaknesses.", 
-            "realname": "Bessie", 
-            "significantissues": "Giant Sized Man-Thing #5", 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 575
-        }
-    }
+    "aliases": [
+        "Bovine Blood-Beast", 
+        "Cowled Cow", 
+        "Farm Killer", 
+        "Recreant Ruminant"
+    ], 
+    "citizenship": "Inapplicable", 
+    "content": "", 
+    "durability": 5, 
+    "education": "None", 
+    "energy": 2, 
+    "eyes": "Red\n", 
+    "fighting": 3, 
+    "firstappearance": "Giant Sized Man-Thing #5\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 54, 
+    "id": "Hellcow", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Dracula (transformed her into vampire)", 
+    "occupation": "Former milking cow", 
+    "origin": "Giant Sized Man-Thing #5", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Bessie is a vampire and has the ability to fly and could turn into mist. She also has apparently strength and durability far above those of any normal cow. However being a vampire she must suck blood from victims in order to sustain her immortality. She has the basic vulnerablities as other vampires such as religious items, sunlight, wooden stakes, garlic, and other vampire weaknesses.", 
+    "realname": "Bessie", 
+    "significantissues": "Giant Sized Man-Thing #5", 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 575
 }

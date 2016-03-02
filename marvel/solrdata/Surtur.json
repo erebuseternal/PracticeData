@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Realm of Muspelheim", 
-                "dimension of Asgard"
-            ], 
-            "content": "Surtur has been freed from imprisonment a few times over the years.  The first time the Asgardian god of mischief Loki set Surtur free to wreak havok on Earth.  The second time Surtur was set free by Marduk of the Sons of Satannish, a cult of human demon-worshippers.  Surtur was banished to some unnamed netherworld at the end of that encounter.  He appeared, yet again, in what was to be one of the Asgardians greatest battles against Surtur.  Surtur hatched a plan to lure Asgard's armies to Earth leaving the city vulnerable to attack.  He crossed Bifrost with his newly forged Twilight blade believing Asgard to be defenseless; Odin, Thor and Loki were there to make a last stand to defeat Surtur.   Their victory did not come easy though, as Odin fell along with Surtur into a dimensional rift.", 
-            "durability": 1, 
-            "education": "Destruction", 
-            "energy": 1, 
-            "eyes": "No visible pupils\n", 
-            "fighting": 1, 
-            "firstappearance": "Journey Into Mystery #97 (1963)\n", 
-            "groupaffiliation": [
-                "Ymir", 
-                "Malekith", 
-                "Hela"
-            ], 
-            "hair": "None\n", 
-            "height": 0, 
-            "id": "Surtur", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Monarch of Muspelheim", 
-                "destroyer"
-            ], 
-            "placeofbirth": [
-                "Unrevealed", 
-                "possibly Muspelheim"
-            ], 
-            "realname": "Surtur", 
-            "significantissues": [
-                "First appearance (Journey Into Mystery #97, 1963), Freed by the Sons of Satannish (Avengers #61, 1969), Attempts to take over Asgard", 
-                "battles Odin, Thor and Loki (Thor #349-353, 1984)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Realm of Muspelheim", 
+        "dimension of Asgard"
+    ], 
+    "content": "Surtur has been freed from imprisonment a few times over the years.  The first time the Asgardian god of mischief Loki set Surtur free to wreak havok on Earth.  The second time Surtur was set free by Marduk of the Sons of Satannish, a cult of human demon-worshippers.  Surtur was banished to some unnamed netherworld at the end of that encounter.  He appeared, yet again, in what was to be one of the Asgardians greatest battles against Surtur.  Surtur hatched a plan to lure Asgard's armies to Earth leaving the city vulnerable to attack.  He crossed Bifrost with his newly forged Twilight blade believing Asgard to be defenseless; Odin, Thor and Loki were there to make a last stand to defeat Surtur.   Their victory did not come easy though, as Odin fell along with Surtur into a dimensional rift.", 
+    "durability": 1, 
+    "education": "Destruction", 
+    "energy": 1, 
+    "eyes": "No visible pupils\n", 
+    "fighting": 1, 
+    "firstappearance": "Journey Into Mystery #97 (1963)\n", 
+    "groupaffiliation": [
+        "Ymir", 
+        "Malekith", 
+        "Hela"
+    ], 
+    "hair": "None\n", 
+    "height": 0, 
+    "id": "Surtur", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Monarch of Muspelheim", 
+        "destroyer"
+    ], 
+    "placeofbirth": [
+        "Unrevealed", 
+        "possibly Muspelheim"
+    ], 
+    "realname": "Surtur", 
+    "significantissues": [
+        "First appearance (Journey Into Mystery #97, 1963), Freed by the Sons of Satannish (Avengers #61, 1969), Attempts to take over Asgard", 
+        "battles Odin, Thor and Loki (Thor #349-353, 1984)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

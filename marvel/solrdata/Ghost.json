@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "\"Mad Bomber\"", 
-                "John Morley"
-            ], 
-            "citizenship": "USA", 
-            "content": "a wall, solidifying Spymaster inside the wall and killing him. Iron Man subsequently set a trap for the Ghost at Accutech, using a holographic generator to project an image of Stark to draw the Ghost out. When the Ghost attempted to destroy the beta particle generator, Iron Man activated the device; the electrical charges began to disrupt the Ghost\u2019s battlesuit, and prolonged exposure threatened to kill him. Heedless of the danger to himself, the Ghost continued to move in close to the generator until the heat of his battlesuit caused him to melt through the floor. Iron Man could find no trace of the Ghost afterward.In his next known assignment, the Kingpin (Wilson Fisk) hired the Ghost to investigate Roxxon, who were then developing a synthetic Vibranium that the Kingpin wished to acquire. Fisk charged the Ghost to steal their data and destroy their facilities so that they could not continue their experiments. Eager for another opportunity to interfere with Roxxon, the Ghost was hampered in his mission by the Black Panther, Iron Man, Spider-Man and Roxxon's own Sunturion (Arthur Dearborn). When the killer robot Ultron became involved, the Ghost abandoned his assignment and alerted the Kingpin to Ultron's presence. The Kingpin ultimately made an alliance with Ultron to further his interest in the synthetic Vibranium. In another of his assignments, the Ghost targeted energy research company Tricorp. Attempting to sabotage one of the company's energy tests, the Ghost ran afoul of Spider-Man and the time-traveling historian Cassandra Locke. Locke shut down the Ghost's bomb and temporarily shorted out his intangibility devices, enabling Spider-Man to strike him down. The Ghost was taken into police custody.Ghost accidentally drove his hand inside MODOK's head, incapacitating him. The Ghost then ran his hand into Iron Man's heart, paralyzing him long enough for him to escape. Afterward, Iron Man resumed his identity as Tony Stark, acquired what remained of Askew, and set a trap for \"Morley\". Confronting him with the knowledge of his true identity, the Ghost attacked Iron Man again and once more plunged his hand into Iron Man's heart, but Stark had anticipated this action and rigged his armor to cause a feedback that rendered the Ghost unconscious. The Ghost was taken into police custody.", 
-            "durability": 1, 
-            "education": "Unrevealed, presumably Ph.D. level in physics and engineering", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Iron Man #219 (1987)\n", 
-            "groupaffiliation": [
-                "Thunderbolts", 
-                "formerly A.I.M.", 
-                "Roxxon Oil"
-            ], 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Ghost", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Freelance industrial saboteur", 
-                "former business executive"
-            ], 
-            "origin": "Unknown", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "significantissues": "Sabotages Accutech and begins vendetta against Tony Stark (Iron Man #219-#221, 1987), Targets Justin Hammer (Iron Man #239-#240, 1989), Hired by Wilson Fisk (Amazing Spider-Man Annual #25, Spectacular Spider-Man Annual #11, and Web of Spider-Man Annual #7, 1991), Hired by MODOK (Amazing Spider-Man #16, 2000), Manipulated by the Spymaster (Iron Man v3, #42-45), first mission with Thunderbolts (Thunderbolts #128, 2009)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": [
+        "\"Mad Bomber\"", 
+        "John Morley"
+    ], 
+    "citizenship": "USA", 
+    "content": "a wall, solidifying Spymaster inside the wall and killing him. Iron Man subsequently set a trap for the Ghost at Accutech, using a holographic generator to project an image of Stark to draw the Ghost out. When the Ghost attempted to destroy the beta particle generator, Iron Man activated the device; the electrical charges began to disrupt the Ghost\u2019s battlesuit, and prolonged exposure threatened to kill him. Heedless of the danger to himself, the Ghost continued to move in close to the generator until the heat of his battlesuit caused him to melt through the floor. Iron Man could find no trace of the Ghost afterward.In his next known assignment, the Kingpin (Wilson Fisk) hired the Ghost to investigate Roxxon, who were then developing a synthetic Vibranium that the Kingpin wished to acquire. Fisk charged the Ghost to steal their data and destroy their facilities so that they could not continue their experiments. Eager for another opportunity to interfere with Roxxon, the Ghost was hampered in his mission by the Black Panther, Iron Man, Spider-Man and Roxxon's own Sunturion (Arthur Dearborn). When the killer robot Ultron became involved, the Ghost abandoned his assignment and alerted the Kingpin to Ultron's presence. The Kingpin ultimately made an alliance with Ultron to further his interest in the synthetic Vibranium. In another of his assignments, the Ghost targeted energy research company Tricorp. Attempting to sabotage one of the company's energy tests, the Ghost ran afoul of Spider-Man and the time-traveling historian Cassandra Locke. Locke shut down the Ghost's bomb and temporarily shorted out his intangibility devices, enabling Spider-Man to strike him down. The Ghost was taken into police custody.Ghost accidentally drove his hand inside MODOK's head, incapacitating him. The Ghost then ran his hand into Iron Man's heart, paralyzing him long enough for him to escape. Afterward, Iron Man resumed his identity as Tony Stark, acquired what remained of Askew, and set a trap for \"Morley\". Confronting him with the knowledge of his true identity, the Ghost attacked Iron Man again and once more plunged his hand into Iron Man's heart, but Stark had anticipated this action and rigged his armor to cause a feedback that rendered the Ghost unconscious. The Ghost was taken into police custody.", 
+    "durability": 1, 
+    "education": "Unrevealed, presumably Ph.D. level in physics and engineering", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Iron Man #219 (1987)\n", 
+    "groupaffiliation": [
+        "Thunderbolts", 
+        "formerly A.I.M.", 
+        "Roxxon Oil"
+    ], 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Ghost", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Freelance industrial saboteur", 
+        "former business executive"
+    ], 
+    "origin": "Unknown", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "significantissues": "Sabotages Accutech and begins vendetta against Tony Stark (Iron Man #219-#221, 1987), Targets Justin Hammer (Iron Man #239-#240, 1989), Hired by Wilson Fisk (Amazing Spider-Man Annual #25, Spectacular Spider-Man Annual #11, and Web of Spider-Man Annual #7, 1991), Hired by MODOK (Amazing Spider-Man #16, 2000), Manipulated by the Spymaster (Iron Man v3, #42-45), first mission with Thunderbolts (Thunderbolts #128, 2009)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

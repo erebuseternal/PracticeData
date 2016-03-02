@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lilith Drake (for legal purposes)", 
-                "Daughter of Dracula"
-            ], 
-            "citizenship": [
-                "U.S.A. via forged documents", 
-                "formerly Wallachia"
-            ], 
-            "content": "", 
-            "durability": 5, 
-            "education": "Unknown", 
-            "energy": 2, 
-            "eyes": "Red\n", 
-            "fighting": 4, 
-            "firstappearance": "Giant-Size Chillers #1 (1974)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "height": 72, 
-            "id": "Lilith_(Daughter_Of_Dracula)", 
-            "identity": "True nature unknown to general public", 
-            "intelligence": 3, 
-            "knownrelatives": "Dracula (father), Zofia (mother, deceased), Vlad Dracul (grandfather, deceased), Mircea, Radu (uncles, deceased); Vlad Tepulus (deceased), Janus (half-brothers); Maria (deceased), Domini (Dracula's second and third wives), Frank Drake (common ancestry)", 
-            "occupation": "Adventuress", 
-            "placeofbirth": [
-                "Castle Dracula", 
-                "Wallachia", 
-                "Transylvania"
-            ], 
-            "powers": "Lilith has traditional vampire-powers, to a higher degree than most, lacking most traditional limitations. She has superhuman physical abilities, and can mesmerize others with a glance, transform partially or fully into a bat or mist, control the weather, and command animals such as rats, bats, and wolves. Lilith is immune to sunlight, religious symbols and garlic, but can be destroyed by the Montesi Formula or a wooden stake through the heart. She recovers instantly from most other wounds (even surviving dismemberment), and her spirit will return as long as Dracula exists; however, Lilith is magically unable to kill Dracula directly. Her spirit can enter an innocent woman who hates her father, transforming that body to mirror her own. Lilith enjoys but is not requireed to drink blood. She controls those who survive her bite; those who die arise in three days as conventional vampires.", 
-            "realname": "Lilith", 
-            "speed": 5, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": [
+        "Lilith Drake (for legal purposes)", 
+        "Daughter of Dracula"
+    ], 
+    "citizenship": [
+        "U.S.A. via forged documents", 
+        "formerly Wallachia"
+    ], 
+    "content": "", 
+    "durability": 5, 
+    "education": "Unknown", 
+    "energy": 2, 
+    "eyes": "Red\n", 
+    "fighting": 4, 
+    "firstappearance": "Giant-Size Chillers #1 (1974)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "height": 72, 
+    "id": "Lilith_(Daughter_Of_Dracula)", 
+    "identity": "True nature unknown to general public", 
+    "intelligence": 3, 
+    "knownrelatives": "Dracula (father), Zofia (mother, deceased), Vlad Dracul (grandfather, deceased), Mircea, Radu (uncles, deceased); Vlad Tepulus (deceased), Janus (half-brothers); Maria (deceased), Domini (Dracula's second and third wives), Frank Drake (common ancestry)", 
+    "occupation": "Adventuress", 
+    "placeofbirth": [
+        "Castle Dracula", 
+        "Wallachia", 
+        "Transylvania"
+    ], 
+    "powers": "Lilith has traditional vampire-powers, to a higher degree than most, lacking most traditional limitations. She has superhuman physical abilities, and can mesmerize others with a glance, transform partially or fully into a bat or mist, control the weather, and command animals such as rats, bats, and wolves. Lilith is immune to sunlight, religious symbols and garlic, but can be destroyed by the Montesi Formula or a wooden stake through the heart. She recovers instantly from most other wounds (even surviving dismemberment), and her spirit will return as long as Dracula exists; however, Lilith is magically unable to kill Dracula directly. Her spirit can enter an innocent woman who hates her father, transforming that body to mirror her own. Lilith enjoys but is not requireed to drink blood. She controls those who survive her bite; those who die arise in three days as conventional vampires.", 
+    "realname": "Lilith", 
+    "speed": 5, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

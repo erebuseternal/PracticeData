@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Josin Proctor", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "As the Gann Josin (lifemate) of an Eternal Proctor's eyes glow red and have no visible pupils.\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #344\n", 
-            "groupaffiliation": "Gathers", 
-            "hair": "Black\n", 
-            "height": 72, 
-            "id": "Proctor", 
-            "identity": "The general populace of the Avengers' Earth are unaware of the Proctors existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "Sersi (possibly of an alternative Earth) (alleged wife)", 
-            "occupation": [
-                "Leader of the Gathers", 
-                "seeker of vengeance"
-            ], 
-            "origin": "Proctors origin has yet to be revealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Proctor possessed superhuman strength, speed, stamina, reflexes and agility. He was also able to project destructive energy beams from his eyes. He was a formidable hand-to-hand combatant.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Apparently killed Marissa Darrow of the Avengers' Earth (Avengers #348)", 
-                "Sent the Gathers to Capture Coal Tiger of an alternate Earth and killed Black Panther of the Avengers' Earth (Avengers #355)", 
-                "Planned to win back Magdalene's love (Avengers #356)", 
-                "Sent Gathers to find Vision of an alternate Earth (Avengers #358)Held Vision of Earth's Avengers prisoner, transferred minds between that Vision and the Alternate Earth Vision of the Gathers (Avengers #360)", 
-                "Fought Avengers Earth's Vision (Avengers #361)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": "Josin Proctor", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "As the Gann Josin (lifemate) of an Eternal Proctor's eyes glow red and have no visible pupils.\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #344\n", 
+    "groupaffiliation": "Gathers", 
+    "hair": "Black\n", 
+    "height": 72, 
+    "id": "Proctor", 
+    "identity": "The general populace of the Avengers' Earth are unaware of the Proctors existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "Sersi (possibly of an alternative Earth) (alleged wife)", 
+    "occupation": [
+        "Leader of the Gathers", 
+        "seeker of vengeance"
+    ], 
+    "origin": "Proctors origin has yet to be revealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Proctor possessed superhuman strength, speed, stamina, reflexes and agility. He was also able to project destructive energy beams from his eyes. He was a formidable hand-to-hand combatant.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Apparently killed Marissa Darrow of the Avengers' Earth (Avengers #348)", 
+        "Sent the Gathers to Capture Coal Tiger of an alternate Earth and killed Black Panther of the Avengers' Earth (Avengers #355)", 
+        "Planned to win back Magdalene's love (Avengers #356)", 
+        "Sent Gathers to find Vision of an alternate Earth (Avengers #358)Held Vision of Earth's Avengers prisoner, transferred minds between that Vision and the Alternate Earth Vision of the Gathers (Avengers #360)", 
+        "Fought Avengers Earth's Vision (Avengers #361)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

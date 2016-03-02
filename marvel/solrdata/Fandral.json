@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Fandral the Dashing", 
-                "Freddie Moyer"
-            ], 
-            "citizenship": "Asgard", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Journey into Mystery #119 (1966)\n", 
-            "groupaffiliation": [
-                "Warriors Three", 
-                "formerly: Lost Gods"
-            ], 
-            "hair": "Blond\n", 
-            "id": "Fandral", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Warrior of Asgard", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Fandral possesses the normal strength and attributes of an Asgardian male of his age, height, and build.", 
-            "realname": "Fandral", 
-            "significantissues": [
-                "First appearance (Journey into Mystery #119, 1966)", 
-                "soul found by Thor after Ragnarok and brought back alive (Thor #4, 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Fandral the Dashing", 
+        "Freddie Moyer"
+    ], 
+    "citizenship": "Asgard", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Journey into Mystery #119 (1966)\n", 
+    "groupaffiliation": [
+        "Warriors Three", 
+        "formerly: Lost Gods"
+    ], 
+    "hair": "Blond\n", 
+    "id": "Fandral", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Warrior of Asgard", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Fandral possesses the normal strength and attributes of an Asgardian male of his age, height, and build.", 
+    "realname": "Fandral", 
+    "significantissues": [
+        "First appearance (Journey into Mystery #119, 1966)", 
+        "soul found by Thor after Ragnarok and brought back alive (Thor #4, 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

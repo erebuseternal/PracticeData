@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Andrea McPhee", 
-            "citizenship": "Atlanrean", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "(New) Defenders #143 (1985)\n", 
-            "groupaffiliation": [
-                "Atlantean Military", 
-                "formerly Brides of Set", 
-                "Deep Six", 
-                "Defenders", 
-                "Dragon Circle"
-            ], 
-            "hair": "Auburn\n", 
-            "height": 68, 
-            "id": "Andromeda_(Andromeda_Attumasen)", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Attuma (father), Lady Gelva (mother)", 
-            "occupation": [
-                "Peacekeeper", 
-                "former warlord"
-            ], 
-            "placeofbirth": "Atlantis", 
-            "powers": "Andromeda has superhuman strength, allowing her to lift at least 14 tons in air. She is stronger than the average Atlantean male. While she normally cannot survive out of water longer than 10 minutes, she has at times used a serum that gave her the ability to absorb oxygen through her skin. This serum also caused her skin to turn Caucasian. She can swim at speeds up to 30 miles per hour for a short period of time, also greater than the average Atlantean.", 
-            "realname": "Andromeda Attumasen", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": "Andrea McPhee", 
+    "citizenship": "Atlanrean", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "(New) Defenders #143 (1985)\n", 
+    "groupaffiliation": [
+        "Atlantean Military", 
+        "formerly Brides of Set", 
+        "Deep Six", 
+        "Defenders", 
+        "Dragon Circle"
+    ], 
+    "hair": "Auburn\n", 
+    "height": 68, 
+    "id": "Andromeda_(Andromeda_Attumasen)", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Attuma (father), Lady Gelva (mother)", 
+    "occupation": [
+        "Peacekeeper", 
+        "former warlord"
+    ], 
+    "placeofbirth": "Atlantis", 
+    "powers": "Andromeda has superhuman strength, allowing her to lift at least 14 tons in air. She is stronger than the average Atlantean male. While she normally cannot survive out of water longer than 10 minutes, she has at times used a serum that gave her the ability to absorb oxygen through her skin. This serum also caused her skin to turn Caucasian. She can swim at speeds up to 30 miles per hour for a short period of time, also greater than the average Atlantean.", 
+    "realname": "Andromeda Attumasen", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

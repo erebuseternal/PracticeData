@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Essex", 
-            "citizenship": "Unknown", 
-            "content": "During these early days of his partnership with Apocalypse, Sinister adopted two brothers with exceptional mutant abilities. The Summers brothers, Alex and Scott, were the closest thing Sinister had found to genetic perfection. Scott's genes were of particular interest to Sinister; he hoped to one day use them to create the most powerful mutant on the planet.Sinister would create, alongside his mad scientist partner, the Dark Beast, the process used to create Apocalypse's Infinite army. The two of them controlled the Pens, a mutant breeding and testing ground for their twisted genetic plans. He was crucial in enhancing members of Apocalypse's army and in carrying out his directive of survival of the fittest. He eventually discovered that the combined DNA of the captured X-Man Jean Grey and his adopted son, Scott Summers, would create a mutant stronger than any other, even Sinister's master Apocalypse. Sinister carried out his creation and hid the experiment, named Nate Grey (Sinister's X-Man), with a small traveling theatre troupe of mutants. As time moved on and Apocalypse's rule became more fanatical, Sinister realized his vision of the future did not coincide with his master's.Sinister betrayed Apocalypse revealing his master's plan, to unleash a sneak attack on the humans in Europe, to Weapon X and Jean Grey. This move led to the Human High Council preparing a full-scale nuclear assault on Apocalypse's kingdom in America.Sinister blew up his hideout and all the secrets it held inside. He traveled the ruined countryside of America searching for Nate Grey; he found his X-Man in Kansas. Sinister infiltrated the group under the name Essex and became close with his young creation. His true identity was discovered by Nate's friend, Brute, who recognized Sinister from his time in Sinister's breeding pens. Sinister murdered Brute and Nate's mentor, Forge, in cold blood.", 
-            "durability": 1, 
-            "education": "Ph.D in Genetics (presumed)", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": "Horseman of Apocalypse", 
-            "hair": "Black\n", 
-            "height": 76, 
-            "id": "Sinister_(Age_of_Apocalypse)", 
-            "identity": "Publicly Known", 
-            "intelligence": 1, 
-            "knownrelatives": "Scott Summers (adopted son, deceased), Alex Summers (adopted son, deceased), Nate Grey (genetic creation)", 
-            "occupation": [
-                "Horseman of Apocalypse", 
-                "caretaker of a quarter of Apocalypse's nation"
-            ], 
-            "placeofbirth": "Unknown", 
-            "powers": "Sinister is a mutant with complete control over his body's molecular structure. He does not age or get sick and can recover from most wounds. He also has superhuman strength and an incredibly enhanced intellect.", 
-            "realname": "Nathaniel Essex", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 250
-        }
-    }
+    "aliases": "Essex", 
+    "citizenship": "Unknown", 
+    "content": "During these early days of his partnership with Apocalypse, Sinister adopted two brothers with exceptional mutant abilities. The Summers brothers, Alex and Scott, were the closest thing Sinister had found to genetic perfection. Scott's genes were of particular interest to Sinister; he hoped to one day use them to create the most powerful mutant on the planet.Sinister would create, alongside his mad scientist partner, the Dark Beast, the process used to create Apocalypse's Infinite army. The two of them controlled the Pens, a mutant breeding and testing ground for their twisted genetic plans. He was crucial in enhancing members of Apocalypse's army and in carrying out his directive of survival of the fittest. He eventually discovered that the combined DNA of the captured X-Man Jean Grey and his adopted son, Scott Summers, would create a mutant stronger than any other, even Sinister's master Apocalypse. Sinister carried out his creation and hid the experiment, named Nate Grey (Sinister's X-Man), with a small traveling theatre troupe of mutants. As time moved on and Apocalypse's rule became more fanatical, Sinister realized his vision of the future did not coincide with his master's.Sinister betrayed Apocalypse revealing his master's plan, to unleash a sneak attack on the humans in Europe, to Weapon X and Jean Grey. This move led to the Human High Council preparing a full-scale nuclear assault on Apocalypse's kingdom in America.Sinister blew up his hideout and all the secrets it held inside. He traveled the ruined countryside of America searching for Nate Grey; he found his X-Man in Kansas. Sinister infiltrated the group under the name Essex and became close with his young creation. His true identity was discovered by Nate's friend, Brute, who recognized Sinister from his time in Sinister's breeding pens. Sinister murdered Brute and Nate's mentor, Forge, in cold blood.", 
+    "durability": 1, 
+    "education": "Ph.D in Genetics (presumed)", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": "Horseman of Apocalypse", 
+    "hair": "Black\n", 
+    "height": 76, 
+    "id": "Sinister_(Age_of_Apocalypse)", 
+    "identity": "Publicly Known", 
+    "intelligence": 1, 
+    "knownrelatives": "Scott Summers (adopted son, deceased), Alex Summers (adopted son, deceased), Nate Grey (genetic creation)", 
+    "occupation": [
+        "Horseman of Apocalypse", 
+        "caretaker of a quarter of Apocalypse's nation"
+    ], 
+    "placeofbirth": "Unknown", 
+    "powers": "Sinister is a mutant with complete control over his body's molecular structure. He does not age or get sick and can recover from most wounds. He also has superhuman strength and an incredibly enhanced intellect.", 
+    "realname": "Nathaniel Essex", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 250
 }

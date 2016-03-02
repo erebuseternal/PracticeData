@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Victoria Nutley \"Vicki\" Starr", 
-                "Aphrodite Pandemos", 
-                "many others"
-            ], 
-            "citizenship": "Olympus (also had her own kingdom on planet Venus for an undisclosed period of time)", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tutored by the Seasons, extensively self educated.", 
-            "energy": 1, 
-            "eyes": "Blue (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "Venus #1 (1941)\n", 
-            "groupaffiliation": [
-                "Olympians (Greeks gods)", 
-                "formerly Olympus Group", 
-                "Dodekatheon"
-            ], 
-            "hair": "Blonde (variable)\n", 
-            "height": 66, 
-            "id": "Venus_(Aphrodite)", 
-            "identity": [
-                "Regarded as mythological by the general public", 
-                "Starr identity secret"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Zeus (father), Dione (mother), Hera, Demeter (aunts), Poseidon, Hades (uncles), Hephaestus (ex-husband/half-brother), Cupid (son), Harmonia (daughter), Ares, Apollo, Hermes, Dionysus (half-brothers), Athena, Artemis, Discord, Eilethyia (half-sisters), Aeneas (son, deceased), Julius Caesar, Arthur Pendragon (descendants, deceased)", 
-            "occupation": [
-                "Goddess of love and beauty", 
-                "hedonist", 
-                "former adventurer", 
-                "professor", 
-                "editor"
-            ], 
-            "placeofbirth": [
-                "Junction of the lonian & Aegean seas", 
-                "off the coast of the Isle of Kythira"
-            ], 
-            "realname": "Aphrodite Ourania", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 380
-        }
-    }
+    "aliases": [
+        "Victoria Nutley \"Vicki\" Starr", 
+        "Aphrodite Pandemos", 
+        "many others"
+    ], 
+    "citizenship": "Olympus (also had her own kingdom on planet Venus for an undisclosed period of time)", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tutored by the Seasons, extensively self educated.", 
+    "energy": 1, 
+    "eyes": "Blue (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "Venus #1 (1941)\n", 
+    "groupaffiliation": [
+        "Olympians (Greeks gods)", 
+        "formerly Olympus Group", 
+        "Dodekatheon"
+    ], 
+    "hair": "Blonde (variable)\n", 
+    "height": 66, 
+    "id": "Venus_(Aphrodite)", 
+    "identity": [
+        "Regarded as mythological by the general public", 
+        "Starr identity secret"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Zeus (father), Dione (mother), Hera, Demeter (aunts), Poseidon, Hades (uncles), Hephaestus (ex-husband/half-brother), Cupid (son), Harmonia (daughter), Ares, Apollo, Hermes, Dionysus (half-brothers), Athena, Artemis, Discord, Eilethyia (half-sisters), Aeneas (son, deceased), Julius Caesar, Arthur Pendragon (descendants, deceased)", 
+    "occupation": [
+        "Goddess of love and beauty", 
+        "hedonist", 
+        "former adventurer", 
+        "professor", 
+        "editor"
+    ], 
+    "placeofbirth": [
+        "Junction of the lonian & Aegean seas", 
+        "off the coast of the Isle of Kythira"
+    ], 
+    "realname": "Aphrodite Ourania", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 380
 }

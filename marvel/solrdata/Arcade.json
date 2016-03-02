@@ -1,54 +1,50 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Mister A", 
-                "\"Mad Monk\"", 
-                "Pinball Wizard", 
-                "A.R. Cadenski"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "In killing his father, Arcade discovered that he had both a talent and a liking for murder, and set out to become an assassin-for-hire.  Within a year, in his own view at least he became the best assassin in the United States.  However, Arcade became bored with killing by ordinary means, and so he used his inheritance to construct his first \"Murderworld\", a hidden complex of high-tech death traps designed in the style of an amusement park.Whatever the truth may be about his life up to that point, the story of his life after he began using Murderworld is clear. Arcade now kills victims for large sums of money by trapping them within Murderworld. He designs and constructs special traps within Murderworld for individual victims after studying their strengths and weaknesses.  Arcade's customary fee is one million dollars per victim, which is a token fee as his expenses incurred are often higher. To Arcade, the game itself is more important than the expense, or even the winning.Seeking new challenges, Arcade set his sights on various superhuman beings and set out to attempt to kill them. His first encounter with costumed adventurers was when he captured the arachnid hero Spider-Man and the British champion Captain Britain.  Since then, Arcade has attempted to kill the superhuman mutants known as the X-Men, the British super-team Excalibur, the diminutive Puck (Eugene Judd) of the Canadian super-team Alpha Flight, the formerly demonically-possessed John Blaze, and the X-Force strike team with his Murderworlds.Arcade originally employed two assistants, known only as Miss Locke and Mister Chambers. However, after she horribly scarred his face, Arcade killed Miss Locke.  Seeking to frame the feral X-Man Wolverine for the murder, Arcade was defeated by Wolverine, the mutant thief Gambit, and his own former ally Mastermind (Martinique Jason), the daughter of the original bearer of that name, who left Arcade in a state of delusion.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "Marvel Team-Up #65\n", 
-            "groupaffiliation": [
-                "Employer of Miss Locke", 
-                "Mister Chambers", 
-                "former partners with Norman Osborn", 
-                "Toad", 
-                "Mastermind", 
-                "Mojo", 
-                "Mister Sinister", 
-                "Juggernaut", 
-                "Mystique", 
-                "Shinobi Shaw", 
-                "formerly in a romantic relationship with White Rabbit"
-            ], 
-            "hair": "Red\n", 
-            "height": 66, 
-            "id": "Arcade", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Unidentified parents (deceased)", 
-            "occupation": [
-                "Assassin", 
-                "playboy"
-            ], 
-            "placeofbirth": [
-                "Beverly Hills", 
-                "Los Angeles", 
-                "California (allegedly)"
-            ], 
-            "powers": "None", 
-            "realname": "Unrevealed", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": [
+        "Mister A", 
+        "\"Mad Monk\"", 
+        "Pinball Wizard", 
+        "A.R. Cadenski"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "In killing his father, Arcade discovered that he had both a talent and a liking for murder, and set out to become an assassin-for-hire.  Within a year, in his own view at least he became the best assassin in the United States.  However, Arcade became bored with killing by ordinary means, and so he used his inheritance to construct his first \"Murderworld\", a hidden complex of high-tech death traps designed in the style of an amusement park.Whatever the truth may be about his life up to that point, the story of his life after he began using Murderworld is clear. Arcade now kills victims for large sums of money by trapping them within Murderworld. He designs and constructs special traps within Murderworld for individual victims after studying their strengths and weaknesses.  Arcade's customary fee is one million dollars per victim, which is a token fee as his expenses incurred are often higher. To Arcade, the game itself is more important than the expense, or even the winning.Seeking new challenges, Arcade set his sights on various superhuman beings and set out to attempt to kill them. His first encounter with costumed adventurers was when he captured the arachnid hero Spider-Man and the British champion Captain Britain.  Since then, Arcade has attempted to kill the superhuman mutants known as the X-Men, the British super-team Excalibur, the diminutive Puck (Eugene Judd) of the Canadian super-team Alpha Flight, the formerly demonically-possessed John Blaze, and the X-Force strike team with his Murderworlds.Arcade originally employed two assistants, known only as Miss Locke and Mister Chambers. However, after she horribly scarred his face, Arcade killed Miss Locke.  Seeking to frame the feral X-Man Wolverine for the murder, Arcade was defeated by Wolverine, the mutant thief Gambit, and his own former ally Mastermind (Martinique Jason), the daughter of the original bearer of that name, who left Arcade in a state of delusion.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "Marvel Team-Up #65\n", 
+    "groupaffiliation": [
+        "Employer of Miss Locke", 
+        "Mister Chambers", 
+        "former partners with Norman Osborn", 
+        "Toad", 
+        "Mastermind", 
+        "Mojo", 
+        "Mister Sinister", 
+        "Juggernaut", 
+        "Mystique", 
+        "Shinobi Shaw", 
+        "formerly in a romantic relationship with White Rabbit"
+    ], 
+    "hair": "Red\n", 
+    "height": 66, 
+    "id": "Arcade", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Unidentified parents (deceased)", 
+    "occupation": [
+        "Assassin", 
+        "playboy"
+    ], 
+    "placeofbirth": [
+        "Beverly Hills", 
+        "Los Angeles", 
+        "California (allegedly)"
+    ], 
+    "powers": "None", 
+    "realname": "Unrevealed", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

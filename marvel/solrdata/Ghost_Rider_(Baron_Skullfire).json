@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "King of Skull City", 
-                "Baron Skullfire"
-            ], 
-            "citizenship": "Presumably a citizen Africa", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed (as Baron Skullfire); Flaming red (as Ghost Rider)\n", 
-            "fighting": 1, 
-            "firstappearance": "Ghost Rider #31 (2009)\n", 
-            "groupaffiliation": "Former partner of Marinette Bwa Chech and leader of the Phantom Riders of the Congo", 
-            "hair": "Black goatee (as Baron Skullfire); None (as Ghost Rider)\n", 
-            "id": "Ghost_Rider_(Baron_Skullfire)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former Spirit of Vengeance", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Presumably Africa", 
-            "powers": "It can be assumed Baron Skullfire possessed all the powers given to every Spirit of Vengeance, including shooting powerful fireballs from his hands", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Met Blaze and prepared for war against Ketch and the Black Host (Ghost Rider #31, 2009)", 
-                "Fought and died at the hands of one of the Black Host (Ghost Rider #32, 2009)", 
-                "Reborn in Heaven to fight Zadkiel and the forces of Satan (Ghost Riders: Heaven's On Fire #6, 2010)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "King of Skull City", 
+        "Baron Skullfire"
+    ], 
+    "citizenship": "Presumably a citizen Africa", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed (as Baron Skullfire); Flaming red (as Ghost Rider)\n", 
+    "fighting": 1, 
+    "firstappearance": "Ghost Rider #31 (2009)\n", 
+    "groupaffiliation": "Former partner of Marinette Bwa Chech and leader of the Phantom Riders of the Congo", 
+    "hair": "Black goatee (as Baron Skullfire); None (as Ghost Rider)\n", 
+    "id": "Ghost_Rider_(Baron_Skullfire)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former Spirit of Vengeance", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Presumably Africa", 
+    "powers": "It can be assumed Baron Skullfire possessed all the powers given to every Spirit of Vengeance, including shooting powerful fireballs from his hands", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Met Blaze and prepared for war against Ketch and the Black Host (Ghost Rider #31, 2009)", 
+        "Fought and died at the hands of one of the Black Host (Ghost Rider #32, 2009)", 
+        "Reborn in Heaven to fight Zadkiel and the forces of Satan (Ghost Riders: Heaven's On Fire #6, 2010)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

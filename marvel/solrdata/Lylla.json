@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Halfworld", 
-            "content": "Jakes knew this, but with an army of Killer Clowns, Drakillars and hired mercenaries, the Black Bunny Brigade at his disposal, he didn't care. Lylla would be his bride one way or another. He had her kidnapped and brought aboard his Spacewheel when he was running Inter-Stel Mechanics, but Rocket gave chase as did Lylla's uncle, Wal Rus, and their new friend \u2013 the Hulk. The trio quickly dispatched Jakes' forces and Lylla was safe for the moment.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #271 (1982)\n", 
-            "groupaffiliation": "Ally of Rocket Raccoon", 
-            "hair": "Golden tan\n", 
-            "id": "Lylla", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Wal Rus (uncle), unidentified parents (deceased)", 
-            "occupation": "Adventurer", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Halfworld", 
-            "powers": "None", 
-            "realname": "Lylla", 
-            "significantissues": [
-                "Kidnapped by Judson Jakes only to be rescued by Rocket Raccoon and the Hulk (Incredible Hulk #271, 1982)", 
-                "On the run from Lord Dyvyne and Judson Jakes during the Toy War on Halfworld (Rocket Raccoon #1-4, 1985)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Halfworld", 
+    "content": "Jakes knew this, but with an army of Killer Clowns, Drakillars and hired mercenaries, the Black Bunny Brigade at his disposal, he didn't care. Lylla would be his bride one way or another. He had her kidnapped and brought aboard his Spacewheel when he was running Inter-Stel Mechanics, but Rocket gave chase as did Lylla's uncle, Wal Rus, and their new friend \u2013 the Hulk. The trio quickly dispatched Jakes' forces and Lylla was safe for the moment.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #271 (1982)\n", 
+    "groupaffiliation": "Ally of Rocket Raccoon", 
+    "hair": "Golden tan\n", 
+    "id": "Lylla", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Wal Rus (uncle), unidentified parents (deceased)", 
+    "occupation": "Adventurer", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Halfworld", 
+    "powers": "None", 
+    "realname": "Lylla", 
+    "significantissues": [
+        "Kidnapped by Judson Jakes only to be rescued by Rocket Raccoon and the Hulk (Incredible Hulk #271, 1982)", 
+        "On the run from Lord Dyvyne and Judson Jakes during the Toy War on Halfworld (Rocket Raccoon #1-4, 1985)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

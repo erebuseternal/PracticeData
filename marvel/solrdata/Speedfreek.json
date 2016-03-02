@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Murdering the inventor, Leon stole the suit, thinking about selling it to the highest bidder. However, he realized he could make more money by using it himself. For perhaps the first time in his life, Leon thought about his own future.  He became a professional assassin and called himself Speedfreek. But even with the suit, things weren\u2019t much better.  His drug habit made him unreliable, and he rarely was hired to do anything of importance.  At a charity event, Leon met the Hulk for the first time. Hired to kill a young man under the wing of Jim Wilson and Rick Jones, Speedfreek fired an Adamantium tipped coil, which punctured the Hulk\u2019s tough skin and held fast. However, due to the Hulk\u2019s strength, the Jade Giant eventually gained enough traction to free himself and punch Speedfreek unconscious.Leon eventually learned that his daughter, the one person in the world he loved more than his addiction to snap, was inexplicably killed. Disguising himself, Leon hired the Hulk to find the one responsible and bring him to justice. Unaware of who had hired him, the Hulk led Shappe to his daughter\u2019s ex-boyfriend, who claimed her death was an accident. After a lengthy battle and nearly being disemboweled by Speedfreek\u2019s Adamantium blades, the Hulk prevented Leon from getting his revenge and turned the boy over to the authorities.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #388 (1991)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Reddish-Brown\n", 
-            "id": "Speedfreek", 
-            "identity": "Known to the authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Kate (daughter, deceased), Leslie Anne Shappe (Crazy Eight, sister, deceased)", 
-            "occupation": [
-                "Professional assassin", 
-                "former thief"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Speedfreek\u2019s armored combat suit grants him enhanced strength, speed, durability, and the power of flight.", 
-            "realname": "Joss Shappe", 
-            "significantissues": "Death (Civil War #1, 2006)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Murdering the inventor, Leon stole the suit, thinking about selling it to the highest bidder. However, he realized he could make more money by using it himself. For perhaps the first time in his life, Leon thought about his own future.  He became a professional assassin and called himself Speedfreek. But even with the suit, things weren\u2019t much better.  His drug habit made him unreliable, and he rarely was hired to do anything of importance.  At a charity event, Leon met the Hulk for the first time. Hired to kill a young man under the wing of Jim Wilson and Rick Jones, Speedfreek fired an Adamantium tipped coil, which punctured the Hulk\u2019s tough skin and held fast. However, due to the Hulk\u2019s strength, the Jade Giant eventually gained enough traction to free himself and punch Speedfreek unconscious.Leon eventually learned that his daughter, the one person in the world he loved more than his addiction to snap, was inexplicably killed. Disguising himself, Leon hired the Hulk to find the one responsible and bring him to justice. Unaware of who had hired him, the Hulk led Shappe to his daughter\u2019s ex-boyfriend, who claimed her death was an accident. After a lengthy battle and nearly being disemboweled by Speedfreek\u2019s Adamantium blades, the Hulk prevented Leon from getting his revenge and turned the boy over to the authorities.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #388 (1991)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Reddish-Brown\n", 
+    "id": "Speedfreek", 
+    "identity": "Known to the authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Kate (daughter, deceased), Leslie Anne Shappe (Crazy Eight, sister, deceased)", 
+    "occupation": [
+        "Professional assassin", 
+        "former thief"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Speedfreek\u2019s armored combat suit grants him enhanced strength, speed, durability, and the power of flight.", 
+    "realname": "Joss Shappe", 
+    "significantissues": "Death (Civil War #1, 2006)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

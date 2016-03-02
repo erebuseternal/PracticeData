@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Helena", 
-            "citizenship": "Zenn-Lavian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Silver Surfer #1\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "height": 69, 
-            "id": "Bal,_Shalla", 
-            "identity": [
-                "Secret", 
-                "the general populace of Earth was unaware of her existence"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Anddar Bal (father)", 
-            "occupation": "Empress of Zenn-La", 
-            "placeofbirth": [
-                "Planet of Zenn-La", 
-                "Deneb Star System", 
-                "Milky Way Galaxy"
-            ], 
-            "powers": "As a member of the Zenn-Lavian race Shalla-Bal possessed", 
-            "realname": "Shalla Bal", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 125
-        }
-    }
+    "aliases": "Helena", 
+    "citizenship": "Zenn-Lavian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Silver Surfer #1\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "height": 69, 
+    "id": "Bal,_Shalla", 
+    "identity": [
+        "Secret", 
+        "the general populace of Earth was unaware of her existence"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Anddar Bal (father)", 
+    "occupation": "Empress of Zenn-La", 
+    "placeofbirth": [
+        "Planet of Zenn-La", 
+        "Deneb Star System", 
+        "Milky Way Galaxy"
+    ], 
+    "powers": "As a member of the Zenn-Lavian race Shalla-Bal possessed", 
+    "realname": "Shalla Bal", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 125
 }

@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Menace of Manhattan", 
-                "Grey Goblin", 
-                "Mock-Goblin"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "As time passed, Lily grew increasingly skeptical of Harry's best friend Peter Parker's erratic behavior, unaware that his frequent disappearances stemmed from his tending to his Spider-Man activities. Her skepticism did not prevent her from flirting with Parker periodically; perhaps she was unaware that Carlie was romantically interested in Parker. After Menace attacked a Hollister political rally, Lily was interviewed on television and viciously taunted the villain. Later, while socializing at the Coffee Bean, Lily observed Harry's dark side during an intense argument between Harry and his father, Thunderbolts director Norman Osborn. Bill was left comatose following another confrontation with Menace, and the grieving Lily regretted her thoughtlessness.When Norman Osborn and the Thunderbolts hunted the wall-crawling Spider-Man, Bullseye laid siege to the Coffee Bean, while Lily, Harry, and Peter were inside; they were able to escape, however, the cafe was left in complete ruins. Lily and Harry later went to Oscorp Industries, in New Jersey after the facility was destroyed during the battle between Spider-Man, Anti-Venom, and the Thunderbolts, in an attempt to retrieve a file that would help him clear his name. While Harry was feverishly looking for the file, Lily kissed Peter to distract him from opening the door to a secret room storing a cache of Norman Osborn\u2019s weapons and secrets by removing Norman's book \"The Rise and Fall of an Empire,\" from the bookcase that blocked the entrance.Having no idea or inclination of the identity of the terrorist, who was terrorizing the campaign trails the Daily Bugle eventually dubbed the suspect as \"Menace\" (a moniker traditionally used by the tabloids former publisher J. Jonah Jameson to describe Spider-Man). Menace was first observed hijacking an armored car full of explosives, but was thwarted by the rookie superhero Jackpot ,  Menace then embarked on reign of terror across New York City, attacking Stark Labs and a police station, apparently to obtain more equipment. At a dockside gang hideout, which Menace acquired murdering its former occupants, Spider-Man and Menace fought once more, but menace overwhelmed the web-slinger and escaped.Later in yet another battle the villainous Menace gave Spider-Man, a horrible beating that allowed the NYPD to apprehend him, for the \"Spider-Tracer murders.\" Menace slipped into Hollister's campaign headquarters, where the villain was observed by Harry as it transformed into Lily. The stunned Harry Osborn could not believe his eyes, as he discovered that his girl friend was behind all the mayhem being caused throughout the city. She explained that her plan was to get her father elected Mayor, and possibly regain his love, which seemed to be directed in the direction of Carlie. Lily's plan was just days away from becoming reality, so she felt compelled to inform Harry, how she became the Menace and learned of most of his family secrets. Lily revealed that she had been reading his journal, which was nothing more than the whining of an unappreciative brat. Through the Journal, She was able to gain access into the secret room, where she hope to find something that would assist her into helping further her plans to get her father elected.", 
-            "durability": 1, 
-            "education": "Collage graduate", 
-            "energy": 1, 
-            "eyes": "Lily (brown); Menace (yellow)\n", 
-            "fighting": 1, 
-            "firstappearance": "(As Lily) Amazing Spider-Man #545 (2008);  (Menace, behind the scenes) Amazing Spider-Man #546 (2008); (Menace, full) Amazing Spider-Man #550 (2008)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Lily (Black dyed blonde);  Menace (red)\n", 
-            "height": 66, 
-            "id": "Menace", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "William \"Bill\" Hollister (father), mother (unidentified)", 
-            "occupation": [
-                "Terrorist", 
-                "Socialite"
-            ], 
-            "origin": "(The origin of Menace revealed) Amazing Spider-Man 586 (2009)", 
-            "placeofbirth": [
-                "St. Albans", 
-                "Queens", 
-                "New York"
-            ], 
-            "powers": "Menace possesses superhuman strength (lifting five tons); this is a superhuman augmentation granted by the absorption of the Goblin serum .", 
-            "realname": "Lily Hollister", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Menace of Manhattan", 
+        "Grey Goblin", 
+        "Mock-Goblin"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "As time passed, Lily grew increasingly skeptical of Harry's best friend Peter Parker's erratic behavior, unaware that his frequent disappearances stemmed from his tending to his Spider-Man activities. Her skepticism did not prevent her from flirting with Parker periodically; perhaps she was unaware that Carlie was romantically interested in Parker. After Menace attacked a Hollister political rally, Lily was interviewed on television and viciously taunted the villain. Later, while socializing at the Coffee Bean, Lily observed Harry's dark side during an intense argument between Harry and his father, Thunderbolts director Norman Osborn. Bill was left comatose following another confrontation with Menace, and the grieving Lily regretted her thoughtlessness.When Norman Osborn and the Thunderbolts hunted the wall-crawling Spider-Man, Bullseye laid siege to the Coffee Bean, while Lily, Harry, and Peter were inside; they were able to escape, however, the cafe was left in complete ruins. Lily and Harry later went to Oscorp Industries, in New Jersey after the facility was destroyed during the battle between Spider-Man, Anti-Venom, and the Thunderbolts, in an attempt to retrieve a file that would help him clear his name. While Harry was feverishly looking for the file, Lily kissed Peter to distract him from opening the door to a secret room storing a cache of Norman Osborn\u2019s weapons and secrets by removing Norman's book \"The Rise and Fall of an Empire,\" from the bookcase that blocked the entrance.Having no idea or inclination of the identity of the terrorist, who was terrorizing the campaign trails the Daily Bugle eventually dubbed the suspect as \"Menace\" (a moniker traditionally used by the tabloids former publisher J. Jonah Jameson to describe Spider-Man). Menace was first observed hijacking an armored car full of explosives, but was thwarted by the rookie superhero Jackpot ,  Menace then embarked on reign of terror across New York City, attacking Stark Labs and a police station, apparently to obtain more equipment. At a dockside gang hideout, which Menace acquired murdering its former occupants, Spider-Man and Menace fought once more, but menace overwhelmed the web-slinger and escaped.Later in yet another battle the villainous Menace gave Spider-Man, a horrible beating that allowed the NYPD to apprehend him, for the \"Spider-Tracer murders.\" Menace slipped into Hollister's campaign headquarters, where the villain was observed by Harry as it transformed into Lily. The stunned Harry Osborn could not believe his eyes, as he discovered that his girl friend was behind all the mayhem being caused throughout the city. She explained that her plan was to get her father elected Mayor, and possibly regain his love, which seemed to be directed in the direction of Carlie. Lily's plan was just days away from becoming reality, so she felt compelled to inform Harry, how she became the Menace and learned of most of his family secrets. Lily revealed that she had been reading his journal, which was nothing more than the whining of an unappreciative brat. Through the Journal, She was able to gain access into the secret room, where she hope to find something that would assist her into helping further her plans to get her father elected.", 
+    "durability": 1, 
+    "education": "Collage graduate", 
+    "energy": 1, 
+    "eyes": "Lily (brown); Menace (yellow)\n", 
+    "fighting": 1, 
+    "firstappearance": "(As Lily) Amazing Spider-Man #545 (2008);  (Menace, behind the scenes) Amazing Spider-Man #546 (2008); (Menace, full) Amazing Spider-Man #550 (2008)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Lily (Black dyed blonde);  Menace (red)\n", 
+    "height": 66, 
+    "id": "Menace", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "William \"Bill\" Hollister (father), mother (unidentified)", 
+    "occupation": [
+        "Terrorist", 
+        "Socialite"
+    ], 
+    "origin": "(The origin of Menace revealed) Amazing Spider-Man 586 (2009)", 
+    "placeofbirth": [
+        "St. Albans", 
+        "Queens", 
+        "New York"
+    ], 
+    "powers": "Menace possesses superhuman strength (lifting five tons); this is a superhuman augmentation granted by the absorption of the Goblin serum .", 
+    "realname": "Lily Hollister", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

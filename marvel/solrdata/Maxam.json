@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "None", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tutored by Master Ecclaw", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(Pictured) Warlock and the Infinity Watch #12 (1993); [fully; identified] Warlock and the Infinity Watch #16 (1993)\n", 
-            "groupaffiliation": "Formerly the Infinity Watch", 
-            "hair": "Black\n", 
-            "height": 70, 
-            "id": "Maxam", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Warrior", 
-            "origin": [
-                "Warlock Chronicles #6 (1993)", 
-                "Warlock and the Infinity Watch #26 (1994)", 
-                "Warlock and the Infinity Watch #41 (1995)"
-            ], 
-            "realname": "Maxam", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 260
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "None", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tutored by Master Ecclaw", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(Pictured) Warlock and the Infinity Watch #12 (1993); [fully; identified] Warlock and the Infinity Watch #16 (1993)\n", 
+    "groupaffiliation": "Formerly the Infinity Watch", 
+    "hair": "Black\n", 
+    "height": 70, 
+    "id": "Maxam", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Warrior", 
+    "origin": [
+        "Warlock Chronicles #6 (1993)", 
+        "Warlock and the Infinity Watch #26 (1994)", 
+        "Warlock and the Infinity Watch #41 (1995)"
+    ], 
+    "realname": "Maxam", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 260
 }

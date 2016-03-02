@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "When Greg came to Manhattan to attend New York University, he planned to join the ranks of New York's super-hero population, even intending to market his image. In his first costumed exploits as Gravity, he intervened during a battle between the New Warriors' Rage and the villain Dark Death, mistaking Rage for the villain in the battle. In the weeks that passed, he triumphed over the Rhino in battle and befriended the super-hero the Greenwich Guardian, but he found that super-heroing monopolized his time.  When the Greenwich Guardian disappeared during patrol just before Black Death returned, Willis took a break from being Gravity, focusing instead on a relationship with his classmate Lauren Singh.", 
-            "durability": 1, 
-            "education": "College Student", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Gravity #1 (2005)\n", 
-            "groupaffiliation": "League of Losers", 
-            "hair": "Brown\n", 
-            "height": 70, 
-            "id": "Gravity", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Richard Willis (father), Mary Willis (mother)", 
-            "occupation": [
-                "Student", 
-                "former protector of the Universe"
-            ], 
-            "origin": "Gravity #5 (2005)", 
-            "placeofbirth": [
-                "Sheboygan", 
-                "Wisconsin"
-            ], 
-            "powers": "Gravity possessed a second skin composed of gravitons, which he has learned to employ controlling the forces of Earth's gravity upon him and any solid matter he comes in contact with. By mentally pushing the gravitons in various manners, he can levitate, take giant leaps as if he was on the moon, and even fly. He could also even use the field to imitate feats of strength and affect the acceleration of any object he touches.", 
-            "realname": "Greg Willis", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "When Greg came to Manhattan to attend New York University, he planned to join the ranks of New York's super-hero population, even intending to market his image. In his first costumed exploits as Gravity, he intervened during a battle between the New Warriors' Rage and the villain Dark Death, mistaking Rage for the villain in the battle. In the weeks that passed, he triumphed over the Rhino in battle and befriended the super-hero the Greenwich Guardian, but he found that super-heroing monopolized his time.  When the Greenwich Guardian disappeared during patrol just before Black Death returned, Willis took a break from being Gravity, focusing instead on a relationship with his classmate Lauren Singh.", 
+    "durability": 1, 
+    "education": "College Student", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Gravity #1 (2005)\n", 
+    "groupaffiliation": "League of Losers", 
+    "hair": "Brown\n", 
+    "height": 70, 
+    "id": "Gravity", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Richard Willis (father), Mary Willis (mother)", 
+    "occupation": [
+        "Student", 
+        "former protector of the Universe"
+    ], 
+    "origin": "Gravity #5 (2005)", 
+    "placeofbirth": [
+        "Sheboygan", 
+        "Wisconsin"
+    ], 
+    "powers": "Gravity possessed a second skin composed of gravitons, which he has learned to employ controlling the forces of Earth's gravity upon him and any solid matter he comes in contact with. By mentally pushing the gravitons in various manners, he can levitate, take giant leaps as if he was on the moon, and even fly. He could also even use the field to imitate feats of strength and affect the acceleration of any object he touches.", 
+    "realname": "Greg Willis", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

@@ -1,23 +1,19 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "English", 
-            "content": "Victoria was later deemed via calculations as the ideal mate for Yandroth.  Doctor Strange was able to rescue her from the Scientist Supreme.When England was transformed into a fascist state by Sir James Jaspers, Victoria nursed fellow captive Psylocke back to health.In preparation for his battle with Shuma-Gorath, Doctor Strange used black magic to steal Victoria's magic potential. Strange returned the power to her after Shuma-Gorath's defeat.Victoria also befriended the Black Knight (Dane Whitman). Garrett Castle was located nearby land owned by the Bentley family. She became the castle's caretaker while Whitman was in the Crusades.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #\n", 
-            "id": "Bentley,_Victoria", 
-            "identity": "Public", 
-            "intelligence": 1, 
-            "knownrelatives": "Clive Bentley (father, deceased)", 
-            "occupation": "Landowner", 
-            "powers": "Victoria possessed great magic potential, although she seemed unaware of how to use it.", 
-            "realname": "Victoria Bentley", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "English", 
+    "content": "Victoria was later deemed via calculations as the ideal mate for Yandroth.  Doctor Strange was able to rescue her from the Scientist Supreme.When England was transformed into a fascist state by Sir James Jaspers, Victoria nursed fellow captive Psylocke back to health.In preparation for his battle with Shuma-Gorath, Doctor Strange used black magic to steal Victoria's magic potential. Strange returned the power to her after Shuma-Gorath's defeat.Victoria also befriended the Black Knight (Dane Whitman). Garrett Castle was located nearby land owned by the Bentley family. She became the castle's caretaker while Whitman was in the Crusades.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #\n", 
+    "id": "Bentley,_Victoria", 
+    "identity": "Public", 
+    "intelligence": 1, 
+    "knownrelatives": "Clive Bentley (father, deceased)", 
+    "occupation": "Landowner", 
+    "powers": "Victoria possessed great magic potential, although she seemed unaware of how to use it.", 
+    "realname": "Victoria Bentley", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

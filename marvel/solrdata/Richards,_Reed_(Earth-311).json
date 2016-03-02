@@ -1,18 +1,14 @@
 {
-    "add": {
-        "doc": {
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "groupaffiliation": "Fantastick Four (Earth-311)", 
-            "id": "Richards,_Reed_(Earth-311)", 
-            "intelligence": 1, 
-            "origin": "1602 #4", 
-            "realname": "Reed Richards", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel 1602 (Earth-311)"
-        }
-    }
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "groupaffiliation": "Fantastick Four (Earth-311)", 
+    "id": "Richards,_Reed_(Earth-311)", 
+    "intelligence": 1, 
+    "origin": "1602 #4", 
+    "realname": "Reed Richards", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel 1602 (Earth-311)"
 }

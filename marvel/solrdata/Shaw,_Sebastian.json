@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Black King", 
-                "Lord Imperial"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "The tycoon was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle. Shaw ousted the White King, then-current leader of the Circle, when the King failed in his plans to use the Circle to back Dr. Stephen Lang's first creation of the mutant-hunting Sentinel robots. Shaw became the Black King and leader of the Inner Circle and Hellfire Club. He was always accompanied by Tessa, his loyal and enigmatic aide, although in recent years she was revealed to have been a plant used by Professor X to keep tabs on Shaw and the developing Sentinel technology.Sebastian kept the mutant nature of the Inner Circle secret from the rest of the Hellfire Club. Along with Emma Frost, the White Queen, Shaw used the organization's connections to further his goals of world domination through political and economical means. Shaw Industries even began a relationship with the United States' covert Project: Wideawake, manufacturing and developing Sentinel technology. Shaw had to overcome many attempts to usurp his leadership, including a challenge from renegade White Bishop (Donald Pierce), the infiltration of the Club by the X-Men, and overt hostility from Selene, the Black Queen.Shaw\u2019s Hellfire Club was destroyed when his son, Shinobi, amassed a private fortune of his own and bought out Shaw Industries from under his father's feet. Confronting Sebastian Shaw with this coup at his father\u2019s retreat in Interlaken, Switzerland, Shinobi drove his father into a rage before using his mutant abilities to slay his father. Taking Shaw's ring as the symbol of his victory, he announced his triumph and claimed his father's place as Black King of the Inner Circle of the Hellfire Club.Sebastian did not die, however, and spent some time recuperating and building back his resources by allying with his company\u2019s Asian counterparts. Once he built up enough resources, he forcibly took back Shaw Industries. He also began rebuilding the Hellfire Club, using Tessa, Selene, and Holocaust. This new Hellfire Club discovered a recently-resurrected Madelyne Pryor, and Selene offered her a place among them after she had a falling-out with her resurrector, the X-Man. Sebastian and Madelyne soon fell in love. However, this was not to last. Shaw hoped to acquire futuristic technology used by Apocalypse, but he was betrayed by Madelyne, who warned Cable of Shaw\u2019s plans in time for Cable to stop them. Madelyne left Sebastian to return to Nate Grey, the X-Man.When Tessa had revealed that her years of service were all a cover for Xavier, Sebastian was determined to have revenge. He tried to frame her new team, the X-Men, for a murder of a Australian crime lord, which he also hoped would spark a turf war among the crime families that would ultimately leave himself in a position of power. The X-Men exposed Sebastian\u2019s plot, however, with the help of the Red Lotus.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Uncanny X-Men #129\n", 
-            "groupaffiliation": "Hellfire Club (Inner Circle)", 
-            "hair": "Black\n", 
-            "height": 74, 
-            "id": "Shaw,_Sebastian", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Hiram Shaw (great-great grandfather, deceased), Obadiah Shaw (great-grandfather, deceased), Cornelius Shaw (grandfather, deceased), Jacob Shaw (father, deceased), Esau Shaw (uncle, deceased), Shinobi Shaw (son)", 
-            "occupation": "Shaw Industries", 
-            "placeofbirth": [
-                "Pittsburgh", 
-                "Pennsylvania"
-            ], 
-            "powers": "Able to absorb kinetic energy and rechannel it into superhuman strength, speed and durability. He has recently shown slight telepathic abilities and possibly enhanced senses.", 
-            "realname": "Sebastian Hiram Shaw", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 210
-        }
-    }
+    "aliases": [
+        "Black King", 
+        "Lord Imperial"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "The tycoon was invited to join the elite Hellfire Club and quickly worked his way into a position within the Inner Circle. Shaw ousted the White King, then-current leader of the Circle, when the King failed in his plans to use the Circle to back Dr. Stephen Lang's first creation of the mutant-hunting Sentinel robots. Shaw became the Black King and leader of the Inner Circle and Hellfire Club. He was always accompanied by Tessa, his loyal and enigmatic aide, although in recent years she was revealed to have been a plant used by Professor X to keep tabs on Shaw and the developing Sentinel technology.Sebastian kept the mutant nature of the Inner Circle secret from the rest of the Hellfire Club. Along with Emma Frost, the White Queen, Shaw used the organization's connections to further his goals of world domination through political and economical means. Shaw Industries even began a relationship with the United States' covert Project: Wideawake, manufacturing and developing Sentinel technology. Shaw had to overcome many attempts to usurp his leadership, including a challenge from renegade White Bishop (Donald Pierce), the infiltration of the Club by the X-Men, and overt hostility from Selene, the Black Queen.Shaw\u2019s Hellfire Club was destroyed when his son, Shinobi, amassed a private fortune of his own and bought out Shaw Industries from under his father's feet. Confronting Sebastian Shaw with this coup at his father\u2019s retreat in Interlaken, Switzerland, Shinobi drove his father into a rage before using his mutant abilities to slay his father. Taking Shaw's ring as the symbol of his victory, he announced his triumph and claimed his father's place as Black King of the Inner Circle of the Hellfire Club.Sebastian did not die, however, and spent some time recuperating and building back his resources by allying with his company\u2019s Asian counterparts. Once he built up enough resources, he forcibly took back Shaw Industries. He also began rebuilding the Hellfire Club, using Tessa, Selene, and Holocaust. This new Hellfire Club discovered a recently-resurrected Madelyne Pryor, and Selene offered her a place among them after she had a falling-out with her resurrector, the X-Man. Sebastian and Madelyne soon fell in love. However, this was not to last. Shaw hoped to acquire futuristic technology used by Apocalypse, but he was betrayed by Madelyne, who warned Cable of Shaw\u2019s plans in time for Cable to stop them. Madelyne left Sebastian to return to Nate Grey, the X-Man.When Tessa had revealed that her years of service were all a cover for Xavier, Sebastian was determined to have revenge. He tried to frame her new team, the X-Men, for a murder of a Australian crime lord, which he also hoped would spark a turf war among the crime families that would ultimately leave himself in a position of power. The X-Men exposed Sebastian\u2019s plot, however, with the help of the Red Lotus.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Uncanny X-Men #129\n", 
+    "groupaffiliation": "Hellfire Club (Inner Circle)", 
+    "hair": "Black\n", 
+    "height": 74, 
+    "id": "Shaw,_Sebastian", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Hiram Shaw (great-great grandfather, deceased), Obadiah Shaw (great-grandfather, deceased), Cornelius Shaw (grandfather, deceased), Jacob Shaw (father, deceased), Esau Shaw (uncle, deceased), Shinobi Shaw (son)", 
+    "occupation": "Shaw Industries", 
+    "placeofbirth": [
+        "Pittsburgh", 
+        "Pennsylvania"
+    ], 
+    "powers": "Able to absorb kinetic energy and rechannel it into superhuman strength, speed and durability. He has recently shown slight telepathic abilities and possibly enhanced senses.", 
+    "realname": "Sebastian Hiram Shaw", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 210
 }

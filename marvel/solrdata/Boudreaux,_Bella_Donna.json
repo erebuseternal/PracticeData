@@ -1,51 +1,47 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Belladonna", 
-                "Belle", 
-                "Bel"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Over the ensuing years, Bella\u2019s own mutant powers manifested, and she grew bitter toward LeBeau for abandoning her. The External Candra was a driving force behind the Assassins\u2019 Guild, and she too held a grudge against LeBeau. Candra perpetuated Bella\u2019s hatred for him, and even assisted her in developing her mutant powers. Subsequently, at a time when the Guilds were being infiltrated by the insectoid alien Brood, Bella sought LeBeau, now Gambit of the X-Men, to help in opposing them and allied with them and the Spirit of Vengeance Ghost Rider (Daniel Ketch) against the Brood. Bella was instrumental in defeating the Brood Queen, but nearly died from the strain and fell into a coma. Gambit was able to obtain the Elixir of Life from Candra to heal Bella; however, during the process, Gambit\u2019s lover and X-Men teammate Rogue accidentally touched Bella, thus unwittingly absorbing some of her memories. As a result, Bella awoke without any knowledge of who she was or her past with Gambit.Eventually Bella\u2019s memories returned and, following her father\u2019s death, she assumed leadership of the Assassins\u2019 Guild. Seeking revenge, Bella kidnapped Rogue\u2019s childhood friend Cody, luring Rogue into a fight. Bella had Candra strip both Bella\u2019s and Rogue\u2019s powers, but Rogue was still able to defeat her. Later, Bella took advantage of several contracts taken out on Gambit\u2019s life by the New Son, the Gambit of an alternate reality. Gambit had since become patriarch of the Thieves\u2019 Guild, and Bella confronted him after he defeated the mercenaries hired to kill him. They became trapped in a collapsed building, wherein they reconciled their differences after Bella confessed that she still loved him. They agreed to work together in uniting the Guilds, and though Gambit was initially voted in as leader, he eventually stepped down and Bella took up the position.", 
-            "durability": 2, 
-            "education": "Unrevealed", 
-            "energy": 3, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "X-Men #8 (1992)\n", 
-            "groupaffiliation": [
-                "Unified Guilds (viceroy)", 
-                "formerly Assassins' Guild (matriarch)"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 72, 
-            "id": "Boudreaux,_Bella_Donna", 
-            "identity": "No dual identity", 
-            "intelligence": 2, 
-            "knownrelatives": "Marius Boudreaux (father, deceased), Julien Boudreaux (brother, deceased), Remy LeBeau (Gambit, ex-husband), Jean-Luc LeBeau (ex-father-in-law), Henri LeBeau (ex-brother-in-law, deceased)", 
-            "occupation": "Assassin", 
-            "origin": "Gambit #1 (1999)", 
-            "placeofbirth": [
-                "New Orleans", 
-                "Louisiana"
-            ], 
-            "powers": "Bella Donna can generate blasts of plasma from her hands. She also possesses psionic abilities to an unknown degree.", 
-            "realname": "Bella Donna Boudreaux", 
-            "significantissues": [
-                "Married Gambit (Gambit #1, 1999)", 
-                "with X-Men & Ghost Rider, opposed Brood, nearly killed (X-Men #8/Ghost Rider #26/X-Men #9, 1992)", 
-                "in coma, memories absorbed by Rogue, healed by Elixir of Life (Gambit #2-4, 1994)", 
-                "became leader of Assassins\u2019 Guild (X-Men #39, 1994)", 
-                "sought revenge on Rogue (Rogue #1-4, 1995)", 
-                "took out contract on Gambit\u2019s life (Gambit #15, 2000)", 
-                "reconciled with Gambit, agreed to unite Guilds (Gambit #19, 2000)", 
-                "romanced Bandit, betrayed by him (Gambit #11-12, 2005)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": [
+        "Belladonna", 
+        "Belle", 
+        "Bel"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Over the ensuing years, Bella\u2019s own mutant powers manifested, and she grew bitter toward LeBeau for abandoning her. The External Candra was a driving force behind the Assassins\u2019 Guild, and she too held a grudge against LeBeau. Candra perpetuated Bella\u2019s hatred for him, and even assisted her in developing her mutant powers. Subsequently, at a time when the Guilds were being infiltrated by the insectoid alien Brood, Bella sought LeBeau, now Gambit of the X-Men, to help in opposing them and allied with them and the Spirit of Vengeance Ghost Rider (Daniel Ketch) against the Brood. Bella was instrumental in defeating the Brood Queen, but nearly died from the strain and fell into a coma. Gambit was able to obtain the Elixir of Life from Candra to heal Bella; however, during the process, Gambit\u2019s lover and X-Men teammate Rogue accidentally touched Bella, thus unwittingly absorbing some of her memories. As a result, Bella awoke without any knowledge of who she was or her past with Gambit.Eventually Bella\u2019s memories returned and, following her father\u2019s death, she assumed leadership of the Assassins\u2019 Guild. Seeking revenge, Bella kidnapped Rogue\u2019s childhood friend Cody, luring Rogue into a fight. Bella had Candra strip both Bella\u2019s and Rogue\u2019s powers, but Rogue was still able to defeat her. Later, Bella took advantage of several contracts taken out on Gambit\u2019s life by the New Son, the Gambit of an alternate reality. Gambit had since become patriarch of the Thieves\u2019 Guild, and Bella confronted him after he defeated the mercenaries hired to kill him. They became trapped in a collapsed building, wherein they reconciled their differences after Bella confessed that she still loved him. They agreed to work together in uniting the Guilds, and though Gambit was initially voted in as leader, he eventually stepped down and Bella took up the position.", 
+    "durability": 2, 
+    "education": "Unrevealed", 
+    "energy": 3, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "X-Men #8 (1992)\n", 
+    "groupaffiliation": [
+        "Unified Guilds (viceroy)", 
+        "formerly Assassins' Guild (matriarch)"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 72, 
+    "id": "Boudreaux,_Bella_Donna", 
+    "identity": "No dual identity", 
+    "intelligence": 2, 
+    "knownrelatives": "Marius Boudreaux (father, deceased), Julien Boudreaux (brother, deceased), Remy LeBeau (Gambit, ex-husband), Jean-Luc LeBeau (ex-father-in-law), Henri LeBeau (ex-brother-in-law, deceased)", 
+    "occupation": "Assassin", 
+    "origin": "Gambit #1 (1999)", 
+    "placeofbirth": [
+        "New Orleans", 
+        "Louisiana"
+    ], 
+    "powers": "Bella Donna can generate blasts of plasma from her hands. She also possesses psionic abilities to an unknown degree.", 
+    "realname": "Bella Donna Boudreaux", 
+    "significantissues": [
+        "Married Gambit (Gambit #1, 1999)", 
+        "with X-Men & Ghost Rider, opposed Brood, nearly killed (X-Men #8/Ghost Rider #26/X-Men #9, 1992)", 
+        "in coma, memories absorbed by Rogue, healed by Elixir of Life (Gambit #2-4, 1994)", 
+        "became leader of Assassins\u2019 Guild (X-Men #39, 1994)", 
+        "sought revenge on Rogue (Rogue #1-4, 1995)", 
+        "took out contract on Gambit\u2019s life (Gambit #15, 2000)", 
+        "reconciled with Gambit, agreed to unite Guilds (Gambit #19, 2000)", 
+        "romanced Bandit, betrayed by him (Gambit #11-12, 2005)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

@@ -1,50 +1,46 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Timebreaker", 
-            "citizenship": "Inapplicable", 
-            "content": "The Timebroker claims he is truly an artificial construct - a figment cobbled together from the Exiles' collective unconscious - a way for their individual minds to cope with an unreal situation. Various members of the team have questioned his existence and have received only vague answers to any doubts they might have expressed. Giving Blink a Tallus, a bracelet device that instructs them on their missions, the Timebroker sent them on their way.The Timebroker has interfered with the Exiles' missions on a few occasions. During the team's first meeting with Weapon X, he told the Exiles and a defecting Sabretooth that by not killing a young David Richards they would remain in this reality forever. In order to avoid killing, the Timebroker agreed that Sabretooth could stay behind with the child to make sure he did not become a destructive force. The two teams moved on.The second time he appeared was after the media mogul known as Mojo kidnapped the Exiles. Morph was about to kill Mojo when The Timebroker stopped him, claiming it would damage the timestream.He also intruded on a mission when the Exiles appeared in the mainstream Marvel Universe. The Timebroker destroyed a disembodied evil Havok entity. How this ties into his role as a figment of the Exiles' imagination is unknown but it was at this point when questions began to arise about his true nature.As the missions continued, The Timebroker seemed to develop two divergent personalities - one evil and vindictive, the other fatherly and supportive. The Timebroker would later claim this was due to the many conflicting personalities on the Weapon X and Exiles teams. The Timebroker attempted to fix this problem by having the two teams battle each other, trying to expunge the multiple personalities like a virus. It appeared to work. Following the death of most of the Weapon X team and Magik, the Timebroker returned to his former jovial self.", 
-            "durability": 1, 
-            "education": "Inapplicable", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Exiles #1 (2001)\n", 
-            "groupaffiliation": [
-                "Exiles", 
-                "formelly: Weapon X"
-            ], 
-            "hair": "Black\n", 
-            "height": 67, 
-            "id": "Timebroker_(Exiles)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Inapplicable", 
-            "occupation": "Interdimensional Guide", 
-            "origin": "Exiles #63 (2005)", 
-            "placeofbirth": [
-                "Crystal Palace", 
-                "Central Control Room"
-            ], 
-            "powers": "The Timebroker appears to be an entity able to travel through separate quantum realities and remove people from their timelines. He has stopped time in order to speak with the Exiles privately, but this could be just brief moments in time that he stretches out to accommodate their meetings. What his true power level is or where this power comes from is unknown.", 
-            "realname": "Timebroker", 
-            "significantissues": [
-                "came to get Exiles back from Mojo (Exiles #19, 2003)", 
-                "brought a Magik to replace Blink (Exiles #22, 2003)", 
-                "eliminated Alex Summers bad persona (Exiles #30, 2003)", 
-                "brought the group back together again (Exiles #35, 2003)", 
-                "told Morph that he could go home, but he decided to stay with the group (Exiles #45, 2004)", 
-                "recruited Beak (Exiles #48, 2004)", 
-                "told them to kill their teammate Mimic (Exiles #59, 2005)", 
-                "revealed that Timebroker is a artificial construct (Exiles #63, 2005)", 
-                "fired the Exiles (Exiles #84, 2006)", 
-                "recruited new team of Exiles (Exiles #85, 2006)", 
-                ""
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Multiversal", 
-            "weight": 200
-        }
-    }
+    "aliases": "Timebreaker", 
+    "citizenship": "Inapplicable", 
+    "content": "The Timebroker claims he is truly an artificial construct - a figment cobbled together from the Exiles' collective unconscious - a way for their individual minds to cope with an unreal situation. Various members of the team have questioned his existence and have received only vague answers to any doubts they might have expressed. Giving Blink a Tallus, a bracelet device that instructs them on their missions, the Timebroker sent them on their way.The Timebroker has interfered with the Exiles' missions on a few occasions. During the team's first meeting with Weapon X, he told the Exiles and a defecting Sabretooth that by not killing a young David Richards they would remain in this reality forever. In order to avoid killing, the Timebroker agreed that Sabretooth could stay behind with the child to make sure he did not become a destructive force. The two teams moved on.The second time he appeared was after the media mogul known as Mojo kidnapped the Exiles. Morph was about to kill Mojo when The Timebroker stopped him, claiming it would damage the timestream.He also intruded on a mission when the Exiles appeared in the mainstream Marvel Universe. The Timebroker destroyed a disembodied evil Havok entity. How this ties into his role as a figment of the Exiles' imagination is unknown but it was at this point when questions began to arise about his true nature.As the missions continued, The Timebroker seemed to develop two divergent personalities - one evil and vindictive, the other fatherly and supportive. The Timebroker would later claim this was due to the many conflicting personalities on the Weapon X and Exiles teams. The Timebroker attempted to fix this problem by having the two teams battle each other, trying to expunge the multiple personalities like a virus. It appeared to work. Following the death of most of the Weapon X team and Magik, the Timebroker returned to his former jovial self.", 
+    "durability": 1, 
+    "education": "Inapplicable", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Exiles #1 (2001)\n", 
+    "groupaffiliation": [
+        "Exiles", 
+        "formelly: Weapon X"
+    ], 
+    "hair": "Black\n", 
+    "height": 67, 
+    "id": "Timebroker_(Exiles)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Inapplicable", 
+    "occupation": "Interdimensional Guide", 
+    "origin": "Exiles #63 (2005)", 
+    "placeofbirth": [
+        "Crystal Palace", 
+        "Central Control Room"
+    ], 
+    "powers": "The Timebroker appears to be an entity able to travel through separate quantum realities and remove people from their timelines. He has stopped time in order to speak with the Exiles privately, but this could be just brief moments in time that he stretches out to accommodate their meetings. What his true power level is or where this power comes from is unknown.", 
+    "realname": "Timebroker", 
+    "significantissues": [
+        "came to get Exiles back from Mojo (Exiles #19, 2003)", 
+        "brought a Magik to replace Blink (Exiles #22, 2003)", 
+        "eliminated Alex Summers bad persona (Exiles #30, 2003)", 
+        "brought the group back together again (Exiles #35, 2003)", 
+        "told Morph that he could go home, but he decided to stay with the group (Exiles #45, 2004)", 
+        "recruited Beak (Exiles #48, 2004)", 
+        "told them to kill their teammate Mimic (Exiles #59, 2005)", 
+        "revealed that Timebroker is a artificial construct (Exiles #63, 2005)", 
+        "fired the Exiles (Exiles #84, 2006)", 
+        "recruited new team of Exiles (Exiles #85, 2006)", 
+        ""
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Multiversal", 
+    "weight": 200
 }

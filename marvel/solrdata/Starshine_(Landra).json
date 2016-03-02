@@ -1,25 +1,21 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Galador", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Rom #1 (1979)\n", 
-            "groupaffiliation": "Spaceknights", 
-            "id": "Starshine_(Landra)", 
-            "identity": "Publicly known on the planet of Galador", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Adventurer", 
-            "placeofbirth": "Unknown location on Galador", 
-            "powers": "Starshine was able to survive within the cold vacuum of space, project bright laser eye beams and teleport her and at least one other person across interstellar distances.", 
-            "realname": "Landra", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Galador", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Rom #1 (1979)\n", 
+    "groupaffiliation": "Spaceknights", 
+    "id": "Starshine_(Landra)", 
+    "identity": "Publicly known on the planet of Galador", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Adventurer", 
+    "placeofbirth": "Unknown location on Galador", 
+    "powers": "Starshine was able to survive within the cold vacuum of space, project bright laser eye beams and teleport her and at least one other person across interstellar distances.", 
+    "realname": "Landra", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

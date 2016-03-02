@@ -1,59 +1,55 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lost Lord of K'un-Lun", 
-                "Master of the Sacred Arts", 
-                "Master of the World", 
-                "Masterlord", 
-                "Oldest of all Wizards", 
-                "formerly Tyrone King", 
-                "unidentified guardian of Bobby Wright"
-            ], 
-            "citizenship": [
-                "None", 
-                "formerly had false U.S. citizenship as Tyrone King", 
-                "possibly former Halwan citizen"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Extensively self-taught", 
-            "energy": 1, 
-            "eyes": "Red (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "Strange Tales #77 (1960)\n", 
-            "groupaffiliation": [
-                "House of Thysslia", 
-                "unidentified order of sorcerers and/or pantheon of gods"
-            ], 
-            "hair": "Black (variable)\n", 
-            "height": 74, 
-            "id": "Master_Khan", 
-            "identity": [
-                "No dual identity", 
-                "existence unknown to Earth's general public"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified wife, daughter and other children (all deceased)", 
-            "occupation": [
-                "Sorcerer", 
-                "God of K'un-Lun"
-            ], 
-            "origin": [
-                "Iron Fist #7 (1976)", 
-                "Power Man and Iron Fist #75 & 119 (1981 & 1985)"
-            ], 
-            "placeofbirth": [
-                "Unrevealed", 
-                "possibly Halwan"
-            ], 
-            "powers": "Khan's powers waxes and wanes, based on the worship - including blood sacrifice - of the K'un-Lun people. Under certain circumstances, usually requiring outside assistance via an arcane items - such as the Jade Crystal, Jade Tiger or the Power Gem of Quon - Khan can travel interdimensionally, specifically between Earth and K'un-Lun.", 
-            "realname": "Khan", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": [
+        "Lost Lord of K'un-Lun", 
+        "Master of the Sacred Arts", 
+        "Master of the World", 
+        "Masterlord", 
+        "Oldest of all Wizards", 
+        "formerly Tyrone King", 
+        "unidentified guardian of Bobby Wright"
+    ], 
+    "citizenship": [
+        "None", 
+        "formerly had false U.S. citizenship as Tyrone King", 
+        "possibly former Halwan citizen"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Extensively self-taught", 
+    "energy": 1, 
+    "eyes": "Red (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "Strange Tales #77 (1960)\n", 
+    "groupaffiliation": [
+        "House of Thysslia", 
+        "unidentified order of sorcerers and/or pantheon of gods"
+    ], 
+    "hair": "Black (variable)\n", 
+    "height": 74, 
+    "id": "Master_Khan", 
+    "identity": [
+        "No dual identity", 
+        "existence unknown to Earth's general public"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified wife, daughter and other children (all deceased)", 
+    "occupation": [
+        "Sorcerer", 
+        "God of K'un-Lun"
+    ], 
+    "origin": [
+        "Iron Fist #7 (1976)", 
+        "Power Man and Iron Fist #75 & 119 (1981 & 1985)"
+    ], 
+    "placeofbirth": [
+        "Unrevealed", 
+        "possibly Halwan"
+    ], 
+    "powers": "Khan's powers waxes and wanes, based on the worship - including blood sacrifice - of the K'un-Lun people. Under certain circumstances, usually requiring outside assistance via an arcane items - such as the Jade Crystal, Jade Tiger or the Power Gem of Quon - Khan can travel interdimensionally, specifically between Earth and K'un-Lun.", 
+    "realname": "Khan", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Mercury (Roman name)", 
-                "Prince of Thieves", 
-                "Hermes Trismegistus", 
-                "Cyllenius"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tutored by sea nymphs", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(Mercury) Venus #3 (1948); (Hermes) Thor #129 (1966)\n", 
-            "groupaffiliation": [
-                "Olympians", 
-                "the Olympus Group/Dodekatheon"
-            ], 
-            "hair": "Strawberry-blonde\n", 
-            "height": 71, 
-            "id": "Hermes", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Zeus (father), Maia (mother), Hera (step-mother), Atlas (maternal grandfather), Poseidon, Hades (uncles), Heracles, Ares, Hephaestus, Apollo, Dionysus (half-brothers), Aphrodite, Pallas Athena, Artemis, Eileithyia, Hebe, Discord, Pandia (half-sisters), Pan (son), Autolycus (son, deceased), Odysseus (descendant, deceased)", 
-            "occupation": [
-                "Herald of Zeus", 
-                "messenger of the gods", 
-                "god of scribes", 
-                "commerce", 
-                "travelers and thieves"
-            ], 
-            "placeofbirth": [
-                "Mount Kkyllinii", 
-                "Arcadia (near modern-day Corinth", 
-                "Greece)"
-            ], 
-            "powers": "Hyper speed, able to reach more than mach 5, high healing rate,", 
-            "realname": "Hermes", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 520
-        }
-    }
+    "aliases": [
+        "Mercury (Roman name)", 
+        "Prince of Thieves", 
+        "Hermes Trismegistus", 
+        "Cyllenius"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tutored by sea nymphs", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(Mercury) Venus #3 (1948); (Hermes) Thor #129 (1966)\n", 
+    "groupaffiliation": [
+        "Olympians", 
+        "the Olympus Group/Dodekatheon"
+    ], 
+    "hair": "Strawberry-blonde\n", 
+    "height": 71, 
+    "id": "Hermes", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Zeus (father), Maia (mother), Hera (step-mother), Atlas (maternal grandfather), Poseidon, Hades (uncles), Heracles, Ares, Hephaestus, Apollo, Dionysus (half-brothers), Aphrodite, Pallas Athena, Artemis, Eileithyia, Hebe, Discord, Pandia (half-sisters), Pan (son), Autolycus (son, deceased), Odysseus (descendant, deceased)", 
+    "occupation": [
+        "Herald of Zeus", 
+        "messenger of the gods", 
+        "god of scribes", 
+        "commerce", 
+        "travelers and thieves"
+    ], 
+    "placeofbirth": [
+        "Mount Kkyllinii", 
+        "Arcadia (near modern-day Corinth", 
+        "Greece)"
+    ], 
+    "powers": "Hyper speed, able to reach more than mach 5, high healing rate,", 
+    "realname": "Hermes", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 520
 }

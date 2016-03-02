@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Canada", 
-            "content": "Eventually expelled from college, Zuzha was forced to fend for herself and ultimately opened a tavern in the shadow of McGill University.  Doubling as both bartender and bouncer, Zuzha would often use her skills to break up bar fights between college students and her local patrons.  It was after one of these barroom brawls that Zuzha was approached by Dr. Walter Langowksi, the Canadian hero known as Sasquatch, and offered membership in a new incarnation of Alpha Flight.  Although Zuzha initially refused the offer, she was compelled to join the fledgling team after losing a bet to Langkowski.  In exchange for her cooperation, Langkowski promised to tell Zuzha his theories as to how she received her superhuman powers.", 
-            "durability": 1, 
-            "education": "College dropout", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Alpha Flight #1 (2004)\n", 
-            "groupaffiliation": "Alpha Flight", 
-            "hair": "Black\n", 
-            "height": 64, 
-            "id": "Puck_(Zuzha_Yu)", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "Eugene Milton Judd (Puck, father), unidentified mother", 
-            "occupation": [
-                "Adventurer", 
-                "tavern owner", 
-                "bartender", 
-                "bouncer", 
-                "former student"
-            ], 
-            "origin": "None", 
-            "placeofbirth": [
-                "Montreal", 
-                "Quebec", 
-                "Canada"
-            ], 
-            "powers": "Like her father, Zuzha possesses superhuman strength, speed, durability, agility, reflexes, and endurance.", 
-            "realname": "Zuzha Yu", 
-            "significantissues": [
-                "Recruited by Sasquatch into Alpha Flight (Alpha Flight #2, 2004)", 
-                "infiltrated Plodex ship to rescue original Alpha Flight (Alpha Flight #3-6, 2004)", 
-                "deceased (New Avengers #16, 2006)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 110
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Canada", 
+    "content": "Eventually expelled from college, Zuzha was forced to fend for herself and ultimately opened a tavern in the shadow of McGill University.  Doubling as both bartender and bouncer, Zuzha would often use her skills to break up bar fights between college students and her local patrons.  It was after one of these barroom brawls that Zuzha was approached by Dr. Walter Langowksi, the Canadian hero known as Sasquatch, and offered membership in a new incarnation of Alpha Flight.  Although Zuzha initially refused the offer, she was compelled to join the fledgling team after losing a bet to Langkowski.  In exchange for her cooperation, Langkowski promised to tell Zuzha his theories as to how she received her superhuman powers.", 
+    "durability": 1, 
+    "education": "College dropout", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Alpha Flight #1 (2004)\n", 
+    "groupaffiliation": "Alpha Flight", 
+    "hair": "Black\n", 
+    "height": 64, 
+    "id": "Puck_(Zuzha_Yu)", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "Eugene Milton Judd (Puck, father), unidentified mother", 
+    "occupation": [
+        "Adventurer", 
+        "tavern owner", 
+        "bartender", 
+        "bouncer", 
+        "former student"
+    ], 
+    "origin": "None", 
+    "placeofbirth": [
+        "Montreal", 
+        "Quebec", 
+        "Canada"
+    ], 
+    "powers": "Like her father, Zuzha possesses superhuman strength, speed, durability, agility, reflexes, and endurance.", 
+    "realname": "Zuzha Yu", 
+    "significantissues": [
+        "Recruited by Sasquatch into Alpha Flight (Alpha Flight #2, 2004)", 
+        "infiltrated Plodex ship to rescue original Alpha Flight (Alpha Flight #3-6, 2004)", 
+        "deceased (New Avengers #16, 2006)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 110
 }

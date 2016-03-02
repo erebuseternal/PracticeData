@@ -1,29 +1,25 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Bastion", 
-                "formerly Nicholas Hunter"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "height": 120, 
-            "id": "Nimrod_(Sentinel)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Sentinels, Master Mold, Tri-Sentinel, Bastion", 
-            "occupation": "Hunter", 
-            "powers": "Can alter size and appearance, disguise as a human, self reparation upon damage, built-in mutant and superhuman sensors, teleportation", 
-            "realname": "Nimrod", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": [
-                "Marvel Universe", 
-                "formerly Earth-811"
-            ], 
-            "weight": 550
-        }
-    }
+    "aliases": [
+        "Bastion", 
+        "formerly Nicholas Hunter"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "height": 120, 
+    "id": "Nimrod_(Sentinel)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Sentinels, Master Mold, Tri-Sentinel, Bastion", 
+    "occupation": "Hunter", 
+    "powers": "Can alter size and appearance, disguise as a human, self reparation upon damage, built-in mutant and superhuman sensors, teleportation", 
+    "realname": "Nimrod", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": [
+        "Marvel Universe", 
+        "formerly Earth-811"
+    ], 
+    "weight": 550
 }

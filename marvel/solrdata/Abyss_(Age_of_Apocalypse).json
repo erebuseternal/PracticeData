@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "During the evacuation of Maine, Abyss was in charge of stopping the X-Men and the Sentinels from helping the humans escape North America. He kidnapped a young boy and used him to draw Quicksilver into the open. Obviously obsessed with impressing Apocalypse by capturing the son of Magneto, Abyss abandoned his main goal of stopping the evacuation and allowed it to occur. He met Quicksilver but was unable to defeat the X-Men leader. Quicksilver was able to save the kidnapped boy and defeat Abyss with the help of his fellow X-Man, Storm.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Electric blue\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men: Alpha (1995)\n", 
-            "groupaffiliation": "Horsemen of Apocalypse", 
-            "hair": "Blue\n", 
-            "height": 0, 
-            "id": "Abyss_(Age_of_Apocalypse)", 
-            "identity": "Unrevealed", 
-            "intelligence": 1, 
-            "knownrelatives": "Mystique (mother), Nightcrawler (brother)", 
-            "occupation": [
-                "Horseman of Apocalypse", 
-                "caretaker of a fifth of Apocalypse's nation"
-            ], 
-            "placeofbirth": "Unknown", 
-            "powers": "Abyss is a mutant whose body is actually a portal to another dimension. It is possible this may be the same dimension that Nightcrawler travels through when he teleports. \nAbyss is also able to stretch his body and capture things in his tendril-like appendages, absorb some of their strength, and then deposit them in his pocket dimension. It is unknown whether anything can survive in this pocket dimension; it is possible that someday some of his victims could escape.\n\nAbyss also showed signs that he may have some sort of limited telepathy or empathy.", 
-            "realname": "Nils Styger", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": "Variable\n"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "During the evacuation of Maine, Abyss was in charge of stopping the X-Men and the Sentinels from helping the humans escape North America. He kidnapped a young boy and used him to draw Quicksilver into the open. Obviously obsessed with impressing Apocalypse by capturing the son of Magneto, Abyss abandoned his main goal of stopping the evacuation and allowed it to occur. He met Quicksilver but was unable to defeat the X-Men leader. Quicksilver was able to save the kidnapped boy and defeat Abyss with the help of his fellow X-Man, Storm.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Electric blue\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men: Alpha (1995)\n", 
+    "groupaffiliation": "Horsemen of Apocalypse", 
+    "hair": "Blue\n", 
+    "height": 0, 
+    "id": "Abyss_(Age_of_Apocalypse)", 
+    "identity": "Unrevealed", 
+    "intelligence": 1, 
+    "knownrelatives": "Mystique (mother), Nightcrawler (brother)", 
+    "occupation": [
+        "Horseman of Apocalypse", 
+        "caretaker of a fifth of Apocalypse's nation"
+    ], 
+    "placeofbirth": "Unknown", 
+    "powers": "Abyss is a mutant whose body is actually a portal to another dimension. It is possible this may be the same dimension that Nightcrawler travels through when he teleports. \nAbyss is also able to stretch his body and capture things in his tendril-like appendages, absorb some of their strength, and then deposit them in his pocket dimension. It is unknown whether anything can survive in this pocket dimension; it is possible that someday some of his victims could escape.\n\nAbyss also showed signs that he may have some sort of limited telepathy or empathy.", 
+    "realname": "Nils Styger", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": "Variable\n"
 }

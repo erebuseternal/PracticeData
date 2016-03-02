@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Dreamer", 
-                "Granter of Wishes"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "While searching through the lifeless hulk Abyss fell into a dark hole. There he found his greatest dream the Zalkor. The large obese creature that asked him for Skrimblatt. Beta-Metaphysical Skrimblatt, was a large leaf like substance that the creature fed off to survive. Abyss was ready and willing to transact the traditional bargain. The Skrimblatt was just out of Zalkor's reach, waiting for someone to bring it to the near omnipotent but immobile behemoth. In centuries past this service had been performed by Zalgodian High Priest, now long dead.Abyss bargained with Zalkor for the Skrimblatt. Making a deal that he would give it the behemoth only if he allowed Abyss to become his Kalorion. The Zalkor warned him of what he was requesting. In order to receive the power of the Kalorion, Abyss would have to relinquish his soul. Abyss quickly agreed to the terms of the bargain and the deal was made and Milos Abyss was no more, and soulless Kalorion, Count Abyss was born. He was a cosmic being with nearly godlike powers. On that day those two diverse creatures bonded in a fashion no one will probably understand. This was a union of master and slave, with each thinking the other subservient.Together they ruled the universe, in their particular reality. Nothing in their dimension could stand against them. World after world fell into submission, galaxy after galaxy paid homage to its new tyrant. Despite or maybe because of the loss of his soul to the Zalkor, Count Abyss proved to be an exceptionally vicious and merciless despot. Nearly anything Abyss requested the Zalkor granted it. There was very little that his magic could not accomplish. Count Abyss is only omnipotent within his own dimension, which is the Zalkor's sphere of reality. The Zalkor's power and might faded the further he or his agent ventured from their actuality. Although they proved that there powers could be used in other dimensions through pawns and magical potions. This was proven when Abyss used a Zalkor created love potion to seduce Adam Warlock into falling in love with Maya and eventually following her to Egolix-7 in his attempt to regain his soul.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Warlock and the Infinity Watch #23 (1992)\n", 
-            "groupaffiliation": "None", 
-            "hair": "None\n", 
-            "id": "Zalkor", 
-            "identity": "The general populace of Earth is unaware of the Zalkor's existence", 
-            "intelligence": 1, 
-            "knownrelatives": "None known", 
-            "occupation": [
-                "Master", 
-                "Would-be-Conqueror"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The immobile Zalkor was an omnipotent being, and his power was said to be immeasurable. Although the further he was from his dimension the weaker he would be come.", 
-            "realname": "Zalkor", 
-            "significantissues": [
-                "Gave love potion to Count Abyss (Warlock and the Infinity Watch #23, 1993)", 
-                "failed to recognize Count Abyss with the newly acquired soul of Judge Kray-Tor (Warlock and the Infinity Watch #33, 1994)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Dreamer", 
+        "Granter of Wishes"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "While searching through the lifeless hulk Abyss fell into a dark hole. There he found his greatest dream the Zalkor. The large obese creature that asked him for Skrimblatt. Beta-Metaphysical Skrimblatt, was a large leaf like substance that the creature fed off to survive. Abyss was ready and willing to transact the traditional bargain. The Skrimblatt was just out of Zalkor's reach, waiting for someone to bring it to the near omnipotent but immobile behemoth. In centuries past this service had been performed by Zalgodian High Priest, now long dead.Abyss bargained with Zalkor for the Skrimblatt. Making a deal that he would give it the behemoth only if he allowed Abyss to become his Kalorion. The Zalkor warned him of what he was requesting. In order to receive the power of the Kalorion, Abyss would have to relinquish his soul. Abyss quickly agreed to the terms of the bargain and the deal was made and Milos Abyss was no more, and soulless Kalorion, Count Abyss was born. He was a cosmic being with nearly godlike powers. On that day those two diverse creatures bonded in a fashion no one will probably understand. This was a union of master and slave, with each thinking the other subservient.Together they ruled the universe, in their particular reality. Nothing in their dimension could stand against them. World after world fell into submission, galaxy after galaxy paid homage to its new tyrant. Despite or maybe because of the loss of his soul to the Zalkor, Count Abyss proved to be an exceptionally vicious and merciless despot. Nearly anything Abyss requested the Zalkor granted it. There was very little that his magic could not accomplish. Count Abyss is only omnipotent within his own dimension, which is the Zalkor's sphere of reality. The Zalkor's power and might faded the further he or his agent ventured from their actuality. Although they proved that there powers could be used in other dimensions through pawns and magical potions. This was proven when Abyss used a Zalkor created love potion to seduce Adam Warlock into falling in love with Maya and eventually following her to Egolix-7 in his attempt to regain his soul.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Warlock and the Infinity Watch #23 (1992)\n", 
+    "groupaffiliation": "None", 
+    "hair": "None\n", 
+    "id": "Zalkor", 
+    "identity": "The general populace of Earth is unaware of the Zalkor's existence", 
+    "intelligence": 1, 
+    "knownrelatives": "None known", 
+    "occupation": [
+        "Master", 
+        "Would-be-Conqueror"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The immobile Zalkor was an omnipotent being, and his power was said to be immeasurable. Although the further he was from his dimension the weaker he would be come.", 
+    "realname": "Zalkor", 
+    "significantissues": [
+        "Gave love potion to Count Abyss (Warlock and the Infinity Watch #23, 1993)", 
+        "failed to recognize Count Abyss with the newly acquired soul of Judge Kray-Tor (Warlock and the Infinity Watch #33, 1994)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

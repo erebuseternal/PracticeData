@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Olympian", 
-            "content": "Mythology holds that Gaea, the sole remaining Elder God, gave birth to Ouranos. She then mated with him, and they parented the Olympians, the Titans. They resided in an interdimensional pocket universe in the city known as Olympus, though the City's origins are unrevealed. Ouranos was eventually slain by his son, Chronus, who feared the same treatment from his own children and he began imprisoning them in a dark underworld known as Hades. Before Chronus could similarly banish his sixth child, his wife Rhea fled through a dimensional portal to Earth, arriving near Greece's Mount Olympus, where the child was raised among the shepherds. After reaching adulthood this child, Zeus, freed his siblings Demeter, Hera, Poseidon, Pluto and Vesta from Hades and led the war against their father, a war they would eventually win. Zeus imprisoned most of the surviving Titans in Hades and set himself up as ruler of Olympus, taking his sister Hera as his queen. Pluto was asked to rule over the underworld and guard its prisoners, Poseidon was given dominion over Earth's seas, Demeter was assigned to watch over the land, and Vesta was to watch over the people.", 
-            "durability": 7, 
-            "education": "Tutored by minor goddess", 
-            "energy": 7, 
-            "eyes": "Blue\n", 
-            "fighting": 7, 
-            "firstappearance": "Journey into Mystery Annual #1 (1965)\n", 
-            "groupaffiliation": [
-                "Gods of Olympus", 
-                "Council of Godheads", 
-                "formerly the Olympus Group/Dodekatheon"
-            ], 
-            "hair": "White (originally red)\n", 
-            "height": 79, 
-            "id": "Zeus", 
-            "identity": "Secret", 
-            "intelligence": 7, 
-            "knownrelatives": "Chronus (father, Titan), Rhea (mother, Titan), Hera (sister/wife), Demeter and Vesta (sisters), Poseidon, and Pluto (brothers), Ares, Hephaestus (sons), Hercules, Apollo, Hermes, Dionysus (step-sons), Eris, Eileithyia, Hebe (daughters), Artemis, Athena, Aphrodite, Helen, Pandia, Persephone (step-daughters), Cupid, Deimos, Phobos (grandsons), Ouranus (grandfather), Gaea (grandmother)", 
-            "occupation": [
-                "Leader of the Pantheon", 
-                "King of the gods", 
-                "and god of weather", 
-                "fate", 
-                "law and order."
-            ], 
-            "placeofbirth": "Olympus", 
-            "powers": "Zeus possessed superhuman strength, healing and durability. He was immune to conventional diseases and impervious to most physical attacks.", 
-            "realname": "Zeus", 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 560
-        }
-    }
+    "citizenship": "Olympian", 
+    "content": "Mythology holds that Gaea, the sole remaining Elder God, gave birth to Ouranos. She then mated with him, and they parented the Olympians, the Titans. They resided in an interdimensional pocket universe in the city known as Olympus, though the City's origins are unrevealed. Ouranos was eventually slain by his son, Chronus, who feared the same treatment from his own children and he began imprisoning them in a dark underworld known as Hades. Before Chronus could similarly banish his sixth child, his wife Rhea fled through a dimensional portal to Earth, arriving near Greece's Mount Olympus, where the child was raised among the shepherds. After reaching adulthood this child, Zeus, freed his siblings Demeter, Hera, Poseidon, Pluto and Vesta from Hades and led the war against their father, a war they would eventually win. Zeus imprisoned most of the surviving Titans in Hades and set himself up as ruler of Olympus, taking his sister Hera as his queen. Pluto was asked to rule over the underworld and guard its prisoners, Poseidon was given dominion over Earth's seas, Demeter was assigned to watch over the land, and Vesta was to watch over the people.", 
+    "durability": 7, 
+    "education": "Tutored by minor goddess", 
+    "energy": 7, 
+    "eyes": "Blue\n", 
+    "fighting": 7, 
+    "firstappearance": "Journey into Mystery Annual #1 (1965)\n", 
+    "groupaffiliation": [
+        "Gods of Olympus", 
+        "Council of Godheads", 
+        "formerly the Olympus Group/Dodekatheon"
+    ], 
+    "hair": "White (originally red)\n", 
+    "height": 79, 
+    "id": "Zeus", 
+    "identity": "Secret", 
+    "intelligence": 7, 
+    "knownrelatives": "Chronus (father, Titan), Rhea (mother, Titan), Hera (sister/wife), Demeter and Vesta (sisters), Poseidon, and Pluto (brothers), Ares, Hephaestus (sons), Hercules, Apollo, Hermes, Dionysus (step-sons), Eris, Eileithyia, Hebe (daughters), Artemis, Athena, Aphrodite, Helen, Pandia, Persephone (step-daughters), Cupid, Deimos, Phobos (grandsons), Ouranus (grandfather), Gaea (grandmother)", 
+    "occupation": [
+        "Leader of the Pantheon", 
+        "King of the gods", 
+        "and god of weather", 
+        "fate", 
+        "law and order."
+    ], 
+    "placeofbirth": "Olympus", 
+    "powers": "Zeus possessed superhuman strength, healing and durability. He was immune to conventional diseases and impervious to most physical attacks.", 
+    "realname": "Zeus", 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 560
 }

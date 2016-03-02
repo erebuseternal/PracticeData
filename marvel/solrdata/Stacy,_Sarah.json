@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "France", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Privately tutored", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "groupaffiliation": "Interpol", 
-            "hair": "Blonde\n", 
-            "height": 67, 
-            "id": "Stacy,_Sarah", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Norman Osborn (father), Gwen Stacy (mother, deceased), Gabriel Stacy (brother), Harry Osborn (half-brother), Norman \"Normie\" Osborn Jr. (nephew), Ambrose Osborn (grandfather, deceased), Alton Osborn (great-grandfather, deceased), George Stacy (grandfather, deceased), Helen Stacy (grandmother), Arthur Stacy (uncle once removed), Nancy Stacy (aunt once removed, deceased), Paul Stacy (cousin once removed), Jill Stacy (cousin once removed)", 
-            "origin": "Amazing Spider-Man #509", 
-            "placeofbirth": [
-                "Paris", 
-                "France"
-            ], 
-            "powers": "Sarah was born with enhanced strength, durability, and healing rate.", 
-            "realname": "Sarah Stacy", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 115
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "France", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Privately tutored", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "groupaffiliation": "Interpol", 
+    "hair": "Blonde\n", 
+    "height": 67, 
+    "id": "Stacy,_Sarah", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Norman Osborn (father), Gwen Stacy (mother, deceased), Gabriel Stacy (brother), Harry Osborn (half-brother), Norman \"Normie\" Osborn Jr. (nephew), Ambrose Osborn (grandfather, deceased), Alton Osborn (great-grandfather, deceased), George Stacy (grandfather, deceased), Helen Stacy (grandmother), Arthur Stacy (uncle once removed), Nancy Stacy (aunt once removed, deceased), Paul Stacy (cousin once removed), Jill Stacy (cousin once removed)", 
+    "origin": "Amazing Spider-Man #509", 
+    "placeofbirth": [
+        "Paris", 
+        "France"
+    ], 
+    "powers": "Sarah was born with enhanced strength, durability, and healing rate.", 
+    "realname": "Sarah Stacy", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 115
 }

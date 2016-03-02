@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Paul St. Pierre", 
-            "citizenship": "France", 
-            "content": "The Grey Gargoyle, bored with lack of challenge to his crimes, decided to travel to America and wrest the secret of immortality from Thor. He was twice bested in combat by him before returning to what had proved more successful in the past-- pure mercenary endeavors. His first attempt was to steal a new cobalt-powered weapon from Stark Industries, and he was actually successful after transforming Iron Man\u2019s battle armor to stone. Iron Man returned when the Gargoyle\u2019s power wore off, stopping the villain by destroying the machinery he hoped to abscond with. Later, an attempted to acquire the deadly compound dubbed \"Element X\" went horribly wrong. He was confronted by Captain America, the Falcon, and Nick Fury, cornered, and accidentally shot into space.The Gargoyle found himself trapped aboard a satellite in Earth\u2019s orbit, where the subversive scientific organization Advanced Idea Mechanics rescued him. On their behalf, he joined their efforts to launch a satellite with heavy weaponry, fighting Captain America and Spider-Man, but was accidentally rocketed into space once more. In deep space, he was retrieved by the Bird of Prey, a pirate starship whose crew members were of various alien races. Ever out for himself, the Grey Gargoyle forced himself into command of the ship.The Bird of Prey encountered the starship StarJammer, used by Thor, Sif, and the Warriors Three in their adventure to the Doomsday Star. The Gargoyle had the heroes captured and conscripted to join the crew for slave labor. The heroes\u2019 ally, the Recorder, not only helped his friends escape but started a mutiny among the crew against the Grey Gargoyle. When the rebellion grew out of control, the Grey Gargoyle professed to want to join Thor in order to return to Earth. However, at the height of the battle, the Gargoyle tried to flee and seemed to have died in a violent explosion.In fact, Duval survived by created a stone-like cocoon around himself. Using the cocoon to travel through space, he managed to return to Earth, where he immediately battled the Avengers. In the process, his cocoon was destroyed, and he was taken into police custody. Duval was soon freed by villains of the fourth Masters of Evil organization, whose goal was to destroy the Avengers, but following a defeat at the hands of the Wasp and Black Knight, he was again returned to jail.Having broken out, Duval embarked on a unique plan. He created an artistic persona, Paul St. Pierre, and became a successful and highly sought-after sculptor. In fact, his statues were real people, transformed by his power and sealed with a special polymer compound that would make this change permanent. His plot was uncovered when Tony Stark attended his gallery, and he exposed the Gargoyle.The Grey Gargoyle was broken out of prison again, this time to join several master criminals in a coordinated attack on various heroes and sent to battle the Hulk. At the time, the Hulk possessed a gray alter-ego, and this confused Duval, who had thought that the Hulk had turned to stone but nonetheless kept moving. The Hulk summarily defeated the Gargoyle, breaking his arm, and left. The Grey Gargoyle continued to be a recurring villain in the lives of many heroes, battling the likes of Captain America and Spider-Man as part of Doctor Doom\u2019s \u201cDoom\u2019s Brigade,\u201d fighting She-Hulk, and being accosted by the  Black Widow. In the latter case, the Widow claimed a self-appointed mission to track down and destroy all of the Avengers\u2019 former enemies, and she seemed to obliterate the Grey Gargoyle, blasting his stone form into pieces.Later, Duval, somehow recovering from his previous encounter, was contacted by the Gideon Trust, a business executive board interested in using technology developed by the Fantastic Four for their own purposes. They bade the Grey Gargoyle to attack the Thing, in a sort of initiation to their employ. The Gargoyle seemed successful in turning the Thing into non-living stone, but he was defeated by the remaining members of the Fantastic Four. In addition, the Thing was able to break free of the Gargoyle\u2019s power as it kick-started his ability to transform into his human alter-ego and back again at will.Paul Duval returned to his initial goal of searching for Thor\u2019s secret to immortality when the death of a childhood friend affected him significantly. He attacked Thor Girl, Thor\u2019s associate Tarene, and actually managed to defeat her, leaving her for dead and stealing her magical hammer. Proclaiming himself to now be like a god, the Gargoyle was immediately confronted by Desak the God-Slayer who was searching for Thor. Desak defeated the Gargoyle with ease.He was next seen serving time at Pym Experimental Penitentiary Number One, a prison that kept its super-powered inmates miniaturized, and participated in a breakout led by the Mad Thinker only to be thwarted by She-Hulk.", 
-            "durability": 6, 
-            "education": "Unrevealed", 
-            "energy": 2, 
-            "eyes": "(normal) Blue; (stone) white\n", 
-            "fighting": 4, 
-            "firstappearance": "Journey into Mystery #107\n", 
-            "groupaffiliation": [
-                "Lethal Legion", 
-                "formerly A.I.M.", 
-                "Masters of Evil", 
-                "agent of the Gideon Trust"
-            ], 
-            "hair": "(normal) Brown; (stone) gray\n", 
-            "height": 0, 
-            "id": "Grey_Gargoyle", 
-            "identity": "Publicly known", 
-            "intelligence": 5, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Criminal", 
-                "sculptor", 
-                "(formerly) starship captain", 
-                "chemist"
-            ], 
-            "placeofbirth": [
-                "Fontainebleu", 
-                "France"
-            ], 
-            "powers": "Duval's superhuman power is the ability to transform any object or person into stone with the touch of his right hand. The power works on people and the clothing they wear, although it would only affect a battlesuit, not its wearer. If two people were holding hands and Duval touched only one of them, only the one he touched would be affected. He must wear specially treated gloves when he does not want to access his power.\nBy touching himself with his right hand, Duval transforms himself into a living statue of stone, and seems capable of remaining in that form indefinitely. In this form, Duval has a stone-like skin providing him superhuman strength and resistance to injury, even against the rigors of deep space, and does not need to eat or breath while transformed. Duval has also shown the ability to scale stone and brick walls by touch.", 
-            "realname": "Paul Pierre Duval", 
-            "speed": 2, 
-            "strength": 5, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "Paul St. Pierre", 
+    "citizenship": "France", 
+    "content": "The Grey Gargoyle, bored with lack of challenge to his crimes, decided to travel to America and wrest the secret of immortality from Thor. He was twice bested in combat by him before returning to what had proved more successful in the past-- pure mercenary endeavors. His first attempt was to steal a new cobalt-powered weapon from Stark Industries, and he was actually successful after transforming Iron Man\u2019s battle armor to stone. Iron Man returned when the Gargoyle\u2019s power wore off, stopping the villain by destroying the machinery he hoped to abscond with. Later, an attempted to acquire the deadly compound dubbed \"Element X\" went horribly wrong. He was confronted by Captain America, the Falcon, and Nick Fury, cornered, and accidentally shot into space.The Gargoyle found himself trapped aboard a satellite in Earth\u2019s orbit, where the subversive scientific organization Advanced Idea Mechanics rescued him. On their behalf, he joined their efforts to launch a satellite with heavy weaponry, fighting Captain America and Spider-Man, but was accidentally rocketed into space once more. In deep space, he was retrieved by the Bird of Prey, a pirate starship whose crew members were of various alien races. Ever out for himself, the Grey Gargoyle forced himself into command of the ship.The Bird of Prey encountered the starship StarJammer, used by Thor, Sif, and the Warriors Three in their adventure to the Doomsday Star. The Gargoyle had the heroes captured and conscripted to join the crew for slave labor. The heroes\u2019 ally, the Recorder, not only helped his friends escape but started a mutiny among the crew against the Grey Gargoyle. When the rebellion grew out of control, the Grey Gargoyle professed to want to join Thor in order to return to Earth. However, at the height of the battle, the Gargoyle tried to flee and seemed to have died in a violent explosion.In fact, Duval survived by created a stone-like cocoon around himself. Using the cocoon to travel through space, he managed to return to Earth, where he immediately battled the Avengers. In the process, his cocoon was destroyed, and he was taken into police custody. Duval was soon freed by villains of the fourth Masters of Evil organization, whose goal was to destroy the Avengers, but following a defeat at the hands of the Wasp and Black Knight, he was again returned to jail.Having broken out, Duval embarked on a unique plan. He created an artistic persona, Paul St. Pierre, and became a successful and highly sought-after sculptor. In fact, his statues were real people, transformed by his power and sealed with a special polymer compound that would make this change permanent. His plot was uncovered when Tony Stark attended his gallery, and he exposed the Gargoyle.The Grey Gargoyle was broken out of prison again, this time to join several master criminals in a coordinated attack on various heroes and sent to battle the Hulk. At the time, the Hulk possessed a gray alter-ego, and this confused Duval, who had thought that the Hulk had turned to stone but nonetheless kept moving. The Hulk summarily defeated the Gargoyle, breaking his arm, and left. The Grey Gargoyle continued to be a recurring villain in the lives of many heroes, battling the likes of Captain America and Spider-Man as part of Doctor Doom\u2019s \u201cDoom\u2019s Brigade,\u201d fighting She-Hulk, and being accosted by the  Black Widow. In the latter case, the Widow claimed a self-appointed mission to track down and destroy all of the Avengers\u2019 former enemies, and she seemed to obliterate the Grey Gargoyle, blasting his stone form into pieces.Later, Duval, somehow recovering from his previous encounter, was contacted by the Gideon Trust, a business executive board interested in using technology developed by the Fantastic Four for their own purposes. They bade the Grey Gargoyle to attack the Thing, in a sort of initiation to their employ. The Gargoyle seemed successful in turning the Thing into non-living stone, but he was defeated by the remaining members of the Fantastic Four. In addition, the Thing was able to break free of the Gargoyle\u2019s power as it kick-started his ability to transform into his human alter-ego and back again at will.Paul Duval returned to his initial goal of searching for Thor\u2019s secret to immortality when the death of a childhood friend affected him significantly. He attacked Thor Girl, Thor\u2019s associate Tarene, and actually managed to defeat her, leaving her for dead and stealing her magical hammer. Proclaiming himself to now be like a god, the Gargoyle was immediately confronted by Desak the God-Slayer who was searching for Thor. Desak defeated the Gargoyle with ease.He was next seen serving time at Pym Experimental Penitentiary Number One, a prison that kept its super-powered inmates miniaturized, and participated in a breakout led by the Mad Thinker only to be thwarted by She-Hulk.", 
+    "durability": 6, 
+    "education": "Unrevealed", 
+    "energy": 2, 
+    "eyes": "(normal) Blue; (stone) white\n", 
+    "fighting": 4, 
+    "firstappearance": "Journey into Mystery #107\n", 
+    "groupaffiliation": [
+        "Lethal Legion", 
+        "formerly A.I.M.", 
+        "Masters of Evil", 
+        "agent of the Gideon Trust"
+    ], 
+    "hair": "(normal) Brown; (stone) gray\n", 
+    "height": 0, 
+    "id": "Grey_Gargoyle", 
+    "identity": "Publicly known", 
+    "intelligence": 5, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Criminal", 
+        "sculptor", 
+        "(formerly) starship captain", 
+        "chemist"
+    ], 
+    "placeofbirth": [
+        "Fontainebleu", 
+        "France"
+    ], 
+    "powers": "Duval's superhuman power is the ability to transform any object or person into stone with the touch of his right hand. The power works on people and the clothing they wear, although it would only affect a battlesuit, not its wearer. If two people were holding hands and Duval touched only one of them, only the one he touched would be affected. He must wear specially treated gloves when he does not want to access his power.\nBy touching himself with his right hand, Duval transforms himself into a living statue of stone, and seems capable of remaining in that form indefinitely. In this form, Duval has a stone-like skin providing him superhuman strength and resistance to injury, even against the rigors of deep space, and does not need to eat or breath while transformed. Duval has also shown the ability to scale stone and brick walls by touch.", 
+    "realname": "Paul Pierre Duval", 
+    "speed": 2, 
+    "strength": 5, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

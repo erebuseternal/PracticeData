@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, but Axon received military training", 
-            "energy": 1, 
-            "eyes": "Blue (as Cicero); Red (as Axon)\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #601 (2009)\n", 
-            "groupaffiliation": "Formerly Gamma Corps: Black", 
-            "hair": "Black (as Cicero); Brown (as Axon)\n", 
-            "id": "Axon", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified husband (deceased), unidentified children (deceased)", 
-            "occupation": "Former Staff Sergeant", 
-            "origin": "Incredible Hulk #604 (2009)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Axon received powers from the DNA of Zzzax, the Living Dynmo. As a result, she had electric energy coursing through her veins, giving her a fatal touch. She could fire bolts of energy, turn intangible at will, was capable of flight, able to transmit her powers over radio waves and could potentially, like Zzzax, control magnetic force. Needing to feed off bio-electrical sources from electrical impulses in living beings, she was able to generate a bio-electric force field as well as absorb the powers from another super being. Having had the same abilities as Zzzax, it could be presumed Axon was vulnerable to the same weaknesses such as attacks that absorb, ground, or control energy.", 
-            "realname": "Erin Cicero", 
-            "significantissues": [
-                "Ambushed Lyra with the Gamma Corps: Black and killed a second A.R.M.O.R. agent (Incredible Hulk #601, 2009)", 
-                "forced to run for her life until she took hostages in a nearby town (Incredible Hulk #603)", 
-                "Axon's origin (Incredible Hulk #604, 2009)", 
-                "absorbed Lyra's energy but was still defeated and terminated by General Ryker (Incredible Hulk #605, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, but Axon received military training", 
+    "energy": 1, 
+    "eyes": "Blue (as Cicero); Red (as Axon)\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #601 (2009)\n", 
+    "groupaffiliation": "Formerly Gamma Corps: Black", 
+    "hair": "Black (as Cicero); Brown (as Axon)\n", 
+    "id": "Axon", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified husband (deceased), unidentified children (deceased)", 
+    "occupation": "Former Staff Sergeant", 
+    "origin": "Incredible Hulk #604 (2009)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Axon received powers from the DNA of Zzzax, the Living Dynmo. As a result, she had electric energy coursing through her veins, giving her a fatal touch. She could fire bolts of energy, turn intangible at will, was capable of flight, able to transmit her powers over radio waves and could potentially, like Zzzax, control magnetic force. Needing to feed off bio-electrical sources from electrical impulses in living beings, she was able to generate a bio-electric force field as well as absorb the powers from another super being. Having had the same abilities as Zzzax, it could be presumed Axon was vulnerable to the same weaknesses such as attacks that absorb, ground, or control energy.", 
+    "realname": "Erin Cicero", 
+    "significantissues": [
+        "Ambushed Lyra with the Gamma Corps: Black and killed a second A.R.M.O.R. agent (Incredible Hulk #601, 2009)", 
+        "forced to run for her life until she took hostages in a nearby town (Incredible Hulk #603)", 
+        "Axon's origin (Incredible Hulk #604, 2009)", 
+        "absorbed Lyra's energy but was still defeated and terminated by General Ryker (Incredible Hulk #605, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

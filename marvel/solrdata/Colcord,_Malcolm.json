@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Director", 
-            "citizenship": "Canada", 
-            "content": "Assigned to a desk job, Malcolm continued to serve his government, but he believed himself a joke in his government office, ridiculed and forced to work in a back office. Still, he dared to propose the renewal of one of the most controversial military projects ever, the Weapon X program, promising to use mutants for mankind's benefit, even if that meant performing deadly missions and interning mutant captives. As the Director for the new program, he oversaw the recruitment of many villainous mutants, including Sauron, Mesmero, Agent Zero, and Marrow, and eventually, Sabretooth and Aurora. Within months, the Director helped create an internment camp for mutants, dubbed Neverland, using mutants as hunters for the victims and in keeping the mutants imprisoned.Aurora had often tried to seduce the Director for her own purposes. However, an encounter with Sabretooth left her disfigured and injured, and it was only with the Director's financial and emotional support that she recovered, albeit scarred like him. Aurora began to have genuine feelings for the Director, although he refused to reciprocate.When the Director's ex-wife was to be remarried, the Director took Sabretooth, conditioned to be under his mental control, with him to confront her. The Director was about to kill his ex-wife, but his children stumbled onto the confrontation. Initially afraid that his scarred complexion would horrify them, the children reached out for their father. The Director allowed his ex-wife to live, forbidding her to ever be with another man, to which she reluctantly conceded. The Director bade Sabretooth to capture her fianc\u00e9 and return with them to the Weapon X program.Afterwards, unable to deny another urge, the Director entered Aurora's bedroom, and the two kindled their romantic relationship. Soon, Aurora urged the Director to have surgery, and he had his scars removed. However, agent Brent Jackson, who hoped to stage a coup against the Director, confronted the Director with the idea that he was a \"mutie lover\" due to do his relationship. Too preoccupied with the idea, the Director lashed out at Aurora, beating her unconscious. Afterward, however, he apologized, explaining his conflicting feelings, and Aurora reluctantly accepted.Soon, the Weapon X program was discovered by the mutant soldier-of-fortune, Cable. Cable organized a group of mutants, dubbed the Underground, for investigating the program. He was joined by Weapon X agent Brent Jackson, who hoped to stage a coup against the Director and had formed his own resistance group with fellow agents.The Underground was able to infiltrate the Weapon X complex, ousting the Director and nearly crippling the program. The Director was nearly killed by turncoat agent Washout, and as he contemplated his escape, Colcord flew into a rage, blaming his loss of control over his recent obsession with his new face and with Aurora. Taking shards of glass, Colcord disfigured himself once more. He was rescued by Madison Jeffries and, with Colcord urging Aurora, the three escaped the Weapon X complex using Aurora's superhuman speed. Agent Jackson betrayed the Underground, taking credit for saving the program and was named the new Director of the Weapon X program by its mysterious benefactors.", 
-            "durability": 2, 
-            "education": "Military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 3, 
-            "firstappearance": "(in shadow) Wolverine #160 (2001); (fully) Wolverine #166 (2001)\n", 
-            "groupaffiliation": "Weapon X", 
-            "hair": "Black\n", 
-            "id": "Colcord,_Malcolm", 
-            "identity": "No dual identity", 
-            "intelligence": 4, 
-            "knownrelatives": "Kathleen Colcord (ex-wife), Susan \"Suzie\" Colcord (daughter), James \"Jimmy\" Colcord (son)", 
-            "occupation": [
-                "Government program director", 
-                "former office worker", 
-                "soldier"
-            ], 
-            "origin": [
-                "Weapon X #1 (2002)", 
-                "Weapon X #23 (2004)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Malcolm Colcord", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "The Director", 
+    "citizenship": "Canada", 
+    "content": "Assigned to a desk job, Malcolm continued to serve his government, but he believed himself a joke in his government office, ridiculed and forced to work in a back office. Still, he dared to propose the renewal of one of the most controversial military projects ever, the Weapon X program, promising to use mutants for mankind's benefit, even if that meant performing deadly missions and interning mutant captives. As the Director for the new program, he oversaw the recruitment of many villainous mutants, including Sauron, Mesmero, Agent Zero, and Marrow, and eventually, Sabretooth and Aurora. Within months, the Director helped create an internment camp for mutants, dubbed Neverland, using mutants as hunters for the victims and in keeping the mutants imprisoned.Aurora had often tried to seduce the Director for her own purposes. However, an encounter with Sabretooth left her disfigured and injured, and it was only with the Director's financial and emotional support that she recovered, albeit scarred like him. Aurora began to have genuine feelings for the Director, although he refused to reciprocate.When the Director's ex-wife was to be remarried, the Director took Sabretooth, conditioned to be under his mental control, with him to confront her. The Director was about to kill his ex-wife, but his children stumbled onto the confrontation. Initially afraid that his scarred complexion would horrify them, the children reached out for their father. The Director allowed his ex-wife to live, forbidding her to ever be with another man, to which she reluctantly conceded. The Director bade Sabretooth to capture her fianc\u00e9 and return with them to the Weapon X program.Afterwards, unable to deny another urge, the Director entered Aurora's bedroom, and the two kindled their romantic relationship. Soon, Aurora urged the Director to have surgery, and he had his scars removed. However, agent Brent Jackson, who hoped to stage a coup against the Director, confronted the Director with the idea that he was a \"mutie lover\" due to do his relationship. Too preoccupied with the idea, the Director lashed out at Aurora, beating her unconscious. Afterward, however, he apologized, explaining his conflicting feelings, and Aurora reluctantly accepted.Soon, the Weapon X program was discovered by the mutant soldier-of-fortune, Cable. Cable organized a group of mutants, dubbed the Underground, for investigating the program. He was joined by Weapon X agent Brent Jackson, who hoped to stage a coup against the Director and had formed his own resistance group with fellow agents.The Underground was able to infiltrate the Weapon X complex, ousting the Director and nearly crippling the program. The Director was nearly killed by turncoat agent Washout, and as he contemplated his escape, Colcord flew into a rage, blaming his loss of control over his recent obsession with his new face and with Aurora. Taking shards of glass, Colcord disfigured himself once more. He was rescued by Madison Jeffries and, with Colcord urging Aurora, the three escaped the Weapon X complex using Aurora's superhuman speed. Agent Jackson betrayed the Underground, taking credit for saving the program and was named the new Director of the Weapon X program by its mysterious benefactors.", 
+    "durability": 2, 
+    "education": "Military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 3, 
+    "firstappearance": "(in shadow) Wolverine #160 (2001); (fully) Wolverine #166 (2001)\n", 
+    "groupaffiliation": "Weapon X", 
+    "hair": "Black\n", 
+    "id": "Colcord,_Malcolm", 
+    "identity": "No dual identity", 
+    "intelligence": 4, 
+    "knownrelatives": "Kathleen Colcord (ex-wife), Susan \"Suzie\" Colcord (daughter), James \"Jimmy\" Colcord (son)", 
+    "occupation": [
+        "Government program director", 
+        "former office worker", 
+        "soldier"
+    ], 
+    "origin": [
+        "Weapon X #1 (2002)", 
+        "Weapon X #23 (2004)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Malcolm Colcord", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe"
 }

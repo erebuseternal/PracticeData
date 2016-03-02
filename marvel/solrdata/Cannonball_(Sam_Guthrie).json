@@ -1,65 +1,61 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Formerly Samson Guthry", 
-                "Jet-Ass"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Later, Sam saved the life of intergalactic rock star Lila Cheney, an act that saw a romance blossom between them. During this time, Cannonball also teamed up with Spider-Man against the threat of the Incandescent Man. After the cosmic entity known as the Beyonder slew and subsequently resurrected most of the New Mutants, Sam lost what knowledge he had gained about his mutant abilities, forcing him to start learning about them over again. The encounter also left the New Mutants somewhat apathetic, and then-headmaster Magneto sought help from the Hellfire Club's presiding White Queen, Emma Frost, who enrolled them in her Massachusetts Academy and recruited them into the ranks of her Hellions. Magneto learned that he had been tricked and sought to reclaim his students, bringing him into conflict with the Avengers. After the New Mutants sided with Magneto, Frost recanted and helped restore them to their former selves. Sam's relationship with Lila eventually progressed to the stage where he asked her to visit his home and meet his family. When Lila arrived with a crystal gift for his mother, Sam mistakenly believed she had stolen it when she had actually carved it by hand. Lila left angrily, but after Sam saved her life following a plane crash, he apologized. Later, Sam and the New Mutants came to Lila's aid after she had been kidnapped by the alien Spyder. Rescuing her, Lila seemingly sacrificed her life to stop Spyder's other captives from wreaking havoc in the universe. Sam was heartbroken at Lila's apparent death. However, when she later resurfaced alive, they both realized that their romance was over as the two had moved on with their separate lives.When the time-traveling mutant soldier Cable took over the stewardship of the New Mutants and reorganized them into the strike team X-Force, Sam learned that he was an apparently immortal mutant, one whom Cable had traveled back in time to find and guide. During a clash with the Brotherhood of Evil Mutants, Sam's blast field was disrupted by Phantazia and he was seemingly killed by Sauron; however, this manifested his apparent immortality and he returned to life. Sam eventually became romantically involved with his teammate Tabitha, a.k.a. Boomer. When X-Force were separated from Cable for a time, Sam took the reigns of leadership. He eventually graduated to the ranks of the X-Men, which placed a strain on his relationship with Tabitha. Later, the ancient mutant Selene cast doubt on Sam's supposed immortal status, posing questions that have yet to be answered. The X-Men sent Sam to spy on Graydon Creed, a presidential candidate running on an anti-mutant platform. Under cover as Samson Guthry, Sam joined Creed's campaign staff and was able to gain his trust, though Creed was soon assassinated. Returning to the X-Men, Sam soon found himself in battle against the super-strong and virtually invulnerable Gladiator of the intergalactic Shi'ar Empire's Imperial Guard who had come to Earth seeking to forcibly enlist the X-Men's help. With creative use of his powers, Sam was able to withstand Gladiator's most powerful blow and defeat him. Eventually, Sam left the X-Men and returned home to care for his sick mother. He soon encountered Deviants once more, though he had no recollection of their past meeting, and sought help from X-Force in opposing them, rejoining the team afterwards. Sam became X-Force's leader again shortly before they were called upon to aid former spy Pete Wisdom in recovering a downed satellite from Genosha, and his memories of his childhood encounter with Deviants were restored afterwards. Later, Sam asked Wisdom to help give the team a new purpose, and to that end Wisdom introduced the team to the shadowy world of black ops. After Wisdom faked his own death, Sam once again assumed leadership and continued Wisdom's crusade until X-Force seemingly died in a cataclysmic explosion. They later resurfaced, but by then a new media-savvy team had assumed the mantle of X-Force and trademarked the name. Sam went on to join Xavier's X-Corporation, a global search and rescue unit for oppressed mutants, but after a disastrous mission that resulted in the death of his teammate Darkstar, he desperately sought a fresh start. After reigniting his romance with Lila, Sam met with the weather-manipulating mutant Storm and seeing her X-Men team's role as global mutant peacekeepers as the chance he was looking for, accepted an offer to join. After Storm's team became the international, government-approved X-Treme Sanctions Executive, they moved back into Xavier's mansion. Soon after, Sam was injured in a battle against the extradimensional Fury and temporarily left the team to recuperate.Back at the family farm, Sam was approached by Cable to rejoin X-Force to help oppose the threat of the ancient evil known as the Skornn. He declined, claiming that Cable was not to be trusted, and battled his former teacher. Defeated, Sam was then recruited into the Mutant Liberation Front by its new leader, a future incarnation of Cable's long-time ally Domino posing as the despotic Stryfe. The MLF teamed with X-Force, the feral X-Man Wolverine, and members of the Fantastic Four to oppose the Skornn, who was defeated at the apparent cost of Cable's life. Sam then joined his former X-Force teammate Siryn and the merc-with-a-mouth Deadpool in locating Cable, finding his essence scattered across various alternate Earths. They collected it and returned to their own Earth where the mutant techosmith Forge was able to restore Cable.", 
-            "durability": 6, 
-            "education": "High school level, various courses at Xavier's School for Gifted Youngsters", 
-            "energy": 3, 
-            "eyes": "Blue-gray\n", 
-            "fighting": 4, 
-            "firstappearance": "Marvel Graphic Novel #4 (1982)\n", 
-            "groupaffiliation": [
-                "New Mutants", 
-                "formerly X-Men", 
-                "X.S.E.", 
-                "Mutant Liberation Front", 
-                "X-Corporation", 
-                "X-Force", 
-                "Hellions", 
-                "Hellfire Club"
-            ], 
-            "hair": "Blond\n", 
-            "height": 72, 
-            "id": "Cannonball_(Sam_Guthrie)", 
-            "identity": "Public", 
-            "intelligence": 2, 
-            "knownrelatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)", 
-            "occupation": [
-                "Adventurer", 
-                "peacekeeper", 
-                "former student", 
-                "mercenary", 
-                "miner"
-            ], 
-            "origin": "Marvel Graphic Novel #4 (1982)", 
-            "placeofbirth": [
-                "Cumberland County", 
-                "Kentucky"
-            ], 
-            "powers": "Cannonball possesses the ability to bodily generate thermo-chemical energy and release it through his skin. Accompanied by smoke, flame, and condensation, the equal and opposite reaction to this energy release propels his body through the air like a human rocket. Originally, Cannonball was unable to stop the propulsion until his immediate store of energy was depleted or until he hit an object of sufficient mass to stop him. With practice, however, Cannonball can now cut off his propulsive power at will. As a side effect of forming the thermo-chemical energies over the surface of his body, Cannonball is rendered virtually invulnerable while in flight. Accompanying the release of energy is a half-inch thick energy field that channels the explosion and protects his skin from the direct effects of the blast. It also negates momentum and related effects, thereby cushioning his body from any impact up to a half-minute from the depletion of his energy. Cannonball's \"blast field\" extends to any person or object with which he is in physical contact, and he can extend it further by concentrating to form a protective shield, even while standing still. Cannonball is also able to absorb kinetic energy through the field he generates and use it to either strengthen his field or redirect it as concussive force.\nCannonball once recovered from mortal injuries that left him seemingly dead. It has been theorized that Cannonball's recovery was an indication that he was an External, one of a group of immortal mutants. However, since it has subsequently been demonstrated that even Externals can be permanently killed, doubt has been cast on his alleged immortality.", 
-            "realname": "Samuel Zachery Guthrie", 
-            "significantissues": [
-                "First encountered Deviants (X-Force #96, 1999)", 
-                "quit Hellfire Club, joined New Mutants (Marvel Graphic Novel #4, 1982)", 
-                "first met & fell in love with Lila Cheney (New Mutants Annual #1, 1984)", 
-                "joined X-Force (New Mutants #100/X-Force #1, 1991)", 
-                "killed by Sauron, alleged immortality manifested (X-Force #7-9, 1992)", 
-                "fully graduated to X-Men (X-Force #44, 1995)", 
-                "vs Gladiator (Uncanny X-Men #341, 1997)", 
-                "joined X-Corporation (New X-Men #128, 2002)", 
-                "rejoined X-Men (X-Treme X-Men #46/Uncanny X-Men #444, 2004)", 
-                "declined to rejoin X-Force, briefly joined MLF, vs Skornn (X-Force #3-6, 2004-2005)", 
-                "teamed with Siryn & Deadpool to find Cable (Cable & Deadpool #15-18, 2005)"
-            ], 
-            "speed": 4, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 181
-        }
-    }
+    "aliases": [
+        "Formerly Samson Guthry", 
+        "Jet-Ass"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Later, Sam saved the life of intergalactic rock star Lila Cheney, an act that saw a romance blossom between them. During this time, Cannonball also teamed up with Spider-Man against the threat of the Incandescent Man. After the cosmic entity known as the Beyonder slew and subsequently resurrected most of the New Mutants, Sam lost what knowledge he had gained about his mutant abilities, forcing him to start learning about them over again. The encounter also left the New Mutants somewhat apathetic, and then-headmaster Magneto sought help from the Hellfire Club's presiding White Queen, Emma Frost, who enrolled them in her Massachusetts Academy and recruited them into the ranks of her Hellions. Magneto learned that he had been tricked and sought to reclaim his students, bringing him into conflict with the Avengers. After the New Mutants sided with Magneto, Frost recanted and helped restore them to their former selves. Sam's relationship with Lila eventually progressed to the stage where he asked her to visit his home and meet his family. When Lila arrived with a crystal gift for his mother, Sam mistakenly believed she had stolen it when she had actually carved it by hand. Lila left angrily, but after Sam saved her life following a plane crash, he apologized. Later, Sam and the New Mutants came to Lila's aid after she had been kidnapped by the alien Spyder. Rescuing her, Lila seemingly sacrificed her life to stop Spyder's other captives from wreaking havoc in the universe. Sam was heartbroken at Lila's apparent death. However, when she later resurfaced alive, they both realized that their romance was over as the two had moved on with their separate lives.When the time-traveling mutant soldier Cable took over the stewardship of the New Mutants and reorganized them into the strike team X-Force, Sam learned that he was an apparently immortal mutant, one whom Cable had traveled back in time to find and guide. During a clash with the Brotherhood of Evil Mutants, Sam's blast field was disrupted by Phantazia and he was seemingly killed by Sauron; however, this manifested his apparent immortality and he returned to life. Sam eventually became romantically involved with his teammate Tabitha, a.k.a. Boomer. When X-Force were separated from Cable for a time, Sam took the reigns of leadership. He eventually graduated to the ranks of the X-Men, which placed a strain on his relationship with Tabitha. Later, the ancient mutant Selene cast doubt on Sam's supposed immortal status, posing questions that have yet to be answered. The X-Men sent Sam to spy on Graydon Creed, a presidential candidate running on an anti-mutant platform. Under cover as Samson Guthry, Sam joined Creed's campaign staff and was able to gain his trust, though Creed was soon assassinated. Returning to the X-Men, Sam soon found himself in battle against the super-strong and virtually invulnerable Gladiator of the intergalactic Shi'ar Empire's Imperial Guard who had come to Earth seeking to forcibly enlist the X-Men's help. With creative use of his powers, Sam was able to withstand Gladiator's most powerful blow and defeat him. Eventually, Sam left the X-Men and returned home to care for his sick mother. He soon encountered Deviants once more, though he had no recollection of their past meeting, and sought help from X-Force in opposing them, rejoining the team afterwards. Sam became X-Force's leader again shortly before they were called upon to aid former spy Pete Wisdom in recovering a downed satellite from Genosha, and his memories of his childhood encounter with Deviants were restored afterwards. Later, Sam asked Wisdom to help give the team a new purpose, and to that end Wisdom introduced the team to the shadowy world of black ops. After Wisdom faked his own death, Sam once again assumed leadership and continued Wisdom's crusade until X-Force seemingly died in a cataclysmic explosion. They later resurfaced, but by then a new media-savvy team had assumed the mantle of X-Force and trademarked the name. Sam went on to join Xavier's X-Corporation, a global search and rescue unit for oppressed mutants, but after a disastrous mission that resulted in the death of his teammate Darkstar, he desperately sought a fresh start. After reigniting his romance with Lila, Sam met with the weather-manipulating mutant Storm and seeing her X-Men team's role as global mutant peacekeepers as the chance he was looking for, accepted an offer to join. After Storm's team became the international, government-approved X-Treme Sanctions Executive, they moved back into Xavier's mansion. Soon after, Sam was injured in a battle against the extradimensional Fury and temporarily left the team to recuperate.Back at the family farm, Sam was approached by Cable to rejoin X-Force to help oppose the threat of the ancient evil known as the Skornn. He declined, claiming that Cable was not to be trusted, and battled his former teacher. Defeated, Sam was then recruited into the Mutant Liberation Front by its new leader, a future incarnation of Cable's long-time ally Domino posing as the despotic Stryfe. The MLF teamed with X-Force, the feral X-Man Wolverine, and members of the Fantastic Four to oppose the Skornn, who was defeated at the apparent cost of Cable's life. Sam then joined his former X-Force teammate Siryn and the merc-with-a-mouth Deadpool in locating Cable, finding his essence scattered across various alternate Earths. They collected it and returned to their own Earth where the mutant techosmith Forge was able to restore Cable.", 
+    "durability": 6, 
+    "education": "High school level, various courses at Xavier's School for Gifted Youngsters", 
+    "energy": 3, 
+    "eyes": "Blue-gray\n", 
+    "fighting": 4, 
+    "firstappearance": "Marvel Graphic Novel #4 (1982)\n", 
+    "groupaffiliation": [
+        "New Mutants", 
+        "formerly X-Men", 
+        "X.S.E.", 
+        "Mutant Liberation Front", 
+        "X-Corporation", 
+        "X-Force", 
+        "Hellions", 
+        "Hellfire Club"
+    ], 
+    "hair": "Blond\n", 
+    "height": 72, 
+    "id": "Cannonball_(Sam_Guthrie)", 
+    "identity": "Public", 
+    "intelligence": 2, 
+    "knownrelatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)", 
+    "occupation": [
+        "Adventurer", 
+        "peacekeeper", 
+        "former student", 
+        "mercenary", 
+        "miner"
+    ], 
+    "origin": "Marvel Graphic Novel #4 (1982)", 
+    "placeofbirth": [
+        "Cumberland County", 
+        "Kentucky"
+    ], 
+    "powers": "Cannonball possesses the ability to bodily generate thermo-chemical energy and release it through his skin. Accompanied by smoke, flame, and condensation, the equal and opposite reaction to this energy release propels his body through the air like a human rocket. Originally, Cannonball was unable to stop the propulsion until his immediate store of energy was depleted or until he hit an object of sufficient mass to stop him. With practice, however, Cannonball can now cut off his propulsive power at will. As a side effect of forming the thermo-chemical energies over the surface of his body, Cannonball is rendered virtually invulnerable while in flight. Accompanying the release of energy is a half-inch thick energy field that channels the explosion and protects his skin from the direct effects of the blast. It also negates momentum and related effects, thereby cushioning his body from any impact up to a half-minute from the depletion of his energy. Cannonball's \"blast field\" extends to any person or object with which he is in physical contact, and he can extend it further by concentrating to form a protective shield, even while standing still. Cannonball is also able to absorb kinetic energy through the field he generates and use it to either strengthen his field or redirect it as concussive force.\nCannonball once recovered from mortal injuries that left him seemingly dead. It has been theorized that Cannonball's recovery was an indication that he was an External, one of a group of immortal mutants. However, since it has subsequently been demonstrated that even Externals can be permanently killed, doubt has been cast on his alleged immortality.", 
+    "realname": "Samuel Zachery Guthrie", 
+    "significantissues": [
+        "First encountered Deviants (X-Force #96, 1999)", 
+        "quit Hellfire Club, joined New Mutants (Marvel Graphic Novel #4, 1982)", 
+        "first met & fell in love with Lila Cheney (New Mutants Annual #1, 1984)", 
+        "joined X-Force (New Mutants #100/X-Force #1, 1991)", 
+        "killed by Sauron, alleged immortality manifested (X-Force #7-9, 1992)", 
+        "fully graduated to X-Men (X-Force #44, 1995)", 
+        "vs Gladiator (Uncanny X-Men #341, 1997)", 
+        "joined X-Corporation (New X-Men #128, 2002)", 
+        "rejoined X-Men (X-Treme X-Men #46/Uncanny X-Men #444, 2004)", 
+        "declined to rejoin X-Force, briefly joined MLF, vs Skornn (X-Force #3-6, 2004-2005)", 
+        "teamed with Siryn & Deadpool to find Cable (Cable & Deadpool #15-18, 2005)"
+    ], 
+    "speed": 4, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 181
 }

@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Citizen of the Netherlands with a criminal record", 
-            "content": "Incensed by the Wakanda\u2019s retaliation, Klaw returned to the Netherlands and vowed to return one day to exact revenge. To that end he created a sonic gun he called a force glove to replace his hand. Exactly ten years later, Klaw returned to Wakanda to find T\u2019Challa in the guise of the Black Panther; ruling the tribe in his father\u2019s place. With the help of the Fantastic Four and Wyatt Wingfoot, the Wakandans again repulsed Klaw. During the battle, the Panther fought Klaw face-to-face, eventually overloading his machines and left, believing him defeated.In frustration, Klaw leapt into his own sonic converter in the hopes of giving himself the power to defeat his enemies. It worked and Klaw\u2019s being turned to pure, living sound. Klaw later came after the Fantastic Four, trying to force them to bring him the Panther; but after a fight with the group, Mister Fantastic defeated Klaw when he radioed the Panther who sent him vibranium knuckles to absorb Klaw\u2019s power, which Reed used to beat him into unconsciousness. The Thing then crushed his sonic-gun arm to disable him and they handed him over to the authorities. Klaw was freed from prison by the Crimson Cowl and invited to join the second grouping of the Masters of Evil. The new Masters of Evil eventually fought and captured the Avengers, but then were beaten and Klaw was again imprisoned, only to be set free and returned twice more.", 
-            "durability": 5, 
-            "education": "University degree in Physics", 
-            "energy": 6, 
-            "eyes": "Red\n", 
-            "fighting": 2, 
-            "firstappearance": "Fantastic Four #53\n", 
-            "groupaffiliation": [
-                "Frightful Four", 
-                "formerly Masters of Evil"
-            ], 
-            "hair": "None\n", 
-            "height": 71, 
-            "id": "Klaw", 
-            "identity": "Publicly known", 
-            "intelligence": 5, 
-            "knownrelatives": "None known", 
-            "occupation": [
-                "Ex-scientist", 
-                "professional criminal"
-            ], 
-            "placeofbirth": [
-                "Vlaardingen", 
-                "Netherlands"
-            ], 
-            "powers": "Klaw's prosthetic hand can create sound waves of dangerous volume, fire concussive blasts of sound, and create sound constructs in any desired shape at his command.", 
-            "realname": "Ulysses Klaw", 
-            "significantissues": "Absorbed by Dazzler (Dazzler #9, 1980)", 
-            "speed": 4, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Citizen of the Netherlands with a criminal record", 
+    "content": "Incensed by the Wakanda\u2019s retaliation, Klaw returned to the Netherlands and vowed to return one day to exact revenge. To that end he created a sonic gun he called a force glove to replace his hand. Exactly ten years later, Klaw returned to Wakanda to find T\u2019Challa in the guise of the Black Panther; ruling the tribe in his father\u2019s place. With the help of the Fantastic Four and Wyatt Wingfoot, the Wakandans again repulsed Klaw. During the battle, the Panther fought Klaw face-to-face, eventually overloading his machines and left, believing him defeated.In frustration, Klaw leapt into his own sonic converter in the hopes of giving himself the power to defeat his enemies. It worked and Klaw\u2019s being turned to pure, living sound. Klaw later came after the Fantastic Four, trying to force them to bring him the Panther; but after a fight with the group, Mister Fantastic defeated Klaw when he radioed the Panther who sent him vibranium knuckles to absorb Klaw\u2019s power, which Reed used to beat him into unconsciousness. The Thing then crushed his sonic-gun arm to disable him and they handed him over to the authorities. Klaw was freed from prison by the Crimson Cowl and invited to join the second grouping of the Masters of Evil. The new Masters of Evil eventually fought and captured the Avengers, but then were beaten and Klaw was again imprisoned, only to be set free and returned twice more.", 
+    "durability": 5, 
+    "education": "University degree in Physics", 
+    "energy": 6, 
+    "eyes": "Red\n", 
+    "fighting": 2, 
+    "firstappearance": "Fantastic Four #53\n", 
+    "groupaffiliation": [
+        "Frightful Four", 
+        "formerly Masters of Evil"
+    ], 
+    "hair": "None\n", 
+    "height": 71, 
+    "id": "Klaw", 
+    "identity": "Publicly known", 
+    "intelligence": 5, 
+    "knownrelatives": "None known", 
+    "occupation": [
+        "Ex-scientist", 
+        "professional criminal"
+    ], 
+    "placeofbirth": [
+        "Vlaardingen", 
+        "Netherlands"
+    ], 
+    "powers": "Klaw's prosthetic hand can create sound waves of dangerous volume, fire concussive blasts of sound, and create sound constructs in any desired shape at his command.", 
+    "realname": "Ulysses Klaw", 
+    "significantissues": "Absorbed by Dazzler (Dazzler #9, 1980)", 
+    "speed": 4, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

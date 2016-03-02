@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Citizen of Xarth Three", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Guardians of the Galaxy #4 (2008)\n", 
-            "groupaffiliation": "Luminals", 
-            "hair": "Green\n", 
-            "id": "Cynosure_(female)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Saen Sendak (cousin, deceased)", 
-            "occupation": "Protector of Xarth Three and Council Deputy of the Uuchan Delegation", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Xarth Three", 
-            "powers": "Unrevealed", 
-            "realname": "Lena Sendak", 
-            "significantissues": [
-                "Opposed the Guardians of the Galaxy in their attempts to stop the Skrull invasion of Knowhere and fought against Cosmo and the Guardians because of a gross misunderstanding (Guardians of the Galaxy #4-6, 2008)", 
-                "Still at odds with the Guardians until she needed their help to escape the Universal Church of Truth (Guardians of the Galaxy #21, 2010)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Citizen of Xarth Three", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Guardians of the Galaxy #4 (2008)\n", 
+    "groupaffiliation": "Luminals", 
+    "hair": "Green\n", 
+    "id": "Cynosure_(female)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Saen Sendak (cousin, deceased)", 
+    "occupation": "Protector of Xarth Three and Council Deputy of the Uuchan Delegation", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Xarth Three", 
+    "powers": "Unrevealed", 
+    "realname": "Lena Sendak", 
+    "significantissues": [
+        "Opposed the Guardians of the Galaxy in their attempts to stop the Skrull invasion of Knowhere and fought against Cosmo and the Guardians because of a gross misunderstanding (Guardians of the Galaxy #4-6, 2008)", 
+        "Still at odds with the Guardians until she needed their help to escape the Universal Church of Truth (Guardians of the Galaxy #21, 2010)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

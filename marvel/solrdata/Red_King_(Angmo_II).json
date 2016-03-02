@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "The Red King", 
-                "the Hero Protector"
-            ], 
-            "citizenship": "Citizen of the Empire", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Tego Secondary Forums", 
-            "energy": 1, 
-            "eyes": "Crimson\n", 
-            "fighting": 1, 
-            "firstappearance": "The Incredible Hulk #92 (2006)\n", 
-            "groupaffiliation": "Imperial Senate (head)", 
-            "hair": "None\n", 
-            "height": 70, 
-            "id": "Red_King_(Angmo_II)", 
-            "identity": [
-                "Publicly known on the planet of Sakaar", 
-                "however the general populace of Earth had no knowledge of the Red King's existence."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Angmo (the Father Emperor, father, deceased), Enka (mother, presumed deceased)", 
-            "occupation": "Emperor of the First Sakaarian Empire", 
-            "placeofbirth": [
-                "Crown City", 
-                "Imperia Province (formerly Geot City", 
-                "Tego Province)", 
-                "Planet Sakaar"
-            ], 
-            "powers": "The Red King possesses no known superhuman powers of his own.", 
-            "realname": "Angmo II", 
-            "significantissues": "The Incredible Hulk #92-105 (2006-2007)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 166
-        }
-    }
+    "aliases": [
+        "The Red King", 
+        "the Hero Protector"
+    ], 
+    "citizenship": "Citizen of the Empire", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Tego Secondary Forums", 
+    "energy": 1, 
+    "eyes": "Crimson\n", 
+    "fighting": 1, 
+    "firstappearance": "The Incredible Hulk #92 (2006)\n", 
+    "groupaffiliation": "Imperial Senate (head)", 
+    "hair": "None\n", 
+    "height": 70, 
+    "id": "Red_King_(Angmo_II)", 
+    "identity": [
+        "Publicly known on the planet of Sakaar", 
+        "however the general populace of Earth had no knowledge of the Red King's existence."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Angmo (the Father Emperor, father, deceased), Enka (mother, presumed deceased)", 
+    "occupation": "Emperor of the First Sakaarian Empire", 
+    "placeofbirth": [
+        "Crown City", 
+        "Imperia Province (formerly Geot City", 
+        "Tego Province)", 
+        "Planet Sakaar"
+    ], 
+    "powers": "The Red King possesses no known superhuman powers of his own.", 
+    "realname": "Angmo II", 
+    "significantissues": "The Incredible Hulk #92-105 (2006-2007)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 166
 }

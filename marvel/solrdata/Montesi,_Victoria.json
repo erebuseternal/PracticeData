@@ -1,31 +1,27 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Italian", 
-            "content": "Dr. Louise Hasting would be contacted by the Ghost Rider and Johnny Blaze who sought to protect her, Vicki and Sam from the demon queen Lilith and her demonic children the Lilin. After slipping out of the hospital undetected Vicki and Sam are attacked by a clan of Darkholder ninjas, which they easily defeat. They decided to travel to New York City. She later met up with old family friend Professor Louise Hastings. Together they would form the Darkhold Redeemers, and track down the pages of the \"Book of Sins.\"Later Vicki would also become a member of the Midnight Sons and take part in the Siege of Darkness. During these events Vicki and her friends battled the sorceress Salom\u00e9 of the Fallen, a number of Lilin, Blood, and Zarathos. It was during the final battle with Zarathos, that Vicki discovered that she was pregnant by unnatural means. Not long after this surprise Vicki discovered that she was the spawn of Chthon, and her pregnancy would be his doorway back to Earth. This devastating revelation separated her from the Darkhold Redeemers and the team quickly dissolved.", 
-            "durability": 1, 
-            "education": "Unrevealed, although it is clear that she has studied to be a doctor of some kind, the specifics of what kind of doctor are still unknown.", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Darkhold #1(1992)\n", 
-            "groupaffiliation": "Darkhold Redeemers", 
-            "hair": "Black\n", 
-            "id": "Montesi,_Victoria", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Monsignor Vittorio Montesi (\"father\"), Chthon (\"father\"); Giacomo, Giuseppe, Marcello, and Paolo Montesi (ancestors)", 
-            "occupation": [
-                "Investigator of the occult", 
-                "former medical Doctor"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Victoria had a sort of empathic connection to the pages of the Darkhold allowing her to know whenever a page has been used. Victoria is adept in the use of black magic and able to make herself undetectable at times.", 
-            "realname": "Victoria Montesi", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Italian", 
+    "content": "Dr. Louise Hasting would be contacted by the Ghost Rider and Johnny Blaze who sought to protect her, Vicki and Sam from the demon queen Lilith and her demonic children the Lilin. After slipping out of the hospital undetected Vicki and Sam are attacked by a clan of Darkholder ninjas, which they easily defeat. They decided to travel to New York City. She later met up with old family friend Professor Louise Hastings. Together they would form the Darkhold Redeemers, and track down the pages of the \"Book of Sins.\"Later Vicki would also become a member of the Midnight Sons and take part in the Siege of Darkness. During these events Vicki and her friends battled the sorceress Salom\u00e9 of the Fallen, a number of Lilin, Blood, and Zarathos. It was during the final battle with Zarathos, that Vicki discovered that she was pregnant by unnatural means. Not long after this surprise Vicki discovered that she was the spawn of Chthon, and her pregnancy would be his doorway back to Earth. This devastating revelation separated her from the Darkhold Redeemers and the team quickly dissolved.", 
+    "durability": 1, 
+    "education": "Unrevealed, although it is clear that she has studied to be a doctor of some kind, the specifics of what kind of doctor are still unknown.", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Darkhold #1(1992)\n", 
+    "groupaffiliation": "Darkhold Redeemers", 
+    "hair": "Black\n", 
+    "id": "Montesi,_Victoria", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Monsignor Vittorio Montesi (\"father\"), Chthon (\"father\"); Giacomo, Giuseppe, Marcello, and Paolo Montesi (ancestors)", 
+    "occupation": [
+        "Investigator of the occult", 
+        "former medical Doctor"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Victoria had a sort of empathic connection to the pages of the Darkhold allowing her to know whenever a page has been used. Victoria is adept in the use of black magic and able to make herself undetectable at times.", 
+    "realname": "Victoria Montesi", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

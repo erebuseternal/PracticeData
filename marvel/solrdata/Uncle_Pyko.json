@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Halfworld", 
-            "content": "It was at this juncture Uncle Pyko began to rethink his purpose in life. A devastating Toy War between Jakes and his only competition, Lord Dyvyne, broke out, and Pyko wanted no part of it. He stole Gideon's Bible for himself to obtain some much needed answers about his home world and the Loonies that lived there. He hid himself away on the opposite side of Halfworld to study the book, and by the time he was discovered by Rocket Raccoon, Pyko had learned all he desired. Betrayal by the mercenary Blackjack O'Hare even forced Pyko to ally himself with Rocket, Wal Rus and Lylla in order to escape a brutal death, but with the alliance came salvation for the Loonies. The knowledge inside Gideon's Bible and the help of the robot population led to the creation of the Wonder Toy, and the cure to the Loonies deranged mental states.", 
-            "durability": 1, 
-            "education": "Unrevealed, but Uncle Pyko may be the smartest creature on Halfworld in the fields of engineering, robotics and science", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #271 (1982)\n", 
-            "groupaffiliation": [
-                "None", 
-                "formerly Mayhem Mekaniks", 
-                "Inter-Stel Mechanics"
-            ], 
-            "hair": "None\n", 
-            "id": "Uncle_Pyko", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Chief Toysmith of Mayhem Mekaniks", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Halfworld", 
-            "powers": "None", 
-            "realname": "Pyko", 
-            "significantissues": [
-                "Attempted to decipher the stolen Gideon's Bible (Incredible Hulk #271, 1982)", 
-                "Stole Gideon's Bible himself in order to learn it\u2019s secrets (Rocket Raccoon #1, 1985)", 
-                "Left the employ of Judson Jakes and joined forces with Rocket Raccoon (Rocket Raccoon #3, 1985)", 
-                "Helped to cure the Loonies, then decided to stay and help rebuild Halfworld after the Toy War (Rocket Raccoon #4, 1985)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Halfworld", 
+    "content": "It was at this juncture Uncle Pyko began to rethink his purpose in life. A devastating Toy War between Jakes and his only competition, Lord Dyvyne, broke out, and Pyko wanted no part of it. He stole Gideon's Bible for himself to obtain some much needed answers about his home world and the Loonies that lived there. He hid himself away on the opposite side of Halfworld to study the book, and by the time he was discovered by Rocket Raccoon, Pyko had learned all he desired. Betrayal by the mercenary Blackjack O'Hare even forced Pyko to ally himself with Rocket, Wal Rus and Lylla in order to escape a brutal death, but with the alliance came salvation for the Loonies. The knowledge inside Gideon's Bible and the help of the robot population led to the creation of the Wonder Toy, and the cure to the Loonies deranged mental states.", 
+    "durability": 1, 
+    "education": "Unrevealed, but Uncle Pyko may be the smartest creature on Halfworld in the fields of engineering, robotics and science", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #271 (1982)\n", 
+    "groupaffiliation": [
+        "None", 
+        "formerly Mayhem Mekaniks", 
+        "Inter-Stel Mechanics"
+    ], 
+    "hair": "None\n", 
+    "id": "Uncle_Pyko", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Chief Toysmith of Mayhem Mekaniks", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Halfworld", 
+    "powers": "None", 
+    "realname": "Pyko", 
+    "significantissues": [
+        "Attempted to decipher the stolen Gideon's Bible (Incredible Hulk #271, 1982)", 
+        "Stole Gideon's Bible himself in order to learn it\u2019s secrets (Rocket Raccoon #1, 1985)", 
+        "Left the employ of Judson Jakes and joined forces with Rocket Raccoon (Rocket Raccoon #3, 1985)", 
+        "Helped to cure the Loonies, then decided to stay and help rebuild Halfworld after the Toy War (Rocket Raccoon #4, 1985)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

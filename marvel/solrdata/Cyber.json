@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Canada", 
-            "content": "In recent years, Burr underwent a procedure that laced his skin with the unbreakable metal Adamantium, although it is unknown if he was involved with the Weapon X program. Calling himself Cyber, he became an enforcer for a drug cartel and was sent to the island nation of Madripoor to oversee the distribution of a new hallucinogenic drug. Cyber targeted Madripoor\u2019s leading crimelords Tyger Tiger and General Coy but was opposed by Tiger\u2019s ally Wolverine. In the ensuing clash, Cyber lost an eye before falling into a barrel of the hallucinogen that drove him mad.Eventually replacing his lost eye with a cybernetic one, Cyber led the mercenary Hell\u2019s Belles group against the government-sponsored mutant team X-Factor. Cyber was next employed by the Coven cult to retrieve a mystic gem but was again opposed by Wolverine. Cyber reciprocated by attempting to steal money from Wolverine\u2019s account with the interdimensional firm Landau, Luckman, and Lake, clashing with both Wolverine and LL&L operative Zoe Culloden. Following Wolverine to Muir Island off the coast of Scotland, Cyber fought the British super-team Excalibur but was trapped in a high security chamber.Cyber was freed by the Dark Riders on behalf of the time-traveling villain Genesis who sought to obtain his Adamantium. Cyber met a grisly end as a swarm of mutant death watch beetles consumed his flesh, leaving only his Adamantium \"skin\", which Genesis melted down in order to once again bond to Wolverine's skeleton.", 
-            "durability": 1, 
-            "education": "Unidentified vocational college", 
-            "energy": 1, 
-            "eyes": "Hazel\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Comics Presents #85 (1991)\n", 
-            "groupaffiliation": [
-                "Former employee of Coven", 
-                "former employer of Hell's Belles", 
-                "former leader of Devil's Brigade"
-            ], 
-            "hair": "Unrevealed\n", 
-            "height": 76, 
-            "id": "Cyber", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified wife", 
-            "occupation": [
-                "Mercenary", 
-                "former enforcer", 
-                "soldier"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Cyber possessed an unspecified degree of superhuman strength. Cyber was sufficiently strong enough to wreck a jeep using only one arm.\nCyber also possessed an accelerating healing factor similar to that possessed by Wolverine.  However, Cyber's healing factor wasn't nearly as efficient as Wolverine's.  For example, Cyber was unable to regenerate his left eye after it was gouged out by Wolverine in battle and was forced to use a cybernetic implant whereas Wolverine has regenerated missing eyes on numerous occassions  This healing factor would enable Cyber to repair damaged or destroyed tissue with much greater speed and efficiency than an ordinary human. It was due to Cyber's healing factor that he survived the process in which Adamantium was bonded to his skin. Aside from its great regenerative capabilities, Cyber was highly resistant, if not completely immune, against all known diseases.  Due to the presence of his healing factor, Cyber aged at a rate considerably slower than that of an ordinary human. Despite being, chronologically, well over 100 years old at the time of his death, Cyber retained the appearance and vigor of a man in the physical prime of his life.\nCyber's musculature generated considerably less lactic acids than the musculature of an ordinary human, due to his accelerated healing factor. As a result, Cyber possessed superhuman levels of stamina in all physical activities.    \nCyber's final superhuman ability was a low level psionic ability that enabled him to track individual brain patterns over an unspecified distance. After being exposed to vast quantities of the same toxins that tipped his claws, this ability was increased to an unknown limit. However, it was sufficient to track Wolverine across Edinburgh, Scotland and Muir Island.\n\nCyber was driven insane by exposure to a hallucinogenic drug, causing him to suffer mildly distracting delusionary side effects.", 
-            "realname": "Silas Burr", 
-            "significantissues": [
-                "Attempted criminal takeover of Madripoor, defeated by Wolverine (Marvel Comics Presents #85-92, 1991)", 
-                "with Hell's Belles, vs X-Factor (X-Factor #79-81, 1992)", 
-                "employed by Coven, battled Wolverine (Marvel Comics Presents #132-136, 1993)", 
-                "vs Wolverine, Zoe Culloden & Excalibur, imprisoned on Muir Island (Wolverine #79-81, 1994)", 
-                "freed by Dark Riders (Wolverine #93, 1995)", 
-                "killed by Genesis (Wolverine #96, 1995)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 365
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Canada", 
+    "content": "In recent years, Burr underwent a procedure that laced his skin with the unbreakable metal Adamantium, although it is unknown if he was involved with the Weapon X program. Calling himself Cyber, he became an enforcer for a drug cartel and was sent to the island nation of Madripoor to oversee the distribution of a new hallucinogenic drug. Cyber targeted Madripoor\u2019s leading crimelords Tyger Tiger and General Coy but was opposed by Tiger\u2019s ally Wolverine. In the ensuing clash, Cyber lost an eye before falling into a barrel of the hallucinogen that drove him mad.Eventually replacing his lost eye with a cybernetic one, Cyber led the mercenary Hell\u2019s Belles group against the government-sponsored mutant team X-Factor. Cyber was next employed by the Coven cult to retrieve a mystic gem but was again opposed by Wolverine. Cyber reciprocated by attempting to steal money from Wolverine\u2019s account with the interdimensional firm Landau, Luckman, and Lake, clashing with both Wolverine and LL&L operative Zoe Culloden. Following Wolverine to Muir Island off the coast of Scotland, Cyber fought the British super-team Excalibur but was trapped in a high security chamber.Cyber was freed by the Dark Riders on behalf of the time-traveling villain Genesis who sought to obtain his Adamantium. Cyber met a grisly end as a swarm of mutant death watch beetles consumed his flesh, leaving only his Adamantium \"skin\", which Genesis melted down in order to once again bond to Wolverine's skeleton.", 
+    "durability": 1, 
+    "education": "Unidentified vocational college", 
+    "energy": 1, 
+    "eyes": "Hazel\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Comics Presents #85 (1991)\n", 
+    "groupaffiliation": [
+        "Former employee of Coven", 
+        "former employer of Hell's Belles", 
+        "former leader of Devil's Brigade"
+    ], 
+    "hair": "Unrevealed\n", 
+    "height": 76, 
+    "id": "Cyber", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified wife", 
+    "occupation": [
+        "Mercenary", 
+        "former enforcer", 
+        "soldier"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Cyber possessed an unspecified degree of superhuman strength. Cyber was sufficiently strong enough to wreck a jeep using only one arm.\nCyber also possessed an accelerating healing factor similar to that possessed by Wolverine.  However, Cyber's healing factor wasn't nearly as efficient as Wolverine's.  For example, Cyber was unable to regenerate his left eye after it was gouged out by Wolverine in battle and was forced to use a cybernetic implant whereas Wolverine has regenerated missing eyes on numerous occassions  This healing factor would enable Cyber to repair damaged or destroyed tissue with much greater speed and efficiency than an ordinary human. It was due to Cyber's healing factor that he survived the process in which Adamantium was bonded to his skin. Aside from its great regenerative capabilities, Cyber was highly resistant, if not completely immune, against all known diseases.  Due to the presence of his healing factor, Cyber aged at a rate considerably slower than that of an ordinary human. Despite being, chronologically, well over 100 years old at the time of his death, Cyber retained the appearance and vigor of a man in the physical prime of his life.\nCyber's musculature generated considerably less lactic acids than the musculature of an ordinary human, due to his accelerated healing factor. As a result, Cyber possessed superhuman levels of stamina in all physical activities.    \nCyber's final superhuman ability was a low level psionic ability that enabled him to track individual brain patterns over an unspecified distance. After being exposed to vast quantities of the same toxins that tipped his claws, this ability was increased to an unknown limit. However, it was sufficient to track Wolverine across Edinburgh, Scotland and Muir Island.\n\nCyber was driven insane by exposure to a hallucinogenic drug, causing him to suffer mildly distracting delusionary side effects.", 
+    "realname": "Silas Burr", 
+    "significantissues": [
+        "Attempted criminal takeover of Madripoor, defeated by Wolverine (Marvel Comics Presents #85-92, 1991)", 
+        "with Hell's Belles, vs X-Factor (X-Factor #79-81, 1992)", 
+        "employed by Coven, battled Wolverine (Marvel Comics Presents #132-136, 1993)", 
+        "vs Wolverine, Zoe Culloden & Excalibur, imprisoned on Muir Island (Wolverine #79-81, 1994)", 
+        "freed by Dark Riders (Wolverine #93, 1995)", 
+        "killed by Genesis (Wolverine #96, 1995)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 365
 }

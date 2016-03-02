@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Elektra #2 (1996)\n", 
-            "groupaffiliation": "Hand", 
-            "hair": "Blonde\n", 
-            "id": "McCabe,_Nina", 
-            "identity": [
-                "Publicly known (as Nina)", 
-                "secret (as member of the Hand)"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified parents (deceased), unidentified grandparents", 
-            "occupation": "Assassin", 
-            "origin": "Elektra #17 (1997)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "After Nina was killed by Kuroyama the Hand resurrected her, giving her the knowledge and skills of a master martial artist", 
-            "realname": "Nina McCabe", 
-            "significantissues": [
-                "Watched her father die (Elektra #2, 1996)", 
-                "Saved from a life on the streets by Elektra (Elektra #3, 1997)", 
-                "Became Elektra's ward (Elektra #5, 1997)", 
-                "Killed by Kuroyama (Elektra #14, 1997)", 
-                "Returned as servant of the Hand (Elektra #17, 1997)", 
-                "Accompanied Elektra to the Chaste in search of redemption (Elektra #18, 1997)", 
-                "Duped the Chaste and allowed the Hand to defeat them (Elektra #19, 1997)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Elektra #2 (1996)\n", 
+    "groupaffiliation": "Hand", 
+    "hair": "Blonde\n", 
+    "id": "McCabe,_Nina", 
+    "identity": [
+        "Publicly known (as Nina)", 
+        "secret (as member of the Hand)"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified parents (deceased), unidentified grandparents", 
+    "occupation": "Assassin", 
+    "origin": "Elektra #17 (1997)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "After Nina was killed by Kuroyama the Hand resurrected her, giving her the knowledge and skills of a master martial artist", 
+    "realname": "Nina McCabe", 
+    "significantissues": [
+        "Watched her father die (Elektra #2, 1996)", 
+        "Saved from a life on the streets by Elektra (Elektra #3, 1997)", 
+        "Became Elektra's ward (Elektra #5, 1997)", 
+        "Killed by Kuroyama (Elektra #14, 1997)", 
+        "Returned as servant of the Hand (Elektra #17, 1997)", 
+        "Accompanied Elektra to the Chaste in search of redemption (Elektra #18, 1997)", 
+        "Duped the Chaste and allowed the Hand to defeat them (Elektra #19, 1997)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

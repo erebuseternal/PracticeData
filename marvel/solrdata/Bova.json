@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "The Old Women on the Hill", 
-            "citizenship": "None", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High Evolutionary's electronic tutoring process", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Giant-Size Avengers #1 (1974)\n", 
-            "groupaffiliation": "New Men", 
-            "hair": "Brown\n", 
-            "height": 69, 
-            "id": "Bova", 
-            "identity": "No Dual Identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Nanny", 
-                "nursemaid", 
-                "midwife"
-            ], 
-            "placeofbirth": [
-                "High Evolutionary's Citadel of Science", 
-                "Wundagore Mountain", 
-                "Transia"
-            ], 
-            "realname": "Bova Ayrshire", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": "The Old Women on the Hill", 
+    "citizenship": "None", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High Evolutionary's electronic tutoring process", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Giant-Size Avengers #1 (1974)\n", 
+    "groupaffiliation": "New Men", 
+    "hair": "Brown\n", 
+    "height": 69, 
+    "id": "Bova", 
+    "identity": "No Dual Identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Nanny", 
+        "nursemaid", 
+        "midwife"
+    ], 
+    "placeofbirth": [
+        "High Evolutionary's Citadel of Science", 
+        "Wundagore Mountain", 
+        "Transia"
+    ], 
+    "realname": "Bova Ayrshire", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Atlantean", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "groupaffiliation": "None", 
-            "hair": "White\n", 
-            "id": "Vashti", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Nereus (father)", 
-            "occupation": "Grand Vizier", 
-            "placeofbirth": "province of Cleito", 
-            "realname": "Vashti", 
-            "significantissues": "Vashti revealed the Legend of Sama-Ket and the Unforgiven (Namor the Sub-Mariner #38, 1993)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Atlantean", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "groupaffiliation": "None", 
+    "hair": "White\n", 
+    "id": "Vashti", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Nereus (father)", 
+    "occupation": "Grand Vizier", 
+    "placeofbirth": "province of Cleito", 
+    "realname": "Vashti", 
+    "significantissues": "Vashti revealed the Legend of Sama-Ket and the Unforgiven (Namor the Sub-Mariner #38, 1993)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

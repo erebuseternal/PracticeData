@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Spider-Man", 
-                "\"Matt\""
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "With the blessings of Jessica Drew and Julia Carpenter, the first Spider-Women, she resumed the Spider-Woman mantle. Franklin eventually settled with her \"Aunt\" Marla Madison, and \"Uncle\" J. Jonah Jameson, both close friends with her father, and frequently varied the appearance of her costume. As Spider-Woman, she battled Flesh and Bones, Shadrac, the Shadowcaster, aliens looking to conquer Earth, the psychic projections of Brian Leighton (creating an amalgam of the Rhino,  Doctor Octopus, Venom), Miss Itch and Mr. Scratch, and a werewolf nun.", 
-            "durability": 6, 
-            "education": "High school educated", 
-            "energy": 6, 
-            "eyes": "Brown\n", 
-            "fighting": 6, 
-            "firstappearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)\n", 
-            "groupaffiliation": [
-                "Formerly Loners", 
-                "Gathering of the Five"
-            ], 
-            "hair": "Brown\n", 
-            "height": 68, 
-            "id": "Spider-Woman_(Mattie_Franklin)", 
-            "identity": "Secret", 
-            "intelligence": 6, 
-            "knownrelatives": "Jeremy Franklin (father, deceased), Bernice Franklin (mother, deceased), J. Jonah Jameson (foster father), Marla Madison (foster mother)", 
-            "occupation": "Student", 
-            "origin": "Amazing Spider-Man #441 (1998)", 
-            "placeofbirth": [
-                "Rochester", 
-                "New York"
-            ], 
-            "powers": "Mattie possesses \"ultimate power\" obtained from the Gathering of the Five ceremony including flight, superhuman strength (able to lift up to 10 tons), speed, reflexes, stamina and agility. Mattie absorbed the combined original abilities of the other Spider-Women including their abilities to sprout psionic spider-legs from her back, generation of psionic webbing and bioelectric \"venom blasts\", and moderate telepathy. The degree to which she still has retained these siphoned powers is unknown. She was able to shape the appearance of her spider-legs using her mind.", 
-            "realname": "Martha \"Mattie\" Franklin", 
-            "significantissues": [
-                "Posed as Spider-Man (Amazing Spider-Man #1, 1998)", 
-                "first called herself Spider-Woman (Amazing Spider-Man #5, 1999)"
-            ], 
-            "speed": 6, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 123
-        }
-    }
+    "aliases": [
+        "Spider-Man", 
+        "\"Matt\""
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "With the blessings of Jessica Drew and Julia Carpenter, the first Spider-Women, she resumed the Spider-Woman mantle. Franklin eventually settled with her \"Aunt\" Marla Madison, and \"Uncle\" J. Jonah Jameson, both close friends with her father, and frequently varied the appearance of her costume. As Spider-Woman, she battled Flesh and Bones, Shadrac, the Shadowcaster, aliens looking to conquer Earth, the psychic projections of Brian Leighton (creating an amalgam of the Rhino,  Doctor Octopus, Venom), Miss Itch and Mr. Scratch, and a werewolf nun.", 
+    "durability": 6, 
+    "education": "High school educated", 
+    "energy": 6, 
+    "eyes": "Brown\n", 
+    "fighting": 6, 
+    "firstappearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)\n", 
+    "groupaffiliation": [
+        "Formerly Loners", 
+        "Gathering of the Five"
+    ], 
+    "hair": "Brown\n", 
+    "height": 68, 
+    "id": "Spider-Woman_(Mattie_Franklin)", 
+    "identity": "Secret", 
+    "intelligence": 6, 
+    "knownrelatives": "Jeremy Franklin (father, deceased), Bernice Franklin (mother, deceased), J. Jonah Jameson (foster father), Marla Madison (foster mother)", 
+    "occupation": "Student", 
+    "origin": "Amazing Spider-Man #441 (1998)", 
+    "placeofbirth": [
+        "Rochester", 
+        "New York"
+    ], 
+    "powers": "Mattie possesses \"ultimate power\" obtained from the Gathering of the Five ceremony including flight, superhuman strength (able to lift up to 10 tons), speed, reflexes, stamina and agility. Mattie absorbed the combined original abilities of the other Spider-Women including their abilities to sprout psionic spider-legs from her back, generation of psionic webbing and bioelectric \"venom blasts\", and moderate telepathy. The degree to which she still has retained these siphoned powers is unknown. She was able to shape the appearance of her spider-legs using her mind.", 
+    "realname": "Martha \"Mattie\" Franklin", 
+    "significantissues": [
+        "Posed as Spider-Man (Amazing Spider-Man #1, 1998)", 
+        "first called herself Spider-Woman (Amazing Spider-Man #5, 1999)"
+    ], 
+    "speed": 6, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 123
 }

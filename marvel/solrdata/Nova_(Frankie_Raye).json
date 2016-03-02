@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Human Torch", 
-            "citizenship": "United States of America", 
-            "content": "By chance, Frankie met Johnny Storm and they began a romantic relationship.  She finally discovered what her father had done to her and regained her memories.  Under Johnny's guidance, she learned how to control her powers and became an unofficial member of the Fantastic Four.  Although Frankie wanted to join the team on their adventures, Mister Fantastic often left her behind due to her lack of experience.When Galactus returned to Earth, desperate for sustenance, Frankie offered herself to him as a herald in order to save Earth, and for the chance to explore space.  Galactus granted her a portion of the Power Cosmic and she departed Earth, without a backwards glance.Now called Nova, Frankie took delight in finding new worlds for Galactus to feed on, caring little for the lives of aliens.  That was, until she met the Silver Surfer.  The Surfer did his best to teach her to value all life, finally bringing Frankie to a primitive world and asking her if she would feed it to Galactus.  She said she would, only to learn that the Surfer had brought her back in time to a young Earth.", 
-            "durability": 1, 
-            "education": "College graduate", 
-            "energy": 1, 
-            "eyes": "White, no visible pupils\n", 
-            "fighting": 1, 
-            "firstappearance": "(Frankie Raye) Fantastic Four Vol. 1 #164 (1975); (Nova) Fantastic Four Vol. 1 #244 (1982)\n", 
-            "groupaffiliation": "Unofficial member of the Fantastic Four", 
-            "hair": "None\n", 
-            "height": 66, 
-            "id": "Nova_(Frankie_Raye)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Phineas T. Horton (father)", 
-            "occupation": [
-                "Former herald of Galactus", 
-                "adventurer", 
-                "translator"
-            ], 
-            "origin": "Fantastic Four Vol. 1 #238 (1982)", 
-            "placeofbirth": [
-                "New York", 
-                "New York"
-            ], 
-            "powers": "Nova could manipulate cosmic energy in the form of stellar fire, surrounding herself in a flaming aura. Her portion of the power cosmic allowed her to manipulate all forms of energy, fly at warp speed, and survive in outer space.", 
-            "realname": "Frankie Raye", 
-            "significantissues": [
-                "First met Johnny Storm (Fantastic Four Vol. 1 #164, 1975)", 
-                "learned of her powers (Fantastic Four Vol. 1 #238, 1982)", 
-                "became herald of Galactus (Fantastic Four Vol. 1 #244, 1982)", 
-                "taught by Silver Surfer to value all life (Silver Surfer Vol. 3 #51, 1991)", 
-                "killed by Morg (Silver Surfer Vol. 3 #75, 1992)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": "Human Torch", 
+    "citizenship": "United States of America", 
+    "content": "By chance, Frankie met Johnny Storm and they began a romantic relationship.  She finally discovered what her father had done to her and regained her memories.  Under Johnny's guidance, she learned how to control her powers and became an unofficial member of the Fantastic Four.  Although Frankie wanted to join the team on their adventures, Mister Fantastic often left her behind due to her lack of experience.When Galactus returned to Earth, desperate for sustenance, Frankie offered herself to him as a herald in order to save Earth, and for the chance to explore space.  Galactus granted her a portion of the Power Cosmic and she departed Earth, without a backwards glance.Now called Nova, Frankie took delight in finding new worlds for Galactus to feed on, caring little for the lives of aliens.  That was, until she met the Silver Surfer.  The Surfer did his best to teach her to value all life, finally bringing Frankie to a primitive world and asking her if she would feed it to Galactus.  She said she would, only to learn that the Surfer had brought her back in time to a young Earth.", 
+    "durability": 1, 
+    "education": "College graduate", 
+    "energy": 1, 
+    "eyes": "White, no visible pupils\n", 
+    "fighting": 1, 
+    "firstappearance": "(Frankie Raye) Fantastic Four Vol. 1 #164 (1975); (Nova) Fantastic Four Vol. 1 #244 (1982)\n", 
+    "groupaffiliation": "Unofficial member of the Fantastic Four", 
+    "hair": "None\n", 
+    "height": 66, 
+    "id": "Nova_(Frankie_Raye)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Phineas T. Horton (father)", 
+    "occupation": [
+        "Former herald of Galactus", 
+        "adventurer", 
+        "translator"
+    ], 
+    "origin": "Fantastic Four Vol. 1 #238 (1982)", 
+    "placeofbirth": [
+        "New York", 
+        "New York"
+    ], 
+    "powers": "Nova could manipulate cosmic energy in the form of stellar fire, surrounding herself in a flaming aura. Her portion of the power cosmic allowed her to manipulate all forms of energy, fly at warp speed, and survive in outer space.", 
+    "realname": "Frankie Raye", 
+    "significantissues": [
+        "First met Johnny Storm (Fantastic Four Vol. 1 #164, 1975)", 
+        "learned of her powers (Fantastic Four Vol. 1 #238, 1982)", 
+        "became herald of Galactus (Fantastic Four Vol. 1 #244, 1982)", 
+        "taught by Silver Surfer to value all life (Silver Surfer Vol. 3 #51, 1991)", 
+        "killed by Morg (Silver Surfer Vol. 3 #75, 1992)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

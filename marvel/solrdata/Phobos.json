@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Son of Night", 
-                "fear god"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Dr. Strange #32 (1991)\n", 
-            "groupaffiliation": "Olympians", 
-            "hair": "Blonde\n", 
-            "id": "Phobos", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Nox (mother), Ares (father), Charon, Hypnos, Deimos Thanatos, (brothers), Nemesis, Hemera (sisters), numerous others", 
-            "occupation": "God of fear", 
-            "origin": "Dr. Strange #32 (1991)", 
-            "placeofbirth": "Olympus", 
-            "powers": "Phobos possesses the conventional superhuman physical attributes of an Olympian God, including much denser bones and flesh. Virtually immortal, he is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm. Phobos also possesses empathic powers which allow him to manipulate his victim by exploiting their emotions while augmenting his powers.", 
-            "realname": "Phobos", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Son of Night", 
+        "fear god"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Dr. Strange #32 (1991)\n", 
+    "groupaffiliation": "Olympians", 
+    "hair": "Blonde\n", 
+    "id": "Phobos", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Nox (mother), Ares (father), Charon, Hypnos, Deimos Thanatos, (brothers), Nemesis, Hemera (sisters), numerous others", 
+    "occupation": "God of fear", 
+    "origin": "Dr. Strange #32 (1991)", 
+    "placeofbirth": "Olympus", 
+    "powers": "Phobos possesses the conventional superhuman physical attributes of an Olympian God, including much denser bones and flesh. Virtually immortal, he is immune to all diseases, nearly all toxins and can withstand extreme temperatures, pressures and most physical harm. Phobos also possesses empathic powers which allow him to manipulate his victim by exploiting their emotions while augmenting his powers.", 
+    "realname": "Phobos", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

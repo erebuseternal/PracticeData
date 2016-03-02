@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Queen of the Shark", 
-                "Goddess of the Seas"
-            ], 
-            "citizenship": "Atlantean", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Royal tutors of Atlantis", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Motion Picture Funnies Weekly #1 (1939); (Marvel) Marvel Comics #1 (1939)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Reddish-brown\n", 
-            "height": 69, 
-            "id": "Fen", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Leonard McKenzie (husband, deceased), Namor McKenzie (Sub-Mariner, son), Dorma (daughter-in-law, deceased), Thakorr (father, deceased), Korra (mother, presumed deceased), Daka (half-brother), Unidentified brother-in-law (Zarina's, husband), Beemer (nephew), Byrrah (cousin/stepbrother, deceased), Kamar (grandson, deceased), Aquaria Nautica (Namora, adopted niece), Talan (adopted nephew-in-law), Namorita Prentiss (adopted grand niece, deceased), Wathan (cousin, presumed deceased), Arkus, Bobo, Byrrahna, Dara (deceased), Namita, Seth, other cousins", 
-            "occupation": [
-                "Princess", 
-                "former spy"
-            ], 
-            "origin": "Saga of the Sub-Mariner #1 (1988)", 
-            "placeofbirth": "Antarctic Atlantis", 
-            "powers": "A physically typical Atlantean, Fen could lift at least 2 tons, swam at approximately 30mph, and aged much slower than humans.", 
-            "realname": "Fen", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 170
-        }
-    }
+    "aliases": [
+        "Queen of the Shark", 
+        "Goddess of the Seas"
+    ], 
+    "citizenship": "Atlantean", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Royal tutors of Atlantis", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Motion Picture Funnies Weekly #1 (1939); (Marvel) Marvel Comics #1 (1939)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Reddish-brown\n", 
+    "height": 69, 
+    "id": "Fen", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Leonard McKenzie (husband, deceased), Namor McKenzie (Sub-Mariner, son), Dorma (daughter-in-law, deceased), Thakorr (father, deceased), Korra (mother, presumed deceased), Daka (half-brother), Unidentified brother-in-law (Zarina's, husband), Beemer (nephew), Byrrah (cousin/stepbrother, deceased), Kamar (grandson, deceased), Aquaria Nautica (Namora, adopted niece), Talan (adopted nephew-in-law), Namorita Prentiss (adopted grand niece, deceased), Wathan (cousin, presumed deceased), Arkus, Bobo, Byrrahna, Dara (deceased), Namita, Seth, other cousins", 
+    "occupation": [
+        "Princess", 
+        "former spy"
+    ], 
+    "origin": "Saga of the Sub-Mariner #1 (1988)", 
+    "placeofbirth": "Antarctic Atlantis", 
+    "powers": "A physically typical Atlantean, Fen could lift at least 2 tons, swam at approximately 30mph, and aged much slower than humans.", 
+    "realname": "Fen", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 170
 }

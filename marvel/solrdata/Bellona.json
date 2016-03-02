@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Angerona", 
-                "Enyo", 
-                "Discord"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "Bellona eventually settled for an event-less existence on Mount Olympus for an undetermined length of time, before she began to train a champion Centaurion to battle on her behalf. Seeking a challenge worthy of her attention she, she sought out the prophetess Sibylla, who told her that she would find the challenge she sought by battling Kyllian, host of the power of a trio of Celtic Gods. Believing that this accomplishment would put her on par with Ares, who had recently met several defeats at the hands of the Asgardian, Thor, Bellona sent her champion to Earth to kill Kyllian. Her plan was foiled when Kyllian evoked the powers of the Celtic gods proving to be too powerful for the Centaurion. Upon arriving on Earth Bellona found her champion defeated, and began to see the error of her plan was to pit a demi-god against one who wields the powers of the gods. Bellona later set aside her scheme to kill Kyllian, believing the he would prove to be more beneficial as a pawn.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Doctor Strange #54 (1993)\n", 
-            "groupaffiliation": [
-                "Olympians", 
-                "Olympus Group"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 0, 
-            "id": "Bellona", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Hera (mother), Zeus (father), Ares, Hephaestus(brothers) Hebe(sisters), Apollo, Dionysus, Hermes, Hercules (half-brothers), Artemis, Athena, Venus, Persephone (half-sisters), Neptune, Pluto (uncles),", 
-            "occupation": "Goddess of strife and discord", 
-            "placeofbirth": "Olympus", 
-            "powers": "Bellona possesses the conventional attributes of the Olympian gods, such as superhuman strength, immunity to most known diseases and extended life.", 
-            "realname": "Eris", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 245
-        }
-    }
+    "aliases": [
+        "Angerona", 
+        "Enyo", 
+        "Discord"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "Bellona eventually settled for an event-less existence on Mount Olympus for an undetermined length of time, before she began to train a champion Centaurion to battle on her behalf. Seeking a challenge worthy of her attention she, she sought out the prophetess Sibylla, who told her that she would find the challenge she sought by battling Kyllian, host of the power of a trio of Celtic Gods. Believing that this accomplishment would put her on par with Ares, who had recently met several defeats at the hands of the Asgardian, Thor, Bellona sent her champion to Earth to kill Kyllian. Her plan was foiled when Kyllian evoked the powers of the Celtic gods proving to be too powerful for the Centaurion. Upon arriving on Earth Bellona found her champion defeated, and began to see the error of her plan was to pit a demi-god against one who wields the powers of the gods. Bellona later set aside her scheme to kill Kyllian, believing the he would prove to be more beneficial as a pawn.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Doctor Strange #54 (1993)\n", 
+    "groupaffiliation": [
+        "Olympians", 
+        "Olympus Group"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 0, 
+    "id": "Bellona", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Hera (mother), Zeus (father), Ares, Hephaestus(brothers) Hebe(sisters), Apollo, Dionysus, Hermes, Hercules (half-brothers), Artemis, Athena, Venus, Persephone (half-sisters), Neptune, Pluto (uncles),", 
+    "occupation": "Goddess of strife and discord", 
+    "placeofbirth": "Olympus", 
+    "powers": "Bellona possesses the conventional attributes of the Olympian gods, such as superhuman strength, immunity to most known diseases and extended life.", 
+    "realname": "Eris", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 245
 }

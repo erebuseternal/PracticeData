@@ -1,55 +1,51 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Formerly Anne McKenzie-Thompson", 
-            "citizenship": "Canada", 
-            "content": "Twoyoungmen raised the rapidly maturing Narya as his own daughter, and both were soon recruited into Alpha Flight as Shaman and Snowbird. Narya was given the human cover identity of RCMP Records Officer Anne McKenzie, as whom she met and fell in love with fellow officer Doug Thompson. Snowbird and her teammates protected Earth from the Great Beasts, but when Narya married Thompson and became pregnant with his child, the outraged Eskimo Gods banned her from their realm. When Narya went to the Arctic alongside Doug and Shaman to give birth, the necessary magic accidentally revived the evil Pestilence, who had lain dormant underground there. Pestilence possessed Snowbird's newborn son and aged him into an adult, intending to menace Earth with his powers of death and decay. In the ensuing battle, Thompson and the baby were killed by Pestilence, and Vindicator was forced to kill a Pestilence-possessed Snowbird. The souls of Narya, her husband, and their child were then welcomed into the Gods' realm.", 
-            "durability": 4, 
-            "education": "Tutored by Michael Twoyoungmen, trained as an RCMP colonel", 
-            "energy": 1, 
-            "eyes": "(as Snowbird) White with no visible pupils; (as McKenzie) Blue\n", 
-            "fighting": 4, 
-            "firstappearance": "(As McKenzie) X-Men #120 (1979), (as Snowbird) X-Men #121 (1979)\n", 
-            "groupaffiliation": [
-                "God Squad", 
-                "formerly Alpha Flight", 
-                "Eskimo Gods", 
-                "Royal Canadian Mounted Police", 
-                "The Flight"
-            ], 
-            "hair": "(in human form) Pale blonde; (in animal form) White\n", 
-            "height": 70, 
-            "id": "Snowbird", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "Hodiak (grandfather), Nelvanna (mother), Richard Lawrence Easton (father, deceased), Michael Twoyoungmen (Shaman, foster father), Douglas Thompson (husband, deceased), unnamed son (deceased)", 
-            "occupation": [
-                "Goddess", 
-                "adventurer", 
-                "former records officer"
-            ], 
-            "origin": [
-                "Alpha Flight #7-8 (1984)", 
-                "Alpha Flight Special #1 (1992)"
-            ], 
-            "placeofbirth": [
-                "Near Resolute Bay", 
-                "Northwest Territories", 
-                "Canada"
-            ], 
-            "powers": "Snowbird can mystically assume the form of a female human being, as well as that of any animal native to northern Canada, gaining each animal's special abilities. If she holds an animal shape for too long, her personality may become animalistic. Snowbird also has mystical senses that allow her to detect magical energies, sense the presence of great mystical evil, and achieve limited postcognition. Furthermore, Snowbird possesses superhuman strength and is capable of flight.", 
-            "realname": "Narya", 
-            "significantissues": [
-                "With Alpha Flight, vs X-Men (X-Men #120-121, 1979)", 
-                "vs Wendigo (X-Men #140, 1980)", 
-                "married Doug, gave birth, baby possessed by Pestilence (Alpha Flight #35-38, 1986)", 
-                "killed by Vindicator, spirit travels to Gods' realm (Alpha Flight #44-45, 1987)", 
-                "resurrected by A.I.M. (Wolverine #142-143, 2001)"
-            ], 
-            "speed": 4, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 108
-        }
-    }
+    "aliases": "Formerly Anne McKenzie-Thompson", 
+    "citizenship": "Canada", 
+    "content": "Twoyoungmen raised the rapidly maturing Narya as his own daughter, and both were soon recruited into Alpha Flight as Shaman and Snowbird. Narya was given the human cover identity of RCMP Records Officer Anne McKenzie, as whom she met and fell in love with fellow officer Doug Thompson. Snowbird and her teammates protected Earth from the Great Beasts, but when Narya married Thompson and became pregnant with his child, the outraged Eskimo Gods banned her from their realm. When Narya went to the Arctic alongside Doug and Shaman to give birth, the necessary magic accidentally revived the evil Pestilence, who had lain dormant underground there. Pestilence possessed Snowbird's newborn son and aged him into an adult, intending to menace Earth with his powers of death and decay. In the ensuing battle, Thompson and the baby were killed by Pestilence, and Vindicator was forced to kill a Pestilence-possessed Snowbird. The souls of Narya, her husband, and their child were then welcomed into the Gods' realm.", 
+    "durability": 4, 
+    "education": "Tutored by Michael Twoyoungmen, trained as an RCMP colonel", 
+    "energy": 1, 
+    "eyes": "(as Snowbird) White with no visible pupils; (as McKenzie) Blue\n", 
+    "fighting": 4, 
+    "firstappearance": "(As McKenzie) X-Men #120 (1979), (as Snowbird) X-Men #121 (1979)\n", 
+    "groupaffiliation": [
+        "God Squad", 
+        "formerly Alpha Flight", 
+        "Eskimo Gods", 
+        "Royal Canadian Mounted Police", 
+        "The Flight"
+    ], 
+    "hair": "(in human form) Pale blonde; (in animal form) White\n", 
+    "height": 70, 
+    "id": "Snowbird", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "Hodiak (grandfather), Nelvanna (mother), Richard Lawrence Easton (father, deceased), Michael Twoyoungmen (Shaman, foster father), Douglas Thompson (husband, deceased), unnamed son (deceased)", 
+    "occupation": [
+        "Goddess", 
+        "adventurer", 
+        "former records officer"
+    ], 
+    "origin": [
+        "Alpha Flight #7-8 (1984)", 
+        "Alpha Flight Special #1 (1992)"
+    ], 
+    "placeofbirth": [
+        "Near Resolute Bay", 
+        "Northwest Territories", 
+        "Canada"
+    ], 
+    "powers": "Snowbird can mystically assume the form of a female human being, as well as that of any animal native to northern Canada, gaining each animal's special abilities. If she holds an animal shape for too long, her personality may become animalistic. Snowbird also has mystical senses that allow her to detect magical energies, sense the presence of great mystical evil, and achieve limited postcognition. Furthermore, Snowbird possesses superhuman strength and is capable of flight.", 
+    "realname": "Narya", 
+    "significantissues": [
+        "With Alpha Flight, vs X-Men (X-Men #120-121, 1979)", 
+        "vs Wendigo (X-Men #140, 1980)", 
+        "married Doug, gave birth, baby possessed by Pestilence (Alpha Flight #35-38, 1986)", 
+        "killed by Vindicator, spirit travels to Gods' realm (Alpha Flight #44-45, 1987)", 
+        "resurrected by A.I.M. (Wolverine #142-143, 2001)"
+    ], 
+    "speed": 4, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 108
 }

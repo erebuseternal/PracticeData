@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lockheed", 
-                "Dragon"
-            ], 
-            "citizenship": "Inapplicable", 
-            "content": "Lockheed later joined Kitty in becoming a founding member of the British super-team Excalibur. During a battle with the despotic Doctor Doom, Lockheed was severely wounded while protecting Kitty. After undergoing surgery, his astral form was transported aboard the spaceship that carried the collective transient souls of his entire space-faring race. There, Lockheed was placed on trial for abandoning not only his people, but his intended bride on their wedding day. Lockheed defended his decision to leave, but during his speech the ship\u2019s pilots fell asleep. Lockheed was able to regain control of the ship, preventing his people\u2019s souls from dissipating. The court still found him guilty; however, they commuted the death sentence and instead exiled him from the Flock.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Yellow, no pupils\n", 
-            "fighting": 1, 
-            "firstappearance": "Uncanny X-Men #166 (1983)\n", 
-            "groupaffiliation": [
-                "X-Men", 
-                "formerly Excalibur", 
-                "Flock"
-            ], 
-            "hair": "None\n", 
-            "height": 0, 
-            "id": "Lockheed", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Adventurer", 
-            "origin": "Excalibur #40 (1991)", 
-            "placeofbirth": "Flock homeworld", 
-            "powers": "Lockheed is a purple-skinned alien with a dragon-like appearance, including small forepaws and wings. He can fly via his natural wings, as well as breathe fire. Lockheed is immune to the intense heat and flames he can generate, as well as that from external sources within certain limits. Lockheed has been seen to withstand immersion in molten lava with no ill effects. He also possesses five lungs of unknown function.\nLockheed\u2019s mind is capable of resisting telepathic probes from even the most powerful telepaths. Like all members of his race, Lockheed is empathic, able to sense the emotions of others.", 
-            "realname": "Unrevealed, possibly inapplicable", 
-            "significantissues": [
-                "Befriended Puff, rejected her advances (Marvel Super Heroes Secret Wars #12/Uncanny X-Men #181, 1985/1984)", 
-                "co-founded Excalibur (Excalibur: The Sword is Drawn, 1988)", 
-                "put on trial, exiled from Flock (Excalibur #40, 1991)", 
-                "vs witches (X-Men Unlimited #43, 2003)", 
-                "rejoined Kitty at University (X-Treme X-Men 2001 Annual, 2001)", 
-                "assisted in Institute Field Day exercise (New X-Men: Academy X #3-4, 2004)", 
-                "with Kitty, investigated Puff\u2019s kidnapping, vs Path of Destiny (X-Men: Kitty Pryde \u2013 Shadow & Flame #1-5, 2005)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 20
-        }
-    }
+    "aliases": [
+        "Lockheed", 
+        "Dragon"
+    ], 
+    "citizenship": "Inapplicable", 
+    "content": "Lockheed later joined Kitty in becoming a founding member of the British super-team Excalibur. During a battle with the despotic Doctor Doom, Lockheed was severely wounded while protecting Kitty. After undergoing surgery, his astral form was transported aboard the spaceship that carried the collective transient souls of his entire space-faring race. There, Lockheed was placed on trial for abandoning not only his people, but his intended bride on their wedding day. Lockheed defended his decision to leave, but during his speech the ship\u2019s pilots fell asleep. Lockheed was able to regain control of the ship, preventing his people\u2019s souls from dissipating. The court still found him guilty; however, they commuted the death sentence and instead exiled him from the Flock.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Yellow, no pupils\n", 
+    "fighting": 1, 
+    "firstappearance": "Uncanny X-Men #166 (1983)\n", 
+    "groupaffiliation": [
+        "X-Men", 
+        "formerly Excalibur", 
+        "Flock"
+    ], 
+    "hair": "None\n", 
+    "height": 0, 
+    "id": "Lockheed", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Adventurer", 
+    "origin": "Excalibur #40 (1991)", 
+    "placeofbirth": "Flock homeworld", 
+    "powers": "Lockheed is a purple-skinned alien with a dragon-like appearance, including small forepaws and wings. He can fly via his natural wings, as well as breathe fire. Lockheed is immune to the intense heat and flames he can generate, as well as that from external sources within certain limits. Lockheed has been seen to withstand immersion in molten lava with no ill effects. He also possesses five lungs of unknown function.\nLockheed\u2019s mind is capable of resisting telepathic probes from even the most powerful telepaths. Like all members of his race, Lockheed is empathic, able to sense the emotions of others.", 
+    "realname": "Unrevealed, possibly inapplicable", 
+    "significantissues": [
+        "Befriended Puff, rejected her advances (Marvel Super Heroes Secret Wars #12/Uncanny X-Men #181, 1985/1984)", 
+        "co-founded Excalibur (Excalibur: The Sword is Drawn, 1988)", 
+        "put on trial, exiled from Flock (Excalibur #40, 1991)", 
+        "vs witches (X-Men Unlimited #43, 2003)", 
+        "rejoined Kitty at University (X-Treme X-Men 2001 Annual, 2001)", 
+        "assisted in Institute Field Day exercise (New X-Men: Academy X #3-4, 2004)", 
+        "with Kitty, investigated Puff\u2019s kidnapping, vs Path of Destiny (X-Men: Kitty Pryde \u2013 Shadow & Flame #1-5, 2005)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 20
 }

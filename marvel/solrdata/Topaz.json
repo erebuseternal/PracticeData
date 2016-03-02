@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Nightmare creature", 
-                "Sin creature"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "When Topaz temporarily destroyed the demon lord Mephisto, his demons trapped her in his realm with a spell that would remove another soul fragment and her empathic powers if she left. Freed when Franklin Richards destroyed the re-formed Mephisto, Topaz was restored by Doctor Strange and the alien sorcerer Urthona, who had captured her soul fragment after it had been released from Hell. Now twenty-one, she achieved her full potential, healing Strange's fatally wounded servant Wong. When Strange turned to black magic to oppose the demon Shuma-Gorath, Topaz left him to study under the Sisters of Glastonbury Tor. Returning to help Strange against Dormammu, she was soon possessed by Mephisto's daughter, Mephista, who was in turn used as a pawn by rival Hell lord, Satannish. Strange ultimately exorcised the demons from Topaz.", 
-            "durability": 1, 
-            "education": "Extensive magical training", 
-            "energy": 1, 
-            "eyes": "Brown (Blue as Caucasian)\n", 
-            "fighting": 1, 
-            "firstappearance": "Werewolf by Night Vol. 1 #13 (1974)\n", 
-            "groupaffiliation": "Witches", 
-            "hair": "Black (Blonde as Caucasian)\n", 
-            "height": 63, 
-            "id": "Topaz", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Taboo (adoptive father), Algon (adoptive brother)", 
-            "occupation": [
-                "Sorceress", 
-                "adventurer"
-            ], 
-            "origin": "Werewolf by Night Vol. 1 #13 (1974)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Topaz is a powerful mystic with exceptional empathic, telepathic, and telekinetic abilities. She can magnify or diminish emotions, infuse life energy, and heal injures. She can serve as a familiar to other sorcerers, focusing and magnifying their abilities. She has taken two separate forms, one Caucasian, one Indian.", 
-            "realname": "Unrevealed", 
-            "significantissues": [
-                "Encountered Dracula (Tomb of Dracula Vol. 1 #18, Werewolf by Night Vol. 1 #15", 
-                "1974)", 
-                "assaulted by Glitternight (Werewolf by Night Vol. 1 #27-30, 1975)", 
-                "destroyed Mephisto (Tomb of Dracula Vol. 1 #62-64, 1978)", 
-                "soul restored by Dr. Strange (Dr. Strange Vol. 2 #81, 1986)", 
-                "pawn of Dormammu (Dr. Strange: Flight of Bones #1-4, 1999)", 
-                "joined Witches (Witches #1-4, 2004)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 100
-        }
-    }
+    "aliases": [
+        "Nightmare creature", 
+        "Sin creature"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "When Topaz temporarily destroyed the demon lord Mephisto, his demons trapped her in his realm with a spell that would remove another soul fragment and her empathic powers if she left. Freed when Franklin Richards destroyed the re-formed Mephisto, Topaz was restored by Doctor Strange and the alien sorcerer Urthona, who had captured her soul fragment after it had been released from Hell. Now twenty-one, she achieved her full potential, healing Strange's fatally wounded servant Wong. When Strange turned to black magic to oppose the demon Shuma-Gorath, Topaz left him to study under the Sisters of Glastonbury Tor. Returning to help Strange against Dormammu, she was soon possessed by Mephisto's daughter, Mephista, who was in turn used as a pawn by rival Hell lord, Satannish. Strange ultimately exorcised the demons from Topaz.", 
+    "durability": 1, 
+    "education": "Extensive magical training", 
+    "energy": 1, 
+    "eyes": "Brown (Blue as Caucasian)\n", 
+    "fighting": 1, 
+    "firstappearance": "Werewolf by Night Vol. 1 #13 (1974)\n", 
+    "groupaffiliation": "Witches", 
+    "hair": "Black (Blonde as Caucasian)\n", 
+    "height": 63, 
+    "id": "Topaz", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Taboo (adoptive father), Algon (adoptive brother)", 
+    "occupation": [
+        "Sorceress", 
+        "adventurer"
+    ], 
+    "origin": "Werewolf by Night Vol. 1 #13 (1974)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Topaz is a powerful mystic with exceptional empathic, telepathic, and telekinetic abilities. She can magnify or diminish emotions, infuse life energy, and heal injures. She can serve as a familiar to other sorcerers, focusing and magnifying their abilities. She has taken two separate forms, one Caucasian, one Indian.", 
+    "realname": "Unrevealed", 
+    "significantissues": [
+        "Encountered Dracula (Tomb of Dracula Vol. 1 #18, Werewolf by Night Vol. 1 #15", 
+        "1974)", 
+        "assaulted by Glitternight (Werewolf by Night Vol. 1 #27-30, 1975)", 
+        "destroyed Mephisto (Tomb of Dracula Vol. 1 #62-64, 1978)", 
+        "soul restored by Dr. Strange (Dr. Strange Vol. 2 #81, 1986)", 
+        "pawn of Dormammu (Dr. Strange: Flight of Bones #1-4, 1999)", 
+        "joined Witches (Witches #1-4, 2004)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 100
 }

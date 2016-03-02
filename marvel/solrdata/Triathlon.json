@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "3-D Man", 
-            "citizenship": "United States of America", 
-            "content": "Unaware of Tremont's true nature and secret plans, Delroy began to believe that the increasingly hostile Avengers might be intolerant, even racist; but the feud came to an unexpected end when the Avengers' government liaison Duane Freeman-another Triune follower-convinced the Avengers to recruit Triathlon, since he was a capable hero whose visible minority status and Triune background would help defuse much of the group's negative publicity. Determined to prove the Avengers wrong about the Triunes, Triathlon joined the team. Wary of his fellow Avengers and resenting the circumstances of his recruitment, Delroy was a bitter and disruptive presence at first; but he gradually became a valued and enthusiastic Avenger, thanks in part to advice and support from Warbird and Pulsar.Teaming with Tremont to confront the cosmic menace known as the Triple-Evil, the Avengers learned that Tremont had founded the Triunes to face the Triple-Evil; that he had smeared the Avengers' reputation as part of his efforts to amass Triune influence; that only three scattered cosmic energy shards formed by the universe as \"cosmic antibodies\" could neutralize the Triple-Evil; and that two of these shards had come to Earth, where one empowered the 3-D Man (a triple-powered 1950s hero formed by the merger of brothers Hal and Chuck Chandler) and another empowered Tremont, who secretly captured 3-D Man in recent times and merged him into unwitting Triune follower Delroy. Having found the third energy shard in space while facing the Triple-Evil, Tremont tried to take all three shards for himself, but Delroy-still merged with the now-conscious Chandlers-absorbed all three shards.", 
-            "durability": 1, 
-            "education": "Unrevealed, includes extensive Triune teachings", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #8 (1998)\n", 
-            "groupaffiliation": [
-                "Initiative Trainees", 
-                "formerly Secret Avengers", 
-                "Avengers", 
-                "Triune Understanding"
-            ], 
-            "hair": "Black\n", 
-            "height": 75, 
-            "id": "Triathlon", 
-            "identity": "Publicly known", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Adventurer", 
-                "former spokesman", 
-                "Olympic athlete"
-            ], 
-            "placeofbirth": [
-                "Philadelphia", 
-                "Pennsylvania"
-            ], 
-            "powers": "Triathlon's physical abilities are all enhanced to roughly three times peak human potential, notably his strength, speed, agility and sensory acuity.", 
-            "realname": "Delroy Garrett, Jr.", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": "3-D Man", 
+    "citizenship": "United States of America", 
+    "content": "Unaware of Tremont's true nature and secret plans, Delroy began to believe that the increasingly hostile Avengers might be intolerant, even racist; but the feud came to an unexpected end when the Avengers' government liaison Duane Freeman-another Triune follower-convinced the Avengers to recruit Triathlon, since he was a capable hero whose visible minority status and Triune background would help defuse much of the group's negative publicity. Determined to prove the Avengers wrong about the Triunes, Triathlon joined the team. Wary of his fellow Avengers and resenting the circumstances of his recruitment, Delroy was a bitter and disruptive presence at first; but he gradually became a valued and enthusiastic Avenger, thanks in part to advice and support from Warbird and Pulsar.Teaming with Tremont to confront the cosmic menace known as the Triple-Evil, the Avengers learned that Tremont had founded the Triunes to face the Triple-Evil; that he had smeared the Avengers' reputation as part of his efforts to amass Triune influence; that only three scattered cosmic energy shards formed by the universe as \"cosmic antibodies\" could neutralize the Triple-Evil; and that two of these shards had come to Earth, where one empowered the 3-D Man (a triple-powered 1950s hero formed by the merger of brothers Hal and Chuck Chandler) and another empowered Tremont, who secretly captured 3-D Man in recent times and merged him into unwitting Triune follower Delroy. Having found the third energy shard in space while facing the Triple-Evil, Tremont tried to take all three shards for himself, but Delroy-still merged with the now-conscious Chandlers-absorbed all three shards.", 
+    "durability": 1, 
+    "education": "Unrevealed, includes extensive Triune teachings", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #8 (1998)\n", 
+    "groupaffiliation": [
+        "Initiative Trainees", 
+        "formerly Secret Avengers", 
+        "Avengers", 
+        "Triune Understanding"
+    ], 
+    "hair": "Black\n", 
+    "height": 75, 
+    "id": "Triathlon", 
+    "identity": "Publicly known", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Adventurer", 
+        "former spokesman", 
+        "Olympic athlete"
+    ], 
+    "placeofbirth": [
+        "Philadelphia", 
+        "Pennsylvania"
+    ], 
+    "powers": "Triathlon's physical abilities are all enhanced to roughly three times peak human potential, notably his strength, speed, agility and sensory acuity.", 
+    "realname": "Delroy Garrett, Jr.", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

@@ -1,67 +1,63 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Anthony Droom", 
-                "Doctor Droom", 
-                "Druid", 
-                "Guntag Borgheim", 
-                "the Midnight Eye", 
-                "Master of the  Unknown", 
-                "Scott"
-            ], 
-            "citizenship": [
-                "U.K.", 
-                "naturalized American citizenship"
-            ], 
-            "content": "Druid had remained in seclusion for several years, investigating occult matters personally and in secret. At one point, he teamed up with other clandestine \"monster-hunters\", including Bloodstone and the Eternal hero Makkari, in stopping a threat from the underworldly Deviants. Soon, the Fantastic Four appeared, ushering in Earth's Age of Marvels, and later, Druid would find himself aiding the hero team Avengers against the Celtic monsters known as the Fomor.Doctor Druid was instrumental in freeing the Avengers Mansion from its occupation by the Masters of Evil, and he applied successfully for Avengers membership shortly thereafter. Not long after joining, Druid fell under the mental control of Ravonna (then called Nebula, later Terminatrix), who used Druid's mental powers to manipulate the Avengers into aiding her search for an ultimate weapon. Druid manipulated the other Avengers into electing him chairman to this end, but the Avengers soon discovered the plotters and opposed them in a conflict that ended with Druid and Ravonna being lost in the time stream.Druid eventually escaped, free of Ravonna's influence, rejuvenated into a younger version of himself and with a renewed purpose. He renewed his association with the Avengers as an occasional inactive reservist in hopes of mending fences with the group. For a time, he led the occult adventurers called the Shock Troop and later served with the Secret Defenders as the team's puppet leader under the auspices of Doctor Strange.More recently, Druid embarked on an obsessive quest to augment his magical powers, one which eventually led to his pact with Druidic gods of Celtic lore. The gods performed a grisly spell on Druid, binding him to nature in such a way to allow him to control plants and earth around him. Druid tried to surround himself with loyal followers, including the villain Nekra, who nevertheless supported and seduced Druid. Nekra, however, later summoned her true lord, Hellstorm, the Son of Satan, who battled Druid. Hellstorm mocked Druid, killing him and tossing his burning body in a garbage can.", 
-            "durability": 2, 
-            "education": "MD from Harvard, degree in psychiatry", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 3, 
-            "firstappearance": "Amazing Adventures #1 (1961)\n", 
-            "groupaffiliation": [
-                "(After Death) Legion of the Unliving", 
-                "(Formerly) unnamed mystic group", 
-                "Secret Defenders", 
-                "Shock Troop", 
-                "Avengers", 
-                "Monster Hunters"
-            ], 
-            "hair": "White\n", 
-            "height": 0, 
-            "id": "Doctor_Druid", 
-            "identity": "Publicly known", 
-            "intelligence": 3, 
-            "knownrelatives": "Amergin (ancestor, deceased)", 
-            "occupation": [
-                "Occult expert", 
-                "lecturer", 
-                "author", 
-                "adventurer", 
-                "former psychiatrist", 
-                "explorer"
-            ], 
-            "origin": [
-                "Amazing Adventures # 1", 
-                "Avengers Spotlight #37 (1990)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Doctor Anthony Druid's powers were based on the mystical development of his own mind and body. He had remarkable control over his body and bodily systems, could communicate telepathically, and could psychically mesmerize others, often casting illusions directly into their minds. He could levitate and perform telekinesis to a small extent. Druid also possessed a high degree of magical sensitivity, in detecting magical energies as well as sensing impending danger.\nDruid supplemented these powers with magical spells he has learned over the years. He had a large repertoire of druidic rituals, including one that can bridge dimensions.\n\nMore recently, Druid was bonded to nature physically and spiritually by Druidic gods. As such, Druid could mentally control and manipulate plant life, earth, and animals within his vicinity, the full extent and range of which remain unknown.", 
-            "realname": "Anthony Ludgate Druid", 
-            "significantissues": [
-                "Active with Monster Hunters (Marvel Universe #4-7", 
-                "1998)", 
-                "joined Avengers (Avengers #278, 1987)", 
-                "learned his power cam from the Ancient One, fought Termanatrix (Avengers Spotlight #37, 1990)", 
-                "forced to lead Secret Defenders (Secret Defenders #15, 1994)", 
-                "possessed by Celtic deities, killed by Nekra (Druid #1-4, 2004)"
-            ], 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 311
-        }
-    }
+    "aliases": [
+        "Anthony Droom", 
+        "Doctor Droom", 
+        "Druid", 
+        "Guntag Borgheim", 
+        "the Midnight Eye", 
+        "Master of the  Unknown", 
+        "Scott"
+    ], 
+    "citizenship": [
+        "U.K.", 
+        "naturalized American citizenship"
+    ], 
+    "content": "Druid had remained in seclusion for several years, investigating occult matters personally and in secret. At one point, he teamed up with other clandestine \"monster-hunters\", including Bloodstone and the Eternal hero Makkari, in stopping a threat from the underworldly Deviants. Soon, the Fantastic Four appeared, ushering in Earth's Age of Marvels, and later, Druid would find himself aiding the hero team Avengers against the Celtic monsters known as the Fomor.Doctor Druid was instrumental in freeing the Avengers Mansion from its occupation by the Masters of Evil, and he applied successfully for Avengers membership shortly thereafter. Not long after joining, Druid fell under the mental control of Ravonna (then called Nebula, later Terminatrix), who used Druid's mental powers to manipulate the Avengers into aiding her search for an ultimate weapon. Druid manipulated the other Avengers into electing him chairman to this end, but the Avengers soon discovered the plotters and opposed them in a conflict that ended with Druid and Ravonna being lost in the time stream.Druid eventually escaped, free of Ravonna's influence, rejuvenated into a younger version of himself and with a renewed purpose. He renewed his association with the Avengers as an occasional inactive reservist in hopes of mending fences with the group. For a time, he led the occult adventurers called the Shock Troop and later served with the Secret Defenders as the team's puppet leader under the auspices of Doctor Strange.More recently, Druid embarked on an obsessive quest to augment his magical powers, one which eventually led to his pact with Druidic gods of Celtic lore. The gods performed a grisly spell on Druid, binding him to nature in such a way to allow him to control plants and earth around him. Druid tried to surround himself with loyal followers, including the villain Nekra, who nevertheless supported and seduced Druid. Nekra, however, later summoned her true lord, Hellstorm, the Son of Satan, who battled Druid. Hellstorm mocked Druid, killing him and tossing his burning body in a garbage can.", 
+    "durability": 2, 
+    "education": "MD from Harvard, degree in psychiatry", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 3, 
+    "firstappearance": "Amazing Adventures #1 (1961)\n", 
+    "groupaffiliation": [
+        "(After Death) Legion of the Unliving", 
+        "(Formerly) unnamed mystic group", 
+        "Secret Defenders", 
+        "Shock Troop", 
+        "Avengers", 
+        "Monster Hunters"
+    ], 
+    "hair": "White\n", 
+    "height": 0, 
+    "id": "Doctor_Druid", 
+    "identity": "Publicly known", 
+    "intelligence": 3, 
+    "knownrelatives": "Amergin (ancestor, deceased)", 
+    "occupation": [
+        "Occult expert", 
+        "lecturer", 
+        "author", 
+        "adventurer", 
+        "former psychiatrist", 
+        "explorer"
+    ], 
+    "origin": [
+        "Amazing Adventures # 1", 
+        "Avengers Spotlight #37 (1990)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Doctor Anthony Druid's powers were based on the mystical development of his own mind and body. He had remarkable control over his body and bodily systems, could communicate telepathically, and could psychically mesmerize others, often casting illusions directly into their minds. He could levitate and perform telekinesis to a small extent. Druid also possessed a high degree of magical sensitivity, in detecting magical energies as well as sensing impending danger.\nDruid supplemented these powers with magical spells he has learned over the years. He had a large repertoire of druidic rituals, including one that can bridge dimensions.\n\nMore recently, Druid was bonded to nature physically and spiritually by Druidic gods. As such, Druid could mentally control and manipulate plant life, earth, and animals within his vicinity, the full extent and range of which remain unknown.", 
+    "realname": "Anthony Ludgate Druid", 
+    "significantissues": [
+        "Active with Monster Hunters (Marvel Universe #4-7", 
+        "1998)", 
+        "joined Avengers (Avengers #278, 1987)", 
+        "learned his power cam from the Ancient One, fought Termanatrix (Avengers Spotlight #37, 1990)", 
+        "forced to lead Secret Defenders (Secret Defenders #15, 1994)", 
+        "possessed by Celtic deities, killed by Nekra (Druid #1-4, 2004)"
+    ], 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 311
 }

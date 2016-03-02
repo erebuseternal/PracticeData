@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Khiron", 
-                "Baron Blood"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "College drop out", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(Victor Strange) Dr. Strange: Sorcerer Supreme #10 (1989); (Baron Blood) Dr. Strange: Sorcerer Supreme #15 (1990); (Khiron) Dr. Strange: Sorcerer Supreme #10 (1993)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 72, 
-            "id": "Strange,_Victor", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Eugene Strange (father), Beverley Strange (mother), Donna Strange (sister), all deceased; Dr. Stephen Strange (brother), Clea (sister-in-law)", 
-            "occupation": [
-                "Adventurer", 
-                "former college student"
-            ], 
-            "origin": [
-                "Doctor Strange: Sorcerer Supreme #11 (1989)", 
-                "Doctor Strange: Sorcerer Supreme #14 (1990)"
-            ], 
-            "placeofbirth": "Nebraska", 
-            "powers": "Victor possesses many standard vampire abilities, including superhuman strength, speed, reflexes, and durability. Knives and bullets cause only superficial surface injury, and he heals swiftly.", 
-            "realname": "Victor Strange", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": [
+        "Khiron", 
+        "Baron Blood"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "College drop out", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(Victor Strange) Dr. Strange: Sorcerer Supreme #10 (1989); (Baron Blood) Dr. Strange: Sorcerer Supreme #15 (1990); (Khiron) Dr. Strange: Sorcerer Supreme #10 (1993)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 72, 
+    "id": "Strange,_Victor", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Eugene Strange (father), Beverley Strange (mother), Donna Strange (sister), all deceased; Dr. Stephen Strange (brother), Clea (sister-in-law)", 
+    "occupation": [
+        "Adventurer", 
+        "former college student"
+    ], 
+    "origin": [
+        "Doctor Strange: Sorcerer Supreme #11 (1989)", 
+        "Doctor Strange: Sorcerer Supreme #14 (1990)"
+    ], 
+    "placeofbirth": "Nebraska", 
+    "powers": "Victor possesses many standard vampire abilities, including superhuman strength, speed, reflexes, and durability. Knives and bullets cause only superficial surface injury, and he heals swiftly.", 
+    "realname": "Victor Strange", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

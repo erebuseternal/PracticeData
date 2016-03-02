@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Eternals of Titian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Captain Marvel #29 (1973)\n", 
-            "groupaffiliation": "Eternals of Titian", 
-            "hair": "Black\n", 
-            "id": "Sui-San", 
-            "identity": "Unknown to the general populace of Earth", 
-            "intelligence": 1, 
-            "knownrelatives": "Mentor (husband), Eros (Starfox) and Thanos (sons)", 
-            "occupation": "Consort to Mentor", 
-            "placeofbirth": "Unrevealed", 
-            "realname": "Sui-San", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Eternals of Titian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Captain Marvel #29 (1973)\n", 
+    "groupaffiliation": "Eternals of Titian", 
+    "hair": "Black\n", 
+    "id": "Sui-San", 
+    "identity": "Unknown to the general populace of Earth", 
+    "intelligence": 1, 
+    "knownrelatives": "Mentor (husband), Eros (Starfox) and Thanos (sons)", 
+    "occupation": "Consort to Mentor", 
+    "placeofbirth": "Unrevealed", 
+    "realname": "Sui-San", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

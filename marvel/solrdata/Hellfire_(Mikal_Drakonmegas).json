@@ -1,45 +1,41 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Brother Mikal", 
-                "Mikey", 
-                "\"Mr Mystic", 
-                "\" \"Drakonmegas", 
-                "Number One Son of the Satanic\""
-            ], 
-            "citizenship": "USA", 
-            "content": "", 
-            "durability": 1, 
-            "education": "College", 
-            "energy": 1, 
-            "eyes": "(Mikal) Green; Yellow (No visible iris)\n", 
-            "fighting": 1, 
-            "firstappearance": "(Mikal) Terror, Inc. #1 (1992); (as Hellfire) Terror, Inc. #2 (1992)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Red\n", 
-            "height": 74, 
-            "id": "Hellfire_(Mikal_Drakonmegas)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Jessie Drakonmegas (wife), Beelzeboul (father), Cassandra Drakonmegas (mother, deceased), Daimon Hellstorm, Satana Hellstorm (quasi-half-siblings), other Hell-lords, (quasi-paternal relationship)", 
-            "occupation": [
-                "Monk", 
-                "former stage magician", 
-                "television personality"
-            ], 
-            "origin": [
-                "Terror", 
-                "Inc. #5 (1992)"
-            ], 
-            "placeofbirth": "Massachusetts", 
-            "powers": "With the Darksoul, Hellfire could project hellfire from his hands and likely possessed other powers.", 
-            "realname": "Mikal Drakonmegas", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 185
-        }
-    }
+    "aliases": [
+        "Brother Mikal", 
+        "Mikey", 
+        "\"Mr Mystic", 
+        "\" \"Drakonmegas", 
+        "Number One Son of the Satanic\""
+    ], 
+    "citizenship": "USA", 
+    "content": "", 
+    "durability": 1, 
+    "education": "College", 
+    "energy": 1, 
+    "eyes": "(Mikal) Green; Yellow (No visible iris)\n", 
+    "fighting": 1, 
+    "firstappearance": "(Mikal) Terror, Inc. #1 (1992); (as Hellfire) Terror, Inc. #2 (1992)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Red\n", 
+    "height": 74, 
+    "id": "Hellfire_(Mikal_Drakonmegas)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Jessie Drakonmegas (wife), Beelzeboul (father), Cassandra Drakonmegas (mother, deceased), Daimon Hellstorm, Satana Hellstorm (quasi-half-siblings), other Hell-lords, (quasi-paternal relationship)", 
+    "occupation": [
+        "Monk", 
+        "former stage magician", 
+        "television personality"
+    ], 
+    "origin": [
+        "Terror", 
+        "Inc. #5 (1992)"
+    ], 
+    "placeofbirth": "Massachusetts", 
+    "powers": "With the Darksoul, Hellfire could project hellfire from his hands and likely possessed other powers.", 
+    "realname": "Mikal Drakonmegas", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 185
 }

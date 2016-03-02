@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None known", 
-            "citizenship": "Shi'ar", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "X-Men: Spotlight on the Starjammers #2 (1990)\n", 
-            "groupaffiliation": "Formerly Imperial Guard", 
-            "hair": "Black (feathers)\n", 
-            "id": "Zenith", 
-            "identity": "The general populace of Earth are unaware of Zenith's existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "Raza Longknife (younger brother)", 
-            "occupation": "Peacekeeper", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Zenith possessed superhuman strength, reflexes and stamina. He was also able to channel and manipulate energy.", 
-            "realname": "Zenith", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None known", 
+    "citizenship": "Shi'ar", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "X-Men: Spotlight on the Starjammers #2 (1990)\n", 
+    "groupaffiliation": "Formerly Imperial Guard", 
+    "hair": "Black (feathers)\n", 
+    "id": "Zenith", 
+    "identity": "The general populace of Earth are unaware of Zenith's existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "Raza Longknife (younger brother)", 
+    "occupation": "Peacekeeper", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Zenith possessed superhuman strength, reflexes and stamina. He was also able to channel and manipulate energy.", 
+    "realname": "Zenith", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

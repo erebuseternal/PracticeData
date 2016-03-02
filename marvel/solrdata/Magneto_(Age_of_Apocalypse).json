@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unknown", 
-            "content": "Xavier's death profoundly changed Lensherr's life. He made a promise on that day to carry on Xavier's dream: to take mutantkind by the hand and create a world where homo sapiens and homo superior would live together peacefully. This dream would never come to pass. The mutant known as Apocalypse made his presence known over a decade earlier than he would have if not for Legion's interference in the past.As Apocalypse made his play for world domination, Magneto gathered a mutant army of his own. He began with his children, Pietro and Wanda. He learned of their existence while traveling through Germany and invited them to help him create a team of mutants to protect those who could not protect themselves. Both Quicksilver and Scarlet Witch embraced their father's cause and helped him gather his team.During this time Apocalypse grew stronger. He gathered a legion of mutant followers who believed in his survival-of-the-fittest mantra.  By the time Magneto had gathered his X-Men team together, Apocalypse had grown too strong and had gained control of a substantial section of North America. The X-Men, named after Xavier and his dream, went into hiding and used guerrilla tactics against Apocalypse's army.In the early days of the X-Men's existence, Magneto provided a place for young mutants to learn how to use their powers and fight for genetic equality. Hidden in the Wundagore Mountains, this would be the X-Men's base of operations for years.Surrounded by a team he knew he could trust, Magneto began to counterattack Apocalypse. When Magneto learned Apocalypse had sent his Horsemen to Florida to launch the United States nuclear arsenal, he and his team rushed to stop them. He left his daughter, the Scarlet Witch, in charge of the young mutants not yet ready to fight for the X-Men. One of these young mutants, a girl named Rogue, had just been delivered to Wundagore by Mystique.The X-Men were successful in Florida but that success came with a price. Apocalypse's son, Nemesis, attacked Wundagore and killed Magneto's daughter. Ravaged with guilt, Magneto considered giving up. The X-Men rallied around him and convinced him to go on. The young girl Rogue, who had promised Scarlet Witch she would care for her father, told Magneto his daughter believed in what they were doing and would have wanted him to carry on. Magneto did just that, but he swore he would have his revenge on Nemesis.That revenge would come years later in Japan. Attempting to prevent Apocalypse and Nemesis from turning Japan into a wasteland, Magneto led a team of X-Men into Tokyo. Apocalypse and Nemesis were recovering from a gigantic plasma explosion unleashed by a captured Sunfire. Nemesis absorbed the plasma energy and believed that power would be substantial enough to defeat Magneto and his X-Men. He was wrong. The enraged Magneto used his powers to tear Nemesis apart leaving him for dead on the battlefield.As time passed, Magneto grew closer to Rogue. Unfortunately, Magneto's close friend Gambit also cared for her. Magneto expressed his growing feelings for Rogue when he told her that since both of them possessed magnetic powers they actually cancelled each other out. And the two kissed. Gambit witnessed this and was enraged. Moments later, during a sneak attack by an evil mutant named Wolverine, Rogue chose to save Magneto instead of Gambit. The Cajun mutant left the X-Men, and Magneto and Rogue carried on their romance.Magneto and Rogue would marry and have a son, Charles. They would continue their war against Apocalypse, doing what they could to stop the madman's plans. But it became clear to them that they were fighting a losing battle. Not until the reappearance of Bishop, an X-Man from the true Marvel Universe timeline and a man Magneto had not seen since the murder of Xavier twenty years, did Magneto realize there was truly hope.While his X-Men were scattered across the globe, Magneto stayed in Westchester with Bishop and his young son, Charles. The three of them were ambushed by Apocalypse there. Magneto, Bishop, and eventually his young son, were all captured. Magneto was taken to the New York City capital of Apocalypse's kingdom and tortured. He was eventually freed by the genetic clone named Nate Grey, known as the X-Man.With all elements now in place, Magneto was able to send Bishop back in time to prevent Legion from murdering Charles Xavier. The original Marvel Universe timeline was restored. And Charles Xavier was saved. With Bishop safely sent back in time, Magneto turned his efforts back towards Apocalypse. Using all of his magnetic powers Magneto tore Apocalypse apart.", 
-            "durability": 1, 
-            "education": "College", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": "Formerly X-Men", 
-            "hair": "White\n", 
-            "height": 74, 
-            "id": "Magneto_(Age_of_Apocalypse)", 
-            "identity": "Known to the general public", 
-            "intelligence": 1, 
-            "knownrelatives": "Rogue (wife), Charles (son), Pietro Maximoff (Quicksilver, son), Wanda Maximoff (Scarlet Witch, daughter, deceased), Magda (wife, deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "freedom fighter"
-            ], 
-            "placeofbirth": "Someplace in Europe", 
-            "powers": "Magneto is a mutant with the ability to shape and manipulate magnetic fields. He uses his powers in many different ways, including creating a personal force field, flight, and energy blasts.", 
-            "realname": "Erik Lensherr", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Age of Apocalypse", 
-            "weight": 215
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unknown", 
+    "content": "Xavier's death profoundly changed Lensherr's life. He made a promise on that day to carry on Xavier's dream: to take mutantkind by the hand and create a world where homo sapiens and homo superior would live together peacefully. This dream would never come to pass. The mutant known as Apocalypse made his presence known over a decade earlier than he would have if not for Legion's interference in the past.As Apocalypse made his play for world domination, Magneto gathered a mutant army of his own. He began with his children, Pietro and Wanda. He learned of their existence while traveling through Germany and invited them to help him create a team of mutants to protect those who could not protect themselves. Both Quicksilver and Scarlet Witch embraced their father's cause and helped him gather his team.During this time Apocalypse grew stronger. He gathered a legion of mutant followers who believed in his survival-of-the-fittest mantra.  By the time Magneto had gathered his X-Men team together, Apocalypse had grown too strong and had gained control of a substantial section of North America. The X-Men, named after Xavier and his dream, went into hiding and used guerrilla tactics against Apocalypse's army.In the early days of the X-Men's existence, Magneto provided a place for young mutants to learn how to use their powers and fight for genetic equality. Hidden in the Wundagore Mountains, this would be the X-Men's base of operations for years.Surrounded by a team he knew he could trust, Magneto began to counterattack Apocalypse. When Magneto learned Apocalypse had sent his Horsemen to Florida to launch the United States nuclear arsenal, he and his team rushed to stop them. He left his daughter, the Scarlet Witch, in charge of the young mutants not yet ready to fight for the X-Men. One of these young mutants, a girl named Rogue, had just been delivered to Wundagore by Mystique.The X-Men were successful in Florida but that success came with a price. Apocalypse's son, Nemesis, attacked Wundagore and killed Magneto's daughter. Ravaged with guilt, Magneto considered giving up. The X-Men rallied around him and convinced him to go on. The young girl Rogue, who had promised Scarlet Witch she would care for her father, told Magneto his daughter believed in what they were doing and would have wanted him to carry on. Magneto did just that, but he swore he would have his revenge on Nemesis.That revenge would come years later in Japan. Attempting to prevent Apocalypse and Nemesis from turning Japan into a wasteland, Magneto led a team of X-Men into Tokyo. Apocalypse and Nemesis were recovering from a gigantic plasma explosion unleashed by a captured Sunfire. Nemesis absorbed the plasma energy and believed that power would be substantial enough to defeat Magneto and his X-Men. He was wrong. The enraged Magneto used his powers to tear Nemesis apart leaving him for dead on the battlefield.As time passed, Magneto grew closer to Rogue. Unfortunately, Magneto's close friend Gambit also cared for her. Magneto expressed his growing feelings for Rogue when he told her that since both of them possessed magnetic powers they actually cancelled each other out. And the two kissed. Gambit witnessed this and was enraged. Moments later, during a sneak attack by an evil mutant named Wolverine, Rogue chose to save Magneto instead of Gambit. The Cajun mutant left the X-Men, and Magneto and Rogue carried on their romance.Magneto and Rogue would marry and have a son, Charles. They would continue their war against Apocalypse, doing what they could to stop the madman's plans. But it became clear to them that they were fighting a losing battle. Not until the reappearance of Bishop, an X-Man from the true Marvel Universe timeline and a man Magneto had not seen since the murder of Xavier twenty years, did Magneto realize there was truly hope.While his X-Men were scattered across the globe, Magneto stayed in Westchester with Bishop and his young son, Charles. The three of them were ambushed by Apocalypse there. Magneto, Bishop, and eventually his young son, were all captured. Magneto was taken to the New York City capital of Apocalypse's kingdom and tortured. He was eventually freed by the genetic clone named Nate Grey, known as the X-Man.With all elements now in place, Magneto was able to send Bishop back in time to prevent Legion from murdering Charles Xavier. The original Marvel Universe timeline was restored. And Charles Xavier was saved. With Bishop safely sent back in time, Magneto turned his efforts back towards Apocalypse. Using all of his magnetic powers Magneto tore Apocalypse apart.", 
+    "durability": 1, 
+    "education": "College", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": "Formerly X-Men", 
+    "hair": "White\n", 
+    "height": 74, 
+    "id": "Magneto_(Age_of_Apocalypse)", 
+    "identity": "Known to the general public", 
+    "intelligence": 1, 
+    "knownrelatives": "Rogue (wife), Charles (son), Pietro Maximoff (Quicksilver, son), Wanda Maximoff (Scarlet Witch, daughter, deceased), Magda (wife, deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "freedom fighter"
+    ], 
+    "placeofbirth": "Someplace in Europe", 
+    "powers": "Magneto is a mutant with the ability to shape and manipulate magnetic fields. He uses his powers in many different ways, including creating a personal force field, flight, and energy blasts.", 
+    "realname": "Erik Lensherr", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Age of Apocalypse", 
+    "weight": 215
 }

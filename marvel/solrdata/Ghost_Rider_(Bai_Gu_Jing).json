@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Citizen of China", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed (as Bai Gu Jing); Flaming red (as Ghost Rider)\n", 
-            "fighting": 1, 
-            "firstappearance": "Ghost Rider #29 (2008)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black (as Bai Gu Jing); None (as Ghost Rider)\n", 
-            "id": "Ghost_Rider_(Bai_Gu_Jing)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former Spirit of Vengeance", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "China", 
-            "powers": "It can be assumed Bai Gu Jing possessed all the powers given to every Spirit of Vengeance", 
-            "realname": "Bai Gu Jing", 
-            "significantissues": [
-                "Came to Blaze in his hour of need in an attempt to give him new hope (Ghost Rider #29, 2008)", 
-                "Accompanied Molek, Blaze and Sara to meet the Ghost Riders of the Congo (Ghost Rider #31, 2009)", 
-                "Fought alongside other Ghost Riders, but Daniel Ketch eventually took her power from her (Ghost Rider #32, 2009)", 
-                "Fought in Heaven against the forces of evil (Ghost Riders: Heaven's On Fire #6, 2010)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Citizen of China", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed (as Bai Gu Jing); Flaming red (as Ghost Rider)\n", 
+    "fighting": 1, 
+    "firstappearance": "Ghost Rider #29 (2008)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black (as Bai Gu Jing); None (as Ghost Rider)\n", 
+    "id": "Ghost_Rider_(Bai_Gu_Jing)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former Spirit of Vengeance", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "China", 
+    "powers": "It can be assumed Bai Gu Jing possessed all the powers given to every Spirit of Vengeance", 
+    "realname": "Bai Gu Jing", 
+    "significantissues": [
+        "Came to Blaze in his hour of need in an attempt to give him new hope (Ghost Rider #29, 2008)", 
+        "Accompanied Molek, Blaze and Sara to meet the Ghost Riders of the Congo (Ghost Rider #31, 2009)", 
+        "Fought alongside other Ghost Riders, but Daniel Ketch eventually took her power from her (Ghost Rider #32, 2009)", 
+        "Fought in Heaven against the forces of evil (Ghost Riders: Heaven's On Fire #6, 2010)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

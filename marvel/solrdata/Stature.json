@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Cassie", 
-                "Giant Girl", 
-                "Ant-Girl"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "When her mother and stepfather grew uneasy about Scott's life as an Avenger, she filed, and won, full custody of Cassie, and unsuccessfully tried to shield her from superheroes. Cassie continued to visit her father until the his death.Afterwards, Cassie retreated to herself, shunning her mother and stepfather's attempts to reach out to her. Secretly the superhero life continued to call to her, and the disaffected Cassie toyed with the idea leaving her home and joining the Los Angeles-based rogue team of young heroes known as the Runaways.  After seeing a story on TV about the Young Avengers, she sought them out, becoming a full member.", 
-            "durability": 2, 
-            "education": "Currently attending high school", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "(as Cassie Lang) Marvel Premiere #47, (as Stature) Young Avengers #6 (2005)\n", 
-            "groupaffiliation": [
-                "Avengers", 
-                "Young Avengers", 
-                "formerly Secret Avengers"
-            ], 
-            "hair": "Blonde\n", 
-            "id": "Stature", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Scott Lang (Ant-Man, father, deceased), Peggy Rae Burdick (mother), Blake Burdick (stepfather), Ruth and Carl (aunt and uncle)", 
-            "occupation": [
-                "Adventurer", 
-                "student"
-            ], 
-            "powers": "Cassandra has the ability to grow or shrink her body, similar to the previous Ant-Men", 
-            "realname": "Cassandra Eleanore Lang", 
-            "significantissues": "Young Avengers #2 (first demonstrated size-changing abilities), Mighty Avengers #21 (joined Avengers)", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Cassie", 
+        "Giant Girl", 
+        "Ant-Girl"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "When her mother and stepfather grew uneasy about Scott's life as an Avenger, she filed, and won, full custody of Cassie, and unsuccessfully tried to shield her from superheroes. Cassie continued to visit her father until the his death.Afterwards, Cassie retreated to herself, shunning her mother and stepfather's attempts to reach out to her. Secretly the superhero life continued to call to her, and the disaffected Cassie toyed with the idea leaving her home and joining the Los Angeles-based rogue team of young heroes known as the Runaways.  After seeing a story on TV about the Young Avengers, she sought them out, becoming a full member.", 
+    "durability": 2, 
+    "education": "Currently attending high school", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "(as Cassie Lang) Marvel Premiere #47, (as Stature) Young Avengers #6 (2005)\n", 
+    "groupaffiliation": [
+        "Avengers", 
+        "Young Avengers", 
+        "formerly Secret Avengers"
+    ], 
+    "hair": "Blonde\n", 
+    "id": "Stature", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Scott Lang (Ant-Man, father, deceased), Peggy Rae Burdick (mother), Blake Burdick (stepfather), Ruth and Carl (aunt and uncle)", 
+    "occupation": [
+        "Adventurer", 
+        "student"
+    ], 
+    "powers": "Cassandra has the ability to grow or shrink her body, similar to the previous Ant-Men", 
+    "realname": "Cassandra Eleanore Lang", 
+    "significantissues": "Young Avengers #2 (first demonstrated size-changing abilities), Mighty Avengers #21 (joined Avengers)", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe"
 }

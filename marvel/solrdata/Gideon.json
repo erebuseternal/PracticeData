@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "Unrevealed", 
-                "presumably dual citizenship Spain/U.S.A."
-            ], 
-            "content": "Gideon first came to public notice when he began forging alliances between high-tech industrial consortiums, such as GeneTech and the Taylor Foundation, and with powerful mutants or secret organizations such as A.I.M. He is known to have formed an alliance with the Toad, who was leading the Brotherhood of Evil Mutants at the time, in a scheme to recreate the menace Proteus. Similarly, he joined a group of hedonists known as the Upstarts, although whether or not he carried through with their goals of killing mutants is unknown.A long-time family friend of the DaCosta family, he erroneously believed the young Roberto DaCosta (secretly the hero Sunspot) to be the new immortal that the Externals had been looking for. Gideon manipulated events to have DaCosta's father killed and Roberto to take over the role as leader of the DaCosta\u2019s family company. Gideon positioned himself as DaCosta's mentor, taking him away from his role in the team of New Mutants and into Gideon's confidence.Until recently, Gideon kept his power a secret, preferring to work behind the scenes. However, the New Warriors, when investigating criminal links of the Taylor Foundation, caused Gideon to reveal his mutant powers and sadistic temperament. He soundly defeated them.When it was discovered that Cannonball was the mutant Gideon was searching for, Gideon abandoned DaCosta, subjecting him to vicious experiments, until he was later rescued by the New Mutant's later incarnation, X-Force.", 
-            "durability": 1, 
-            "education": "Unrevealed, some higher education at Harvard", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "New Mutants #98\n", 
-            "groupaffiliation": "Externals", 
-            "hair": "Green\n", 
-            "id": "Gideon", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "CEO of Ophrah Industries", 
-                "industrialist"
-            ], 
-            "placeofbirth": [
-                "Unrevealed", 
-                "presumably a location in 16th Century Spain"
-            ], 
-            "powers": "Gideon had the mutant power to mimic other superhuman powers in his vicinity based on their genetic templates. He is known to have mastered the ability to absorb at least six powers at once and use all copied abilities simultaneously, often in ways the original owners had not yet considered. Gideon had access to genetic templates at his home and businesses, thus enabling him to mimic powers even when superpowered beings were not present. As an External, Gideon was virtually immortal, able to recover from nearly any injury.", 
-            "realname": "Gideon", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "Unrevealed", 
+        "presumably dual citizenship Spain/U.S.A."
+    ], 
+    "content": "Gideon first came to public notice when he began forging alliances between high-tech industrial consortiums, such as GeneTech and the Taylor Foundation, and with powerful mutants or secret organizations such as A.I.M. He is known to have formed an alliance with the Toad, who was leading the Brotherhood of Evil Mutants at the time, in a scheme to recreate the menace Proteus. Similarly, he joined a group of hedonists known as the Upstarts, although whether or not he carried through with their goals of killing mutants is unknown.A long-time family friend of the DaCosta family, he erroneously believed the young Roberto DaCosta (secretly the hero Sunspot) to be the new immortal that the Externals had been looking for. Gideon manipulated events to have DaCosta's father killed and Roberto to take over the role as leader of the DaCosta\u2019s family company. Gideon positioned himself as DaCosta's mentor, taking him away from his role in the team of New Mutants and into Gideon's confidence.Until recently, Gideon kept his power a secret, preferring to work behind the scenes. However, the New Warriors, when investigating criminal links of the Taylor Foundation, caused Gideon to reveal his mutant powers and sadistic temperament. He soundly defeated them.When it was discovered that Cannonball was the mutant Gideon was searching for, Gideon abandoned DaCosta, subjecting him to vicious experiments, until he was later rescued by the New Mutant's later incarnation, X-Force.", 
+    "durability": 1, 
+    "education": "Unrevealed, some higher education at Harvard", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "New Mutants #98\n", 
+    "groupaffiliation": "Externals", 
+    "hair": "Green\n", 
+    "id": "Gideon", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "CEO of Ophrah Industries", 
+        "industrialist"
+    ], 
+    "placeofbirth": [
+        "Unrevealed", 
+        "presumably a location in 16th Century Spain"
+    ], 
+    "powers": "Gideon had the mutant power to mimic other superhuman powers in his vicinity based on their genetic templates. He is known to have mastered the ability to absorb at least six powers at once and use all copied abilities simultaneously, often in ways the original owners had not yet considered. Gideon had access to genetic templates at his home and businesses, thus enabling him to mimic powers even when superpowered beings were not present. As an External, Gideon was virtually immortal, able to recover from nearly any injury.", 
+    "realname": "Gideon", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

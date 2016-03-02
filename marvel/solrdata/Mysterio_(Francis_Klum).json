@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A", 
-            "content": "Five years later, they ran a legitimate organization that they used as a front for their illegal drug business. Soon after this, Francis started to despise how his brother used his power and the last straw was when his brother tried to rape Felicia Hardy (a.k.a. Black Cat). Francis killed his brother by teleporting himself inside his body. Police later arrested Felicia accusing her of the murder, but Francis soon abducted her from jail and transported them to the top of Queensboro Bridge. After Francis revealed his past to Felicia and she had almost persuaded him to turn himself in Spider-Man and Daredevil arrived. The scene stirred up Peter's memories of Gwen Stacy's death and he attacked Francis, but Francis managed to get away from him after a short struggle. Francis then accused Felicia of betraying him and tried to kill her. Spider-Man managed to save her by jamming Francis' gun with his web fluid and it exploded in Francis hand knocking him off the bridge. Both Peter and Felicia tried to save him, but he teleported away just before they got hold of him. He damaged his face so badly that the doctors couldn\u2019t do anything about it and they had to amputate his left leg. When he was still recovering from his injuries, he bought a warehouse full of old equipments, weapons and one of Quentin Beck's old Mysterio costumes from Kingpin. He swears to avenge his brothers' death that he now blamed on Spider-Man and Black Cat.", 
-            "durability": 1, 
-            "education": "High school graduate", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(as Francis) Spider-Man & Black Cat: The Evil That Men Do #2 (2002), (as Mysterio) Friendly Neighborhood Spider-Man #11 (2006)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "height": 69, 
-            "id": "Mysterio_(Francis_Klum)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Garrison Klum (Mr. Brownstone, brother, deceased), unidentified mother (deceased)", 
-            "occupation": [
-                "Professional criminal", 
-                "former drug dealer"
-            ], 
-            "origin": "Spider-Man & Black Cat: The Evil That Men Do #4 (2006)", 
-            "placeofbirth": [
-                "Red Bank", 
-                "New Jersey"
-            ], 
-            "powers": "Francis is a teleporter and with limited telepathic abilities. Use of his teleportation abilities may require a rest after a long jump.", 
-            "realname": "Francis Klum", 
-            "significantissues": [
-                "killed his brother (Spider-Man & Black Cat: The Evil That Men Do #3, 2006)", 
-                "fought Spider-Man and Daniel Berkhart", 
-                "stabbed in the chest by Miss Arrow (Friendly Neighborhood Spider-Man #13, 2006)", 
-                ""
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 150
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A", 
+    "content": "Five years later, they ran a legitimate organization that they used as a front for their illegal drug business. Soon after this, Francis started to despise how his brother used his power and the last straw was when his brother tried to rape Felicia Hardy (a.k.a. Black Cat). Francis killed his brother by teleporting himself inside his body. Police later arrested Felicia accusing her of the murder, but Francis soon abducted her from jail and transported them to the top of Queensboro Bridge. After Francis revealed his past to Felicia and she had almost persuaded him to turn himself in Spider-Man and Daredevil arrived. The scene stirred up Peter's memories of Gwen Stacy's death and he attacked Francis, but Francis managed to get away from him after a short struggle. Francis then accused Felicia of betraying him and tried to kill her. Spider-Man managed to save her by jamming Francis' gun with his web fluid and it exploded in Francis hand knocking him off the bridge. Both Peter and Felicia tried to save him, but he teleported away just before they got hold of him. He damaged his face so badly that the doctors couldn\u2019t do anything about it and they had to amputate his left leg. When he was still recovering from his injuries, he bought a warehouse full of old equipments, weapons and one of Quentin Beck's old Mysterio costumes from Kingpin. He swears to avenge his brothers' death that he now blamed on Spider-Man and Black Cat.", 
+    "durability": 1, 
+    "education": "High school graduate", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(as Francis) Spider-Man & Black Cat: The Evil That Men Do #2 (2002), (as Mysterio) Friendly Neighborhood Spider-Man #11 (2006)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "height": 69, 
+    "id": "Mysterio_(Francis_Klum)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Garrison Klum (Mr. Brownstone, brother, deceased), unidentified mother (deceased)", 
+    "occupation": [
+        "Professional criminal", 
+        "former drug dealer"
+    ], 
+    "origin": "Spider-Man & Black Cat: The Evil That Men Do #4 (2006)", 
+    "placeofbirth": [
+        "Red Bank", 
+        "New Jersey"
+    ], 
+    "powers": "Francis is a teleporter and with limited telepathic abilities. Use of his teleportation abilities may require a rest after a long jump.", 
+    "realname": "Francis Klum", 
+    "significantissues": [
+        "killed his brother (Spider-Man & Black Cat: The Evil That Men Do #3, 2006)", 
+        "fought Spider-Man and Daniel Berkhart", 
+        "stabbed in the chest by Miss Arrow (Friendly Neighborhood Spider-Man #13, 2006)", 
+        ""
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 150
 }

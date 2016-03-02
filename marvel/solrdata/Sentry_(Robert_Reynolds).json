@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Void", 
-            "citizenship": "U.S.A.", 
-            "content": "Years later, Robert's memories slowly returned along with the Void, who rampaged across Europe, murdering many members of the Super-Heroes of Europe (SHE). The Sentry contacted his former colleagues, but the only one who recalled their shared history was the Hulk. As the Void returned to Manhattan, the pieces began to fall in place and the Sentry's former friends assembled to defend him and the city. Remembering the dual nature of Robert's powers, Sentry and Reed Richards reactivated the Watchtower, dispelling the Void and making the world forget the Sentry once again; however, Robert's memories of the Sentry soon returned, and he demanded to be placed on the Raft, S.H.I.E.L.D.' high-security prison for super-villains, claiming that he had killed his wife. During a mass breakout at the Raft, Sentry helped several other heroes subdue many of the escaping villains - notably Carnage, whom Sentry ripped in half. Inspired by this adventure, the other heroes soon formed the new Avengers, but Sentry vanished before they could invite him to join them. The Sentry stayed in hiding, but remained a person of great interest to S.H.I.E.L.D. and the Avengers, who were both fascinated by his powers and worried that they may lead to another Scarlet Witch situation.The Sentry believed that the Void was trapped in the basement of the Watchtower. When he routinely visited him to make sure he was secure, the Void claimed he knew something the Sentry didn't. Robert believed his wife was cheating on him and that she didn't love him. As his psychiatrist, Doctor Cornelius, tried to probe Robert with questions about his origin and about the Void, Robert grew hysterical and attacked an amusement park. There, it was revealed that-- as opposed to what was commonly believed, that Robert Reynolds was the Sentry and the Void was a separate being-- that it was the Sentry who was the separate entity, and Robert who was the Void. The Void fled, and the Sentry explained to Doctor Cornelius that Robert had been bullied as a child.", 
-            "durability": 6, 
-            "education": "High school graduate", 
-            "energy": 4, 
-            "eyes": "Blue\n", 
-            "fighting": 3, 
-            "firstappearance": "Sentry #1\n", 
-            "groupaffiliation": [
-                "Formerly Avengers (Osborn's team)", 
-                "Avengers"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 72, 
-            "id": "Sentry_(Robert_Reynolds)", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Lindy Reynolds (wife)", 
-            "occupation": "Adventurer", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The Sentry's abilities derive from an experimental serum that creates a phase-shift in his molecules, causing each atom to step an instant ahead of the current time line. The serum induces a photosynthetic reaction, resulting in a hyper state of consciousness. Though most of his powers and their limits are still unknown, examples he has demonstrated so far are super-strength, super-speed, invulnerability, and flight. \nThe Sentry can also project energy fields, control light, and has vast psychic and mental forces mainly used for holding his physical powers together, though it is not yet known whether the Sentry can use them the way Professor X and other psychics use theirs; the only psychic abilities he had displayed so far is implanting his memories inside Paul Jenkins' mind and calming the fury of the Hulk. \n\nIt may be theorized that the Sentry also has the ability to produce hard-light constructs similar to those of Dazzler's when it was revealed that the Void is a just an expression of his repressed persona, and thus his creation. With the people dubbing The Sentry as the world's most powerful superhero, and with the serum causing a photosynthetic reaction to his body, completely altering his state of consciousness, it is nonetheless conceivable that Sentry's powers are limitless, and may even rival those of the Silver Surfer's and Phoenix's. In effect, the Sentry's powers are seemingly limitless.", 
-            "realname": "Robert Reynolds", 
-            "speed": 5, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 194
-        }
-    }
+    "aliases": "Void", 
+    "citizenship": "U.S.A.", 
+    "content": "Years later, Robert's memories slowly returned along with the Void, who rampaged across Europe, murdering many members of the Super-Heroes of Europe (SHE). The Sentry contacted his former colleagues, but the only one who recalled their shared history was the Hulk. As the Void returned to Manhattan, the pieces began to fall in place and the Sentry's former friends assembled to defend him and the city. Remembering the dual nature of Robert's powers, Sentry and Reed Richards reactivated the Watchtower, dispelling the Void and making the world forget the Sentry once again; however, Robert's memories of the Sentry soon returned, and he demanded to be placed on the Raft, S.H.I.E.L.D.' high-security prison for super-villains, claiming that he had killed his wife. During a mass breakout at the Raft, Sentry helped several other heroes subdue many of the escaping villains - notably Carnage, whom Sentry ripped in half. Inspired by this adventure, the other heroes soon formed the new Avengers, but Sentry vanished before they could invite him to join them. The Sentry stayed in hiding, but remained a person of great interest to S.H.I.E.L.D. and the Avengers, who were both fascinated by his powers and worried that they may lead to another Scarlet Witch situation.The Sentry believed that the Void was trapped in the basement of the Watchtower. When he routinely visited him to make sure he was secure, the Void claimed he knew something the Sentry didn't. Robert believed his wife was cheating on him and that she didn't love him. As his psychiatrist, Doctor Cornelius, tried to probe Robert with questions about his origin and about the Void, Robert grew hysterical and attacked an amusement park. There, it was revealed that-- as opposed to what was commonly believed, that Robert Reynolds was the Sentry and the Void was a separate being-- that it was the Sentry who was the separate entity, and Robert who was the Void. The Void fled, and the Sentry explained to Doctor Cornelius that Robert had been bullied as a child.", 
+    "durability": 6, 
+    "education": "High school graduate", 
+    "energy": 4, 
+    "eyes": "Blue\n", 
+    "fighting": 3, 
+    "firstappearance": "Sentry #1\n", 
+    "groupaffiliation": [
+        "Formerly Avengers (Osborn's team)", 
+        "Avengers"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 72, 
+    "id": "Sentry_(Robert_Reynolds)", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Lindy Reynolds (wife)", 
+    "occupation": "Adventurer", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The Sentry's abilities derive from an experimental serum that creates a phase-shift in his molecules, causing each atom to step an instant ahead of the current time line. The serum induces a photosynthetic reaction, resulting in a hyper state of consciousness. Though most of his powers and their limits are still unknown, examples he has demonstrated so far are super-strength, super-speed, invulnerability, and flight. \nThe Sentry can also project energy fields, control light, and has vast psychic and mental forces mainly used for holding his physical powers together, though it is not yet known whether the Sentry can use them the way Professor X and other psychics use theirs; the only psychic abilities he had displayed so far is implanting his memories inside Paul Jenkins' mind and calming the fury of the Hulk. \n\nIt may be theorized that the Sentry also has the ability to produce hard-light constructs similar to those of Dazzler's when it was revealed that the Void is a just an expression of his repressed persona, and thus his creation. With the people dubbing The Sentry as the world's most powerful superhero, and with the serum causing a photosynthetic reaction to his body, completely altering his state of consciousness, it is nonetheless conceivable that Sentry's powers are limitless, and may even rival those of the Silver Surfer's and Phoenix's. In effect, the Sentry's powers are seemingly limitless.", 
+    "realname": "Robert Reynolds", 
+    "speed": 5, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 194
 }

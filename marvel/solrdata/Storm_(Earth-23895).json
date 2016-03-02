@@ -1,26 +1,22 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Storm", 
-            "citizenship": "African", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Exiles Vol 1 12\n", 
-            "groupaffiliation": "Weapon X", 
-            "hair": "White\n", 
-            "id": "Storm_(Earth-23895)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "occupation": "Reality Jumper", 
-            "powers": "Storm is a mutant who possesses the psionic ability to manipulate weather patterns over limited areas. She can stimulate the creation of any form of precipitation such as rain or fog, generate winds in varying degrees of intensity up to and including hurricane force, raise or lower the humidity and temperature in her immediate vicinity, induce lightning and other electrical atmospheric phenomena, and disperse natural storms so as to create clear change. Storm can direct the path of certain atmospheric effects, such as bolts of lightning, with her hands. She has also demonstrated the ability to manipulate ocean currents, though the extent of this ability is still unclear. \nStorm\u2019s control over the atmosphere is such that she can create certain effects over a specific area while shielding smaller areas within that region. For example, she can create a rainstorm around herself but prevent the raindrops from touching her. Storm can also create atmospheric phenomena over very small areas, such as creating a rainstorm small enough to water a single potted plant. \nStorm can only manipulate weather patterns as they exist in nature. For example, she can end a drought in one area by creating torrential rains there, but that would necessitate robbing all available moisture from the surrounding areas. Storm is not able to create atmospheric conditions that do not exist naturally on the planet she is on. For example, Storm is unable to lower temperatures as far as absolute zero or raise them to solar intensities on Earth. \nThe limit to the size of the area over which Storm can manipulate the weather is not yet known. However, she once diverted the jet stream so as to create storms over the entire East Coast of the United States. She can create weather effects within indoor areas or within artificially maintained environments. Storm is limited by the force of her will and the strength of her body. It once took her several hours to stop a savage blizzard sweeping over much of Canada, and she nearly died from exhaustion in the process. \nStorm is able to fly by creating winds strong enough to support her weight, the weight of others, and to propel her forward through the air. Storm can thus travel as fast as any wind can, and has reached speeds up to 300 miles per hour. Her powers over the atmosphere enable her to breathe at any speed, protect her from air friction, and grant her limited immunity to extreme heat and cold. \nStorm is also able to alter her visual perception so as to perceive electrical energy patterns as well as those factors responsible for existing meteorological phenomena in her surrounding environment. \n\nStorm's ability to manipulate the weather in her immediate vicinity is affected by her emotions; hence, if she does not maintain control, a fit of rage might induce a destructive storm. Storm also suffers from severe claustrophobia.", 
-            "realname": "Ororo Munroe", 
-            "significantissues": "Exiles Vol 1 12, Exiles #38", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Omniverse"
-        }
-    }
+    "aliases": "Storm", 
+    "citizenship": "African", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Exiles Vol 1 12\n", 
+    "groupaffiliation": "Weapon X", 
+    "hair": "White\n", 
+    "id": "Storm_(Earth-23895)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "occupation": "Reality Jumper", 
+    "powers": "Storm is a mutant who possesses the psionic ability to manipulate weather patterns over limited areas. She can stimulate the creation of any form of precipitation such as rain or fog, generate winds in varying degrees of intensity up to and including hurricane force, raise or lower the humidity and temperature in her immediate vicinity, induce lightning and other electrical atmospheric phenomena, and disperse natural storms so as to create clear change. Storm can direct the path of certain atmospheric effects, such as bolts of lightning, with her hands. She has also demonstrated the ability to manipulate ocean currents, though the extent of this ability is still unclear. \nStorm\u2019s control over the atmosphere is such that she can create certain effects over a specific area while shielding smaller areas within that region. For example, she can create a rainstorm around herself but prevent the raindrops from touching her. Storm can also create atmospheric phenomena over very small areas, such as creating a rainstorm small enough to water a single potted plant. \nStorm can only manipulate weather patterns as they exist in nature. For example, she can end a drought in one area by creating torrential rains there, but that would necessitate robbing all available moisture from the surrounding areas. Storm is not able to create atmospheric conditions that do not exist naturally on the planet she is on. For example, Storm is unable to lower temperatures as far as absolute zero or raise them to solar intensities on Earth. \nThe limit to the size of the area over which Storm can manipulate the weather is not yet known. However, she once diverted the jet stream so as to create storms over the entire East Coast of the United States. She can create weather effects within indoor areas or within artificially maintained environments. Storm is limited by the force of her will and the strength of her body. It once took her several hours to stop a savage blizzard sweeping over much of Canada, and she nearly died from exhaustion in the process. \nStorm is able to fly by creating winds strong enough to support her weight, the weight of others, and to propel her forward through the air. Storm can thus travel as fast as any wind can, and has reached speeds up to 300 miles per hour. Her powers over the atmosphere enable her to breathe at any speed, protect her from air friction, and grant her limited immunity to extreme heat and cold. \nStorm is also able to alter her visual perception so as to perceive electrical energy patterns as well as those factors responsible for existing meteorological phenomena in her surrounding environment. \n\nStorm's ability to manipulate the weather in her immediate vicinity is affected by her emotions; hence, if she does not maintain control, a fit of rage might induce a destructive storm. Storm also suffers from severe claustrophobia.", 
+    "realname": "Ororo Munroe", 
+    "significantissues": "Exiles Vol 1 12, Exiles #38", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Omniverse"
 }

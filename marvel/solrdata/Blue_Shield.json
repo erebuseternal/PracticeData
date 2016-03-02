@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High school Graduate", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Dazzler #5 (1981)\n", 
-            "groupaffiliation": "the staff of Project: PEGASUS", 
-            "hair": "Brown\n", 
-            "height": 72, 
-            "id": "Blue_Shield", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Frank Cartelli (father, deceased), Anita Cartelli (mother)", 
-            "occupation": [
-                "Licensed superhero", 
-                "Project: PEGASUS Security Director", 
-                "vigilante. assistant to syndicate boss"
-            ], 
-            "origin": "Dazzler #5 (1981)", 
-            "placeofbirth": [
-                "Morris Park", 
-                "New York"
-            ], 
-            "powers": "Joey Cartelli was a natural athlete; since exposure to his belt; Blue natural life force (bio-energy) has been amplified, giving him superhuman strength (lifting 1800 lbs.), his reaction time is 10 times quicker than normal. Joey' stamina and agility were increased as well as his speed, which now allows him to run at 50 mph for short periods. Initially Joey needed his belt for these enhancements, but after years of exposure to its energies, they have become innate.", 
-            "realname": "Joseph \"Joey\" Cartelli", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High school Graduate", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Dazzler #5 (1981)\n", 
+    "groupaffiliation": "the staff of Project: PEGASUS", 
+    "hair": "Brown\n", 
+    "height": 72, 
+    "id": "Blue_Shield", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Frank Cartelli (father, deceased), Anita Cartelli (mother)", 
+    "occupation": [
+        "Licensed superhero", 
+        "Project: PEGASUS Security Director", 
+        "vigilante. assistant to syndicate boss"
+    ], 
+    "origin": "Dazzler #5 (1981)", 
+    "placeofbirth": [
+        "Morris Park", 
+        "New York"
+    ], 
+    "powers": "Joey Cartelli was a natural athlete; since exposure to his belt; Blue natural life force (bio-energy) has been amplified, giving him superhuman strength (lifting 1800 lbs.), his reaction time is 10 times quicker than normal. Joey' stamina and agility were increased as well as his speed, which now allows him to run at 50 mph for short periods. Initially Joey needed his belt for these enhancements, but after years of exposure to its energies, they have become innate.", 
+    "realname": "Joseph \"Joey\" Cartelli", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

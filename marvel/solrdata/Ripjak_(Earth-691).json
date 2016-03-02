@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Interplanetary Serial Killer", 
-            "citizenship": "Martian", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "(By name) Guardians of the Galaxy #49 (1993); (full) Guardians of the Galaxy #54 (1994)\n", 
-            "groupaffiliation": "Martian Masters", 
-            "hair": "None\n", 
-            "id": "Ripjak_(Earth-691)", 
-            "identity": "The general populace of Earth was unaware of Ripjak's existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": "Scientist", 
-            "placeofbirth": "Mars (Earth-691)", 
-            "realname": "Ripjak", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-691"
-        }
-    }
+    "aliases": "Interplanetary Serial Killer", 
+    "citizenship": "Martian", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "(By name) Guardians of the Galaxy #49 (1993); (full) Guardians of the Galaxy #54 (1994)\n", 
+    "groupaffiliation": "Martian Masters", 
+    "hair": "None\n", 
+    "id": "Ripjak_(Earth-691)", 
+    "identity": "The general populace of Earth was unaware of Ripjak's existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": "Scientist", 
+    "placeofbirth": "Mars (Earth-691)", 
+    "realname": "Ripjak", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-691"
 }

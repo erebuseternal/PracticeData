@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "United States of America", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed; presumably had a college degree and a degree in medicine", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Avengers #85\n", 
-            "groupaffiliation": "(At time of death) Squadron Supreme", 
-            "hair": "Gray\n", 
-            "height": 46, 
-            "id": "Thumb,_Tom_(Earth-712)", 
-            "identity": "Publicly known to the people of Earth-712", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "(At time of death) Government agent", 
-                "inventor", 
-                "scientist"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Tom Thumb had a genius level IQ and total recall ability.", 
-            "realname": "Thomas Thompson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-712", 
-            "weight": 120
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "United States of America", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed; presumably had a college degree and a degree in medicine", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Avengers #85\n", 
+    "groupaffiliation": "(At time of death) Squadron Supreme", 
+    "hair": "Gray\n", 
+    "height": 46, 
+    "id": "Thumb,_Tom_(Earth-712)", 
+    "identity": "Publicly known to the people of Earth-712", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "(At time of death) Government agent", 
+        "inventor", 
+        "scientist"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Tom Thumb had a genius level IQ and total recall ability.", 
+    "realname": "Thomas Thompson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-712", 
+    "weight": 120
 }

@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Schiffler", 
-                "L.O.K. (Logarhythmic Organic Kinetics)", 
-                "Billy Bailey", 
-                "Ted Bailey", 
-                "Agent 18"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Learning the ExTechOp division was using Cable in experiments to create controllable, artificial intelligent agents, and desiring a fair rematch, Truman freed Cable, but during their subsequent fight, a ruptured turbine bathed Truman in burning fuel. He clung to life, ironically handed over to ExTechOp, who put him through inhuman experiments; with sight his only remaining sense, Truman tried a Tibetan technique to bounce his psyche into S.H.I.E.L.D. employee Ted Bailey, then inadvertently into Ted\u2019s six year old son Billy. Meanwhile his body\u2019s brain and nervous system were transplanted into a new Deathlok cyborg, built using technology harvested from Machine Man; when the Nazi Red Skull invaded the Helicarrier, Douglock activated Deathlok and later released him into the outside world. The mindless cyborg rampaged through Las Vegas, pursued by Larry Young\u2019s Air Cavalry and Zero Company, until \u201cBilly Bailey\u201d arrived to reclaim his body.", 
-            "durability": 5, 
-            "education": "College graduate", 
-            "energy": 5, 
-            "eyes": "(Human) Blue; (cyborg) Variable\n", 
-            "fighting": 6, 
-            "firstappearance": "(Truman) Cable #59 (1998); (Deathlok) Uncanny X-Men #391 (1999)\n", 
-            "groupaffiliation": "Formerly S.H.I.E.L.D.", 
-            "hair": "(Human) Black; (cyborg) None\n", 
-            "height": 0, 
-            "id": "Deathlok_(Jack_Truman)", 
-            "identity": "Known to the Authorities", 
-            "intelligence": 3, 
-            "knownrelatives": "Unidentified father, Lillian Trubane (sister)", 
-            "occupation": [
-                "Unrevealed", 
-                "former S.H.I.E.L.D. manhunter"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Deathlok\u2019s cyborg form is heavily armored, superhumanly strong, and armed with a variety of inbuilt weapons, including blasters in mouth and palms, incendiary and gas devices in his mouth, and missile launchers in his forearms. He is equipped with short-range radar, and telescopic and infra-red sight; he can shut down any of his senses at will. He uses spray-on skin to pass for human and internal jammers ensure x-rays and scanners read him as normal. He does not need to eat. He can interface and override other machines through probes in his fingers.", 
-            "realname": "Jack Truman", 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 600
-        }
-    }
+    "aliases": [
+        "Schiffler", 
+        "L.O.K. (Logarhythmic Organic Kinetics)", 
+        "Billy Bailey", 
+        "Ted Bailey", 
+        "Agent 18"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Learning the ExTechOp division was using Cable in experiments to create controllable, artificial intelligent agents, and desiring a fair rematch, Truman freed Cable, but during their subsequent fight, a ruptured turbine bathed Truman in burning fuel. He clung to life, ironically handed over to ExTechOp, who put him through inhuman experiments; with sight his only remaining sense, Truman tried a Tibetan technique to bounce his psyche into S.H.I.E.L.D. employee Ted Bailey, then inadvertently into Ted\u2019s six year old son Billy. Meanwhile his body\u2019s brain and nervous system were transplanted into a new Deathlok cyborg, built using technology harvested from Machine Man; when the Nazi Red Skull invaded the Helicarrier, Douglock activated Deathlok and later released him into the outside world. The mindless cyborg rampaged through Las Vegas, pursued by Larry Young\u2019s Air Cavalry and Zero Company, until \u201cBilly Bailey\u201d arrived to reclaim his body.", 
+    "durability": 5, 
+    "education": "College graduate", 
+    "energy": 5, 
+    "eyes": "(Human) Blue; (cyborg) Variable\n", 
+    "fighting": 6, 
+    "firstappearance": "(Truman) Cable #59 (1998); (Deathlok) Uncanny X-Men #391 (1999)\n", 
+    "groupaffiliation": "Formerly S.H.I.E.L.D.", 
+    "hair": "(Human) Black; (cyborg) None\n", 
+    "height": 0, 
+    "id": "Deathlok_(Jack_Truman)", 
+    "identity": "Known to the Authorities", 
+    "intelligence": 3, 
+    "knownrelatives": "Unidentified father, Lillian Trubane (sister)", 
+    "occupation": [
+        "Unrevealed", 
+        "former S.H.I.E.L.D. manhunter"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Deathlok\u2019s cyborg form is heavily armored, superhumanly strong, and armed with a variety of inbuilt weapons, including blasters in mouth and palms, incendiary and gas devices in his mouth, and missile launchers in his forearms. He is equipped with short-range radar, and telescopic and infra-red sight; he can shut down any of his senses at will. He uses spray-on skin to pass for human and internal jammers ensure x-rays and scanners read him as normal. He does not need to eat. He can interface and override other machines through probes in his fingers.", 
+    "realname": "Jack Truman", 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 600
 }

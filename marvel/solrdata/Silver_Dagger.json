@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Doctor of divinity, Ph.D in Theology from a Jesuit college", 
-            "energy": 1, 
-            "eyes": "Blue (left eye later silver, now missing)\n", 
-            "fighting": 1, 
-            "firstappearance": "Doctor Strange #1 (1974)\n", 
-            "groupaffiliation": [
-                "Leader of the Sword of the Lord", 
-                "formerly Catholic Church"
-            ], 
-            "hair": "White, balding with white mustache\n", 
-            "height": 72, 
-            "id": "Silver_Dagger", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Executioner of the Wicked", 
-                "author", 
-                "evangelist", 
-                "former Cardinal"
-            ], 
-            "origin": "Doctor Strange #5 (1974)", 
-            "placeofbirth": "Unrevealed", 
-            "realname": "Isaiah Curwen", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 220
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Doctor of divinity, Ph.D in Theology from a Jesuit college", 
+    "energy": 1, 
+    "eyes": "Blue (left eye later silver, now missing)\n", 
+    "fighting": 1, 
+    "firstappearance": "Doctor Strange #1 (1974)\n", 
+    "groupaffiliation": [
+        "Leader of the Sword of the Lord", 
+        "formerly Catholic Church"
+    ], 
+    "hair": "White, balding with white mustache\n", 
+    "height": 72, 
+    "id": "Silver_Dagger", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Executioner of the Wicked", 
+        "author", 
+        "evangelist", 
+        "former Cardinal"
+    ], 
+    "origin": "Doctor Strange #5 (1974)", 
+    "placeofbirth": "Unrevealed", 
+    "realname": "Isaiah Curwen", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 220
 }

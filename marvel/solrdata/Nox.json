@@ -1,38 +1,34 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Night", 
-                "\"Aphrodite", 
-                "\" Lady Nox"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Black\n", 
-            "fighting": 1, 
-            "firstappearance": "Doctor Strange: Sorcerer Supreme #31 (1991)\n", 
-            "groupaffiliation": [
-                "Fear Lords", 
-                "Olumpians"
-            ], 
-            "hair": "Black\n", 
-            "height": 67, 
-            "id": "Nox", 
-            "identity": "The general populace of Earth is unaware of Nox's existence.", 
-            "intelligence": 1, 
-            "knownrelatives": "Deimos, Phobos, (sons, deceased), Thanatos (son)", 
-            "occupation": "Goddess of the night", 
-            "origin": "Doctor Strange: Sorcerer Supreme #32 (1991)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "An apparently immortal and extradimensional sorceress of immense power, Nox can monitor other dimensions and mentally influence others by drawing upon various magical sources and entities.", 
-            "realname": "Unrevealed, possibly Nyx", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 270
-        }
-    }
+    "aliases": [
+        "Night", 
+        "\"Aphrodite", 
+        "\" Lady Nox"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Black\n", 
+    "fighting": 1, 
+    "firstappearance": "Doctor Strange: Sorcerer Supreme #31 (1991)\n", 
+    "groupaffiliation": [
+        "Fear Lords", 
+        "Olumpians"
+    ], 
+    "hair": "Black\n", 
+    "height": 67, 
+    "id": "Nox", 
+    "identity": "The general populace of Earth is unaware of Nox's existence.", 
+    "intelligence": 1, 
+    "knownrelatives": "Deimos, Phobos, (sons, deceased), Thanatos (son)", 
+    "occupation": "Goddess of the night", 
+    "origin": "Doctor Strange: Sorcerer Supreme #32 (1991)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "An apparently immortal and extradimensional sorceress of immense power, Nox can monitor other dimensions and mentally influence others by drawing upon various magical sources and entities.", 
+    "realname": "Unrevealed, possibly Nyx", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 270
 }

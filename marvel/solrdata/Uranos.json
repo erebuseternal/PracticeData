@@ -1,30 +1,26 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Formerly Titanos", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Captain Marvel #29 (1973)\n", 
-            "groupaffiliation": "Formerly Eternals", 
-            "hair": "Black\n", 
-            "id": "Uranos", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Kronos (brother), Daina (sister-in-law, presumed deceased), Zuras, A'Lars (nephews)", 
-            "occupation": "Ruler of Eternal colony on Uranus", 
-            "placeofbirth": [
-                "City of Titanos", 
-                "Northern Asia"
-            ], 
-            "realname": "Uranos", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Formerly Titanos", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Captain Marvel #29 (1973)\n", 
+    "groupaffiliation": "Formerly Eternals", 
+    "hair": "Black\n", 
+    "id": "Uranos", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Kronos (brother), Daina (sister-in-law, presumed deceased), Zuras, A'Lars (nephews)", 
+    "occupation": "Ruler of Eternal colony on Uranus", 
+    "placeofbirth": [
+        "City of Titanos", 
+        "Northern Asia"
+    ], 
+    "realname": "Uranos", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

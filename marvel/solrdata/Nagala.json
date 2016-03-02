@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Lemuria", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Defenders #7 (2001)\n", 
-            "groupaffiliation": [
-                "At'la'tique", 
-                "former member of \"Deep Six\""
-            ], 
-            "hair": "Green scales\n", 
-            "height": 72, 
-            "id": "Nagala", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Naga (ancestor)", 
-            "occupation": [
-                "Sorceress", 
-                "conqueror", 
-                "minion of Set"
-            ], 
-            "placeofbirth": "Lemuria", 
-            "powers": "Like all Homo mermani, Nagala possesses superhuman strength and durability, ages at half the human rate, and is adapted for the ocean's cold, darkness, pressures, etc.", 
-            "realname": "Nagala", 
-            "significantissues": [
-                "With Deep Six, vs Defenders (Defenders #7, 2001)", 
-                "with Deep Six, assaulted by Defenders, defeated by Doctor Strange (Defenders #11, 2002)", 
-                "revealed to be part of At'la'tique (New Thunderbolts #3, 2005)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Lemuria", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Defenders #7 (2001)\n", 
+    "groupaffiliation": [
+        "At'la'tique", 
+        "former member of \"Deep Six\""
+    ], 
+    "hair": "Green scales\n", 
+    "height": 72, 
+    "id": "Nagala", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Naga (ancestor)", 
+    "occupation": [
+        "Sorceress", 
+        "conqueror", 
+        "minion of Set"
+    ], 
+    "placeofbirth": "Lemuria", 
+    "powers": "Like all Homo mermani, Nagala possesses superhuman strength and durability, ages at half the human rate, and is adapted for the ocean's cold, darkness, pressures, etc.", 
+    "realname": "Nagala", 
+    "significantissues": [
+        "With Deep Six, vs Defenders (Defenders #7, 2001)", 
+        "with Deep Six, assaulted by Defenders, defeated by Doctor Strange (Defenders #11, 2002)", 
+        "revealed to be part of At'la'tique (New Thunderbolts #3, 2005)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

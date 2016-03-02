@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Director Jackson", 
-                "Agent Jackson", 
-                "\"Pooch-Meister", 
-                "\" \"Poochie\""
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "SHIELD agent training", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Wolverine #163 (2001)\n", 
-            "groupaffiliation": [
-                "Weapon X", 
-                "formerly SHIELD"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 71, 
-            "id": "Jackson,_Brent", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Director of Weapon X", 
-                "former deputy director and recruiter for Weapon X", 
-                "SHIELD agent"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "realname": "Brent Montgomery Jackson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 185
-        }
-    }
+    "aliases": [
+        "Director Jackson", 
+        "Agent Jackson", 
+        "\"Pooch-Meister", 
+        "\" \"Poochie\""
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "SHIELD agent training", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Wolverine #163 (2001)\n", 
+    "groupaffiliation": [
+        "Weapon X", 
+        "formerly SHIELD"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 71, 
+    "id": "Jackson,_Brent", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Director of Weapon X", 
+        "former deputy director and recruiter for Weapon X", 
+        "SHIELD agent"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "realname": "Brent Montgomery Jackson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 185
 }

@@ -1,69 +1,65 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Nurse Veronica", 
-                "Patricia Muggins", 
-                "Titania/Mary MacPherran", 
-                "Garrison Kane", 
-                "Christina Valentino", 
-                "Domino", 
-                "Cheryl Marks", 
-                "numerous others"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Carlysle went into hiding, but was found by first Deadpool and then Domino. Carlysle delayed Domino\u2019s intended retribution by helping her locate X-Force, after which she escaped again. Carlysle then became involved in the hunt for Tolliver\u2019s will, during which she was mortally wounded by Slayback but survived by copying Deadpool\u2019s healing factor. Later, Carlysle sought to live a peaceful life in San Francisco with Garrison Kane, but she soon encountered Deadpool again. Carlysle was subsequently captured by the emotion-manipulating Psycho-Man, who sought Kane\u2019s advanced technology, but was rescued from the Microverse by Kane, Cable, Domino and the Microverse\u2019s resident heroes, the Microns. Returning to Earth, Carlysle finally made peace with Domino.", 
-            "durability": 5, 
-            "education": "Unrevealed", 
-            "energy": 5, 
-            "eyes": "Red (variable)\n", 
-            "fighting": 7, 
-            "firstappearance": "(As Domino) New Mutants #98 (1991); (first name revealed) X-Force #11 (1992); (in true form) X-Force #19 (1993); (surname revealed) X-Force #20 (1993); (as Copycat) Deadpool: The Circle Chase #3 (1993)\n", 
-            "groupaffiliation": [
-                "(As Copycat) Weapon X", 
-                "formerly Six Pack", 
-                "(as Domino) X-Force/New Mutants"
-            ], 
-            "hair": "White (variable)\n", 
-            "height": 0, 
-            "id": "Copycat", 
-            "identity": "Secret", 
-            "intelligence": 7, 
-            "knownrelatives": "Burt Carlysle (father, deceased), Dorothy Carlysle (mother)", 
-            "occupation": [
-                "Terrorist", 
-                "former mercenary", 
-                "actress", 
-                "adventurer", 
-                "prostitute"
-            ], 
-            "origin": "Deadpool #-1 (1997)", 
-            "placeofbirth": [
-                "New Brunswick", 
-                "New Jersey"
-            ], 
-            "powers": "A powerful metamorph, Copycat could precisely duplicate another being\u2019s appearance down to the cellular level. As a result, she could replicate superhuman powers and abilities. She has survived otherwise fatal wounds by copying healing factors. Modification by Weapon X accelerated her ability to duplicate others.", 
-            "realname": "Vanessa Geraldine Carlysle", 
-            "significantissues": [
-                "Past with Deadpool revealed (Deadpool #-1, 1997)", 
-                "began impersonating Domino, vs Deadpool, helped Cable transform New Mutants into X-Force (New Mutants #98-100/X-Force #1, 1991)", 
-                "betrayal exposed by Deadpool, confronted by X-Force, joined Cable in opposing Tolliver, wounded by Deadpool, escaped (X-Force #11-15, 1992)", 
-                "confronted by Domino (X-Force #23, 1993)", 
-                "reunited with Cable (Cable #4, 1993)", 
-                "joined search for Tolliver\u2019s will, wounded by Slayback, saved by Deadpool (Deadpool: The Circle Chase #2-4, 1993)", 
-                "with Kane & Wolverine, vs Deadpool (Wolverine #88, 1994)", 
-                "with Kane, Cable, Domino & Microns, vs Psycho-Man (Cable #37-39, 1996-1997)", 
-                "began impersonating Titania (Deadpool #38, 2000)", 
-                "revealed true identity, vs Deadpool (Deadpool #45, 2000)", 
-                "joined Weapon X (Weapon X: The Draft \u2013 Agent Zero #1, 2002)", 
-                "began seducing Deadpool (Deadpool #49, 2001)", 
-                "confronted Siryn, ended relationship with Deadpool (Deadpool #56, 2001)", 
-                "targeted by Weapon X, killed by Sabretooth (Deadpool #58-59, 2001)"
-            ], 
-            "speed": 5, 
-            "strength": 5, 
-            "universe": "Marvel Universe", 
-            "weight": 148
-        }
-    }
+    "aliases": [
+        "Nurse Veronica", 
+        "Patricia Muggins", 
+        "Titania/Mary MacPherran", 
+        "Garrison Kane", 
+        "Christina Valentino", 
+        "Domino", 
+        "Cheryl Marks", 
+        "numerous others"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Carlysle went into hiding, but was found by first Deadpool and then Domino. Carlysle delayed Domino\u2019s intended retribution by helping her locate X-Force, after which she escaped again. Carlysle then became involved in the hunt for Tolliver\u2019s will, during which she was mortally wounded by Slayback but survived by copying Deadpool\u2019s healing factor. Later, Carlysle sought to live a peaceful life in San Francisco with Garrison Kane, but she soon encountered Deadpool again. Carlysle was subsequently captured by the emotion-manipulating Psycho-Man, who sought Kane\u2019s advanced technology, but was rescued from the Microverse by Kane, Cable, Domino and the Microverse\u2019s resident heroes, the Microns. Returning to Earth, Carlysle finally made peace with Domino.", 
+    "durability": 5, 
+    "education": "Unrevealed", 
+    "energy": 5, 
+    "eyes": "Red (variable)\n", 
+    "fighting": 7, 
+    "firstappearance": "(As Domino) New Mutants #98 (1991); (first name revealed) X-Force #11 (1992); (in true form) X-Force #19 (1993); (surname revealed) X-Force #20 (1993); (as Copycat) Deadpool: The Circle Chase #3 (1993)\n", 
+    "groupaffiliation": [
+        "(As Copycat) Weapon X", 
+        "formerly Six Pack", 
+        "(as Domino) X-Force/New Mutants"
+    ], 
+    "hair": "White (variable)\n", 
+    "height": 0, 
+    "id": "Copycat", 
+    "identity": "Secret", 
+    "intelligence": 7, 
+    "knownrelatives": "Burt Carlysle (father, deceased), Dorothy Carlysle (mother)", 
+    "occupation": [
+        "Terrorist", 
+        "former mercenary", 
+        "actress", 
+        "adventurer", 
+        "prostitute"
+    ], 
+    "origin": "Deadpool #-1 (1997)", 
+    "placeofbirth": [
+        "New Brunswick", 
+        "New Jersey"
+    ], 
+    "powers": "A powerful metamorph, Copycat could precisely duplicate another being\u2019s appearance down to the cellular level. As a result, she could replicate superhuman powers and abilities. She has survived otherwise fatal wounds by copying healing factors. Modification by Weapon X accelerated her ability to duplicate others.", 
+    "realname": "Vanessa Geraldine Carlysle", 
+    "significantissues": [
+        "Past with Deadpool revealed (Deadpool #-1, 1997)", 
+        "began impersonating Domino, vs Deadpool, helped Cable transform New Mutants into X-Force (New Mutants #98-100/X-Force #1, 1991)", 
+        "betrayal exposed by Deadpool, confronted by X-Force, joined Cable in opposing Tolliver, wounded by Deadpool, escaped (X-Force #11-15, 1992)", 
+        "confronted by Domino (X-Force #23, 1993)", 
+        "reunited with Cable (Cable #4, 1993)", 
+        "joined search for Tolliver\u2019s will, wounded by Slayback, saved by Deadpool (Deadpool: The Circle Chase #2-4, 1993)", 
+        "with Kane & Wolverine, vs Deadpool (Wolverine #88, 1994)", 
+        "with Kane, Cable, Domino & Microns, vs Psycho-Man (Cable #37-39, 1996-1997)", 
+        "began impersonating Titania (Deadpool #38, 2000)", 
+        "revealed true identity, vs Deadpool (Deadpool #45, 2000)", 
+        "joined Weapon X (Weapon X: The Draft \u2013 Agent Zero #1, 2002)", 
+        "began seducing Deadpool (Deadpool #49, 2001)", 
+        "confronted Siryn, ended relationship with Deadpool (Deadpool #56, 2001)", 
+        "targeted by Weapon X, killed by Sabretooth (Deadpool #58-59, 2001)"
+    ], 
+    "speed": 5, 
+    "strength": 5, 
+    "universe": "Marvel Universe", 
+    "weight": 148
 }

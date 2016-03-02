@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Cosmic Hulk", 
-            "citizenship": "Inapplicable", 
-            "content": "Originally created to serve only one master \u2013 Galactus \u2013 the Cosmos Automation would travel the universe searching for adequate planets for its master to devour. Upon reaching a desirable world, it would seek out a body able to properly contain it before preparing that world for Galactus' arrival. The Cosmos Automation was designed to break down a planet's defenses so its global absorption would be an easy task. Many worlds were able to manipulate the programming of this artificial life form \u2013 some even sending it against its creator, slowing his feeding considerably \u2013 and Galactus abandoned the program after thirty millennia. It was at that time he began to choose heralds to perform the same function.When the Leader gathered a group of evil geniuses together to form the Intelligencia, they infiltrated Olympia in search of the Library of Alexandria. Once inside, they not only took the intellectual knowledge they found, but some armaments as well \u2013 Cosmic Hulk included. Finally, after months of reprogramming, the Intelligencia had a powerful Hulk construct ready to serve their fiendish desires.The automation was present on the Hellcarrier when Red Hulk had plans of shutting down the Intelligencia's operation. After the Gammadroid and M.O.D.O.K. softened the red behemoth up, Cosmic Hulk finished the job and put him down for the count - enabling the Intelligencia to redirect much of the Red Hulk's energy to create an army of Hulks.Somehow the Cosmic Hulk wound up in a facility for experimental weapons owned by the U.S. government. A missile designed to interact with cosmic particles went haywire and the robot absorbed some of its energy, becoming active and incredibly violent. The task of shutting it down again was placed on the capable shoulders of the newly resurrected Glenn Talbot \u2013 actually a Life Model Decoy controlled by the Leader  - who managed to get close enough to insert a Ram neural processor into its mouth to achieve victory. The government's intentions were to field test the robot against new technology and apply what they learn to the real Hulk.", 
-            "durability": 1, 
-            "education": "Galactus programmed his creation to be able to decipher languages of any world it inhabits and adapt to their native form of communication", 
-            "energy": 1, 
-            "eyes": "Glowing yellow\n", 
-            "fighting": 1, 
-            "firstappearance": "Eternals #14 (1977)\n", 
-            "groupaffiliation": "Formerly Intelligencia", 
-            "hair": "Green\n", 
-            "id": "Hulk_(Cosmos_Automation)", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Inapplicable", 
-            "occupation": [
-                "Former servant of the Intelligencia", 
-                "Galactus"
-            ], 
-            "origin": "Fall of the Hulks: Red Hulk #1 (2010)", 
-            "placeofbirth": "created by Galactus", 
-            "powers": "The Cosmos Automation was a self-replicating artificial life form that must hunt for an appropriate vessel of whatever world it finds itself on. Existing mainly as a data stream, this dataloop compelled a host body with an able mind to build a containment unit for it. The synthetic housing had the ability to absorb any available band of cosmic energy on that world in order to power it.\nCosmic Hulk possessed strength, speed, endurance, agility and durability on superhuman levels, the extent of which is unknown at this time. It is entirely possible his powers increased with the amount of cosmic radiation he absorbed. Cosmic Hulk could project powerful beams of energy from his eyes and was capable of flight. Cosmic Hulk presumably had a self repair function as well.\n\nOne flaw in the Cosmos Automation design is, even though it is a highly sophisticated computer program, it is still merely a computer program and can be manipulated by any smart enough to override its original programming.", 
-            "realname": "The Cosmos Automation", 
-            "significantissues": [
-                "Came to life, fought the Eternals and deactivated by Zuras (Eternals #14-16, 1977)", 
-                "Stolen from Olympia by the Intelligencia (Fall of Hulks: Alpha, 2010)", 
-                "Reactivated by Red Hulk and origin revealed (Fall of the Hulks: Red Hulk #1, 2010)", 
-                "Kidnapped Dr. Doom for its masters (Incredible Hulk #607, 2010)", 
-                "in the hands of the US government (World War Hulks #1, 2010)", 
-                "Torn in half by Red Hulk (Hulk #23, 2010)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Cosmic Hulk", 
+    "citizenship": "Inapplicable", 
+    "content": "Originally created to serve only one master \u2013 Galactus \u2013 the Cosmos Automation would travel the universe searching for adequate planets for its master to devour. Upon reaching a desirable world, it would seek out a body able to properly contain it before preparing that world for Galactus' arrival. The Cosmos Automation was designed to break down a planet's defenses so its global absorption would be an easy task. Many worlds were able to manipulate the programming of this artificial life form \u2013 some even sending it against its creator, slowing his feeding considerably \u2013 and Galactus abandoned the program after thirty millennia. It was at that time he began to choose heralds to perform the same function.When the Leader gathered a group of evil geniuses together to form the Intelligencia, they infiltrated Olympia in search of the Library of Alexandria. Once inside, they not only took the intellectual knowledge they found, but some armaments as well \u2013 Cosmic Hulk included. Finally, after months of reprogramming, the Intelligencia had a powerful Hulk construct ready to serve their fiendish desires.The automation was present on the Hellcarrier when Red Hulk had plans of shutting down the Intelligencia's operation. After the Gammadroid and M.O.D.O.K. softened the red behemoth up, Cosmic Hulk finished the job and put him down for the count - enabling the Intelligencia to redirect much of the Red Hulk's energy to create an army of Hulks.Somehow the Cosmic Hulk wound up in a facility for experimental weapons owned by the U.S. government. A missile designed to interact with cosmic particles went haywire and the robot absorbed some of its energy, becoming active and incredibly violent. The task of shutting it down again was placed on the capable shoulders of the newly resurrected Glenn Talbot \u2013 actually a Life Model Decoy controlled by the Leader  - who managed to get close enough to insert a Ram neural processor into its mouth to achieve victory. The government's intentions were to field test the robot against new technology and apply what they learn to the real Hulk.", 
+    "durability": 1, 
+    "education": "Galactus programmed his creation to be able to decipher languages of any world it inhabits and adapt to their native form of communication", 
+    "energy": 1, 
+    "eyes": "Glowing yellow\n", 
+    "fighting": 1, 
+    "firstappearance": "Eternals #14 (1977)\n", 
+    "groupaffiliation": "Formerly Intelligencia", 
+    "hair": "Green\n", 
+    "id": "Hulk_(Cosmos_Automation)", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Inapplicable", 
+    "occupation": [
+        "Former servant of the Intelligencia", 
+        "Galactus"
+    ], 
+    "origin": "Fall of the Hulks: Red Hulk #1 (2010)", 
+    "placeofbirth": "created by Galactus", 
+    "powers": "The Cosmos Automation was a self-replicating artificial life form that must hunt for an appropriate vessel of whatever world it finds itself on. Existing mainly as a data stream, this dataloop compelled a host body with an able mind to build a containment unit for it. The synthetic housing had the ability to absorb any available band of cosmic energy on that world in order to power it.\nCosmic Hulk possessed strength, speed, endurance, agility and durability on superhuman levels, the extent of which is unknown at this time. It is entirely possible his powers increased with the amount of cosmic radiation he absorbed. Cosmic Hulk could project powerful beams of energy from his eyes and was capable of flight. Cosmic Hulk presumably had a self repair function as well.\n\nOne flaw in the Cosmos Automation design is, even though it is a highly sophisticated computer program, it is still merely a computer program and can be manipulated by any smart enough to override its original programming.", 
+    "realname": "The Cosmos Automation", 
+    "significantissues": [
+        "Came to life, fought the Eternals and deactivated by Zuras (Eternals #14-16, 1977)", 
+        "Stolen from Olympia by the Intelligencia (Fall of Hulks: Alpha, 2010)", 
+        "Reactivated by Red Hulk and origin revealed (Fall of the Hulks: Red Hulk #1, 2010)", 
+        "Kidnapped Dr. Doom for its masters (Incredible Hulk #607, 2010)", 
+        "in the hands of the US government (World War Hulks #1, 2010)", 
+        "Torn in half by Red Hulk (Hulk #23, 2010)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,25 +1,21 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "unknown", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "unknown\n", 
-            "fighting": 1, 
-            "groupaffiliation": "none", 
-            "hair": "unknown\n", 
-            "id": "Venom_(2099)", 
-            "identity": "unknown", 
-            "intelligence": 1, 
-            "knownrelatives": "unknown", 
-            "occupation": "unknown", 
-            "origin": "Spider-Man 2099 #35", 
-            "powers": "Kron has all the powers of Spider-Man, such as super strength and agility but more enhanced.  He can also shoot strands of alien substance in the form of \"webbing\" and can turn his moleucles into a watery substance as his skin is malleable in nature and can shape-shift.", 
-            "realname": "Kron Stone", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel 2099 (Earth-928)"
-        }
-    }
+    "aliases": "unknown", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "unknown\n", 
+    "fighting": 1, 
+    "groupaffiliation": "none", 
+    "hair": "unknown\n", 
+    "id": "Venom_(2099)", 
+    "identity": "unknown", 
+    "intelligence": 1, 
+    "knownrelatives": "unknown", 
+    "occupation": "unknown", 
+    "origin": "Spider-Man 2099 #35", 
+    "powers": "Kron has all the powers of Spider-Man, such as super strength and agility but more enhanced.  He can also shoot strands of alien substance in the form of \"webbing\" and can turn his moleucles into a watery substance as his skin is malleable in nature and can shape-shift.", 
+    "realname": "Kron Stone", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel 2099 (Earth-928)"
 }

@@ -1,16 +1,12 @@
 {
-    "add": {
-        "doc": {
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "id": "Helen_of_Troy", 
-            "intelligence": 1, 
-            "realname": "Helen", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "id": "Helen_of_Troy", 
+    "intelligence": 1, 
+    "realname": "Helen", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

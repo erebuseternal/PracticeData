@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Goblin Princess", 
-            "citizenship": "United Kingdom", 
-            "content": "", 
-            "durability": 5, 
-            "education": "No formal schooling; self-taught from watching television", 
-            "energy": 6, 
-            "eyes": "Usually blue; white with no pupils in true form\n", 
-            "fighting": 4, 
-            "firstappearance": "Mighty World of Marvel #7 (1983)\n", 
-            "groupaffiliation": [
-                "Formerly Excalibur", 
-                "Court of Otherworld"
-            ], 
-            "hair": "Usually blonde\n", 
-            "height": 0, 
-            "id": "Meggan", 
-            "identity": "Secret", 
-            "intelligence": 3, 
-            "knownrelatives": "William (father), unidentified mother, Brian Braddock (Captain Britain, husband), James Braddock (brother-in-law), Elizabeth Braddock (Psylocke, sister-in-law), Sir James Braddock (father-in-law, deceased), Lady Elizabeth Braddock (mother-in-law, deceased)", 
-            "occupation": [
-                "Queen of Otherworld", 
-                "adventurer"
-            ], 
-            "origin": "Captain Britain Vol. 2 #8 (1985)", 
-            "placeofbirth": [
-                "Near Fenborough Station", 
-                "London", 
-                "England"
-            ], 
-            "powers": "Meggan is an empathic metamorph, her form changing at will or with her moods. She can be negatively affected by dark emotions, magic, pollution, or other corruptions of nature. She draws energy from the earth and other sources, enabling her to increase in size and strength, project force blasts, fly, and manipulate the elements. Her powers have been erroneously thought to be dependent on her proximity to Britain, but several trips to other countries with no ill effects refute this. Despite her magical affinity, she is not a fairy.", 
-            "realname": "Meggan Braddock", 
-            "significantissues": [
-                "First met Captain Britain (Mighty World of Marvel #14, 1984)", 
-                "first assumed \"elemental\" form (Captain Britain Vol. 2 #8, 1985)", 
-                "joined Excalibur (Excalibur: The Sword is Drawn, 1988)", 
-                "searched for parents, met the Neuri (Excalibur Vol. 1 #44-46, 1995)", 
-                "married Captain Britain (Excalibur Vol. 1 #125, 1998)"
-            ], 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": "Goblin Princess", 
+    "citizenship": "United Kingdom", 
+    "content": "", 
+    "durability": 5, 
+    "education": "No formal schooling; self-taught from watching television", 
+    "energy": 6, 
+    "eyes": "Usually blue; white with no pupils in true form\n", 
+    "fighting": 4, 
+    "firstappearance": "Mighty World of Marvel #7 (1983)\n", 
+    "groupaffiliation": [
+        "Formerly Excalibur", 
+        "Court of Otherworld"
+    ], 
+    "hair": "Usually blonde\n", 
+    "height": 0, 
+    "id": "Meggan", 
+    "identity": "Secret", 
+    "intelligence": 3, 
+    "knownrelatives": "William (father), unidentified mother, Brian Braddock (Captain Britain, husband), James Braddock (brother-in-law), Elizabeth Braddock (Psylocke, sister-in-law), Sir James Braddock (father-in-law, deceased), Lady Elizabeth Braddock (mother-in-law, deceased)", 
+    "occupation": [
+        "Queen of Otherworld", 
+        "adventurer"
+    ], 
+    "origin": "Captain Britain Vol. 2 #8 (1985)", 
+    "placeofbirth": [
+        "Near Fenborough Station", 
+        "London", 
+        "England"
+    ], 
+    "powers": "Meggan is an empathic metamorph, her form changing at will or with her moods. She can be negatively affected by dark emotions, magic, pollution, or other corruptions of nature. She draws energy from the earth and other sources, enabling her to increase in size and strength, project force blasts, fly, and manipulate the elements. Her powers have been erroneously thought to be dependent on her proximity to Britain, but several trips to other countries with no ill effects refute this. Despite her magical affinity, she is not a fairy.", 
+    "realname": "Meggan Braddock", 
+    "significantissues": [
+        "First met Captain Britain (Mighty World of Marvel #14, 1984)", 
+        "first assumed \"elemental\" form (Captain Britain Vol. 2 #8, 1985)", 
+        "joined Excalibur (Excalibur: The Sword is Drawn, 1988)", 
+        "searched for parents, met the Neuri (Excalibur Vol. 1 #44-46, 1995)", 
+        "married Captain Britain (Excalibur Vol. 1 #125, 1998)"
+    ], 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

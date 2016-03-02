@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Doctor Sun", 
-            "citizenship": "None", 
-            "content": "But H.E.R.B.I.E.  soon attacked the FF starting with the Invisible Woman. He revealed that he was actually the consciousness of Doctor Sun who had downloaded himself into the robot at the time of its creation from the Xandarian computers. After subduing most of the four, Doctor Sun uploaded himself into the Baxter Building\u2019s computers to gain more power. Reed shut down the building\u2019s systems to stop Doctor Sun, and having been freed from the villain\u2019s influence, H.E.R.B.I.E. saved them all and cut off Sun\u2019s last refuge by rocketing himself into the building\u2019s computers, destroying himself and Sun.", 
-            "durability": 3, 
-            "education": "Computer programming", 
-            "energy": 3, 
-            "eyes": "Yellow field\n", 
-            "fighting": 3, 
-            "firstappearance": "Fantastic Four #209\n", 
-            "groupaffiliation": [
-                "Member of Fantastic Four", 
-                "Formerly shared consciousness with Doctor Sun"
-            ], 
-            "hair": "None\n", 
-            "id": "H.E.R.B.I.E.", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Mister Fantastic (creator)", 
-            "occupation": "Member of Fantastic Four", 
-            "origin": "Fantastic Four #209/217", 
-            "placeofbirth": "Xandarian Homeworld", 
-            "powers": "None", 
-            "realname": "Humanoid Experimental Robot B-Type Integrated Electronics", 
-            "significantissues": "Fantastic Four #209 (creation), Fantastic Four #217 (revealed as Doctor Sun, commits suicide to save the Fantastic Four)", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Doctor Sun", 
+    "citizenship": "None", 
+    "content": "But H.E.R.B.I.E.  soon attacked the FF starting with the Invisible Woman. He revealed that he was actually the consciousness of Doctor Sun who had downloaded himself into the robot at the time of its creation from the Xandarian computers. After subduing most of the four, Doctor Sun uploaded himself into the Baxter Building\u2019s computers to gain more power. Reed shut down the building\u2019s systems to stop Doctor Sun, and having been freed from the villain\u2019s influence, H.E.R.B.I.E. saved them all and cut off Sun\u2019s last refuge by rocketing himself into the building\u2019s computers, destroying himself and Sun.", 
+    "durability": 3, 
+    "education": "Computer programming", 
+    "energy": 3, 
+    "eyes": "Yellow field\n", 
+    "fighting": 3, 
+    "firstappearance": "Fantastic Four #209\n", 
+    "groupaffiliation": [
+        "Member of Fantastic Four", 
+        "Formerly shared consciousness with Doctor Sun"
+    ], 
+    "hair": "None\n", 
+    "id": "H.E.R.B.I.E.", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Mister Fantastic (creator)", 
+    "occupation": "Member of Fantastic Four", 
+    "origin": "Fantastic Four #209/217", 
+    "placeofbirth": "Xandarian Homeworld", 
+    "powers": "None", 
+    "realname": "Humanoid Experimental Robot B-Type Integrated Electronics", 
+    "significantissues": "Fantastic Four #209 (creation), Fantastic Four #217 (revealed as Doctor Sun, commits suicide to save the Fantastic Four)", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe"
 }

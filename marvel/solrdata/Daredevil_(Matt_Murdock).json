@@ -1,66 +1,62 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Michael Murdock", 
-            "citizenship": "U.S.A.", 
-            "content": "Although Daredevil and the Punisher both fight crime, they often clash over the Punisher's lethal tactics. During an early encounter, Daredevil shot the Punisher to prevent him from killing drug-dealer Peter \"Hogman\" Grunter. Since then, Daredevil has worked with the Punisher when necessary, but has also attempted to bring him to justice. Daredevil formed the \"Marvel Knights\" to apprehend the Punisher, who escaped police custody thereafter. Later, Daredevil teamed with Spider-Man and Wolverine in a failed attempt to take down the Punisher, who told Daredevil that the only way to stop him was to kill him.", 
-            "durability": 2, 
-            "education": "Daredevil possesses a high school diploma and a Juris Doctor (doctorate of law) from Columbia University.  He also possesses the equivalent of a self-taught masters of applied sciences in mechanical engineering.", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "Daredevil #1 (1964)\n", 
-            "groupaffiliation": [
-                "Formerly Defenders", 
-                "\"Marvel Knights\""
-            ], 
-            "hair": "Red\n", 
-            "height": 72, 
-            "id": "Daredevil_(Matt_Murdock)", 
-            "identity": [
-                "Revealed in a tabloid newspaper", 
-                "but denied by Murdock"
-            ], 
-            "intelligence": 3, 
-            "knownrelatives": "Jonathan \"Battling Jack\" Murdock (father, deceased), Grace Murdock (mother, deceased), Milla Donovan (estranged wife)", 
-            "occupation": [
-                "Crimefighter", 
-                "lawyer"
-            ], 
-            "origin": [
-                "Daredevil #1 (1964)", 
-                "Daredevil: The Man Without Fear #1-5 (1993-1994)", 
-                "Daredevil: Yellow #1-6 (2001-2002)"
-            ], 
-            "placeofbirth": "New York City", 
-            "powers": "In compensation for his lost sight, Daredevil\u2019s other four senses have been preternaturally enhanced.\nHis sense of touch is sensitive enough to detect the faint impressions of ink on paper, allowing him to read by touch.  He is also able to feel minute changes in temperature and pressure, enough to sense a human body at a distance of five feet, due to body heat and air disturbance.  His sensitivity to heat allows him to sense the temperature of people and objects in order to determine whether a person is alive, how long they have been dead if they are not, and other changes in body temperature such as blushing or the heating up associated with various emotional states, as well as residual body heat on an object, or how recently a machine has been in use.\nDaredevil\u2019s sense of smell is enhanced enough to distinguish individuals by their natural odors, and remember and identify them no matter how they attempt to mask their scent, as well as track that individual scent through a crowd of people at a distance of roughly 50 feet.\nHis sense of taste is sharp enough to enable him to detect the number of grains of salt on a pretzel.  His ability to remember tastes enables him to determine every ingredient of a food or drink he tastes, as long as there are at least 20 milligrams of that substance present.\nDaredevil\u2019s enhanced sense of hearing enables him to detect an acoustic pressure change of 1 decibel at a pressure level of 7, whereas the average human can only detect a sound as low as 20 decibels.  He can even hear people speaking through a standard soundproofed wall.  Daredevil is also able to hear a heartbeat from 20 feet away, as well as identify people by their individual beat rhythm, or detect whether they are lying or not by the changes in their heartbeat, though a pace maker or self control will confuse his reading.  Not only does Daredevil\u2019s hearing allow him to be constantly aware of his own heartbeat, blood circulation, breathing, physical movements, etc, but he is also able to hear and sense the same attributes in other people.  One of the primary ways he does this is by hearing the reverberations made by ambient sounds on objects and people, giving him a sonar-like sense of where things are, and how dense they are.  And while he is able to block out a good amount of background noise, he can also be excessively disoriented by unexpected loud noises and can be confused when immersed in the wash of sound from a busy crowd.\nAlong with the enhancement of Daredevil\u2019s normal senses, he has gained another sense which he calls his Radar Sense.  According to one theory, this sense reacts to an emission of electromagnetic energy a mutation in his brain has caused, reading the reverberations of this energy as a 360\u00ba, 3-D map of objects.  This \u201csight\u201d is not perfect, and can only give Daredevil an impression of the exact physical shape of objects, not a literal one.  Closely overlapping objects can also confuse this sense.\n\nThe mutations that have heightened Daredevil\u2019s level of sensitivity have also increased his awareness of other forms of electromagnetic radiation.  He is capable of detecting and identifying any electromagnetic radiation on the standard scale; from radio waves, (which he can only detect, not understand the message) all the way to gamma waves, and everything in between.  He is also able to judge the strength of a given radiation and even differentiate between individual colors by the amount of radiation they give off.  At very close range, Daredevil is able to detect the micro voltage of a human being\u2019s brain.", 
-            "realname": "Matthew Michael Murdock", 
-            "significantissues": [
-                "First donned red costume (Daredevil #7, 1965)", 
-                "established \"Mike Murdock\" identity (Daredevil #25, 1967)", 
-                "faked death of \"Mike Murdock\" (Daredevil #41, 1968)", 
-                "revealed secret identity and proposed to Karen Page (Daredevil #56-57, 1969)", 
-                "began relationship with Black Widow (Daredevil #81, 1971)", 
-                "moved to San Francisco with Black Widow (Daredevil #87, 1972)", 
-                "first battled Bullseye (Daredevil #131, 1976)", 
-                "secret identity discovered by reporter Ben Urich (Daredevil #163-164, 1980)", 
-                "first encountered Kingpin (Daredevil #170-171, 1981)", 
-                "unable to prevent Bullseye from killing Elektra (Daredevil #181, 1982)", 
-                "allied with Kingpin to take down Micah Synn (Daredevil #212-214, 1984-1985)", 
-                "life nearly destroyed by Kingpin after secret identity revealed by Karen Page (Daredevil #227-233, 1986)", 
-                "plagued by Typhoid Mary, left New York City (Daredevil #260-266, 1988)", 
-                "instrumental in the  fall of the Kingpin, got law license back (Daredevil #297-300, 1991-1992)", 
-                "faked death, adopted new costume and alias of Jack Batlin (Daredevil #325, 1994)", 
-                "adopted multiple alter egos while battling inner demons (Daredevil #344-347, 1995)", 
-                "revealed secret identity to Foggy Nelson (Daredevil #348, 1995)", 
-                "unabled to prevent Bullseye from killing Karen Page (Daredevil #5, 1999)", 
-                "secret identity exposed by tabloid (Daredevil #32, 2002)", 
-                "suffered nervous breakdown, replaced Wilson Fisk as New York's new kingpin (Daredevil #50, 2003)"
-            ], 
-            "speed": 3, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": "Michael Murdock", 
+    "citizenship": "U.S.A.", 
+    "content": "Although Daredevil and the Punisher both fight crime, they often clash over the Punisher's lethal tactics. During an early encounter, Daredevil shot the Punisher to prevent him from killing drug-dealer Peter \"Hogman\" Grunter. Since then, Daredevil has worked with the Punisher when necessary, but has also attempted to bring him to justice. Daredevil formed the \"Marvel Knights\" to apprehend the Punisher, who escaped police custody thereafter. Later, Daredevil teamed with Spider-Man and Wolverine in a failed attempt to take down the Punisher, who told Daredevil that the only way to stop him was to kill him.", 
+    "durability": 2, 
+    "education": "Daredevil possesses a high school diploma and a Juris Doctor (doctorate of law) from Columbia University.  He also possesses the equivalent of a self-taught masters of applied sciences in mechanical engineering.", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "Daredevil #1 (1964)\n", 
+    "groupaffiliation": [
+        "Formerly Defenders", 
+        "\"Marvel Knights\""
+    ], 
+    "hair": "Red\n", 
+    "height": 72, 
+    "id": "Daredevil_(Matt_Murdock)", 
+    "identity": [
+        "Revealed in a tabloid newspaper", 
+        "but denied by Murdock"
+    ], 
+    "intelligence": 3, 
+    "knownrelatives": "Jonathan \"Battling Jack\" Murdock (father, deceased), Grace Murdock (mother, deceased), Milla Donovan (estranged wife)", 
+    "occupation": [
+        "Crimefighter", 
+        "lawyer"
+    ], 
+    "origin": [
+        "Daredevil #1 (1964)", 
+        "Daredevil: The Man Without Fear #1-5 (1993-1994)", 
+        "Daredevil: Yellow #1-6 (2001-2002)"
+    ], 
+    "placeofbirth": "New York City", 
+    "powers": "In compensation for his lost sight, Daredevil\u2019s other four senses have been preternaturally enhanced.\nHis sense of touch is sensitive enough to detect the faint impressions of ink on paper, allowing him to read by touch.  He is also able to feel minute changes in temperature and pressure, enough to sense a human body at a distance of five feet, due to body heat and air disturbance.  His sensitivity to heat allows him to sense the temperature of people and objects in order to determine whether a person is alive, how long they have been dead if they are not, and other changes in body temperature such as blushing or the heating up associated with various emotional states, as well as residual body heat on an object, or how recently a machine has been in use.\nDaredevil\u2019s sense of smell is enhanced enough to distinguish individuals by their natural odors, and remember and identify them no matter how they attempt to mask their scent, as well as track that individual scent through a crowd of people at a distance of roughly 50 feet.\nHis sense of taste is sharp enough to enable him to detect the number of grains of salt on a pretzel.  His ability to remember tastes enables him to determine every ingredient of a food or drink he tastes, as long as there are at least 20 milligrams of that substance present.\nDaredevil\u2019s enhanced sense of hearing enables him to detect an acoustic pressure change of 1 decibel at a pressure level of 7, whereas the average human can only detect a sound as low as 20 decibels.  He can even hear people speaking through a standard soundproofed wall.  Daredevil is also able to hear a heartbeat from 20 feet away, as well as identify people by their individual beat rhythm, or detect whether they are lying or not by the changes in their heartbeat, though a pace maker or self control will confuse his reading.  Not only does Daredevil\u2019s hearing allow him to be constantly aware of his own heartbeat, blood circulation, breathing, physical movements, etc, but he is also able to hear and sense the same attributes in other people.  One of the primary ways he does this is by hearing the reverberations made by ambient sounds on objects and people, giving him a sonar-like sense of where things are, and how dense they are.  And while he is able to block out a good amount of background noise, he can also be excessively disoriented by unexpected loud noises and can be confused when immersed in the wash of sound from a busy crowd.\nAlong with the enhancement of Daredevil\u2019s normal senses, he has gained another sense which he calls his Radar Sense.  According to one theory, this sense reacts to an emission of electromagnetic energy a mutation in his brain has caused, reading the reverberations of this energy as a 360\u00ba, 3-D map of objects.  This \u201csight\u201d is not perfect, and can only give Daredevil an impression of the exact physical shape of objects, not a literal one.  Closely overlapping objects can also confuse this sense.\n\nThe mutations that have heightened Daredevil\u2019s level of sensitivity have also increased his awareness of other forms of electromagnetic radiation.  He is capable of detecting and identifying any electromagnetic radiation on the standard scale; from radio waves, (which he can only detect, not understand the message) all the way to gamma waves, and everything in between.  He is also able to judge the strength of a given radiation and even differentiate between individual colors by the amount of radiation they give off.  At very close range, Daredevil is able to detect the micro voltage of a human being\u2019s brain.", 
+    "realname": "Matthew Michael Murdock", 
+    "significantissues": [
+        "First donned red costume (Daredevil #7, 1965)", 
+        "established \"Mike Murdock\" identity (Daredevil #25, 1967)", 
+        "faked death of \"Mike Murdock\" (Daredevil #41, 1968)", 
+        "revealed secret identity and proposed to Karen Page (Daredevil #56-57, 1969)", 
+        "began relationship with Black Widow (Daredevil #81, 1971)", 
+        "moved to San Francisco with Black Widow (Daredevil #87, 1972)", 
+        "first battled Bullseye (Daredevil #131, 1976)", 
+        "secret identity discovered by reporter Ben Urich (Daredevil #163-164, 1980)", 
+        "first encountered Kingpin (Daredevil #170-171, 1981)", 
+        "unable to prevent Bullseye from killing Elektra (Daredevil #181, 1982)", 
+        "allied with Kingpin to take down Micah Synn (Daredevil #212-214, 1984-1985)", 
+        "life nearly destroyed by Kingpin after secret identity revealed by Karen Page (Daredevil #227-233, 1986)", 
+        "plagued by Typhoid Mary, left New York City (Daredevil #260-266, 1988)", 
+        "instrumental in the  fall of the Kingpin, got law license back (Daredevil #297-300, 1991-1992)", 
+        "faked death, adopted new costume and alias of Jack Batlin (Daredevil #325, 1994)", 
+        "adopted multiple alter egos while battling inner demons (Daredevil #344-347, 1995)", 
+        "revealed secret identity to Foggy Nelson (Daredevil #348, 1995)", 
+        "unabled to prevent Bullseye from killing Karen Page (Daredevil #5, 1999)", 
+        "secret identity exposed by tabloid (Daredevil #32, 2002)", 
+        "suffered nervous breakdown, replaced Wilson Fisk as New York's new kingpin (Daredevil #50, 2003)"
+    ], 
+    "speed": 3, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Germany", 
-            "content": "But once he arrived he found the Fantastic Four split up and only Mister Fantastic at their headquarters, the Baxter Building. The Hate-Monger had already beat him there, and had turned his Hate Ray on the four when they tried to break up a hate rally he had turned into a riot. Fury eventually convinced the entire Fantastic Four to help him, starting with Reed, who took the Pogo Plane to San Gusto in advance of the others. There, Reed stumbled upon the Hate-Monger\u2019s Hate Ray while fighting San Gusto\u2019s rebellion. The Hate-Monger gassed Reed with a paralyzing nerve gas and captured him. He explained to Reed that he was able to reflect his Hate Ray off of the Moon and fire it at any place on Earth, and soon he would blanket the entire planet in waves of hate and then control the haters to control the world. But before he could continue with his plan, Fury broke into the base and fired on the soldiers, threatening to shoot them unless the Hate-Monger gave Reed the antidotes to his paralysis and hate. The Hate-Monger acquiesced, but escaped shortly afterwards behind a pane of bulletproof glass.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #21 (1963)\n", 
-            "groupaffiliation": "Former leader of the Nazi Party", 
-            "hair": "Brown\n", 
-            "id": "Hate-Monger_(Adolf_Hitler)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Conqueror", 
-                "terrorist", 
-                "former dictator", 
-                "artist", 
-                "scholar", 
-                "writer", 
-                "and carpenter"
-            ], 
-            "placeofbirth": "Germany", 
-            "powers": "None", 
-            "realname": "Adolf Hitler (clone)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Germany", 
+    "content": "But once he arrived he found the Fantastic Four split up and only Mister Fantastic at their headquarters, the Baxter Building. The Hate-Monger had already beat him there, and had turned his Hate Ray on the four when they tried to break up a hate rally he had turned into a riot. Fury eventually convinced the entire Fantastic Four to help him, starting with Reed, who took the Pogo Plane to San Gusto in advance of the others. There, Reed stumbled upon the Hate-Monger\u2019s Hate Ray while fighting San Gusto\u2019s rebellion. The Hate-Monger gassed Reed with a paralyzing nerve gas and captured him. He explained to Reed that he was able to reflect his Hate Ray off of the Moon and fire it at any place on Earth, and soon he would blanket the entire planet in waves of hate and then control the haters to control the world. But before he could continue with his plan, Fury broke into the base and fired on the soldiers, threatening to shoot them unless the Hate-Monger gave Reed the antidotes to his paralysis and hate. The Hate-Monger acquiesced, but escaped shortly afterwards behind a pane of bulletproof glass.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #21 (1963)\n", 
+    "groupaffiliation": "Former leader of the Nazi Party", 
+    "hair": "Brown\n", 
+    "id": "Hate-Monger_(Adolf_Hitler)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Conqueror", 
+        "terrorist", 
+        "former dictator", 
+        "artist", 
+        "scholar", 
+        "writer", 
+        "and carpenter"
+    ], 
+    "placeofbirth": "Germany", 
+    "powers": "None", 
+    "realname": "Adolf Hitler (clone)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": [
-                "USA (officially", 
-                "he does not exist)"
-            ], 
-            "content": "Ryker's wife, Lucy, was dying of cancer, and he was trying to cure her using gamma radiation. Becoming obsessed with the Hulk (Bruce Banner), he was determined to unravel the secrets of gamma mutation and began experimenting on many homeless individuals, all resulting in painful deaths. Discovering the key to success might coincide with the subject's mindset, he experimented on his own troops. Ryker's first triumph was a mentally unstable private, Benjamin Tibbets, transforming Tibbets into Flux. Manipulating Flux into thinking the Hulk was responsible for his deformed makeover, Ryker directed Flux's anger at the Hulk but Flux was defeated. General Thunderbolt Ross, long-time enemy of the Hulk, uncovered Ryker's real agenda, and told Lucy; who was appalled at her husband's behavior for ruining innocent lives with his experiments.When Lucy died, Ryker became more enraged at the Hulk's existence and started his research again. Transplanting superhuman tissue onto normal humans, the five individuals who survived the ordeal became Ryker's Gamma Corps. Using DNA from Hulk foes such as the Abomination, Leader (Samuel Sterns), the Harpy, Doc Samson and the Hulk himself, Ryker created the operatives Mess, Prodigy (Timothy Wilkerson), Griffin (Eliot Franklin), Mister Gideon, and Grey. Gamma Corps was trained to kill the Hulk, but the Hulk they encountered was different than the one Ryker was familiar with. Although nearly achieving victory, the Gamma Corps was defeated. Hulk again exposed Ryker as a master manipulator that hid the truth from his subjects, and the Gamma Corps rebelled. Ryker was captured by Gamma Corps and jailed in a SHIELD penitentiary.", 
-            "durability": 1, 
-            "education": "Unrevealed, but General Ryker has extensive military training", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #12 (2000); (identified) Incredible Hulk #14 (2000)\n", 
-            "groupaffiliation": [
-                "Formerly Gamma Corps: Black", 
-                "Gamma Corps", 
-                "US Army"
-            ], 
-            "hair": "Gray\n", 
-            "height": 74, 
-            "id": "Ryker,_John", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Lucy Ryker (wife, deceased)", 
-            "occupation": [
-                "CEO of Origins Corporation", 
-                "former General in U.S. Army", 
-                "commander of Area 51"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "John Ryker", 
-            "significantissues": [
-                "Created Flux in an attempt to defeat the Hulk and save his wife (Incredible Hulk #14-20, 2000)", 
-                "during \"World War Hulk\" Ryker attempted to destroy the Hulk with his newly formed Gamma Corps (WWH: Gamma Corps #1-4, 2007)", 
-                "Ryker was made CEO of Origins Corporation and used his Gamma Corps: Black to hunt Lyra (Incredible Hulk #601-605, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 190
-        }
-    }
+    "aliases": "None", 
+    "citizenship": [
+        "USA (officially", 
+        "he does not exist)"
+    ], 
+    "content": "Ryker's wife, Lucy, was dying of cancer, and he was trying to cure her using gamma radiation. Becoming obsessed with the Hulk (Bruce Banner), he was determined to unravel the secrets of gamma mutation and began experimenting on many homeless individuals, all resulting in painful deaths. Discovering the key to success might coincide with the subject's mindset, he experimented on his own troops. Ryker's first triumph was a mentally unstable private, Benjamin Tibbets, transforming Tibbets into Flux. Manipulating Flux into thinking the Hulk was responsible for his deformed makeover, Ryker directed Flux's anger at the Hulk but Flux was defeated. General Thunderbolt Ross, long-time enemy of the Hulk, uncovered Ryker's real agenda, and told Lucy; who was appalled at her husband's behavior for ruining innocent lives with his experiments.When Lucy died, Ryker became more enraged at the Hulk's existence and started his research again. Transplanting superhuman tissue onto normal humans, the five individuals who survived the ordeal became Ryker's Gamma Corps. Using DNA from Hulk foes such as the Abomination, Leader (Samuel Sterns), the Harpy, Doc Samson and the Hulk himself, Ryker created the operatives Mess, Prodigy (Timothy Wilkerson), Griffin (Eliot Franklin), Mister Gideon, and Grey. Gamma Corps was trained to kill the Hulk, but the Hulk they encountered was different than the one Ryker was familiar with. Although nearly achieving victory, the Gamma Corps was defeated. Hulk again exposed Ryker as a master manipulator that hid the truth from his subjects, and the Gamma Corps rebelled. Ryker was captured by Gamma Corps and jailed in a SHIELD penitentiary.", 
+    "durability": 1, 
+    "education": "Unrevealed, but General Ryker has extensive military training", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #12 (2000); (identified) Incredible Hulk #14 (2000)\n", 
+    "groupaffiliation": [
+        "Formerly Gamma Corps: Black", 
+        "Gamma Corps", 
+        "US Army"
+    ], 
+    "hair": "Gray\n", 
+    "height": 74, 
+    "id": "Ryker,_John", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Lucy Ryker (wife, deceased)", 
+    "occupation": [
+        "CEO of Origins Corporation", 
+        "former General in U.S. Army", 
+        "commander of Area 51"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "John Ryker", 
+    "significantissues": [
+        "Created Flux in an attempt to defeat the Hulk and save his wife (Incredible Hulk #14-20, 2000)", 
+        "during \"World War Hulk\" Ryker attempted to destroy the Hulk with his newly formed Gamma Corps (WWH: Gamma Corps #1-4, 2007)", 
+        "Ryker was made CEO of Origins Corporation and used his Gamma Corps: Black to hunt Lyra (Incredible Hulk #601-605, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 190
 }

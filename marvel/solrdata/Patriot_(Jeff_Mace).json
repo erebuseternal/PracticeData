@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Captain America", 
-            "citizenship": "United States", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "groupaffiliation": [
-                "Liberty Legion", 
-                "All-Winners Squad"
-            ], 
-            "hair": "Black\n", 
-            "height": 72, 
-            "id": "Patriot_(Jeff_Mace)", 
-            "identity": "unknown", 
-            "intelligence": 1, 
-            "knownrelatives": "Elizabeth Ross (wife)", 
-            "occupation": [
-                "Reporter and Correspondent", 
-                "Adventurer"
-            ], 
-            "origin": "Marvel Mystery Comics #21", 
-            "placeofbirth": [
-                "Brooklyn", 
-                "New York"
-            ], 
-            "powers": "none", 
-            "realname": "Jeffrey Mace", 
-            "significantissues": "What If? Vol. 1 #4 (As Captain America), Captain America #285 (Death)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 105
-        }
-    }
+    "aliases": "Captain America", 
+    "citizenship": "United States", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "groupaffiliation": [
+        "Liberty Legion", 
+        "All-Winners Squad"
+    ], 
+    "hair": "Black\n", 
+    "height": 72, 
+    "id": "Patriot_(Jeff_Mace)", 
+    "identity": "unknown", 
+    "intelligence": 1, 
+    "knownrelatives": "Elizabeth Ross (wife)", 
+    "occupation": [
+        "Reporter and Correspondent", 
+        "Adventurer"
+    ], 
+    "origin": "Marvel Mystery Comics #21", 
+    "placeofbirth": [
+        "Brooklyn", 
+        "New York"
+    ], 
+    "powers": "none", 
+    "realname": "Jeffrey Mace", 
+    "significantissues": "What If? Vol. 1 #4 (As Captain America), Captain America #285 (Death)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 105
 }

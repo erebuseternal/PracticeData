@@ -1,66 +1,62 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Lord Anon", 
-                "Lord Karnivor", 
-                "Karnivore", 
-                "Kyle Munson", 
-                "Omega", 
-                "Ultimate Predator", 
-                "Master of Hate", 
-                "Hate-Monger", 
-                "Mentor", 
-                "Rex Carpenter", 
-                "Prophet", 
-                "Super Beast"
-            ], 
-            "citizenship": [
-                "Exiled citizen of Wundagore", 
-                "formerly possessed and/or posed as U.S. citizens on Earth and Counter-Earth", 
-                "criminal record in the U.S.A. on Earth"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Extensive knowledge of advance science during mutation, self-educated to an unrevealed level in all known sciences", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "First Appearance and Origin: Thor #134 (1966)\n", 
-            "groupaffiliation": [
-                "New Men", 
-                "formerly the Knights of Wundagore (as Lord Anon)", 
-                "commanded Animutants", 
-                "United Nations Peacekeeping Force", 
-                "They", 
-                "Legion of Light", 
-                "partner of Bi-Beast"
-            ], 
-            "hair": "Brown\n", 
-            "height": 82, 
-            "id": "Man-Beast", 
-            "identity": [
-                "No dual identity", 
-                "existence unknown to Earth's general public"
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Would-be conqueror and destroyer", 
-                "former U.S. senator", 
-                "former astronaut", 
-                "U.S. president (Counter-Earth)"
-            ], 
-            "placeofbirth": [
-                "Wundagore Mountain", 
-                "Transia"
-            ], 
-            "realname": "Unknown", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 320
-        }
-    }
+    "aliases": [
+        "Lord Anon", 
+        "Lord Karnivor", 
+        "Karnivore", 
+        "Kyle Munson", 
+        "Omega", 
+        "Ultimate Predator", 
+        "Master of Hate", 
+        "Hate-Monger", 
+        "Mentor", 
+        "Rex Carpenter", 
+        "Prophet", 
+        "Super Beast"
+    ], 
+    "citizenship": [
+        "Exiled citizen of Wundagore", 
+        "formerly possessed and/or posed as U.S. citizens on Earth and Counter-Earth", 
+        "criminal record in the U.S.A. on Earth"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Extensive knowledge of advance science during mutation, self-educated to an unrevealed level in all known sciences", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "First Appearance and Origin: Thor #134 (1966)\n", 
+    "groupaffiliation": [
+        "New Men", 
+        "formerly the Knights of Wundagore (as Lord Anon)", 
+        "commanded Animutants", 
+        "United Nations Peacekeeping Force", 
+        "They", 
+        "Legion of Light", 
+        "partner of Bi-Beast"
+    ], 
+    "hair": "Brown\n", 
+    "height": 82, 
+    "id": "Man-Beast", 
+    "identity": [
+        "No dual identity", 
+        "existence unknown to Earth's general public"
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Would-be conqueror and destroyer", 
+        "former U.S. senator", 
+        "former astronaut", 
+        "U.S. president (Counter-Earth)"
+    ], 
+    "placeofbirth": [
+        "Wundagore Mountain", 
+        "Transia"
+    ], 
+    "realname": "Unknown", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 320
 }

@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Magnus was summoned with the rest of the original Exiles to a barren desert. Greeted by the Timebroker, Magnus was informed that if he did not complete the missions set before him his reality would change. On his thirteenth birthday he would accidentally turn his mother into steel and drive his father to resume his war against humanity.On their first mission as a team, the Exiles were sent to a world where all mutants had been imprisoned. The only clue the Tallus gave them was they needed to \"find the one who would lead us\". Most of the team, including Magnus, assumed their greatest teacher was Professor Xavier. The Exiles freed Xavier from his cell and discovered he was a man obsessed with revenge against the humans who imprisoned him. He mentally knocked out the team and went on a rampage, murdering thousands.The team discovered they should have sought out the Magneto of that world. Magnus felt guilty for not having realized his father may have been a leader in other realities and vowed to make amends.The Exiles split with one team going after Xavier and the other to free Magneto. Magnus used his magnetic powers to free Magneto and hundreds of other superhumans imprisoned off the coast of Tahiti. During the jailbreak, Magnus discovered the prison was rigged to explode an atomic bomb if any of the mutants broke free. He attempted to dismantle the bomb but it was made of plastic out of fear of his \"father's\" amazing powers. Magnus encased the entire island in a magnetic field and sacrificed himself so this reality's version of his father could survive to make a difference. It is unknown how Magnus' death will effect his home reality, but it is clear the rest of the Exiles will never forget him.", 
-            "durability": 1, 
-            "education": "Some college", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Exiles #1 (2001)\n", 
-            "groupaffiliation": [
-                "Formerly Exiles", 
-                "X-Men (Earth-27)"
-            ], 
-            "hair": "Brown (white streak)\n", 
-            "height": 70, 
-            "id": "Magnus_(Earth-27)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Magneto (father), Rogue (mother)", 
-            "occupation": [
-                "Former adventurer", 
-                "reality traveler"
-            ], 
-            "origin": "Exiles #1 (2001)", 
-            "placeofbirth": [
-                "Westchester", 
-                "New York"
-            ], 
-            "powers": "Magnus is a mutant who can control and manipulate multiple energy fields including heat, radiation, and radio waves. He can create magnetic fields that allow himself and others to fly. If Magnus comes into skin-to-skin contact with anyone, he will transform them into steel.", 
-            "realname": "Magnus Lehnsherr", 
-            "significantissues": "died freeing several superbeings from jail (Exiles #2, 2001), body transfered back to Earth-27 (Exiles #83, 2006)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-27", 
-            "weight": 175
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Magnus was summoned with the rest of the original Exiles to a barren desert. Greeted by the Timebroker, Magnus was informed that if he did not complete the missions set before him his reality would change. On his thirteenth birthday he would accidentally turn his mother into steel and drive his father to resume his war against humanity.On their first mission as a team, the Exiles were sent to a world where all mutants had been imprisoned. The only clue the Tallus gave them was they needed to \"find the one who would lead us\". Most of the team, including Magnus, assumed their greatest teacher was Professor Xavier. The Exiles freed Xavier from his cell and discovered he was a man obsessed with revenge against the humans who imprisoned him. He mentally knocked out the team and went on a rampage, murdering thousands.The team discovered they should have sought out the Magneto of that world. Magnus felt guilty for not having realized his father may have been a leader in other realities and vowed to make amends.The Exiles split with one team going after Xavier and the other to free Magneto. Magnus used his magnetic powers to free Magneto and hundreds of other superhumans imprisoned off the coast of Tahiti. During the jailbreak, Magnus discovered the prison was rigged to explode an atomic bomb if any of the mutants broke free. He attempted to dismantle the bomb but it was made of plastic out of fear of his \"father's\" amazing powers. Magnus encased the entire island in a magnetic field and sacrificed himself so this reality's version of his father could survive to make a difference. It is unknown how Magnus' death will effect his home reality, but it is clear the rest of the Exiles will never forget him.", 
+    "durability": 1, 
+    "education": "Some college", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Exiles #1 (2001)\n", 
+    "groupaffiliation": [
+        "Formerly Exiles", 
+        "X-Men (Earth-27)"
+    ], 
+    "hair": "Brown (white streak)\n", 
+    "height": 70, 
+    "id": "Magnus_(Earth-27)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Magneto (father), Rogue (mother)", 
+    "occupation": [
+        "Former adventurer", 
+        "reality traveler"
+    ], 
+    "origin": "Exiles #1 (2001)", 
+    "placeofbirth": [
+        "Westchester", 
+        "New York"
+    ], 
+    "powers": "Magnus is a mutant who can control and manipulate multiple energy fields including heat, radiation, and radio waves. He can create magnetic fields that allow himself and others to fly. If Magnus comes into skin-to-skin contact with anyone, he will transform them into steel.", 
+    "realname": "Magnus Lehnsherr", 
+    "significantissues": "died freeing several superbeings from jail (Exiles #2, 2001), body transfered back to Earth-27 (Exiles #83, 2006)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-27", 
+    "weight": 175
 }

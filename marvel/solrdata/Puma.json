@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Tarata", 
-                "\u201cCowboy-Cat\u201d"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "Puma had attacked Spider-Man, believing false charges that Spider-Man was a thief.  In order to pay off his debt of honor, Fireheart purchased the Daily Bugle just to improve Spider-Man's public perception. Eventually, the Bugle was sold back to J. Jonah Jameson.", 
-            "durability": 4, 
-            "education": "Masters degree in Business Administration, tribal teachings, martial arts instruction", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 5, 
-            "firstappearance": "Amazing Spider-Man Vol.1 #256 (1984)\n", 
-            "groupaffiliation": [
-                "Initiative Trainees", 
-                "formerly Outlaws", 
-                "former employee of the Rose"
-            ], 
-            "hair": "(Fireheart) Black; (Puma) Red\n", 
-            "height": 0, 
-            "id": "Puma", 
-            "identity": [
-                "Secret", 
-                "known to Spider-Man and members of his tribe"
-            ], 
-            "intelligence": 3, 
-            "knownrelatives": "Threetrees (uncle), \u201cHeart-Like-Fire\u201d (ancestor, deceased)", 
-            "occupation": [
-                "C.E.O. of Fireheart Enterprises", 
-                "mercenary"
-            ], 
-            "origin": "Amazing Spider-Man Vol.1 #257 (1984)", 
-            "placeofbirth": "New Mexico", 
-            "powers": "Fireheart transforms physically into Puma through intense concentration, gaining height and mass while covering his body in a fine tan fur with rusty red hair, providing perfect camouflage for the desert habitat. Puma possesses superhuman strength (capable of lifting 12 tons), speed, endurance, agility (able to leap 35 feet), coordination, healing, and extraordinary senses. His sense of smell is so great he can locate an individual from miles away. His sight enables him to see great distances and beyond the normal \u201cvisible\u201d spectrum \u2014 even into mystical realms. His nails grow into short claws (which he has tipped with poison on occasion).", 
-            "realname": "Thomas Fireheart", 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 205
-        }
-    }
+    "aliases": [
+        "Tarata", 
+        "\u201cCowboy-Cat\u201d"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "Puma had attacked Spider-Man, believing false charges that Spider-Man was a thief.  In order to pay off his debt of honor, Fireheart purchased the Daily Bugle just to improve Spider-Man's public perception. Eventually, the Bugle was sold back to J. Jonah Jameson.", 
+    "durability": 4, 
+    "education": "Masters degree in Business Administration, tribal teachings, martial arts instruction", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 5, 
+    "firstappearance": "Amazing Spider-Man Vol.1 #256 (1984)\n", 
+    "groupaffiliation": [
+        "Initiative Trainees", 
+        "formerly Outlaws", 
+        "former employee of the Rose"
+    ], 
+    "hair": "(Fireheart) Black; (Puma) Red\n", 
+    "height": 0, 
+    "id": "Puma", 
+    "identity": [
+        "Secret", 
+        "known to Spider-Man and members of his tribe"
+    ], 
+    "intelligence": 3, 
+    "knownrelatives": "Threetrees (uncle), \u201cHeart-Like-Fire\u201d (ancestor, deceased)", 
+    "occupation": [
+        "C.E.O. of Fireheart Enterprises", 
+        "mercenary"
+    ], 
+    "origin": "Amazing Spider-Man Vol.1 #257 (1984)", 
+    "placeofbirth": "New Mexico", 
+    "powers": "Fireheart transforms physically into Puma through intense concentration, gaining height and mass while covering his body in a fine tan fur with rusty red hair, providing perfect camouflage for the desert habitat. Puma possesses superhuman strength (capable of lifting 12 tons), speed, endurance, agility (able to leap 35 feet), coordination, healing, and extraordinary senses. His sense of smell is so great he can locate an individual from miles away. His sight enables him to see great distances and beyond the normal \u201cvisible\u201d spectrum \u2014 even into mystical realms. His nails grow into short claws (which he has tipped with poison on occasion).", 
+    "realname": "Thomas Fireheart", 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 205
 }

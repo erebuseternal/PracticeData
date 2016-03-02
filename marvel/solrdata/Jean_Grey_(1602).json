@@ -1,21 +1,17 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "John", 
-            "content": "After saving Werner from being burned at the stake, he was invited to come back to school, and Jean began a friendship with him. This caused Scotius to become jealous.As witchbreed, the team faced a constant danger from the various rulers of the surrounding countries. Once Queen Elizabeth had breathed her last, her successor, King James of Scotland, immediately ordered the capture of Javier\u2019s group. Fury was thus forced to lead an army to Javier\u2019s school to take them in. Soon after Fury turned traitor to the crown and along with the group, traveled to Latveria to fight Count Otto von Doom. To get to Latveria, Jean and Javier linked their minds and lifted their ship, the Eagle's Shadow out of the water and flew it to Doomstadt. Along with the stress of keeping the ship aloft and fighting throughout the battle created strain and damage within her brain.", 
-            "durability": 1, 
-            "energy": 1, 
-            "fighting": 1, 
-            "groupaffiliation": "X-Men (Earth-311)", 
-            "id": "Jean_Grey_(1602)", 
-            "identity": "unknown", 
-            "intelligence": 1, 
-            "origin": "1602 #1", 
-            "powers": "Can control objects with her mind.", 
-            "realname": "Jean Grey", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel 1602 (Earth-311)"
-        }
-    }
+    "aliases": "John", 
+    "content": "After saving Werner from being burned at the stake, he was invited to come back to school, and Jean began a friendship with him. This caused Scotius to become jealous.As witchbreed, the team faced a constant danger from the various rulers of the surrounding countries. Once Queen Elizabeth had breathed her last, her successor, King James of Scotland, immediately ordered the capture of Javier\u2019s group. Fury was thus forced to lead an army to Javier\u2019s school to take them in. Soon after Fury turned traitor to the crown and along with the group, traveled to Latveria to fight Count Otto von Doom. To get to Latveria, Jean and Javier linked their minds and lifted their ship, the Eagle's Shadow out of the water and flew it to Doomstadt. Along with the stress of keeping the ship aloft and fighting throughout the battle created strain and damage within her brain.", 
+    "durability": 1, 
+    "energy": 1, 
+    "fighting": 1, 
+    "groupaffiliation": "X-Men (Earth-311)", 
+    "id": "Jean_Grey_(1602)", 
+    "identity": "unknown", 
+    "intelligence": 1, 
+    "origin": "1602 #1", 
+    "powers": "Can control objects with her mind.", 
+    "realname": "Jean Grey", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel 1602 (Earth-311)"
 }

@@ -1,39 +1,35 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Living Pharoh", 
-                "Living Planet"
-            ], 
-            "citizenship": "Egypt", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "(as Living Monolith) Glowing red or white\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men #54 (1969)\n", 
-            "groupaffiliation": [
-                "Cult of the Living Monolith", 
-                "formerly Twelve"
-            ], 
-            "height": 0, 
-            "id": "Living_Monolith", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Filene (wife, deceased), Salome (daughter, deceased)", 
-            "occupation": [
-                "Terrorist", 
-                "former archaeology professor", 
-                "Egyptologist"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Able to absorb ambient cosmic energy to allow transformation into Living Monolith; absorb large amounts of cosmic radiation to increase his size, mass, strength, and resistance to injury, and the projection of energy as concussive force, intense heat, or sonic vibrations", 
-            "realname": "Ahmet Abdol", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 170
-        }
-    }
+    "aliases": [
+        "Living Pharoh", 
+        "Living Planet"
+    ], 
+    "citizenship": "Egypt", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "(as Living Monolith) Glowing red or white\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men #54 (1969)\n", 
+    "groupaffiliation": [
+        "Cult of the Living Monolith", 
+        "formerly Twelve"
+    ], 
+    "height": 0, 
+    "id": "Living_Monolith", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Filene (wife, deceased), Salome (daughter, deceased)", 
+    "occupation": [
+        "Terrorist", 
+        "former archaeology professor", 
+        "Egyptologist"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Able to absorb ambient cosmic energy to allow transformation into Living Monolith; absorb large amounts of cosmic radiation to increase his size, mass, strength, and resistance to injury, and the projection of energy as concussive force, intense heat, or sonic vibrations", 
+    "realname": "Ahmet Abdol", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 170
 }

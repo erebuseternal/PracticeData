@@ -1,52 +1,48 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Tribune", 
-            "citizenship": "U.S.A. (legally deceased)", 
-            "content": "Creed also came to join the Upstarts , a group of wealthy and powerful individuals who had banded together by the enigmatic Gamesmaster with the sole purpose of killing mutants for points in a twisted game. After learning of his parentage, Creed sought to kill them as part of the Upstarts' game. Disguised as the armored Tribune, Creed hired assassins to kill his mother and had his father implanted with a bomb. Sabretooth managed to remove the device and confronted his son, who callously shot Sabretooth's assistant Birdy, a mutant telepath whom Sabretooth employed to keep his homicidal rages in check.During the Upstarts' self-professed \u201cYounghunt\u201d, Creed was blackmailed into revealing the location of the Upstarts' prisoners by the New Warriors who threatened to expose Creed as a mutant collaborator and the son of mutants.Later, using the resources he had gained through the Friends of Humanity, and with the support of the government-sponsored anti-mutant taskforce Operation: Zero Tolerance, Creed nominated himself as a presidential candidate and ran on an anti-mutant platform. Capitalizing on a near-hysterical fear of mutants in the general public. Creed's popularity swelled, which led to the Daily Bugle newspaper launching an investigation into Creed's activities. When a reporter from the Bugle obtained information regarding Creed's parentage, Zero Tolerance's leader Bastion killed the journalist to prevent the news from leaking out. Although they stopped the reporter Creed did not manage to catch that his assistant was really an undercover Samuel Guthrie (Cannonball).On the eve of the election, Creed was assassinated during his campaign speech when a plasma beam completely disintegrated him. It was later revealed that the beam was fired by a time-delayed weapon configured by Mystique's future self whose mind had been sent back into her past body to ensure her son's death.", 
-            "durability": 7, 
-            "education": "Unrevealed", 
-            "energy": 7, 
-            "eyes": "Blue\n", 
-            "fighting": 7, 
-            "firstappearance": "(as Creed) Uncanny X-Men #299 (1993); (as Tribune) Sabretooth: Death Hunt #1 (1993)\n", 
-            "groupaffiliation": [
-                "Purifiers", 
-                "formerly Upstarts", 
-                "Friends of Humanity (founder)"
-            ], 
-            "hair": "Reddish-brown\n", 
-            "height": 72, 
-            "id": "Creed,_Graydon", 
-            "identity": "No dual identity", 
-            "intelligence": 7, 
-            "knownrelatives": "Raven Darkh\u00f6lme (Mystique, mother), Victor Creed (Sabretooth, father), Kurt Wagner (Nightcrawler, half-brother), Anna Marie (Rogue, foster sister)", 
-            "occupation": [
-                "Former presidential candidate", 
-                "politician", 
-                "subversive"
-            ], 
-            "origin": "X-Men Unlimited #4 (1994)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Graydon Creed", 
-            "significantissues": [
-                "Debated mutant issue with Senator Kelly & Professor X, revealed as member of Upstarts (Uncanny X-Men #299, 1993)", 
-                "learned of parentage, attempted to kill relatives (X-Men Unlimited #4, 1994)", 
-                "as Tribune, sought to kill parents for Upstarts' game (Sabretooth: Death Hunt #1-4, 1993)", 
-                "blackmailed by New Warriors to reveal location of Upstarts' prisoners (X-Force #33, 1994)", 
-                "convinced to run for President (X-Men #45, 1995)", 
-                "began campaign (Spectacular Spider-Man #237/X-Men #51, 1996)", 
-                "sent Friends of Humanity to attempt assassination of Senator Kelly (Uncanny X-Men #333, 1996)", 
-                "Daily Bugle began investigation of Creed (Uncanny X-Men #337, 1996)", 
-                "parentage discovered by Daily Bugle, reporter killed by Bastion (Uncanny X-Men #339, 1996)", 
-                "assassinated during campaign speech (X-Factor #130, 1997)", 
-                "assassin revealed to be Mystique (X-Men Forever #2, 2001)"
-            ], 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 160
-        }
-    }
+    "aliases": "Tribune", 
+    "citizenship": "U.S.A. (legally deceased)", 
+    "content": "Creed also came to join the Upstarts , a group of wealthy and powerful individuals who had banded together by the enigmatic Gamesmaster with the sole purpose of killing mutants for points in a twisted game. After learning of his parentage, Creed sought to kill them as part of the Upstarts' game. Disguised as the armored Tribune, Creed hired assassins to kill his mother and had his father implanted with a bomb. Sabretooth managed to remove the device and confronted his son, who callously shot Sabretooth's assistant Birdy, a mutant telepath whom Sabretooth employed to keep his homicidal rages in check.During the Upstarts' self-professed \u201cYounghunt\u201d, Creed was blackmailed into revealing the location of the Upstarts' prisoners by the New Warriors who threatened to expose Creed as a mutant collaborator and the son of mutants.Later, using the resources he had gained through the Friends of Humanity, and with the support of the government-sponsored anti-mutant taskforce Operation: Zero Tolerance, Creed nominated himself as a presidential candidate and ran on an anti-mutant platform. Capitalizing on a near-hysterical fear of mutants in the general public. Creed's popularity swelled, which led to the Daily Bugle newspaper launching an investigation into Creed's activities. When a reporter from the Bugle obtained information regarding Creed's parentage, Zero Tolerance's leader Bastion killed the journalist to prevent the news from leaking out. Although they stopped the reporter Creed did not manage to catch that his assistant was really an undercover Samuel Guthrie (Cannonball).On the eve of the election, Creed was assassinated during his campaign speech when a plasma beam completely disintegrated him. It was later revealed that the beam was fired by a time-delayed weapon configured by Mystique's future self whose mind had been sent back into her past body to ensure her son's death.", 
+    "durability": 7, 
+    "education": "Unrevealed", 
+    "energy": 7, 
+    "eyes": "Blue\n", 
+    "fighting": 7, 
+    "firstappearance": "(as Creed) Uncanny X-Men #299 (1993); (as Tribune) Sabretooth: Death Hunt #1 (1993)\n", 
+    "groupaffiliation": [
+        "Purifiers", 
+        "formerly Upstarts", 
+        "Friends of Humanity (founder)"
+    ], 
+    "hair": "Reddish-brown\n", 
+    "height": 72, 
+    "id": "Creed,_Graydon", 
+    "identity": "No dual identity", 
+    "intelligence": 7, 
+    "knownrelatives": "Raven Darkh\u00f6lme (Mystique, mother), Victor Creed (Sabretooth, father), Kurt Wagner (Nightcrawler, half-brother), Anna Marie (Rogue, foster sister)", 
+    "occupation": [
+        "Former presidential candidate", 
+        "politician", 
+        "subversive"
+    ], 
+    "origin": "X-Men Unlimited #4 (1994)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Graydon Creed", 
+    "significantissues": [
+        "Debated mutant issue with Senator Kelly & Professor X, revealed as member of Upstarts (Uncanny X-Men #299, 1993)", 
+        "learned of parentage, attempted to kill relatives (X-Men Unlimited #4, 1994)", 
+        "as Tribune, sought to kill parents for Upstarts' game (Sabretooth: Death Hunt #1-4, 1993)", 
+        "blackmailed by New Warriors to reveal location of Upstarts' prisoners (X-Force #33, 1994)", 
+        "convinced to run for President (X-Men #45, 1995)", 
+        "began campaign (Spectacular Spider-Man #237/X-Men #51, 1996)", 
+        "sent Friends of Humanity to attempt assassination of Senator Kelly (Uncanny X-Men #333, 1996)", 
+        "Daily Bugle began investigation of Creed (Uncanny X-Men #337, 1996)", 
+        "parentage discovered by Daily Bugle, reporter killed by Bastion (Uncanny X-Men #339, 1996)", 
+        "assassinated during campaign speech (X-Factor #130, 1997)", 
+        "assassin revealed to be Mystique (X-Men Forever #2, 2001)"
+    ], 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 160
 }

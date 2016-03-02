@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Time-worn One", 
-                "\"Gray-face", 
-                "\" \"Rock-head", 
-                "\" \"Stone-face", 
-                "\" Dreaded One", 
-                "Master", 
-                "\"Magician\""
-            ], 
-            "citizenship": "Egypt", 
-            "content": "", 
-            "durability": 7, 
-            "education": "studied under caretakers of Arcturus, absorbed race-knowledge of Xandarian Prime computers (now mostly forgotten)", 
-            "energy": 7, 
-            "eyes": "Red\n", 
-            "fighting": 5, 
-            "firstappearance": "Nova #6 (1977)\n", 
-            "groupaffiliation": "None", 
-            "hair": "None\n", 
-            "height": 86, 
-            "id": "Sphinx_(Anath-Na_Mut)", 
-            "identity": "Secret", 
-            "intelligence": 6, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Would-be conqueror and destroyer", 
-                "former warrior", 
-                "monk", 
-                "wizard"
-            ], 
-            "origin": "Nova #7 (1977)", 
-            "placeofbirth": "Egypt", 
-            "powers": "Sphinx is a mutant of unrevealed distinction or abilities, and a wizard with an unrevealed level of sorcerous knowledge.", 
-            "realname": "Anath-Na Mut", 
-            "speed": 4, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 450
-        }
-    }
+    "aliases": [
+        "Time-worn One", 
+        "\"Gray-face", 
+        "\" \"Rock-head", 
+        "\" \"Stone-face", 
+        "\" Dreaded One", 
+        "Master", 
+        "\"Magician\""
+    ], 
+    "citizenship": "Egypt", 
+    "content": "", 
+    "durability": 7, 
+    "education": "studied under caretakers of Arcturus, absorbed race-knowledge of Xandarian Prime computers (now mostly forgotten)", 
+    "energy": 7, 
+    "eyes": "Red\n", 
+    "fighting": 5, 
+    "firstappearance": "Nova #6 (1977)\n", 
+    "groupaffiliation": "None", 
+    "hair": "None\n", 
+    "height": 86, 
+    "id": "Sphinx_(Anath-Na_Mut)", 
+    "identity": "Secret", 
+    "intelligence": 6, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Would-be conqueror and destroyer", 
+        "former warrior", 
+        "monk", 
+        "wizard"
+    ], 
+    "origin": "Nova #7 (1977)", 
+    "placeofbirth": "Egypt", 
+    "powers": "Sphinx is a mutant of unrevealed distinction or abilities, and a wizard with an unrevealed level of sorcerous knowledge.", 
+    "realname": "Anath-Na Mut", 
+    "speed": 4, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 450
 }

@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Wendy the Good Little Witch", 
-            "citizenship": "U.S.A.", 
-            "content": "Recently, Jennifer learned of the Tome via her grandfather, who led the modern incarnation of the Cult. The aged Dakimh took Jennifer as his apprentice, drawing energies from the angelic realm Therea and demonic realm Sominus to use the Tome to prevent Earth's invasion by the demon Thog. Jennifer joined Dakimh, the Man-Thing, Howard the Duck, and Korrek, warrior of extradimensional Katharta, in opposing further plots of Thog, the Congress of Realities, the wizard Klonus and barbarian Mortak, and the mad demon Bzzk'joh and his Imperium Emporium. Even after Dakimh's death, his spirit continued to advise her. Between efforts to live a normal life at various colleges, she has been drawn into numerous magical conflicts, including learning of her familial connection to both Johnny Blaze and Dan Ketch.", 
-            "durability": 1, 
-            "education": "College student, trained in sorcery", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(Adventures into) Fear#11 (1972)\n", 
-            "groupaffiliation": [
-                "Witches", 
-                "Legion of the Night"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 66, 
-            "id": "Jennifer_Kale", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Andrew Jackson Kale (brother, deceased), Joshua Kale (grandfather, deceased), Naomi Kale (aunt), Johnny Blaze, Barbara and Daniel Ketch (cousins); Illyana Kale, Noble and pastor Kale, Magdalena (ancestors)", 
-            "occupation": [
-                "Sorceress", 
-                "student"
-            ], 
-            "origin": "(Adventures into) Fear#15 (1973)", 
-            "placeofbirth": [
-                "Citrusville", 
-                "Florida"
-            ], 
-            "powers": "Jennifer is an adept and powerful sorceress able to fire magical bolts, form shields, open dimensional portals, mesmerize others, and cast numerous spells for a variety of effects.", 
-            "realname": "Jennifer Kale", 
-            "significantissues": [
-                "Opposed Thog via Tome (Fear#11-15, 1972-1973)", 
-                "opposed Thog and Congress of Realities (Fear#19, Man-Thing Vol. 1 #1, 1973-1974)", 
-                "joined Legion of the Night, opposed Aan Taanu (Legion of the Night #1-2, 1991)", 
-                "learned of family connection to Ghost Rider (Ghost Rider Vol. 3 #77-78, 1996)", 
-                "Joined Witches, destroyed Hellphyr (Witches #1-4, 2004)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 122
-        }
-    }
+    "aliases": "Wendy the Good Little Witch", 
+    "citizenship": "U.S.A.", 
+    "content": "Recently, Jennifer learned of the Tome via her grandfather, who led the modern incarnation of the Cult. The aged Dakimh took Jennifer as his apprentice, drawing energies from the angelic realm Therea and demonic realm Sominus to use the Tome to prevent Earth's invasion by the demon Thog. Jennifer joined Dakimh, the Man-Thing, Howard the Duck, and Korrek, warrior of extradimensional Katharta, in opposing further plots of Thog, the Congress of Realities, the wizard Klonus and barbarian Mortak, and the mad demon Bzzk'joh and his Imperium Emporium. Even after Dakimh's death, his spirit continued to advise her. Between efforts to live a normal life at various colleges, she has been drawn into numerous magical conflicts, including learning of her familial connection to both Johnny Blaze and Dan Ketch.", 
+    "durability": 1, 
+    "education": "College student, trained in sorcery", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(Adventures into) Fear#11 (1972)\n", 
+    "groupaffiliation": [
+        "Witches", 
+        "Legion of the Night"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 66, 
+    "id": "Jennifer_Kale", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Andrew Jackson Kale (brother, deceased), Joshua Kale (grandfather, deceased), Naomi Kale (aunt), Johnny Blaze, Barbara and Daniel Ketch (cousins); Illyana Kale, Noble and pastor Kale, Magdalena (ancestors)", 
+    "occupation": [
+        "Sorceress", 
+        "student"
+    ], 
+    "origin": "(Adventures into) Fear#15 (1973)", 
+    "placeofbirth": [
+        "Citrusville", 
+        "Florida"
+    ], 
+    "powers": "Jennifer is an adept and powerful sorceress able to fire magical bolts, form shields, open dimensional portals, mesmerize others, and cast numerous spells for a variety of effects.", 
+    "realname": "Jennifer Kale", 
+    "significantissues": [
+        "Opposed Thog via Tome (Fear#11-15, 1972-1973)", 
+        "opposed Thog and Congress of Realities (Fear#19, Man-Thing Vol. 1 #1, 1973-1974)", 
+        "joined Legion of the Night, opposed Aan Taanu (Legion of the Night #1-2, 1991)", 
+        "learned of family connection to Ghost Rider (Ghost Rider Vol. 3 #77-78, 1996)", 
+        "Joined Witches, destroyed Hellphyr (Witches #1-4, 2004)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 122
 }

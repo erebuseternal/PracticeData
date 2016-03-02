@@ -1,34 +1,30 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Citizenship unknown with no criminal record as yet", 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "Black (Gray, during his involvement with the Hellfire Club)\n", 
-            "fighting": 1, 
-            "firstappearance": "X-Men #4\n", 
-            "groupaffiliation": [
-                "Brotherhood Of Evil Mutants", 
-                "Factor Three", 
-                "rejected applicant to the Inner Circle of the Hellfire Club"
-            ], 
-            "hair": "Gray-black (Brown, during his involvement with the Hellfire Club)\n", 
-            "height": 70, 
-            "id": "Mastermind_(Jason_Wyngarde)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Lady Mastermind (daughter)", 
-            "occupation": [
-                "Former carnival mentalist", 
-                "former subversive"
-            ], 
-            "powers": "Mastermind is mutant with the power of illusion-casting. He can psionically cause other people to see, hear, touch, smell, and/or taste things which do not actually exist: for example, he can seem to make a solid wall appear in an empty space. He can also cause people to see, hear, touch, smell, and/or taste real things in ways that they would not do naturally: for example, he can make himself look and sound like a different person, or look and feel like a wall, or even seem invisible. Without artificial aids, Mastermind cannot cause only one person among many who are present to see his illusions; everyone within the range of his power, which can extend over an entire city (as when he helped Magneto capture Latin American nation of Santo Marco), will see his illusions. Since his power only affects the mind, his illusions cannot be recorded on film or tape or by other means. However, his power works so strongly on the mind that even if his victim or victims know they are being subjected to an illusion, they will still react to the illusion as if it were real unless they can rid themselves of all suspicions that it is unreal. Hence, if Mastermind creates the illusion of a wall, most people, even if they know it is an illusion, will still be unable to walk through it. Invariably Mastermind\u2019s illusions are so skillful that most people are unable to help having the feeling, at least subconsciously, that they are real.", 
-            "realname": "Jason Wyngarde", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "citizenship": "Citizenship unknown with no criminal record as yet", 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "Black (Gray, during his involvement with the Hellfire Club)\n", 
+    "fighting": 1, 
+    "firstappearance": "X-Men #4\n", 
+    "groupaffiliation": [
+        "Brotherhood Of Evil Mutants", 
+        "Factor Three", 
+        "rejected applicant to the Inner Circle of the Hellfire Club"
+    ], 
+    "hair": "Gray-black (Brown, during his involvement with the Hellfire Club)\n", 
+    "height": 70, 
+    "id": "Mastermind_(Jason_Wyngarde)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Lady Mastermind (daughter)", 
+    "occupation": [
+        "Former carnival mentalist", 
+        "former subversive"
+    ], 
+    "powers": "Mastermind is mutant with the power of illusion-casting. He can psionically cause other people to see, hear, touch, smell, and/or taste things which do not actually exist: for example, he can seem to make a solid wall appear in an empty space. He can also cause people to see, hear, touch, smell, and/or taste real things in ways that they would not do naturally: for example, he can make himself look and sound like a different person, or look and feel like a wall, or even seem invisible. Without artificial aids, Mastermind cannot cause only one person among many who are present to see his illusions; everyone within the range of his power, which can extend over an entire city (as when he helped Magneto capture Latin American nation of Santo Marco), will see his illusions. Since his power only affects the mind, his illusions cannot be recorded on film or tape or by other means. However, his power works so strongly on the mind that even if his victim or victims know they are being subjected to an illusion, they will still react to the illusion as if it were real unless they can rid themselves of all suspicions that it is unreal. Hence, if Mastermind creates the illusion of a wall, most people, even if they know it is an illusion, will still be unable to walk through it. Invariably Mastermind\u2019s illusions are so skillful that most people are unable to help having the feeling, at least subconsciously, that they are real.", 
+    "realname": "Jason Wyngarde", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

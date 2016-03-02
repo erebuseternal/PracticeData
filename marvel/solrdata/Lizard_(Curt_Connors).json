@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Spider-Man learned about this and travelled to Florida, helping the doctor by using Connors' notes to invent a serum to cure him. Later, Connors was able to repay Spider-Man by developing a formula to save May Parker's life after Peter Parker gave his aunt his radioactive blood during a transfusion that had put May in mortal peril.For a time, Peter Parker worked as a teaching assistant to Connors. The success of Connors apparent cure from the Lizard personae was short-lived. A repeating pattern occurred: stress or a chemical reaction turned Connors into the Lizard, Spider-Man would fight him, form some kind of temporary cure to revert the transformation, until the next transformation would begin the cycle again.Over time, it became apparent that a second personality had formed with the Lizard, one with the nigh-impossible goal shared by many villains of taking over the world. Eventually his resorts to using an army of lizards stopped and he began working alone. When his wife and son separated from him (due to the marital strain transforming into a Lizard may cause), Connors tried unsuccessfully to straighten out his life. In despair, The Lizard took control, though it had a weak mental strength, causing the voodoo from Calypso to affect him for her own purposes. After a series of bloody battles, the Lizard and Calypso were defeated by Spider-Man, causing Connors to gain control of his bestial mind. Although it was very weak, the suppressed Connors persona carried out a plan and cured himself, but only temporarily.For a time, a huge animalistic Lizard appeared, showing up in many issues, causing everyone to believe the Lizard persona was now permanent. However, when this second Lizard went after Connors, Curt drank the old serum to become the true Lizard once again, and save his son's life. The original Lizard returned and killed the second beast, though it also brought the Lizard persona back into action. Later, it was discovered that this new Lizard was an accident from Connors' latest attempt to cure himself. A new formula was tested on a piece of the Lizard's tail, which grew into a fully-formed second creature. Curt and his wife reunited.One of the Lizard's latest scheme to take over the world had him affecting the water supply to turn everyone into his mindless slaves, though after Connors' son, Billy, almost became one of these zombies, Spider-Man lashed out and attacked the Lizard. After Martha got her share of words in, the Lizard became Connors once again, now begging for help for a cure.Though reunited with his family, and his missing arm restored by Hammerhead, tragedy struck again in the Connors family - this time, for Martha and Billy. Both mother and son were diagnosed with cancer after years exposed to carcinogens from living near an industrial lab of the Monnano Corporation in Florida. Adding to the tragedy, Curt's new arm degenerated and became useless. Spider-Man assisted Curt, and successfully forced the Monnano Corp. to admit their environmental culpability. However, Martha succumbed to the cancer. Billy survived, and remains bitter towards his father.The Green Goblin (Norman Osborn) recently freed the Lizard from prison, enhanced his powers to include violence-producing pheromone secretion, and brokered a deal for the creature to join the very short lived Sinister Twelve. The Twelve failed in an attack against Spider-Man and the Black Cat, after the two broke Osborn out of prison. They were defeated by the assistance of the Fantastic Four and other super-powered allies of Spidey.", 
-            "durability": 5, 
-            "education": "Doctorate degree in herpetology", 
-            "energy": 1, 
-            "eyes": "Red (as Lizard) Blue (as Connors)\n", 
-            "fighting": 2, 
-            "firstappearance": "Amazing Spider-Man v1 #6 (1963)\n", 
-            "groupaffiliation": "formerly the Sinister Twelve", 
-            "hair": "None (as Lizard) Brown (as Connors)\n", 
-            "height": 80, 
-            "id": "Lizard_(Curt_Connors)", 
-            "identity": "Known to legal authorities", 
-            "intelligence": 5, 
-            "knownrelatives": "Martha (wife, deceased), Billy (son), unidentified sister", 
-            "occupation": [
-                "Biologist", 
-                "former Army surgeon"
-            ], 
-            "placeofbirth": [
-                "Coral Gables", 
-                "Florida"
-            ], 
-            "powers": "As the Lizard he has superhuman strength (enabling him to lift/press 12 tons), speed, agility, and reflexes equaling that of Spider-Man. He possesses great resistance to injury surpassing that of Spider-Man in that his tough scaly skin is more resistant to being lacerated or punctured by concussive force. The Lizard can also regenerate damaged areas of his body, even to the extent that he can regrow his limbs and tail if severed.\nIn addition to this, the Lizard's tail is superhumanly strong and can whip at up to 70 miles per hour. He can scale walls almost as well as Spider-Man can, and can telepathically control all reptiles within a one mile radius of himself.\n\nAs the Lizard, Curt Connors' level of intelligence varies. Most often his Lizard persona has normal human level intelligence, but occasionally it has been relatively mindless. Having the characteristics of a cold-blooded reptile, the Lizard grows physically weaker from prolonged exposure to cold temperatures. The Lizard recently has gained the ability to excrete pheromones that can cause humans to behave violently.", 
-            "realname": "Dr Curtis Connors", 
-            "speed": 2, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 550
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Spider-Man learned about this and travelled to Florida, helping the doctor by using Connors' notes to invent a serum to cure him. Later, Connors was able to repay Spider-Man by developing a formula to save May Parker's life after Peter Parker gave his aunt his radioactive blood during a transfusion that had put May in mortal peril.For a time, Peter Parker worked as a teaching assistant to Connors. The success of Connors apparent cure from the Lizard personae was short-lived. A repeating pattern occurred: stress or a chemical reaction turned Connors into the Lizard, Spider-Man would fight him, form some kind of temporary cure to revert the transformation, until the next transformation would begin the cycle again.Over time, it became apparent that a second personality had formed with the Lizard, one with the nigh-impossible goal shared by many villains of taking over the world. Eventually his resorts to using an army of lizards stopped and he began working alone. When his wife and son separated from him (due to the marital strain transforming into a Lizard may cause), Connors tried unsuccessfully to straighten out his life. In despair, The Lizard took control, though it had a weak mental strength, causing the voodoo from Calypso to affect him for her own purposes. After a series of bloody battles, the Lizard and Calypso were defeated by Spider-Man, causing Connors to gain control of his bestial mind. Although it was very weak, the suppressed Connors persona carried out a plan and cured himself, but only temporarily.For a time, a huge animalistic Lizard appeared, showing up in many issues, causing everyone to believe the Lizard persona was now permanent. However, when this second Lizard went after Connors, Curt drank the old serum to become the true Lizard once again, and save his son's life. The original Lizard returned and killed the second beast, though it also brought the Lizard persona back into action. Later, it was discovered that this new Lizard was an accident from Connors' latest attempt to cure himself. A new formula was tested on a piece of the Lizard's tail, which grew into a fully-formed second creature. Curt and his wife reunited.One of the Lizard's latest scheme to take over the world had him affecting the water supply to turn everyone into his mindless slaves, though after Connors' son, Billy, almost became one of these zombies, Spider-Man lashed out and attacked the Lizard. After Martha got her share of words in, the Lizard became Connors once again, now begging for help for a cure.Though reunited with his family, and his missing arm restored by Hammerhead, tragedy struck again in the Connors family - this time, for Martha and Billy. Both mother and son were diagnosed with cancer after years exposed to carcinogens from living near an industrial lab of the Monnano Corporation in Florida. Adding to the tragedy, Curt's new arm degenerated and became useless. Spider-Man assisted Curt, and successfully forced the Monnano Corp. to admit their environmental culpability. However, Martha succumbed to the cancer. Billy survived, and remains bitter towards his father.The Green Goblin (Norman Osborn) recently freed the Lizard from prison, enhanced his powers to include violence-producing pheromone secretion, and brokered a deal for the creature to join the very short lived Sinister Twelve. The Twelve failed in an attack against Spider-Man and the Black Cat, after the two broke Osborn out of prison. They were defeated by the assistance of the Fantastic Four and other super-powered allies of Spidey.", 
+    "durability": 5, 
+    "education": "Doctorate degree in herpetology", 
+    "energy": 1, 
+    "eyes": "Red (as Lizard) Blue (as Connors)\n", 
+    "fighting": 2, 
+    "firstappearance": "Amazing Spider-Man v1 #6 (1963)\n", 
+    "groupaffiliation": "formerly the Sinister Twelve", 
+    "hair": "None (as Lizard) Brown (as Connors)\n", 
+    "height": 80, 
+    "id": "Lizard_(Curt_Connors)", 
+    "identity": "Known to legal authorities", 
+    "intelligence": 5, 
+    "knownrelatives": "Martha (wife, deceased), Billy (son), unidentified sister", 
+    "occupation": [
+        "Biologist", 
+        "former Army surgeon"
+    ], 
+    "placeofbirth": [
+        "Coral Gables", 
+        "Florida"
+    ], 
+    "powers": "As the Lizard he has superhuman strength (enabling him to lift/press 12 tons), speed, agility, and reflexes equaling that of Spider-Man. He possesses great resistance to injury surpassing that of Spider-Man in that his tough scaly skin is more resistant to being lacerated or punctured by concussive force. The Lizard can also regenerate damaged areas of his body, even to the extent that he can regrow his limbs and tail if severed.\nIn addition to this, the Lizard's tail is superhumanly strong and can whip at up to 70 miles per hour. He can scale walls almost as well as Spider-Man can, and can telepathically control all reptiles within a one mile radius of himself.\n\nAs the Lizard, Curt Connors' level of intelligence varies. Most often his Lizard persona has normal human level intelligence, but occasionally it has been relatively mindless. Having the characteristics of a cold-blooded reptile, the Lizard grows physically weaker from prolonged exposure to cold temperatures. The Lizard recently has gained the ability to excrete pheromones that can cause humans to behave violently.", 
+    "realname": "Dr Curtis Connors", 
+    "speed": 2, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 550
 }

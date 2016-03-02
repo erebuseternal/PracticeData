@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"The Crimson Dynamo\"", 
-            "citizenship": [
-                "Soviet Union", 
-                "Russia"
-            ], 
-            "content": "Later, Venko was send on a mision to destroy the guardian of Stark Enterprises Iron Man With the Unicorn suite  still in the testing his faze. It was to Venko himself to do the job. Venko was tricked by Iron Man in believing the leader of the Kremlin wanted him Liquored when ever he destroyed his enemy or not. He switched sides and started working at Stark Enterprises. What both of them didn't know was that Stark literally saved Venko's live.Venko became a valued employee of Stark Enterprises and a good friend of the CEO Tony Stark who warned him not to over exert himself on improving Laser Light technology but remained as deadly to the users as its target.The Kremlin didn't take well to turn coats and send Boris Turgenev and the Black Widow to retrieve both him and Tony Stark. Boris was successful in subduing Venko and stole his armor pretending to be the good professor. Venko cleared his name by killing the infiltrator but his laser light gun exploded killing both of them at the same moment.\nDying for the country he saw now as a home.", 
-            "durability": 1, 
-            "education": "Masters degree in electrical engineering", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales of Suspense #46\n", 
-            "groupaffiliation": "Formerly Communist Party (Soviet Union)", 
-            "hair": "Bald, Black\n", 
-            "height": 72, 
-            "id": "Crimson_Dynamo_(Anton_Vanko)", 
-            "identity": "Publicly known (Deseased)", 
-            "intelligence": 1, 
-            "knownrelatives": "Unknown", 
-            "occupation": [
-                "Employee of Stark Enterprises", 
-                "formerly weapon manufacturer of the Soviet Union"
-            ], 
-            "placeofbirth": "Russia", 
-            "powers": "None.", 
-            "realname": "Anton Vanko", 
-            "significantissues": "Venko's demise (Tales of Suspense #52)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 240
-        }
-    }
+    "aliases": "\"The Crimson Dynamo\"", 
+    "citizenship": [
+        "Soviet Union", 
+        "Russia"
+    ], 
+    "content": "Later, Venko was send on a mision to destroy the guardian of Stark Enterprises Iron Man With the Unicorn suite  still in the testing his faze. It was to Venko himself to do the job. Venko was tricked by Iron Man in believing the leader of the Kremlin wanted him Liquored when ever he destroyed his enemy or not. He switched sides and started working at Stark Enterprises. What both of them didn't know was that Stark literally saved Venko's live.Venko became a valued employee of Stark Enterprises and a good friend of the CEO Tony Stark who warned him not to over exert himself on improving Laser Light technology but remained as deadly to the users as its target.The Kremlin didn't take well to turn coats and send Boris Turgenev and the Black Widow to retrieve both him and Tony Stark. Boris was successful in subduing Venko and stole his armor pretending to be the good professor. Venko cleared his name by killing the infiltrator but his laser light gun exploded killing both of them at the same moment.\nDying for the country he saw now as a home.", 
+    "durability": 1, 
+    "education": "Masters degree in electrical engineering", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales of Suspense #46\n", 
+    "groupaffiliation": "Formerly Communist Party (Soviet Union)", 
+    "hair": "Bald, Black\n", 
+    "height": 72, 
+    "id": "Crimson_Dynamo_(Anton_Vanko)", 
+    "identity": "Publicly known (Deseased)", 
+    "intelligence": 1, 
+    "knownrelatives": "Unknown", 
+    "occupation": [
+        "Employee of Stark Enterprises", 
+        "formerly weapon manufacturer of the Soviet Union"
+    ], 
+    "placeofbirth": "Russia", 
+    "powers": "None.", 
+    "realname": "Anton Vanko", 
+    "significantissues": "Venko's demise (Tales of Suspense #52)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 240
 }

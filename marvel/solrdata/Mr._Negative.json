@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Martin the Martyr", 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Dark brown; Mister Negative (white)\n", 
-            "fighting": 1, 
-            "firstappearance": "Free Comic Book Day (2007); Spider-Man #1 (2007)\n", 
-            "groupaffiliation": "Leader of Inner Demons and other criminals", 
-            "hair": "Black; Mister Negative (white)\n", 
-            "height": 71, 
-            "id": "Mr._Negative", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "None", 
-            "occupation": [
-                "Philanthropist", 
-                "crime lord"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "realname": "Martian Li", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 180
-        }
-    }
+    "aliases": "Martin the Martyr", 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Dark brown; Mister Negative (white)\n", 
+    "fighting": 1, 
+    "firstappearance": "Free Comic Book Day (2007); Spider-Man #1 (2007)\n", 
+    "groupaffiliation": "Leader of Inner Demons and other criminals", 
+    "hair": "Black; Mister Negative (white)\n", 
+    "height": 71, 
+    "id": "Mr._Negative", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "None", 
+    "occupation": [
+        "Philanthropist", 
+        "crime lord"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "realname": "Martian Li", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 180
 }

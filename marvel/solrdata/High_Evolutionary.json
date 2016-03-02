@@ -1,62 +1,58 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Dr. Wyndham", 
-                "Lord High Evolutionary", 
-                "HE"
-            ], 
-            "citizenship": "U.K.", 
-            "content": "Construction proceeded, but Drew's daughter Jessica fell ill in 1931, affected by the radioactive uranium. Herbert and Jonathan cooperated on an emergency treatment, injecting her with Drew's experimental spider serum, subjecting her to Wyndham's evolving ray, and then placing her in extended suspended animation. Merriam Drew was killed by a werewolf on the adjoining Russoff estate; Wyndham was also attacked but survived unscathed, and Jonathan wordlessly left Wundagore. Wyndham designed a suit of protective armor and captured the werewolf (Baron Gregor Russoff). In 1932, Wyndham, with research assistant Miles Warren, developed a newer mutagen, Isotope B and evolved several animals to human form and sentience, his first dozen \"New Men\" including Bova (Guernsey cow), Tagar (tiger), and Porga (pig). Wyndham tinkered with Grabsheid's space flight technology, building fly cycles, anti-graviton atomic steeds that his New Men would ride into battle.When the planet-eating Galactus discovered Counter-Earth, Wyndham sought aid from the Fantastic Four and bargained with Galactus, gaining time to find him a new world to devour; High Evolutionary sent the Four to evaluate possible worlds. Believing they had failed, High Evolutionary fought Galactus and was banished to the Negative Zone, but the Four found Galactus a new world in his absence. When Galactus fell ill while devouring this world (Poppup), High Evolutionary temporarily evolved him into a disembodied force. The extra dimensional Beyonders later became interested in Counter-Earth and hired the Pegasusian Planet Movers, led by Sphinxor, to take the planet for them. Sphinxor caused Warlock to believe Counter-Earth was destroyed; in a fit of rage, Warlock attacked High Evolutionary and Wyndham's armor automatically super-evolved him for protection. Sphinxor removed Counter-Earth, and High Evolutionary was restored when Her, a being created in the same manner as Him/Warlock, came seeking Warlock. High Evolutionary tracked down his world, but allowed the Movers to take it in return for being allowed to accompany them; Counter-Earth's inherent instability threatened to one day destroy it, and High Evolutionary wished this fixed. However, the Beyonders were further above High Evolutionary than Wyndham was beyond humanity. Counter-Earth remained in the Beyoders' museum of curiosities, and High Evolutionary returned to Earth where he devolved himself to protoplasm.High Evolutionary created an organization consisting of Gatherers collecting genetic data for him, Technicians studying and compiling the data, Purifiers sterilizing those whose genes were unfit, Eliminators killing those who acted against Earth's genetic benefit, and Priests (mostly New Men) managing the project. Notably, his Purifiers sterilized large portions of Earth's subterranean races, though the emergence of a telepathic Moloid named Val-Or, coupled with the interference of Apocalypse, caused High Evolutionary to see that the Moloids still could evolve, and he ended their sterilization. His Purifiers sterilized Earth's more genetically dangerous mutants; his Eliminators acted against the drug trade; and his Gatherers studied the genetic codes of the Eternals, Deviants, Inhumans, Atlanteans, and alien races including Skrulls and Melmacians. As the genetic bomb neared completion, one of High Evolutionary's Technicians warned the Avengers, and Wyndham's dreams were destroyed when the demi-god Hercules was super-evolved to be his equal; under the influence of Evolutionary's machinery, both High Evolutionary and Hercules evolved into disembodied forms. These forms attracted the Celestials, who collected and stored their essences.An aged Dr. Nathaniel Essex, who had inspired Wyndham decades before, recently sought out his old pupil and convinced him to remove the advanced mutations that had created super-powered mutants; Wyndham did so from a shielded space station. However, Essex was secretly the diabolical Mr. Sinister and betrayed High Evolutionary, turning the experiment to the rampant mutation of all life on Earth. The X-Men, despite being powerless, intervened and stopped Essex, and High Evolutionary voluntarily destroyed the equipment, restoring Earth to its prior form.", 
-            "durability": 7, 
-            "education": "Uncompleted Ph.D at Oxford University", 
-            "energy": 6, 
-            "eyes": "Brown\n", 
-            "fighting": 2, 
-            "firstappearance": "Thor #134 (1966)\n", 
-            "groupaffiliation": [
-                "Creator of the New Men", 
-                "Knights of Wundagore", 
-                "Animutants", 
-                "Animen", 
-                "Godpack", 
-                "New Immortals"
-            ], 
-            "hair": "Brown\n", 
-            "height": 74, 
-            "id": "High_Evolutionary", 
-            "identity": "Secret", 
-            "intelligence": 6, 
-            "knownrelatives": "Unidentified mother and aunt (presumed deceased)", 
-            "occupation": [
-                "Geneticist", 
-                "scientist", 
-                "and inventor"
-            ], 
-            "origin": [
-                "X-Factor Annual #3 (1988)", 
-                "Punisher Annual #1 (1988)", 
-                "Silver Surfer Annual #1 (1988)", 
-                "New Mutants Annual #4 (1988)", 
-                "Fantastic Four Annual #21 (1988)", 
-                "Amazing Spider-Man Annual #22 (1988)", 
-                "Uncanny X-Men Annual #12 (1988)", 
-                "Web of Spider-Man Annual #4 (1988)", 
-                "West Coast Avengers Annual #3 (1988)", 
-                "Spectacular Spider-Man Annual #8 (1988)", 
-                "Avengers Annual #17 (1988)"
-            ], 
-            "placeofbirth": [
-                "Manchester", 
-                "England"
-            ], 
-            "powers": "The High Evolutionary has extrasensory powers of clairvoyance, Cosmic Awareness, a form of Danger Sense, astral projection (he can survive apart from his physical body for an indefinite period of time) and Mental Invisibility (the High Evolutionary is normally undetectable even by other powerful telepaths).\nAside from telepathically communicating with other humans with Cosmic Awareness, the High Evolutionary can also telepathically communicate with animals and cybernetic systems, he has telekinesis that is used for levitation, flight, force fields and blasts. He is an expert in linguistics and can even use a form of ventriloquism. He has shown the ability of matter creation (all types including lifeforms simply by his intense force of will).  His suit is designed to protect it's wearer at all costs, it can regenerate his body or create a new body for him if needed, it also provides complete life support.", 
-            "realname": "Herbert Edgar Wyndham", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 2, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": [
+        "Dr. Wyndham", 
+        "Lord High Evolutionary", 
+        "HE"
+    ], 
+    "citizenship": "U.K.", 
+    "content": "Construction proceeded, but Drew's daughter Jessica fell ill in 1931, affected by the radioactive uranium. Herbert and Jonathan cooperated on an emergency treatment, injecting her with Drew's experimental spider serum, subjecting her to Wyndham's evolving ray, and then placing her in extended suspended animation. Merriam Drew was killed by a werewolf on the adjoining Russoff estate; Wyndham was also attacked but survived unscathed, and Jonathan wordlessly left Wundagore. Wyndham designed a suit of protective armor and captured the werewolf (Baron Gregor Russoff). In 1932, Wyndham, with research assistant Miles Warren, developed a newer mutagen, Isotope B and evolved several animals to human form and sentience, his first dozen \"New Men\" including Bova (Guernsey cow), Tagar (tiger), and Porga (pig). Wyndham tinkered with Grabsheid's space flight technology, building fly cycles, anti-graviton atomic steeds that his New Men would ride into battle.When the planet-eating Galactus discovered Counter-Earth, Wyndham sought aid from the Fantastic Four and bargained with Galactus, gaining time to find him a new world to devour; High Evolutionary sent the Four to evaluate possible worlds. Believing they had failed, High Evolutionary fought Galactus and was banished to the Negative Zone, but the Four found Galactus a new world in his absence. When Galactus fell ill while devouring this world (Poppup), High Evolutionary temporarily evolved him into a disembodied force. The extra dimensional Beyonders later became interested in Counter-Earth and hired the Pegasusian Planet Movers, led by Sphinxor, to take the planet for them. Sphinxor caused Warlock to believe Counter-Earth was destroyed; in a fit of rage, Warlock attacked High Evolutionary and Wyndham's armor automatically super-evolved him for protection. Sphinxor removed Counter-Earth, and High Evolutionary was restored when Her, a being created in the same manner as Him/Warlock, came seeking Warlock. High Evolutionary tracked down his world, but allowed the Movers to take it in return for being allowed to accompany them; Counter-Earth's inherent instability threatened to one day destroy it, and High Evolutionary wished this fixed. However, the Beyonders were further above High Evolutionary than Wyndham was beyond humanity. Counter-Earth remained in the Beyoders' museum of curiosities, and High Evolutionary returned to Earth where he devolved himself to protoplasm.High Evolutionary created an organization consisting of Gatherers collecting genetic data for him, Technicians studying and compiling the data, Purifiers sterilizing those whose genes were unfit, Eliminators killing those who acted against Earth's genetic benefit, and Priests (mostly New Men) managing the project. Notably, his Purifiers sterilized large portions of Earth's subterranean races, though the emergence of a telepathic Moloid named Val-Or, coupled with the interference of Apocalypse, caused High Evolutionary to see that the Moloids still could evolve, and he ended their sterilization. His Purifiers sterilized Earth's more genetically dangerous mutants; his Eliminators acted against the drug trade; and his Gatherers studied the genetic codes of the Eternals, Deviants, Inhumans, Atlanteans, and alien races including Skrulls and Melmacians. As the genetic bomb neared completion, one of High Evolutionary's Technicians warned the Avengers, and Wyndham's dreams were destroyed when the demi-god Hercules was super-evolved to be his equal; under the influence of Evolutionary's machinery, both High Evolutionary and Hercules evolved into disembodied forms. These forms attracted the Celestials, who collected and stored their essences.An aged Dr. Nathaniel Essex, who had inspired Wyndham decades before, recently sought out his old pupil and convinced him to remove the advanced mutations that had created super-powered mutants; Wyndham did so from a shielded space station. However, Essex was secretly the diabolical Mr. Sinister and betrayed High Evolutionary, turning the experiment to the rampant mutation of all life on Earth. The X-Men, despite being powerless, intervened and stopped Essex, and High Evolutionary voluntarily destroyed the equipment, restoring Earth to its prior form.", 
+    "durability": 7, 
+    "education": "Uncompleted Ph.D at Oxford University", 
+    "energy": 6, 
+    "eyes": "Brown\n", 
+    "fighting": 2, 
+    "firstappearance": "Thor #134 (1966)\n", 
+    "groupaffiliation": [
+        "Creator of the New Men", 
+        "Knights of Wundagore", 
+        "Animutants", 
+        "Animen", 
+        "Godpack", 
+        "New Immortals"
+    ], 
+    "hair": "Brown\n", 
+    "height": 74, 
+    "id": "High_Evolutionary", 
+    "identity": "Secret", 
+    "intelligence": 6, 
+    "knownrelatives": "Unidentified mother and aunt (presumed deceased)", 
+    "occupation": [
+        "Geneticist", 
+        "scientist", 
+        "and inventor"
+    ], 
+    "origin": [
+        "X-Factor Annual #3 (1988)", 
+        "Punisher Annual #1 (1988)", 
+        "Silver Surfer Annual #1 (1988)", 
+        "New Mutants Annual #4 (1988)", 
+        "Fantastic Four Annual #21 (1988)", 
+        "Amazing Spider-Man Annual #22 (1988)", 
+        "Uncanny X-Men Annual #12 (1988)", 
+        "Web of Spider-Man Annual #4 (1988)", 
+        "West Coast Avengers Annual #3 (1988)", 
+        "Spectacular Spider-Man Annual #8 (1988)", 
+        "Avengers Annual #17 (1988)"
+    ], 
+    "placeofbirth": [
+        "Manchester", 
+        "England"
+    ], 
+    "powers": "The High Evolutionary has extrasensory powers of clairvoyance, Cosmic Awareness, a form of Danger Sense, astral projection (he can survive apart from his physical body for an indefinite period of time) and Mental Invisibility (the High Evolutionary is normally undetectable even by other powerful telepaths).\nAside from telepathically communicating with other humans with Cosmic Awareness, the High Evolutionary can also telepathically communicate with animals and cybernetic systems, he has telekinesis that is used for levitation, flight, force fields and blasts. He is an expert in linguistics and can even use a form of ventriloquism. He has shown the ability of matter creation (all types including lifeforms simply by his intense force of will).  His suit is designed to protect it's wearer at all costs, it can regenerate his body or create a new body for him if needed, it also provides complete life support.", 
+    "realname": "Herbert Edgar Wyndham", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 2, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Iron Fist", 
-                "Steel Serpent"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "brown\n", 
-            "fighting": 1, 
-            "groupaffiliation": "None", 
-            "hair": "white, formerly brown\n", 
-            "height": 73, 
-            "id": "Steel_Serpent_(Davos)", 
-            "identity": "known", 
-            "intelligence": 1, 
-            "knownrelatives": "Lei-Kung the Thunderer (father)", 
-            "occupation": "Warrior", 
-            "origin": "(Seen) Iron Fist #1 (1975)", 
-            "placeofbirth": "K'un-Lun", 
-            "powers": "The Steel Serpent is a master of the martial arts of K'un-Lun, including those practiced millennia ago.", 
-            "realname": "Davos", 
-            "significantissues": "(Named as Steel Serpent) Marvel Team-Up #63 (1977)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 205
-        }
-    }
+    "aliases": [
+        "Iron Fist", 
+        "Steel Serpent"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "brown\n", 
+    "fighting": 1, 
+    "groupaffiliation": "None", 
+    "hair": "white, formerly brown\n", 
+    "height": 73, 
+    "id": "Steel_Serpent_(Davos)", 
+    "identity": "known", 
+    "intelligence": 1, 
+    "knownrelatives": "Lei-Kung the Thunderer (father)", 
+    "occupation": "Warrior", 
+    "origin": "(Seen) Iron Fist #1 (1975)", 
+    "placeofbirth": "K'un-Lun", 
+    "powers": "The Steel Serpent is a master of the martial arts of K'un-Lun, including those practiced millennia ago.", 
+    "realname": "Davos", 
+    "significantissues": "(Named as Steel Serpent) Marvel Team-Up #63 (1977)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 205
 }

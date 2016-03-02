@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Lorna Dane", 
-            "citizenship": [
-                "U.S.A.", 
-                "House of M"
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "education": "Master's Degree in geophysics", 
-            "energy": 1, 
-            "eyes": "Dark green\n", 
-            "fighting": 1, 
-            "firstappearance": "House of M #5 (2005)\n", 
-            "groupaffiliation": "House of M", 
-            "hair": "Light green\n", 
-            "height": 67, 
-            "id": "Polaris_(House_of_M)", 
-            "identity": "Known worldwide as a member of the House of M", 
-            "intelligence": 1, 
-            "knownrelatives": "Magnus (Magneto, father), Pietro (Quicksilver, half-brother), Wanda (half-sister), Anya (half-sister, deceased), Tyler (nephew), unnamed children, nieces, and nephews", 
-            "occupation": [
-                "Royalty", 
-                "Diplomat"
-            ], 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Polaris is a mutant who, like her father, has the ability to manipulate the magnetic spectrum.", 
-            "realname": "Lorna", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "House of M", 
-            "weight": 115
-        }
-    }
+    "aliases": "Lorna Dane", 
+    "citizenship": [
+        "U.S.A.", 
+        "House of M"
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "education": "Master's Degree in geophysics", 
+    "energy": 1, 
+    "eyes": "Dark green\n", 
+    "fighting": 1, 
+    "firstappearance": "House of M #5 (2005)\n", 
+    "groupaffiliation": "House of M", 
+    "hair": "Light green\n", 
+    "height": 67, 
+    "id": "Polaris_(House_of_M)", 
+    "identity": "Known worldwide as a member of the House of M", 
+    "intelligence": 1, 
+    "knownrelatives": "Magnus (Magneto, father), Pietro (Quicksilver, half-brother), Wanda (half-sister), Anya (half-sister, deceased), Tyler (nephew), unnamed children, nieces, and nephews", 
+    "occupation": [
+        "Royalty", 
+        "Diplomat"
+    ], 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Polaris is a mutant who, like her father, has the ability to manipulate the magnetic spectrum.", 
+    "realname": "Lorna", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "House of M", 
+    "weight": 115
 }

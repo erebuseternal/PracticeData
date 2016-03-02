@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Skirra Corvus", 
-                "Scarecrow", 
-                "Guardian"
-            ], 
-            "citizenship": "Extradimensional", 
-            "content": "Kalumai's agent Bartolome sought to retrieve the horn by piping night demons through the gateway, but the Straw Man banished Bartolome and his demons. When the painting was publicly displayed, Kalumai found a sympathetic onlooker and recreated him as an avatar of his power. While the possessed man battled the Fantastic Four's Thing (who had accompanied his blind artist girlfriend Alicia Masters to the showing at the request of Jess Duncan, who wanted his help in unraveling the mystery of the Scarecrow), the Straw Man presumably controlled Dave. Tricking Kalumai's pawn into sealing the painting/gateway permanently with Kalumai's own power, the Straw Man vanished into the burning painting, apparently taking Dave Duncan with him forever.Later, the Straw Man joined the convocation of Fear Lords, powerful demons who thrive on fear. The Straw Man attended only to inform the others that Earth was under his protection and he would oppose their plans. To aid humanity in resisting their fear-mongering, he manifested under the name Skirra Corvus and created the \"Horror TV\" cable network to inoculate humanity against fear. Informing Dr. Strange of the Fear Lords' actions, the Straw Man's avatar was destroyed by the Lurking Unknown but left Strange the Scarecrow painting, through which he could return. When D'spayre betrayed the Fear Lords and absorbed their powers, the Straw Man returned and sacrificed yet another manifestation of himself to free Dr. Strange and defeat D'Spayre.", 
-            "durability": 5, 
-            "education": "Unknown", 
-            "energy": 5, 
-            "eyes": "Red\n", 
-            "fighting": 4, 
-            "firstappearance": "Dead of Night #11 (1975)\n", 
-            "groupaffiliation": [
-                "Fear Lords", 
-                "Horror TV (HTV)"
-            ], 
-            "hair": "Yellow (actually straw)\n", 
-            "height": 70, 
-            "id": "Straw_Man", 
-            "identity": "Existence unknown to general public", 
-            "intelligence": 3, 
-            "knownrelatives": "None", 
-            "occupation": "Apparent protector of Earth", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "The enigmatic Straw Man leaves his dimension by creating scarecrow-like \"grain-stalk bodies\" for himself. His manifestations are immune to almost all physical damage except flame. His manifestations are apparently mute apart from their hideous laughter, which causes paralyzing fear in those hearing it; they can also animate plant life, control crows and the weather, communicate telepathically, create spatial or dimensional warps, and assume human appearance.", 
-            "realname": "Unrevealed", 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe", 
-            "weight": 60
-        }
-    }
+    "aliases": [
+        "Skirra Corvus", 
+        "Scarecrow", 
+        "Guardian"
+    ], 
+    "citizenship": "Extradimensional", 
+    "content": "Kalumai's agent Bartolome sought to retrieve the horn by piping night demons through the gateway, but the Straw Man banished Bartolome and his demons. When the painting was publicly displayed, Kalumai found a sympathetic onlooker and recreated him as an avatar of his power. While the possessed man battled the Fantastic Four's Thing (who had accompanied his blind artist girlfriend Alicia Masters to the showing at the request of Jess Duncan, who wanted his help in unraveling the mystery of the Scarecrow), the Straw Man presumably controlled Dave. Tricking Kalumai's pawn into sealing the painting/gateway permanently with Kalumai's own power, the Straw Man vanished into the burning painting, apparently taking Dave Duncan with him forever.Later, the Straw Man joined the convocation of Fear Lords, powerful demons who thrive on fear. The Straw Man attended only to inform the others that Earth was under his protection and he would oppose their plans. To aid humanity in resisting their fear-mongering, he manifested under the name Skirra Corvus and created the \"Horror TV\" cable network to inoculate humanity against fear. Informing Dr. Strange of the Fear Lords' actions, the Straw Man's avatar was destroyed by the Lurking Unknown but left Strange the Scarecrow painting, through which he could return. When D'spayre betrayed the Fear Lords and absorbed their powers, the Straw Man returned and sacrificed yet another manifestation of himself to free Dr. Strange and defeat D'Spayre.", 
+    "durability": 5, 
+    "education": "Unknown", 
+    "energy": 5, 
+    "eyes": "Red\n", 
+    "fighting": 4, 
+    "firstappearance": "Dead of Night #11 (1975)\n", 
+    "groupaffiliation": [
+        "Fear Lords", 
+        "Horror TV (HTV)"
+    ], 
+    "hair": "Yellow (actually straw)\n", 
+    "height": 70, 
+    "id": "Straw_Man", 
+    "identity": "Existence unknown to general public", 
+    "intelligence": 3, 
+    "knownrelatives": "None", 
+    "occupation": "Apparent protector of Earth", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "The enigmatic Straw Man leaves his dimension by creating scarecrow-like \"grain-stalk bodies\" for himself. His manifestations are immune to almost all physical damage except flame. His manifestations are apparently mute apart from their hideous laughter, which causes paralyzing fear in those hearing it; they can also animate plant life, control crows and the weather, communicate telepathically, create spatial or dimensional warps, and assume human appearance.", 
+    "realname": "Unrevealed", 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe", 
+    "weight": 60
 }

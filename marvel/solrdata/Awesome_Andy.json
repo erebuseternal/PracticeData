@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "unrevealed", 
-            "citizenship": "United states of America", 
-            "content": "Eventually reprogrammed by the synthetic Super-Adaptoid, which had the copied the Fixer's technological skill, it fought Avengers solo and with the Heavy Metal robot team before being decapitated by Namor. The Android's body was placed in a special containment facility in Fort Meade, Maryland. Some time later, the Android was sent by Machinesmith to distract the reserve Avengers while other synthetic villains escaped confinement. It was neutralized by Captain Marvel (Monica Rambeau) and Firebird.The Thinker eventually reclaimed the Android and sent it to kidnap Franklin Richards, whose parents were stranded on an alternate Earth. The Thunderbolts prevented the abduction, defeating the Android and a robotic Thinker replica. The Android was placed as an exhibit on the convention floor (as back-up in the Thinker and Red Skull's plot to enslave the Avengers with microbial nanites) at San Diego's Comic-Con International, but the Fantastic Four foiled the villains' plans. The Gideon Trust later used the Android as a security device in their New York City headquarters, the Gideon Tower, where it battled Human Torch (Johnny Storm), She-Hulk (Jen Walters), Namorita, and Ant-Man (Scott Lang).", 
-            "durability": 1, 
-            "education": "None", 
-            "energy": 1, 
-            "eyes": "None\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Four #15 (1963)\n", 
-            "groupaffiliation": [
-                "employee of Goodman", 
-                "Lieber", 
-                "Kurtzberg", 
-                "& Holliway", 
-                "(Formerly) Heavy Metal", 
-                "pawn of Mad Thinker"
-            ], 
-            "hair": "None\n", 
-            "height": 181, 
-            "id": "Awesome_Andy", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Mad Thinker (creator)", 
-            "occupation": [
-                "Part-time administrative assistant", 
-                "former combat instrument"
-            ], 
-            "placeofbirth": "unrevealed", 
-            "powers": "Andy can mimic the attributes of others on contact: one ability at a time for about an hour. It can expel winds from its \"mouth\" at 180 mph, shape its fists into weapons, split into several smaller forms, and expand its overall size by 10 percent. Powered by atomic energy, Awesome Andy is most vulnerable at the motor nerve terminal under each armpit. Mute, Andy communicates via a chalkboard-like necklace.", 
-            "realname": "Awesome Android", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 1421
-        }
-    }
+    "aliases": "unrevealed", 
+    "citizenship": "United states of America", 
+    "content": "Eventually reprogrammed by the synthetic Super-Adaptoid, which had the copied the Fixer's technological skill, it fought Avengers solo and with the Heavy Metal robot team before being decapitated by Namor. The Android's body was placed in a special containment facility in Fort Meade, Maryland. Some time later, the Android was sent by Machinesmith to distract the reserve Avengers while other synthetic villains escaped confinement. It was neutralized by Captain Marvel (Monica Rambeau) and Firebird.The Thinker eventually reclaimed the Android and sent it to kidnap Franklin Richards, whose parents were stranded on an alternate Earth. The Thunderbolts prevented the abduction, defeating the Android and a robotic Thinker replica. The Android was placed as an exhibit on the convention floor (as back-up in the Thinker and Red Skull's plot to enslave the Avengers with microbial nanites) at San Diego's Comic-Con International, but the Fantastic Four foiled the villains' plans. The Gideon Trust later used the Android as a security device in their New York City headquarters, the Gideon Tower, where it battled Human Torch (Johnny Storm), She-Hulk (Jen Walters), Namorita, and Ant-Man (Scott Lang).", 
+    "durability": 1, 
+    "education": "None", 
+    "energy": 1, 
+    "eyes": "None\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Four #15 (1963)\n", 
+    "groupaffiliation": [
+        "employee of Goodman", 
+        "Lieber", 
+        "Kurtzberg", 
+        "& Holliway", 
+        "(Formerly) Heavy Metal", 
+        "pawn of Mad Thinker"
+    ], 
+    "hair": "None\n", 
+    "height": 181, 
+    "id": "Awesome_Andy", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Mad Thinker (creator)", 
+    "occupation": [
+        "Part-time administrative assistant", 
+        "former combat instrument"
+    ], 
+    "placeofbirth": "unrevealed", 
+    "powers": "Andy can mimic the attributes of others on contact: one ability at a time for about an hour. It can expel winds from its \"mouth\" at 180 mph, shape its fists into weapons, split into several smaller forms, and expand its overall size by 10 percent. Powered by atomic energy, Awesome Andy is most vulnerable at the motor nerve terminal under each armpit. Mute, Andy communicates via a chalkboard-like necklace.", 
+    "realname": "Awesome Android", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 1421
 }

@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"Worm\"", 
-            "citizenship": "Spain", 
-            "content": "", 
-            "durability": 1, 
-            "education": "High school", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "New Mutants #16 (1984)\n", 
-            "groupaffiliation": [
-                "Formerly Hellfire Cult", 
-                "198", 
-                "X-Corporation", 
-                "Hellions"
-            ], 
-            "hair": "Brown\n", 
-            "height": 71, 
-            "id": "Empath", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified family members and ancestors", 
-            "occupation": [
-                "Terrorist", 
-                "former communications director", 
-                "student"
-            ], 
-            "placeofbirth": [
-                "Castile", 
-                "Spain"
-            ], 
-            "powers": "Psionic ability to sense and control emotions of the others.", 
-            "realname": "Manuel Alfonso Rodrigo de la Rocha", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "\"Worm\"", 
+    "citizenship": "Spain", 
+    "content": "", 
+    "durability": 1, 
+    "education": "High school", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "New Mutants #16 (1984)\n", 
+    "groupaffiliation": [
+        "Formerly Hellfire Cult", 
+        "198", 
+        "X-Corporation", 
+        "Hellions"
+    ], 
+    "hair": "Brown\n", 
+    "height": 71, 
+    "id": "Empath", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified family members and ancestors", 
+    "occupation": [
+        "Terrorist", 
+        "former communications director", 
+        "student"
+    ], 
+    "placeofbirth": [
+        "Castile", 
+        "Spain"
+    ], 
+    "powers": "Psionic ability to sense and control emotions of the others.", 
+    "realname": "Manuel Alfonso Rodrigo de la Rocha", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

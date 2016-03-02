@@ -1,47 +1,43 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Jane Doe", 
-            "citizenship": [
-                "Canadian", 
-                "criminal record"
-            ], 
-            "content": "The two teams were ultimately forced to work side by side, and eventually Gamma Flight was disbanded. Several members of Gamma joined with Alpha; however, Nemesis did not, vanishing again and taking her feral teammate, Wild Child, with her. After helping Wild Child reclaim his humanity by becoming the hero Weapon Omega, Nemesis was captured by the Children of The Night, a band of sewer-dwelling children that she had once led. Their new leader, Roc, sought to defeat Nemesis but with Weapon Omega\u2019s aid she overpowered him. When the chaos entity Carcass was freed, Nemesis, one of the heroes summoned by Shaman, traveled to the land of the dead to destroy the creature.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "(cameo) Alpha Flight #7 (1984), (fully) Alpha Flight #8 (1984)\n", 
-            "groupaffiliation": [
-                "Formerly Alpha Flight", 
-                "Gamma Flight", 
-                "Children of The Night"
-            ], 
-            "hair": "Reddish-blonde\n", 
-            "height": 70, 
-            "id": "Nemesis_(Jane_St._Ives)", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Ernest St. Ives (Deadly Ernest, father, deceased), unnamed mother (deceased)", 
-            "occupation": [
-                "Adventurer", 
-                "former nihilist"
-            ], 
-            "origin": "Alpha Flight #31 (1986)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Nemesis' sword has allowed her to live an extended life, using the life force of those she kills. It also enables her to fly. If she is separated from her sword, her body begins to degenerate.", 
-            "realname": "Jane St. Ives", 
-            "significantissues": [
-                "Encountered Northstar and Aurora, battled Deadly Ernest (Alpha Flight #8, 1984)", 
-                "destroyed Deadly Ernest with Puck\u2019s help (Alpha Flight #31, 1986)", 
-                "Gamma Flight named Canada\u2019s premiere super team (Alpha Flight #76, 1989)", 
-                "helped rescue original Alpha Flight (Alpha Flight #6, 2004)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 115
-        }
-    }
+    "aliases": "Jane Doe", 
+    "citizenship": [
+        "Canadian", 
+        "criminal record"
+    ], 
+    "content": "The two teams were ultimately forced to work side by side, and eventually Gamma Flight was disbanded. Several members of Gamma joined with Alpha; however, Nemesis did not, vanishing again and taking her feral teammate, Wild Child, with her. After helping Wild Child reclaim his humanity by becoming the hero Weapon Omega, Nemesis was captured by the Children of The Night, a band of sewer-dwelling children that she had once led. Their new leader, Roc, sought to defeat Nemesis but with Weapon Omega\u2019s aid she overpowered him. When the chaos entity Carcass was freed, Nemesis, one of the heroes summoned by Shaman, traveled to the land of the dead to destroy the creature.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "(cameo) Alpha Flight #7 (1984), (fully) Alpha Flight #8 (1984)\n", 
+    "groupaffiliation": [
+        "Formerly Alpha Flight", 
+        "Gamma Flight", 
+        "Children of The Night"
+    ], 
+    "hair": "Reddish-blonde\n", 
+    "height": 70, 
+    "id": "Nemesis_(Jane_St._Ives)", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Ernest St. Ives (Deadly Ernest, father, deceased), unnamed mother (deceased)", 
+    "occupation": [
+        "Adventurer", 
+        "former nihilist"
+    ], 
+    "origin": "Alpha Flight #31 (1986)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Nemesis' sword has allowed her to live an extended life, using the life force of those she kills. It also enables her to fly. If she is separated from her sword, her body begins to degenerate.", 
+    "realname": "Jane St. Ives", 
+    "significantissues": [
+        "Encountered Northstar and Aurora, battled Deadly Ernest (Alpha Flight #8, 1984)", 
+        "destroyed Deadly Ernest with Puck\u2019s help (Alpha Flight #31, 1986)", 
+        "Gamma Flight named Canada\u2019s premiere super team (Alpha Flight #76, 1989)", 
+        "helped rescue original Alpha Flight (Alpha Flight #6, 2004)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 115
 }

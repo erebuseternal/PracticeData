@@ -1,31 +1,27 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Rocky", 
-            "citizenship": "U.S.A.", 
-            "content": "Black Rose helped unleash the Olympian goddesses of vengeance known as the Furies to destroy the Ghost Rider and his accursed bloodline. The Furies fiendish onslaught was expunged from the mortal plane by the Forces of Light, and she found her cornered by the trio Noble, Blaze and the young sorceress Jennifer Kale. Black Rose was too weak to defend her self and was about to meet her death by the hands of Blaze and his hellfire shotgun, but Blackheart intervened and revealed via cryptic message to the trio that Black Rose was Roxanne Simpson.", 
-            "durability": 1, 
-            "education": "Unrevealed, however, it is known that she has an attraction for magic and the mysteries of the supernatural.", 
-            "energy": 1, 
-            "eyes": "Unknown\n", 
-            "fighting": 1, 
-            "firstappearance": "As Black Rose (Ghost Rider #77, 1983)\n", 
-            "groupaffiliation": [
-                "As Black Rose", 
-                "consort of Blackheart"
-            ], 
-            "hair": "Brown\n", 
-            "id": "Black_Rose", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Crash Simpson (father, deceased), Mona Simpson (mother, deceased), Craig Blaze (son, presumed dead), Emma Blaze (daughter), Johnny Blaze (Ghost Rider, husband of Roxanne Blaze); Noble Kale (husband of Black Rose)", 
-            "occupation": "Unknown", 
-            "placeofbirth": "Unknown", 
-            "powers": "Roxanne explored magic of a supernatural nature. As Black Rose her powers have not been fully uncovered, although she did have the ability to form deadly thorns.", 
-            "realname": "Roxanne Simpson Blaze", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Rocky", 
+    "citizenship": "U.S.A.", 
+    "content": "Black Rose helped unleash the Olympian goddesses of vengeance known as the Furies to destroy the Ghost Rider and his accursed bloodline. The Furies fiendish onslaught was expunged from the mortal plane by the Forces of Light, and she found her cornered by the trio Noble, Blaze and the young sorceress Jennifer Kale. Black Rose was too weak to defend her self and was about to meet her death by the hands of Blaze and his hellfire shotgun, but Blackheart intervened and revealed via cryptic message to the trio that Black Rose was Roxanne Simpson.", 
+    "durability": 1, 
+    "education": "Unrevealed, however, it is known that she has an attraction for magic and the mysteries of the supernatural.", 
+    "energy": 1, 
+    "eyes": "Unknown\n", 
+    "fighting": 1, 
+    "firstappearance": "As Black Rose (Ghost Rider #77, 1983)\n", 
+    "groupaffiliation": [
+        "As Black Rose", 
+        "consort of Blackheart"
+    ], 
+    "hair": "Brown\n", 
+    "id": "Black_Rose", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Crash Simpson (father, deceased), Mona Simpson (mother, deceased), Craig Blaze (son, presumed dead), Emma Blaze (daughter), Johnny Blaze (Ghost Rider, husband of Roxanne Blaze); Noble Kale (husband of Black Rose)", 
+    "occupation": "Unknown", 
+    "placeofbirth": "Unknown", 
+    "powers": "Roxanne explored magic of a supernatural nature. As Black Rose her powers have not been fully uncovered, although she did have the ability to form deadly thorns.", 
+    "realname": "Roxanne Simpson Blaze", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

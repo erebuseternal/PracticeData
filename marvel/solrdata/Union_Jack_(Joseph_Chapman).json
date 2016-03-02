@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Joey Chapman", 
-            "citizenship": "U.K.", 
-            "content": "The new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.  He frequently battled vampires, including the Baroness Blood, who carried on for the Baron and caused the death of Joey's friend Kenneth Crichton.  After being mortally wounded, Kenneth's mother, Lady Jacqueline - once the WWII-era super-speedster known as Spitfire - regained her youth and powers through a blood transfusion from the original Human Torch.  She and Joey grew close and began a romance, but the difference in their ages and backgrounds was too much to overcome and they broke up.  However, they remain friends and allies.", 
-            "durability": 3, 
-            "education": "Some college", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 4, 
-            "groupaffiliation": [
-                "Invaders", 
-                "Knights of Pendragon"
-            ], 
-            "hair": "Brown\n", 
-            "id": "Union_Jack_(Joseph_Chapman)", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Unidentified father (deceased), unidentified uncle", 
-            "occupation": [
-                "Adventurer", 
-                "(formerly) art student"
-            ], 
-            "placeofbirth": [
-                "Manchester", 
-                "England"
-            ], 
-            "powers": "The mystical Power of the Pendragon has raised Union Jack's strength, speed, endurance and senses to (or slightly above) peak human capabilities.", 
-            "realname": "Joseph Chapman", 
-            "speed": 2, 
-            "strength": 3, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Joey Chapman", 
+    "citizenship": "U.K.", 
+    "content": "The new Union Jack continued to fight evil, both alone and as a member of the Knights of Pendragon and the new Invaders.  He frequently battled vampires, including the Baroness Blood, who carried on for the Baron and caused the death of Joey's friend Kenneth Crichton.  After being mortally wounded, Kenneth's mother, Lady Jacqueline - once the WWII-era super-speedster known as Spitfire - regained her youth and powers through a blood transfusion from the original Human Torch.  She and Joey grew close and began a romance, but the difference in their ages and backgrounds was too much to overcome and they broke up.  However, they remain friends and allies.", 
+    "durability": 3, 
+    "education": "Some college", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 4, 
+    "groupaffiliation": [
+        "Invaders", 
+        "Knights of Pendragon"
+    ], 
+    "hair": "Brown\n", 
+    "id": "Union_Jack_(Joseph_Chapman)", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Unidentified father (deceased), unidentified uncle", 
+    "occupation": [
+        "Adventurer", 
+        "(formerly) art student"
+    ], 
+    "placeofbirth": [
+        "Manchester", 
+        "England"
+    ], 
+    "powers": "The mystical Power of the Pendragon has raised Union Jack's strength, speed, endurance and senses to (or slightly above) peak human capabilities.", 
+    "realname": "Joseph Chapman", 
+    "speed": 2, 
+    "strength": 3, 
+    "universe": "Marvel Universe"
 }

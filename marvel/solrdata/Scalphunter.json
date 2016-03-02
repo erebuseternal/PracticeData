@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "John Riverwind", 
-            "citizenship": "unrevealed", 
-            "content": "", 
-            "durability": 1, 
-            "education": "unrevealed", 
-            "energy": 1, 
-            "eyes": "unrevealed\n", 
-            "fighting": 1, 
-            "firstappearance": "unknown\n", 
-            "groupaffiliation": [
-                "Marauders", 
-                "formerly 198"
-            ], 
-            "hair": "Black\n", 
-            "height": 78, 
-            "id": "Scalphunter", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "unrevealed", 
-            "occupation": [
-                "assassin", 
-                "soldier"
-            ], 
-            "placeofbirth": "unrevealed", 
-            "powers": "Regeneration, even after death; uncanny marksmanship ability; can \"technoform\" mechanical components into a variety of configurations, most commonly firearms", 
-            "realname": "John Greycrow", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 175
-        }
-    }
+    "aliases": "John Riverwind", 
+    "citizenship": "unrevealed", 
+    "content": "", 
+    "durability": 1, 
+    "education": "unrevealed", 
+    "energy": 1, 
+    "eyes": "unrevealed\n", 
+    "fighting": 1, 
+    "firstappearance": "unknown\n", 
+    "groupaffiliation": [
+        "Marauders", 
+        "formerly 198"
+    ], 
+    "hair": "Black\n", 
+    "height": 78, 
+    "id": "Scalphunter", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "unrevealed", 
+    "occupation": [
+        "assassin", 
+        "soldier"
+    ], 
+    "placeofbirth": "unrevealed", 
+    "powers": "Regeneration, even after death; uncanny marksmanship ability; can \"technoform\" mechanical components into a variety of configurations, most commonly firearms", 
+    "realname": "John Greycrow", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 175
 }

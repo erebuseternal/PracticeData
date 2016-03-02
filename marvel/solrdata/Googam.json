@@ -1,32 +1,28 @@
 {
-    "add": {
-        "doc": {
-            "citizenship": "Planet X", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "fighting": 1, 
-            "firstappearance": "Tales of Suspense #17 (1961)\n", 
-            "groupaffiliation": "Fin Fang Four", 
-            "hair": "None\n", 
-            "height": 120, 
-            "id": "Googam", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Goom (father)", 
-            "occupation": "Parking valet", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Planet X", 
-            "powers": "Googam possessed powers of mind control.", 
-            "realname": "Googam", 
-            "significantissues": [
-                "Terrorized the Langleys (Tales of Suspense #17, 1961)", 
-                "Tricked into bringing Tim Boo Ba to Earth (Fin Fang Four #1 2005)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "citizenship": "Planet X", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "fighting": 1, 
+    "firstappearance": "Tales of Suspense #17 (1961)\n", 
+    "groupaffiliation": "Fin Fang Four", 
+    "hair": "None\n", 
+    "height": 120, 
+    "id": "Googam", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Goom (father)", 
+    "occupation": "Parking valet", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Planet X", 
+    "powers": "Googam possessed powers of mind control.", 
+    "realname": "Googam", 
+    "significantissues": [
+        "Terrorized the Langleys (Tales of Suspense #17, 1961)", 
+        "Tricked into bringing Tim Boo Ba to Earth (Fin Fang Four #1 2005)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

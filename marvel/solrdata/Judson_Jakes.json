@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Halfworld", 
-            "content": "Sometime later, Lord Dyvyne, a rival toy mogul, must have muscled Jakes out of his territory, forcing him planet side, as Dyvynities Inc. was put in Inter-Stel\u2019s place aboard Spacewheel. Dyvyne and Jakes became fierce competitors in the toy making industry which the Loonies of Halfworld so desperately depended on. The rivalry became deadly when Jakes sent one of his Killer Clowns to murder Dyvyne's chief toysmith, thereby starting a Toy War. Lord Dyvyne was no pushover because not only did he take over Spacewheel, but he stole the Black Bunny Brigade away from Jakes too. Each creature, having a formidable army behind them, had no trouble escalating their feud until all the inhabitants of Halfworld were threatened. Jakes and Dyvyne set aside their differences to negotiate a pact which would divide Halfworld into two equal territories for each of them to rule. However, Rocket Raccoon would have to be eliminated first. Even with their combined might, Jakes and Dyvyne couldn't agree on virtually anything, and their crusade eventually faltered.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "White\n", 
-            "fighting": 1, 
-            "firstappearance": "Incredible Hulk #271 (19882)\n", 
-            "groupaffiliation": [
-                "Formerly Mayhem Mekaniks", 
-                "Inter-Stel Mechanics"
-            ], 
-            "hair": "Brown fur\n", 
-            "id": "Judson_Jakes", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": "Former Toy Mogul", 
-            "origin": "Unrevealed", 
-            "placeofbirth": "Halfworld", 
-            "powers": "None", 
-            "realname": "Judson Jakes", 
-            "significantissues": [
-                "had his minions steal Gideon's Bile only to be stopped by Rocket Raccoon and the Hulk (Incredible Hulk #271, 1982)", 
-                "started a Toy War against Lord Dyvyne on Halfworld (Rocket Raccoon #1-4, 1985)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Halfworld", 
+    "content": "Sometime later, Lord Dyvyne, a rival toy mogul, must have muscled Jakes out of his territory, forcing him planet side, as Dyvynities Inc. was put in Inter-Stel\u2019s place aboard Spacewheel. Dyvyne and Jakes became fierce competitors in the toy making industry which the Loonies of Halfworld so desperately depended on. The rivalry became deadly when Jakes sent one of his Killer Clowns to murder Dyvyne's chief toysmith, thereby starting a Toy War. Lord Dyvyne was no pushover because not only did he take over Spacewheel, but he stole the Black Bunny Brigade away from Jakes too. Each creature, having a formidable army behind them, had no trouble escalating their feud until all the inhabitants of Halfworld were threatened. Jakes and Dyvyne set aside their differences to negotiate a pact which would divide Halfworld into two equal territories for each of them to rule. However, Rocket Raccoon would have to be eliminated first. Even with their combined might, Jakes and Dyvyne couldn't agree on virtually anything, and their crusade eventually faltered.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "White\n", 
+    "fighting": 1, 
+    "firstappearance": "Incredible Hulk #271 (19882)\n", 
+    "groupaffiliation": [
+        "Formerly Mayhem Mekaniks", 
+        "Inter-Stel Mechanics"
+    ], 
+    "hair": "Brown fur\n", 
+    "id": "Judson_Jakes", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": "Former Toy Mogul", 
+    "origin": "Unrevealed", 
+    "placeofbirth": "Halfworld", 
+    "powers": "None", 
+    "realname": "Judson Jakes", 
+    "significantissues": [
+        "had his minions steal Gideon's Bile only to be stopped by Rocket Raccoon and the Hulk (Incredible Hulk #271, 1982)", 
+        "started a Toy War against Lord Dyvyne on Halfworld (Rocket Raccoon #1-4, 1985)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

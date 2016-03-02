@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "No-Girl", 
-            "citizenship": "U.S.A. (legally deceased)", 
-            "content": "She later became a student in the Xavier Institute's Special Class. Quentin Quire invented a special hovering case to hold her brain, usually linked to a chain held by Ernst, a mysterious, super-strong mutant appearing like an old woman, who often repeated Martha's telepathic communications.", 
-            "durability": 1, 
-            "education": "Currently enrolled in high school classes", 
-            "energy": 1, 
-            "eyes": "None\n", 
-            "fighting": 1, 
-            "firstappearance": "New X-Men #118\n", 
-            "groupaffiliation": [
-                "Formerly Xavier Institute Student Body", 
-                "Brotherhood of Mutants"
-            ], 
-            "hair": "None\n", 
-            "height": 0, 
-            "id": "Johansson,_Martha", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "unrevealed", 
-            "occupation": "Student", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Telepathy; able to mentally broadcast \"psycho-chaff\" to cloud the minds of others", 
-            "realname": "Martha Johannson", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Inapplicable\n"
-        }
-    }
+    "aliases": "No-Girl", 
+    "citizenship": "U.S.A. (legally deceased)", 
+    "content": "She later became a student in the Xavier Institute's Special Class. Quentin Quire invented a special hovering case to hold her brain, usually linked to a chain held by Ernst, a mysterious, super-strong mutant appearing like an old woman, who often repeated Martha's telepathic communications.", 
+    "durability": 1, 
+    "education": "Currently enrolled in high school classes", 
+    "energy": 1, 
+    "eyes": "None\n", 
+    "fighting": 1, 
+    "firstappearance": "New X-Men #118\n", 
+    "groupaffiliation": [
+        "Formerly Xavier Institute Student Body", 
+        "Brotherhood of Mutants"
+    ], 
+    "hair": "None\n", 
+    "height": 0, 
+    "id": "Johansson,_Martha", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "unrevealed", 
+    "occupation": "Student", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Telepathy; able to mentally broadcast \"psycho-chaff\" to cloud the minds of others", 
+    "realname": "Martha Johannson", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Inapplicable\n"
 }

@@ -1,33 +1,29 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Adaptoid", 
-            "citizenship": "Inapplicable", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Inapplicable", 
-            "energy": 1, 
-            "eyes": "Variable\n", 
-            "fighting": 1, 
-            "firstappearance": "Fantastic Force #4\n", 
-            "groupaffiliation": [
-                "A.I.M.", 
-                "Alessandro Brannex (Super-Adaptoid)"
-            ], 
-            "hair": "Variable\n", 
-            "height": 0, 
-            "id": "Batch-13", 
-            "identity": "Inapplicable", 
-            "intelligence": 1, 
-            "knownrelatives": "Super-Adaptoid (original design/creator), Adaptoids (fellow Adaptoids), Super-Adaptoid II (Yelena Belova) (fellow Adaptoid), Adaptoid (New Enforcers) (fellow Adaptoid), Paragon (fellow Adaptoid), Ultra-Adaptoid (fellow Adaptoid), A.I.M. (creator)", 
-            "occupation": "Servant of A.I.M.", 
-            "placeofbirth": "Inapplicable", 
-            "powers": "Duplicate the abilities and weapons of any being it has encountered, powers/abilities it has copied are those of: Captain America, Psi-Lord, Vibraxas, Devlor, Huntara", 
-            "realname": "Batch-13", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": "Variable\n"
-        }
-    }
+    "aliases": "Adaptoid", 
+    "citizenship": "Inapplicable", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Inapplicable", 
+    "energy": 1, 
+    "eyes": "Variable\n", 
+    "fighting": 1, 
+    "firstappearance": "Fantastic Force #4\n", 
+    "groupaffiliation": [
+        "A.I.M.", 
+        "Alessandro Brannex (Super-Adaptoid)"
+    ], 
+    "hair": "Variable\n", 
+    "height": 0, 
+    "id": "Batch-13", 
+    "identity": "Inapplicable", 
+    "intelligence": 1, 
+    "knownrelatives": "Super-Adaptoid (original design/creator), Adaptoids (fellow Adaptoids), Super-Adaptoid II (Yelena Belova) (fellow Adaptoid), Adaptoid (New Enforcers) (fellow Adaptoid), Paragon (fellow Adaptoid), Ultra-Adaptoid (fellow Adaptoid), A.I.M. (creator)", 
+    "occupation": "Servant of A.I.M.", 
+    "placeofbirth": "Inapplicable", 
+    "powers": "Duplicate the abilities and weapons of any being it has encountered, powers/abilities it has copied are those of: Captain America, Psi-Lord, Vibraxas, Devlor, Huntara", 
+    "realname": "Batch-13", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": "Variable\n"
 }

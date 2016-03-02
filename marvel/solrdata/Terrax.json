@@ -1,42 +1,38 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Terrax the Tamer", 
-                "Tyros"
-            ], 
-            "citizenship": "Lanlak", 
-            "content": "Terrax proved to be the most troublesome Herald to ever serve Galactus. Although he led to devour many worlds, Terrax wished to use his powers for personal gain, and only fear of his master kept him in line. He once fled Galactus' service to set up his own empire, but Galactus empowered the Earth woman, Alison Blaire (also known as Dazzler) to retrieve him. Finally, Terrax kept Galactus from feeding long enough that his energies dwindled, and he finally led him to Earth in the hopes that the Fantastic Four would help him slay his master. Galactus withdrew the power Cosmic from Terrax to replenish his own spent energies, and left Terrax stranded on Earth.The dictator Victor von Doom was able to restore some of Terrax's power to him to use against the Fantastic Four, but in battle with the Silver Surfer, Terrax was consumed by the Power Cosmic and killed. His body later regenerated itself on Earth, but the Surfer exiled Terrax to an uninhabited world.Terrax was released from his exile to aid fellow Heralds Firelord, Nova, the android Air walker and the Silver Surfer against Morg. Terrax slew Morg with his own axe, which he kept as spoils of the battle, Morg was later resurrected.As the Annihilation Wave began its search for Galactus' Heralds so that Annihilus could study the Power Cosmic, Terrax was one of the first to be captured by the Seekers of Annihilus and taken into custody. Terrax was eventually freed from his captors' control and exacted his revenge upon them. Afterwards, he, Paibok, the Power Skrull and the Infant Terrible journeyed to a world inhabited by Centaurians and saved them from the deadly Space Parasite. After cleaving the monster in two, Terrax left the others planet side claiming it was time for him to show the universe why Terrax, the Tamer should be feared once more.", 
-            "durability": 7, 
-            "energy": 6, 
-            "eyes": "Grey\n", 
-            "fighting": 6, 
-            "groupaffiliation": [
-                "formerly Offenders", 
-                "one of the Heralds of Galactus"
-            ], 
-            "hair": "None\n", 
-            "height": 78, 
-            "id": "Terrax", 
-            "identity": "No dual identity", 
-            "intelligence": 5, 
-            "knownrelatives": "none", 
-            "occupation": [
-                "Former dictator", 
-                "former herald of Galactus"
-            ], 
-            "origin": "Fantastic Four #211", 
-            "placeofbirth": [
-                "City of Lanlak", 
-                "planet Birj"
-            ], 
-            "powers": "Terrax possessed vast cosmic power granted him by Galactus. Terrax's body was coated with a flexible rock-like shell that was impervious to extremes of heat and cold, from 50 degrees above absolute zero to the interior of a small sun, pressure up to 100 Earth atmospheres, and concussive force up to a fall at terminal velocity from the limit of Earth's exosphere. His body had been sustained by cosmic energy, making it unnecessary for him to eat or breathe.", 
-            "realname": "Tyros", 
-            "significantissues": "Fantastic Four #260 (died)", 
-            "speed": 6, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 2
-        }
-    }
+    "aliases": [
+        "Terrax the Tamer", 
+        "Tyros"
+    ], 
+    "citizenship": "Lanlak", 
+    "content": "Terrax proved to be the most troublesome Herald to ever serve Galactus. Although he led to devour many worlds, Terrax wished to use his powers for personal gain, and only fear of his master kept him in line. He once fled Galactus' service to set up his own empire, but Galactus empowered the Earth woman, Alison Blaire (also known as Dazzler) to retrieve him. Finally, Terrax kept Galactus from feeding long enough that his energies dwindled, and he finally led him to Earth in the hopes that the Fantastic Four would help him slay his master. Galactus withdrew the power Cosmic from Terrax to replenish his own spent energies, and left Terrax stranded on Earth.The dictator Victor von Doom was able to restore some of Terrax's power to him to use against the Fantastic Four, but in battle with the Silver Surfer, Terrax was consumed by the Power Cosmic and killed. His body later regenerated itself on Earth, but the Surfer exiled Terrax to an uninhabited world.Terrax was released from his exile to aid fellow Heralds Firelord, Nova, the android Air walker and the Silver Surfer against Morg. Terrax slew Morg with his own axe, which he kept as spoils of the battle, Morg was later resurrected.As the Annihilation Wave began its search for Galactus' Heralds so that Annihilus could study the Power Cosmic, Terrax was one of the first to be captured by the Seekers of Annihilus and taken into custody. Terrax was eventually freed from his captors' control and exacted his revenge upon them. Afterwards, he, Paibok, the Power Skrull and the Infant Terrible journeyed to a world inhabited by Centaurians and saved them from the deadly Space Parasite. After cleaving the monster in two, Terrax left the others planet side claiming it was time for him to show the universe why Terrax, the Tamer should be feared once more.", 
+    "durability": 7, 
+    "energy": 6, 
+    "eyes": "Grey\n", 
+    "fighting": 6, 
+    "groupaffiliation": [
+        "formerly Offenders", 
+        "one of the Heralds of Galactus"
+    ], 
+    "hair": "None\n", 
+    "height": 78, 
+    "id": "Terrax", 
+    "identity": "No dual identity", 
+    "intelligence": 5, 
+    "knownrelatives": "none", 
+    "occupation": [
+        "Former dictator", 
+        "former herald of Galactus"
+    ], 
+    "origin": "Fantastic Four #211", 
+    "placeofbirth": [
+        "City of Lanlak", 
+        "planet Birj"
+    ], 
+    "powers": "Terrax possessed vast cosmic power granted him by Galactus. Terrax's body was coated with a flexible rock-like shell that was impervious to extremes of heat and cold, from 50 degrees above absolute zero to the interior of a small sun, pressure up to 100 Earth atmospheres, and concussive force up to a fall at terminal velocity from the limit of Earth's exosphere. His body had been sustained by cosmic energy, making it unnecessary for him to eat or breathe.", 
+    "realname": "Tyros", 
+    "significantissues": "Fantastic Four #260 (died)", 
+    "speed": 6, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 2
 }

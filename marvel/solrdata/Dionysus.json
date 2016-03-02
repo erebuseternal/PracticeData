@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Dion", 
-                "Bacchus (Roman name)", 
-                "\"Lame god\" (literal translaation)", 
-                "\"Twice-born", 
-                "\" the Liberator"
-            ], 
-            "citizenship": "Olympus", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Educated by Hyades & the satyr Silenus", 
-            "energy": 1, 
-            "eyes": "Blue (variable)\n", 
-            "fighting": 1, 
-            "firstappearance": "(Bacchus) Venus #4 (1949); (Dionysus) Thor #129 (1966)\n", 
-            "groupaffiliation": [
-                "Olympain (Graeco-Roman) gods", 
-                "formerly the Olympus Group", 
-                "Dodekatheon"
-            ], 
-            "hair": "Red (variable)\n", 
-            "height": 68, 
-            "id": "Dionysus", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "occupation": [
-                "God of wine", 
-                "transitions & revelry", 
-                "former bar owner"
-            ], 
-            "placeofbirth": [
-                "Mount Pramnos", 
-                "Doliche (modern-day Icaria", 
-                "Grece) and Olympus"
-            ], 
-            "realname": "Dionysus Acratophorus", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 620
-        }
-    }
+    "aliases": [
+        "Dion", 
+        "Bacchus (Roman name)", 
+        "\"Lame god\" (literal translaation)", 
+        "\"Twice-born", 
+        "\" the Liberator"
+    ], 
+    "citizenship": "Olympus", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Educated by Hyades & the satyr Silenus", 
+    "energy": 1, 
+    "eyes": "Blue (variable)\n", 
+    "fighting": 1, 
+    "firstappearance": "(Bacchus) Venus #4 (1949); (Dionysus) Thor #129 (1966)\n", 
+    "groupaffiliation": [
+        "Olympain (Graeco-Roman) gods", 
+        "formerly the Olympus Group", 
+        "Dodekatheon"
+    ], 
+    "hair": "Red (variable)\n", 
+    "height": 68, 
+    "id": "Dionysus", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "occupation": [
+        "God of wine", 
+        "transitions & revelry", 
+        "former bar owner"
+    ], 
+    "placeofbirth": [
+        "Mount Pramnos", 
+        "Doliche (modern-day Icaria", 
+        "Grece) and Olympus"
+    ], 
+    "realname": "Dionysus Acratophorus", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 620
 }

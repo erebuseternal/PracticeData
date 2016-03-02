@@ -1,46 +1,42 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "Brunnhilde was later reborn in the mortal host body of Barbara Norriss and, as the Valkyrie, became a mainstay of the Defenders. She went on to become the longest-serving member of that group, remaining with them even after regaining her original Asgardian body; however, she gradually felt more detached from life on Earth. During a period when the Defenders were disbanded, Brunnhilde returned to Asgard and resumed her ancient duties as leader of the Valkyrior, but Earth had not seen the last of the Valkyrie. When the rogue god Pluto sought a Valkyrie pawn, he had Amora's sister Lorelei transform Samantha Parrington into the Valkyrie again. A mind-controlled Samantha served them until they ran afoul of the reunited Defenders and Brunnhilde, who routed Pluto and Lorelei after Samantha shook off their control. Happy to have a worthy successor on Earth, Brunnhilde returned to Asgard and Samantha joined the Defenders as their new Valkyrie. Her parents have tried to support her new superheroic pursuits by offering the Defenders funding, equipment and well-intentioned meddling.", 
-            "durability": 5, 
-            "education": "College", 
-            "energy": 2, 
-            "eyes": "Blue\n", 
-            "fighting": 5, 
-            "firstappearance": "Incredible Hulk #142 (1971); (Amora as Valkyrie) Avengers #83 (1970); (Samantha as Valkyrie) Incredible Hulk #142 (1971); (Brunnhilde as Valkyrie) Defenders #4 (1973)\n", 
-            "groupaffiliation": [
-                "Lady Liberators", 
-                "formerly Defenders"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 75, 
-            "id": "Valkyrie", 
-            "identity": "Secret", 
-            "intelligence": 4, 
-            "knownrelatives": "Reginald Parrington (father), Malicia Parrington (mother)", 
-            "occupation": [
-                "Heiress", 
-                "adventurer"
-            ], 
-            "origin": [
-                "Incredible Hulk #142 (1971)", 
-                "Defenders #2-4 (2001)", 
-                "The Order #1 (2002)"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Samantha Parrington can mystically assume the superhumanly strong and durable form of the Valkyrie Brunnhilde, who was far stronger than the average Asgardian goddess.", 
-            "realname": "Samantha Parrington", 
-            "significantissues": [
-                "Temporarily transformed into Valkyrie by Enchantress, battled Hulk (Incredible Hulk #142, 1971)", 
-                "restored to Valkyrie form by Pluto and Lorelei, used as pawn against Defenders before shaking off control of Pluto and Lorelei, met original Valkyrie Brunnhilde, given Dragonfang and Aragorn by Brunnhilde, joined Defenders (Defenders #2-4, 2001)", 
-                "background explored, reconnected with parents, battled The Order alongside Defenders and other allies, helped save world from Yandroth (The Order #1-6, 2002)"
-            ], 
-            "speed": 5, 
-            "strength": 6, 
-            "universe": "Marvel Universe", 
-            "weight": 475
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "Brunnhilde was later reborn in the mortal host body of Barbara Norriss and, as the Valkyrie, became a mainstay of the Defenders. She went on to become the longest-serving member of that group, remaining with them even after regaining her original Asgardian body; however, she gradually felt more detached from life on Earth. During a period when the Defenders were disbanded, Brunnhilde returned to Asgard and resumed her ancient duties as leader of the Valkyrior, but Earth had not seen the last of the Valkyrie. When the rogue god Pluto sought a Valkyrie pawn, he had Amora's sister Lorelei transform Samantha Parrington into the Valkyrie again. A mind-controlled Samantha served them until they ran afoul of the reunited Defenders and Brunnhilde, who routed Pluto and Lorelei after Samantha shook off their control. Happy to have a worthy successor on Earth, Brunnhilde returned to Asgard and Samantha joined the Defenders as their new Valkyrie. Her parents have tried to support her new superheroic pursuits by offering the Defenders funding, equipment and well-intentioned meddling.", 
+    "durability": 5, 
+    "education": "College", 
+    "energy": 2, 
+    "eyes": "Blue\n", 
+    "fighting": 5, 
+    "firstappearance": "Incredible Hulk #142 (1971); (Amora as Valkyrie) Avengers #83 (1970); (Samantha as Valkyrie) Incredible Hulk #142 (1971); (Brunnhilde as Valkyrie) Defenders #4 (1973)\n", 
+    "groupaffiliation": [
+        "Lady Liberators", 
+        "formerly Defenders"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 75, 
+    "id": "Valkyrie", 
+    "identity": "Secret", 
+    "intelligence": 4, 
+    "knownrelatives": "Reginald Parrington (father), Malicia Parrington (mother)", 
+    "occupation": [
+        "Heiress", 
+        "adventurer"
+    ], 
+    "origin": [
+        "Incredible Hulk #142 (1971)", 
+        "Defenders #2-4 (2001)", 
+        "The Order #1 (2002)"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Samantha Parrington can mystically assume the superhumanly strong and durable form of the Valkyrie Brunnhilde, who was far stronger than the average Asgardian goddess.", 
+    "realname": "Samantha Parrington", 
+    "significantissues": [
+        "Temporarily transformed into Valkyrie by Enchantress, battled Hulk (Incredible Hulk #142, 1971)", 
+        "restored to Valkyrie form by Pluto and Lorelei, used as pawn against Defenders before shaking off control of Pluto and Lorelei, met original Valkyrie Brunnhilde, given Dragonfang and Aragorn by Brunnhilde, joined Defenders (Defenders #2-4, 2001)", 
+        "background explored, reconnected with parents, battled The Order alongside Defenders and other allies, helped save world from Yandroth (The Order #1-6, 2002)"
+    ], 
+    "speed": 5, 
+    "strength": 6, 
+    "universe": "Marvel Universe", 
+    "weight": 475
 }

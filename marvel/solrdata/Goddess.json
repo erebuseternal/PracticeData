@@ -1,37 +1,33 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Wise Women", 
-            "citizenship": "None", 
-            "content": "Gathering at least 15 more such units, and eventually forging them all into the immensely powerful Cosmic Egg, the Goddess secretly plotted to achieve universal rapture. This could only be done through the extinction of all life. While her Egg had limitations preventing it from accomplishing this task, she discovered that the collective souls of the universe's sentient beings could override this barrier. She first warped reality to incapacitate Warlock and the mad titan Thanos, whom she knew would oppose her. Both Thanos and Warlock quickly recovered.Via the Cosmic Egg, the Goddess blanketed Earth with her will, causing peaceful bliss among most. She communicated directly with religious super-heroes and those with strong morals or individuals having after-death experiences, enlisted them to her cause of universal beatitude, though she concealed her ultimate goal of universal purification. She transported her followers to Paradise Omega, a planet she created opposite Earth around the sun. As her influence spread across the Earth, the Fantastic Four's Reed Richards sensed the energies and gathered many of the Earth's heroes to oppose the dissolution of free will.After a meeting with Richards and his allies, the Goddess transported the Egg and herself to the molten core of Paradise Omega. She expanded her influence outward from the Earth, while the telepath Moondragon served as the Goddess' field agent during her absence. The mischievous Pip the Troll managed to steal the  power of the Cosmic Egg and briefly usurped the Goddess' control before being incapacitated by her hidden guardian, the New Warrior Silhouette. Warlock learned of the Goddess' intent from the cosmic entities Eternity and Infinity. He passed this knowledge along with his Soul Gem onto Thanos, before sending his own soul to the dimension known as soulworld inside of the Gem.Thanos joined the Earth's forces against the Goddess', but their progress towards victory proved too slow to prevent her influence from spreading across the universe. Meanwhile, Thanos used the Soul Gem to transfer Warlock's soul into the Goddess herself. Warlock journeyed to the inner core of her psyche, but found the Egg's supplemental power prevented his subverting her will. As the Goddess bypassed the Cosmic Egg's safety limits, Warlock used his influence within the Goddess to access the Egg himself to cause an illusion of her goal occurring seconds before it would really happen. The suns of the universe seemingly went nova and all life perished, but when the illusion faded, the Goddess' goals were made apparent. Her followers lost their faith in her, fracturing the universal will, and preventing her from using the Egg's full power.", 
-            "durability": 1, 
-            "education": "No formal education", 
-            "energy": 1, 
-            "eyes": "No visible iris\n", 
-            "fighting": 1, 
-            "firstappearance": "Infinity War #2 (1992) [identified]: Infinity Crusade #1 (1993)\n", 
-            "groupaffiliation": "Led the Infinity Crusade group", 
-            "hair": "Blonde\n", 
-            "height": 72, 
-            "id": "Goddess", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Adam Warlock (creator, primary self), Magus (\"brother\"}, Kismet (genetic twin)", 
-            "occupation": [
-                "Crusader", 
-                "would-be universal savior"
-            ], 
-            "origin": [
-                "Infinity War #2 (1992)", 
-                "Warlock Chronicles #5 (1993)"
-            ], 
-            "powers": "Insubstantial and invisible, the Goddess is currently powerless. As a physical being, she possessed superhuman strength (lifting 5 tons), durability, agility and reflexes. She could fly at supersonic speeds, her body channeled cosmic energy, and she may have possessed telepathy. While in possession of the Cosmic Egg she could restructure matter on a planetary scale, manipulate minds on a universal scale, and create powerful force fields or energy bolts.", 
-            "realname": "None", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": "Wise Women", 
+    "citizenship": "None", 
+    "content": "Gathering at least 15 more such units, and eventually forging them all into the immensely powerful Cosmic Egg, the Goddess secretly plotted to achieve universal rapture. This could only be done through the extinction of all life. While her Egg had limitations preventing it from accomplishing this task, she discovered that the collective souls of the universe's sentient beings could override this barrier. She first warped reality to incapacitate Warlock and the mad titan Thanos, whom she knew would oppose her. Both Thanos and Warlock quickly recovered.Via the Cosmic Egg, the Goddess blanketed Earth with her will, causing peaceful bliss among most. She communicated directly with religious super-heroes and those with strong morals or individuals having after-death experiences, enlisted them to her cause of universal beatitude, though she concealed her ultimate goal of universal purification. She transported her followers to Paradise Omega, a planet she created opposite Earth around the sun. As her influence spread across the Earth, the Fantastic Four's Reed Richards sensed the energies and gathered many of the Earth's heroes to oppose the dissolution of free will.After a meeting with Richards and his allies, the Goddess transported the Egg and herself to the molten core of Paradise Omega. She expanded her influence outward from the Earth, while the telepath Moondragon served as the Goddess' field agent during her absence. The mischievous Pip the Troll managed to steal the  power of the Cosmic Egg and briefly usurped the Goddess' control before being incapacitated by her hidden guardian, the New Warrior Silhouette. Warlock learned of the Goddess' intent from the cosmic entities Eternity and Infinity. He passed this knowledge along with his Soul Gem onto Thanos, before sending his own soul to the dimension known as soulworld inside of the Gem.Thanos joined the Earth's forces against the Goddess', but their progress towards victory proved too slow to prevent her influence from spreading across the universe. Meanwhile, Thanos used the Soul Gem to transfer Warlock's soul into the Goddess herself. Warlock journeyed to the inner core of her psyche, but found the Egg's supplemental power prevented his subverting her will. As the Goddess bypassed the Cosmic Egg's safety limits, Warlock used his influence within the Goddess to access the Egg himself to cause an illusion of her goal occurring seconds before it would really happen. The suns of the universe seemingly went nova and all life perished, but when the illusion faded, the Goddess' goals were made apparent. Her followers lost their faith in her, fracturing the universal will, and preventing her from using the Egg's full power.", 
+    "durability": 1, 
+    "education": "No formal education", 
+    "energy": 1, 
+    "eyes": "No visible iris\n", 
+    "fighting": 1, 
+    "firstappearance": "Infinity War #2 (1992) [identified]: Infinity Crusade #1 (1993)\n", 
+    "groupaffiliation": "Led the Infinity Crusade group", 
+    "hair": "Blonde\n", 
+    "height": 72, 
+    "id": "Goddess", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Adam Warlock (creator, primary self), Magus (\"brother\"}, Kismet (genetic twin)", 
+    "occupation": [
+        "Crusader", 
+        "would-be universal savior"
+    ], 
+    "origin": [
+        "Infinity War #2 (1992)", 
+        "Warlock Chronicles #5 (1993)"
+    ], 
+    "powers": "Insubstantial and invisible, the Goddess is currently powerless. As a physical being, she possessed superhuman strength (lifting 5 tons), durability, agility and reflexes. She could fly at supersonic speeds, her body channeled cosmic energy, and she may have possessed telepathy. While in possession of the Cosmic Egg she could restructure matter on a planetary scale, manipulate minds on a universal scale, and create powerful force fields or energy bolts.", 
+    "realname": "None", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

@@ -1,57 +1,53 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Stox", 
-                "Dream Maker", 
-                "Dream Master"
-            ], 
-            "citizenship": [
-                "Italy", 
-                "with a criminal record in the U.S.A."
-            ], 
-            "content": "Luchino wanted a male heir to perpetuate the Nefaria line, but his wife Renata died giving birth to their only child, their daughter Giulietta. Wishing to protect the child from his enemies and hoping to shield her from ever learning of his criminal empire, Nefaria placed her in the custody of Byron Frost, an American financier heavily indebted to Nefaria, and he had Frost raise her as his own adopted daughter, Whitney. While Whitney grew up in America, blissfully unaware of her true parentage, Count Nefaria's Maggia family began expanding their operations into the United States, but they were repeatedly opposed by America's crimefighters, particularly the Avengers. Deciding to handle this obstacle personally, Nefaria had his ancestral castle moved from Italy to New Jersey stone by stone. Opening the castle to public tours and donating the admission money to charity, the seemingly benevolent Nefaria invited the unwitting Avengers to his home, where he trapped them in stasis long enough to frame them for treason by using sophisticated illusions. Reduced to hunted fugitives, the Avengers stormed Nefaria's castle and defeated his mob soldiers, though Wasp was gravely wounded in the process. In the end, the heroes rescued their young Teen Brigade allies from one of Nefaria's death traps, the Avengers were exonerated, and Nefaria was exposed to the world as a criminal.The Avengers' defeat of Nefaria hurt the influence and stature of Nefaria's Maggia crime family considerably. While he worked to rebuild his empire, Nefaria contacted the now-adult Whitney Frost, revealed he was her father, and invited her to join his Maggia crime family so that he could train her as his future successor. Horrified, Whitney refused the offer at first, but Nefaria threatened to expose her parentage to the world, and her own fianc\u00e9 abandoned her after he learned the truth about her family. Losing all hope of a normal life, a broken Whitney joined her father's organization, soon becoming his second-in-command. Nefaria, still plotting to destroy the Avengers, targeted Iron Man (secretly Avengers financier Tony Stark) with an illusion-casting \"nightmare machine\" in an attempt to frighten him literally to death, but Iron Man resisted the device, which a frustrated Nefaria accidentally wrecked. Nefaria next conspired with Tony Stark's ne'er-do-well cousin, Morgan Stark, to ruin Tony's reputation, but this scheme failed as well. Nefaria later shocked the nation by sealing the entire city of Washington under an artificial dome and holding it for ransom, but he and his super-criminal accomplices were defeated by the original X-Men and the city was freed. Nefaria was imprisoned and his daughter took over their Maggia crime family, but the Count soon escaped.Frozen out of the Maggia due to his very public failures, Nefaria became an independent criminal operator. Employing the Ani-Men (whom he had his scientists mutate into superhumans), Nefaria seized the North American Air Defense Command at Valhalla Mountain in Colorado and threatened to launch America's nuclear arsenal unless he was paid an enormous ransom. His scheme was thwarted by a new team of X-Men, including Thunderbird (James Proudstar), who died trying to prevent Nefaria's escape. His monetary and technological resources dwindling, Nefaria sought superhuman power for himself. Assembling Living Laser, Power Man (Erik Josten) and Whirlwind to battle the Avengers as a new Lethal Legion, Nefaria had their powers boosted by scientist Kenneth Sturdy, but it was a deliberately temporary boost. While the Legion was captured, Sturdy used his process (derived from the ionic energy treatments of Baron Zemo) to give Nefaria the Legion's combined powers, magnified a hundredfold. Despite Nefaria's newly god-like power, the Avengers managed to defeat him after a desperate battle, and the villain learned that he was aging rapidly as a result of the process that gave him his powers.Deteriorating into an aged invalid who needed a special life-support system, Nefaria escaped custody with the aid of the Ani-Men and his daughter, who by this time had become romantically involved with Tony Stark. When Iron Man (whom Whitney knew to be Stark) tried to take Nefaria back into custody, the Ani-Men and Whitney resisted, and Nefaria was accidentally crushed during the battle. Betrayed by her lover and convinced her father was dead, an increasingly bitter and paranoid Whitney went deep into hiding in her role as crime boss Madame Masque, operating mostly through surrogates for years, even producing clones of herself to act in her stead (one of these \"bio-duplicates,\" a rogue known simply as Masque, broke away from Whitney's service and briefly served as an honorary Avenger before she was recaptured).", 
-            "durability": 7, 
-            "education": "College graduate", 
-            "energy": 7, 
-            "eyes": "Blue\n", 
-            "fighting": 6, 
-            "firstappearance": "Avengers #13 (1965)\n", 
-            "groupaffiliation": [
-                "Leader of his own Maggia crime family", 
-                "formerly Legion of the Unliving", 
-                "former employer of various mercenaries including (Nitro", 
-                "Whiplash", 
-                "Death Squad", 
-                "Lethal Legion", 
-                "Ani-Men", 
-                "Eel", 
-                "Plantman", 
-                "Porcupine", 
-                "Scarecrow", 
-                "Unicorn", 
-                "and various other operatives)"
-            ], 
-            "hair": "Black\n", 
-            "height": 0, 
-            "id": "Count_Nefaria", 
-            "identity": "Publicly known", 
-            "intelligence": 7, 
-            "knownrelatives": "Countess Giulietta Nefaria (Madame Masque, a.k.a. Whitney Frost, daughter); Countess Renata Nefaria (wife, deceased); Masque (\"bio-duplicate\" of daughter Whitney Frost, deceased)", 
-            "occupation": [
-                "Professional criminal", 
-                "would-be world conqueror"
-            ], 
-            "placeofbirth": [
-                "Rome", 
-                "Italy"
-            ], 
-            "powers": "When his body is fully charged with ionic energy, Nefaria possesses tremendous, nearly immeasurable strength and durability, high-level superhuman speed, the power of flight, and the ability to fire powerful laser beams from his eyes. In recent times, he has also proven capable of forming and manipulating crude ionic energy constructs, such as an energy strand used to lasso an opponent. If Nefaria's bodily ionic energy reserves dwindle too low, his powers start to fade and his body begins to wither and age rapidly. Nefaria periodically replenishes his energies by draining power from outside sources of ionic energy, often draining other ionic-powered super-beings like himself. If Nefaria drains too much energy too quickly, his victim will die. Like other ionic super-beings such as Atlas and Wonder Man, Nefaria has apparently developed astounding regenerative powers, enabling him to heal himself from a seemingly deceased state or even reintegrate his bodily matter after exploding.", 
-            "realname": "Count Luchino Nefaria", 
-            "speed": 7, 
-            "strength": 7, 
-            "universe": "Marvel Universe", 
-            "weight": 230
-        }
-    }
+    "aliases": [
+        "Stox", 
+        "Dream Maker", 
+        "Dream Master"
+    ], 
+    "citizenship": [
+        "Italy", 
+        "with a criminal record in the U.S.A."
+    ], 
+    "content": "Luchino wanted a male heir to perpetuate the Nefaria line, but his wife Renata died giving birth to their only child, their daughter Giulietta. Wishing to protect the child from his enemies and hoping to shield her from ever learning of his criminal empire, Nefaria placed her in the custody of Byron Frost, an American financier heavily indebted to Nefaria, and he had Frost raise her as his own adopted daughter, Whitney. While Whitney grew up in America, blissfully unaware of her true parentage, Count Nefaria's Maggia family began expanding their operations into the United States, but they were repeatedly opposed by America's crimefighters, particularly the Avengers. Deciding to handle this obstacle personally, Nefaria had his ancestral castle moved from Italy to New Jersey stone by stone. Opening the castle to public tours and donating the admission money to charity, the seemingly benevolent Nefaria invited the unwitting Avengers to his home, where he trapped them in stasis long enough to frame them for treason by using sophisticated illusions. Reduced to hunted fugitives, the Avengers stormed Nefaria's castle and defeated his mob soldiers, though Wasp was gravely wounded in the process. In the end, the heroes rescued their young Teen Brigade allies from one of Nefaria's death traps, the Avengers were exonerated, and Nefaria was exposed to the world as a criminal.The Avengers' defeat of Nefaria hurt the influence and stature of Nefaria's Maggia crime family considerably. While he worked to rebuild his empire, Nefaria contacted the now-adult Whitney Frost, revealed he was her father, and invited her to join his Maggia crime family so that he could train her as his future successor. Horrified, Whitney refused the offer at first, but Nefaria threatened to expose her parentage to the world, and her own fianc\u00e9 abandoned her after he learned the truth about her family. Losing all hope of a normal life, a broken Whitney joined her father's organization, soon becoming his second-in-command. Nefaria, still plotting to destroy the Avengers, targeted Iron Man (secretly Avengers financier Tony Stark) with an illusion-casting \"nightmare machine\" in an attempt to frighten him literally to death, but Iron Man resisted the device, which a frustrated Nefaria accidentally wrecked. Nefaria next conspired with Tony Stark's ne'er-do-well cousin, Morgan Stark, to ruin Tony's reputation, but this scheme failed as well. Nefaria later shocked the nation by sealing the entire city of Washington under an artificial dome and holding it for ransom, but he and his super-criminal accomplices were defeated by the original X-Men and the city was freed. Nefaria was imprisoned and his daughter took over their Maggia crime family, but the Count soon escaped.Frozen out of the Maggia due to his very public failures, Nefaria became an independent criminal operator. Employing the Ani-Men (whom he had his scientists mutate into superhumans), Nefaria seized the North American Air Defense Command at Valhalla Mountain in Colorado and threatened to launch America's nuclear arsenal unless he was paid an enormous ransom. His scheme was thwarted by a new team of X-Men, including Thunderbird (James Proudstar), who died trying to prevent Nefaria's escape. His monetary and technological resources dwindling, Nefaria sought superhuman power for himself. Assembling Living Laser, Power Man (Erik Josten) and Whirlwind to battle the Avengers as a new Lethal Legion, Nefaria had their powers boosted by scientist Kenneth Sturdy, but it was a deliberately temporary boost. While the Legion was captured, Sturdy used his process (derived from the ionic energy treatments of Baron Zemo) to give Nefaria the Legion's combined powers, magnified a hundredfold. Despite Nefaria's newly god-like power, the Avengers managed to defeat him after a desperate battle, and the villain learned that he was aging rapidly as a result of the process that gave him his powers.Deteriorating into an aged invalid who needed a special life-support system, Nefaria escaped custody with the aid of the Ani-Men and his daughter, who by this time had become romantically involved with Tony Stark. When Iron Man (whom Whitney knew to be Stark) tried to take Nefaria back into custody, the Ani-Men and Whitney resisted, and Nefaria was accidentally crushed during the battle. Betrayed by her lover and convinced her father was dead, an increasingly bitter and paranoid Whitney went deep into hiding in her role as crime boss Madame Masque, operating mostly through surrogates for years, even producing clones of herself to act in her stead (one of these \"bio-duplicates,\" a rogue known simply as Masque, broke away from Whitney's service and briefly served as an honorary Avenger before she was recaptured).", 
+    "durability": 7, 
+    "education": "College graduate", 
+    "energy": 7, 
+    "eyes": "Blue\n", 
+    "fighting": 6, 
+    "firstappearance": "Avengers #13 (1965)\n", 
+    "groupaffiliation": [
+        "Leader of his own Maggia crime family", 
+        "formerly Legion of the Unliving", 
+        "former employer of various mercenaries including (Nitro", 
+        "Whiplash", 
+        "Death Squad", 
+        "Lethal Legion", 
+        "Ani-Men", 
+        "Eel", 
+        "Plantman", 
+        "Porcupine", 
+        "Scarecrow", 
+        "Unicorn", 
+        "and various other operatives)"
+    ], 
+    "hair": "Black\n", 
+    "height": 0, 
+    "id": "Count_Nefaria", 
+    "identity": "Publicly known", 
+    "intelligence": 7, 
+    "knownrelatives": "Countess Giulietta Nefaria (Madame Masque, a.k.a. Whitney Frost, daughter); Countess Renata Nefaria (wife, deceased); Masque (\"bio-duplicate\" of daughter Whitney Frost, deceased)", 
+    "occupation": [
+        "Professional criminal", 
+        "would-be world conqueror"
+    ], 
+    "placeofbirth": [
+        "Rome", 
+        "Italy"
+    ], 
+    "powers": "When his body is fully charged with ionic energy, Nefaria possesses tremendous, nearly immeasurable strength and durability, high-level superhuman speed, the power of flight, and the ability to fire powerful laser beams from his eyes. In recent times, he has also proven capable of forming and manipulating crude ionic energy constructs, such as an energy strand used to lasso an opponent. If Nefaria's bodily ionic energy reserves dwindle too low, his powers start to fade and his body begins to wither and age rapidly. Nefaria periodically replenishes his energies by draining power from outside sources of ionic energy, often draining other ionic-powered super-beings like himself. If Nefaria drains too much energy too quickly, his victim will die. Like other ionic super-beings such as Atlas and Wonder Man, Nefaria has apparently developed astounding regenerative powers, enabling him to heal himself from a seemingly deceased state or even reintegrate his bodily matter after exploding.", 
+    "realname": "Count Luchino Nefaria", 
+    "speed": 7, 
+    "strength": 7, 
+    "universe": "Marvel Universe", 
+    "weight": 230
 }

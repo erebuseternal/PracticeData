@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "None", 
-            "content": "", 
-            "durability": 6, 
-            "education": "Has learned a great deal through observation and studying at various intergalactic universities.", 
-            "energy": 6, 
-            "eyes": "Has one eye that is red, and two that are white\n", 
-            "fighting": 2, 
-            "firstappearance": "Quasar #27 (1991)\n", 
-            "groupaffiliation": "None", 
-            "hair": "What appears to be his/her \"hair\" is brown\n", 
-            "id": "Epoch", 
-            "identity": "Cosmic Entity whose existence is unknown to the majority of the populace of Earth", 
-            "intelligence": 6, 
-            "knownrelatives": "Eon (father)", 
-            "occupation": "Keeper of Cosmic Awareness", 
-            "powers": "Can manipulate cosmic energy for a variety of effects including flight.", 
-            "realname": "Epoch", 
-            "speed": 7, 
-            "strength": 4, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "None", 
+    "content": "", 
+    "durability": 6, 
+    "education": "Has learned a great deal through observation and studying at various intergalactic universities.", 
+    "energy": 6, 
+    "eyes": "Has one eye that is red, and two that are white\n", 
+    "fighting": 2, 
+    "firstappearance": "Quasar #27 (1991)\n", 
+    "groupaffiliation": "None", 
+    "hair": "What appears to be his/her \"hair\" is brown\n", 
+    "id": "Epoch", 
+    "identity": "Cosmic Entity whose existence is unknown to the majority of the populace of Earth", 
+    "intelligence": 6, 
+    "knownrelatives": "Eon (father)", 
+    "occupation": "Keeper of Cosmic Awareness", 
+    "powers": "Can manipulate cosmic energy for a variety of effects including flight.", 
+    "realname": "Epoch", 
+    "speed": 7, 
+    "strength": 4, 
+    "universe": "Marvel Universe"
 }

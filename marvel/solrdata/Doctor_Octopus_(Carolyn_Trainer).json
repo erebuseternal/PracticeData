@@ -1,43 +1,39 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Lady Octopus", 
-            "citizenship": "U.S.A with criminal record", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Ph.D. in nuclear physics with multiple degrees in computer science", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "(Tentacles only) Amazing Spider-Man #405, (fully seen) Amazing Spider-Man #406 (1995)\n", 
-            "groupaffiliation": [
-                "Assistant to Doctor Octopus", 
-                "formerly head of unidentified organization employing scientist", 
-                "varios \"Octo-punks\""
-            ], 
-            "hair": "Black, dyed Purple\n", 
-            "height": 70, 
-            "id": "Doctor_Octopus_(Carolyn_Trainer)", 
-            "identity": "Known to authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Seward Trainer (father, deceased)", 
-            "occupation": [
-                "Assistant to Otto Octavius", 
-                "formerly a research scientist in VR technology", 
-                "professional criminal"
-            ], 
-            "origin": "Spider-Man Unlimited #18 (1997)", 
-            "placeofbirth": [
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Carolyn Trainer", 
-            "significantissues": "Official Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 140
-        }
-    }
+    "aliases": "Lady Octopus", 
+    "citizenship": "U.S.A with criminal record", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Ph.D. in nuclear physics with multiple degrees in computer science", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "(Tentacles only) Amazing Spider-Man #405, (fully seen) Amazing Spider-Man #406 (1995)\n", 
+    "groupaffiliation": [
+        "Assistant to Doctor Octopus", 
+        "formerly head of unidentified organization employing scientist", 
+        "varios \"Octo-punks\""
+    ], 
+    "hair": "Black, dyed Purple\n", 
+    "height": 70, 
+    "id": "Doctor_Octopus_(Carolyn_Trainer)", 
+    "identity": "Known to authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Seward Trainer (father, deceased)", 
+    "occupation": [
+        "Assistant to Otto Octavius", 
+        "formerly a research scientist in VR technology", 
+        "professional criminal"
+    ], 
+    "origin": "Spider-Man Unlimited #18 (1997)", 
+    "placeofbirth": [
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Carolyn Trainer", 
+    "significantissues": "Official Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 140
 }

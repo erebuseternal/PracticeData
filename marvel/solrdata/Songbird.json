@@ -1,60 +1,56 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Screaming Mimi", 
-                "Mimi Schwartz", 
-                "Margie Green"
-            ], 
-            "citizenship": [
-                "U.S.A.", 
-                "former criminal record", 
-                "pardoned"
-            ], 
-            "content": "She also dated a criminal named Mike, who abandoned her to the police when he was found with stolen goods. In prison, Melissa met wrestler Marian Pouncy who brought her into the costumed wrestling team the Grapplers as \"Screaming Mimi\". The Grapplers moonlighted as criminals and were cybernetically enhanced by Roxxon Oil, who had hired them to invade the government's Project: PEGASUS facility, but they were defeated by Quasar and Giant-Man.Screaming Mimi eventually left the Grapplers, serving in Helmut Zemo's Masters of Evil and partnering with the similarly powered Angar the Screamer; however, Angar was killed during a robbery and a grieving Mimi went on a screaming rampage that destroyed her voice. She was rescued by Zemo, who recruited her back into his Masters and had the Fixer grant her new abilities based on Klaw's Sonic Horn. When Zemo's new Masters disguised themselves as the heroic Thunderbolts, Melissa adopted the identity of Songbird and became romantically involved with teammate Abe Jenkins, alias M.A.C.H. 1, who trained her in aerial combat.", 
-            "durability": 1, 
-            "education": "University student", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Marvel Two-In-One #54 (1979)\n", 
-            "groupaffiliation": [
-                "Formerly Thunderbolts", 
-                "Masters of Evil", 
-                "Unlimited Class Wrestling Federation", 
-                "Grapplers"
-            ], 
-            "hair": "Red with white streaks\n", 
-            "height": 65, 
-            "id": "Songbird", 
-            "identity": "Known to the U.S. legal authorities", 
-            "intelligence": 1, 
-            "knownrelatives": "Mimi Gold (mother), Mr. Gold (father)", 
-            "occupation": [
-                "Adventurer", 
-                "former criminal and wrestler"
-            ], 
-            "origin": [
-                "Thunderbolts: Distant Rumblings #-1 (1997)", 
-                "Thunderbolts #21 (1998)"
-            ], 
-            "placeofbirth": [
-                "Shoshoni", 
-                "Wyoming"
-            ], 
-            "powers": "Melissa's physical strength was slightly enhanced by treatments from the Power Broker, but this has since faded. Before she burned out her original sonic powers, Melissa's cybernetically enhanced vocal cords could produce super-sonic screams causing effects such as disorientation, hallucinations or unconsciousness. She can still produce inaudible ultrasonic waves with which she can subtly influence the emotions and conduct of people around her. Her other current vocal powers only function in concert with her high-tech harness.", 
-            "realname": "Melissa Joan Gold", 
-            "significantissues": [
-                "With Grapplers, invaded Project: PEGASUS, defeated (Marvel Two-In-One #56 (1979)", 
-                "joined Zemo's Masters of Evil (Avengers #271, 1986)", 
-                "death of Angar, joined Thunderbolts (Thunderbolts '97 Annual, 1997)", 
-                "fell in love with Abner Jenkins (Thunderbolts #2, 1997)", 
-                "joined new team of Thunderbolts (New Thunderbolts #1, 2004)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 145
-        }
-    }
+    "aliases": [
+        "Screaming Mimi", 
+        "Mimi Schwartz", 
+        "Margie Green"
+    ], 
+    "citizenship": [
+        "U.S.A.", 
+        "former criminal record", 
+        "pardoned"
+    ], 
+    "content": "She also dated a criminal named Mike, who abandoned her to the police when he was found with stolen goods. In prison, Melissa met wrestler Marian Pouncy who brought her into the costumed wrestling team the Grapplers as \"Screaming Mimi\". The Grapplers moonlighted as criminals and were cybernetically enhanced by Roxxon Oil, who had hired them to invade the government's Project: PEGASUS facility, but they were defeated by Quasar and Giant-Man.Screaming Mimi eventually left the Grapplers, serving in Helmut Zemo's Masters of Evil and partnering with the similarly powered Angar the Screamer; however, Angar was killed during a robbery and a grieving Mimi went on a screaming rampage that destroyed her voice. She was rescued by Zemo, who recruited her back into his Masters and had the Fixer grant her new abilities based on Klaw's Sonic Horn. When Zemo's new Masters disguised themselves as the heroic Thunderbolts, Melissa adopted the identity of Songbird and became romantically involved with teammate Abe Jenkins, alias M.A.C.H. 1, who trained her in aerial combat.", 
+    "durability": 1, 
+    "education": "University student", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Marvel Two-In-One #54 (1979)\n", 
+    "groupaffiliation": [
+        "Formerly Thunderbolts", 
+        "Masters of Evil", 
+        "Unlimited Class Wrestling Federation", 
+        "Grapplers"
+    ], 
+    "hair": "Red with white streaks\n", 
+    "height": 65, 
+    "id": "Songbird", 
+    "identity": "Known to the U.S. legal authorities", 
+    "intelligence": 1, 
+    "knownrelatives": "Mimi Gold (mother), Mr. Gold (father)", 
+    "occupation": [
+        "Adventurer", 
+        "former criminal and wrestler"
+    ], 
+    "origin": [
+        "Thunderbolts: Distant Rumblings #-1 (1997)", 
+        "Thunderbolts #21 (1998)"
+    ], 
+    "placeofbirth": [
+        "Shoshoni", 
+        "Wyoming"
+    ], 
+    "powers": "Melissa's physical strength was slightly enhanced by treatments from the Power Broker, but this has since faded. Before she burned out her original sonic powers, Melissa's cybernetically enhanced vocal cords could produce super-sonic screams causing effects such as disorientation, hallucinations or unconsciousness. She can still produce inaudible ultrasonic waves with which she can subtly influence the emotions and conduct of people around her. Her other current vocal powers only function in concert with her high-tech harness.", 
+    "realname": "Melissa Joan Gold", 
+    "significantissues": [
+        "With Grapplers, invaded Project: PEGASUS, defeated (Marvel Two-In-One #56 (1979)", 
+        "joined Zemo's Masters of Evil (Avengers #271, 1986)", 
+        "death of Angar, joined Thunderbolts (Thunderbolts '97 Annual, 1997)", 
+        "fell in love with Abner Jenkins (Thunderbolts #2, 1997)", 
+        "joined new team of Thunderbolts (New Thunderbolts #1, 2004)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 145
 }

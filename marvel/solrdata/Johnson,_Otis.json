@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Otis from the Island of Shaolin", 
-                "Secretary Supreme"
-            ], 
-            "citizenship": "Unrevealed", 
-            "content": "During an investigation into the dealings of Ricadonna, after the murders of Freezer Burn and 8-Ball, Otis was asked to pose as the parking attendant at an auction she was having for several terrorist organizations around the globe for a microchip designed to cripple world finances and defense systems. Otis did his job amicably, but it wasn't until Ricadonna tried to escape that he would really be of help. He managed to stall her and her bodyguards from leaving until Misty and Iron Fist could catch up and contain them for the authorities.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 1, 
-            "firstappearance": "Daughters of the Dragon #2 (2006)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Brown\n", 
-            "id": "Johnson,_Otis", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Unidentified parents", 
-            "occupation": "Former receptionist for Nightwing Restorations and Heroes for Hire", 
-            "origin": "Daughters of the Dragon #3 (2006)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Due to a mishap at an A.I.M. facility, Otis was exposed to a chemical blast making him indestructible and impervious to pain", 
-            "realname": "Otis Danger Johnson II", 
-            "significantissues": [
-                "Got the job at Nightwing Restorations (Daughters of the Dragon #2, 2006)", 
-                "Took a beating from Orka and walked away without a scratch (Daughters of the Dragon #3, 2006)", 
-                "Posed as a parking attendant and prevented Ricadonna from escaping (Daughters of the Dragon #6, 2006)", 
-                "Blown up along with the Heroes for Hire office (Heroes for Hire #3, 2006)", 
-                "Acted as a pizza delivery guy to help Heroes for Hire get information about Grim Reaper (Heroes for Hire #6, 2007)", 
-                "Took on the Headmen with Orka and Shang-Chi (Heroes for Hire #7-8, 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Otis from the Island of Shaolin", 
+        "Secretary Supreme"
+    ], 
+    "citizenship": "Unrevealed", 
+    "content": "During an investigation into the dealings of Ricadonna, after the murders of Freezer Burn and 8-Ball, Otis was asked to pose as the parking attendant at an auction she was having for several terrorist organizations around the globe for a microchip designed to cripple world finances and defense systems. Otis did his job amicably, but it wasn't until Ricadonna tried to escape that he would really be of help. He managed to stall her and her bodyguards from leaving until Misty and Iron Fist could catch up and contain them for the authorities.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 1, 
+    "firstappearance": "Daughters of the Dragon #2 (2006)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Brown\n", 
+    "id": "Johnson,_Otis", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Unidentified parents", 
+    "occupation": "Former receptionist for Nightwing Restorations and Heroes for Hire", 
+    "origin": "Daughters of the Dragon #3 (2006)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Due to a mishap at an A.I.M. facility, Otis was exposed to a chemical blast making him indestructible and impervious to pain", 
+    "realname": "Otis Danger Johnson II", 
+    "significantissues": [
+        "Got the job at Nightwing Restorations (Daughters of the Dragon #2, 2006)", 
+        "Took a beating from Orka and walked away without a scratch (Daughters of the Dragon #3, 2006)", 
+        "Posed as a parking attendant and prevented Ricadonna from escaping (Daughters of the Dragon #6, 2006)", 
+        "Blown up along with the Heroes for Hire office (Heroes for Hire #3, 2006)", 
+        "Acted as a pizza delivery guy to help Heroes for Hire get information about Grim Reaper (Heroes for Hire #6, 2007)", 
+        "Took on the Headmen with Orka and Shang-Chi (Heroes for Hire #7-8, 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

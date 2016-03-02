@@ -1,88 +1,84 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Formerly Penance", 
-                "Penny"
-            ], 
-            "citizenship": [
-                "Bosnia", 
-                "Algeria", 
-                "and France"
-            ], 
-            "content": "", 
-            "durability": 5, 
-            "education": "Studies at Massachusetts Academy and DeLaCorte\u2019s Boarding School", 
-            "energy": 1, 
-            "eyes": "(As Penance) Blue; (as M) Brown\n", 
-            "fighting": 4, 
-            "firstappearance": "(Twins as Monet) Uncanny X-Men #316 (1994); (Monet as Penance) Generation X #1 (1994); (as Monet) Generation X #40 (1998); (twins as Penance) Generation X #40 (1998); (third Penance) Generation X #57 (1999)\n", 
-            "groupaffiliation": [
-                "X-Factor Investigations", 
-                "formerly X-Men", 
-                "X-Corporation", 
-                "X-Corps", 
-                "Generation X"
-            ], 
-            "hair": "(As Penance) Red; (as M) Black\n", 
-            "height": 67, 
-            "id": "M_(Monet_St._Croix)", 
-            "identity": "Secret", 
-            "intelligence": 5, 
-            "knownrelatives": "Cartier St. Croix (father), unidentified mother (deceased), Marius St. Croix (Emplate, brother), Claudette St. Croix (sister), Nicole St. Croix (sister), Penance/Hollow (unknown relationship)", 
-            "occupation": [
-                "Adventurer", 
-                "private investigator", 
-                "former student"
-            ], 
-            "origin": [
-                "Generation X #24 (1997)", 
-                "Generation X #40 (1998)"
-            ], 
-            "placeofbirth": [
-                "Sarajevo", 
-                "Bosnia"
-            ], 
-            "powers": "M's abilities include superhuman strength and speed, telepathy, flight, nigh-invulnerability, acute night vision, heightened hearing, and the ability to perceive mutants' auras. Her body's injuries heal at an accelerated rate. Her former Penance form was diamond-hard and super-dense, with clawed hands and feet and razor-sharp skin and hair.", 
-            "realname": "Monet Yvette Clarisse Maria Therese St. Croix", 
-            "significantissues": [
-                "Twins as Monet captured by Phalanx, rescued by X-Men (Uncanny X-Men #316-317/X-Men #36-37, 1994)", 
-                "twins joined Generation X, Monet as Penance taken to Academy by Gateway (Generation X #1, 1994)", 
-                "vs Generation X, calmed by Chamber (Generation X #2-3, 1994-1995)", 
-                "with Generation X, investigated disappearance of Cassidy Keep (Generation X #8-9, 1995)", 
-                "suffered relapse, slipped into coma (Generation X \u201995 Annual, 1995)", 
-                "recovered, telepathically probed by Emma (Generation X #12, 1996)", 
-                "with Generation X, captured by and subsequently opposed Emplate (Generation X #13-14, 1996)", 
-                "with Generation X, opposed D\u2019Spayre (Generation X \u201997 Annual, 1997)", 
-                "aided headmasters in opposing Black Tom (Generation X #25, 1997)", 
-                "with headmasters, searched for teammates during Operation: Zero Tolerance (Generation X #26-31, 1997)", 
-                "twins\u2019 true identities revealed (Generation X #31, 1997)", 
-                "twins briefly merged with Emplate, learned of Monet\u2019s fate (Generation X #34-39, 1998)", 
-                "Monet's transformation into Penance revealed and reversed, twins became Penance (Generation X #40, 1998)", 
-                "briefly lost telepathy (Generation X #42-45, 1998)", 
-                "full name & nationality revealed (Generation X #46, 1998)", 
-                "with Generation X, alongside Forge, vs Paradox (Generation X #47, 1999)", 
-                "began flirting with Everett, with Generation X, alongside X-Man, vs Gene Nation (Generation X #50/X-Man #50, 1999)", 
-                "with Generation X, trapped by Adrienne Frost, freed by Emma (Generation X #55-56, 1999)", 
-                "with Generation X, vs Emplate, twins freed from Penance form, Penance still sentient (Generation X #57, 1999)", 
-                "withdrawn from Massachusetts Academy, first kissed Everett, enrolled in private Swiss school (Generation X #58/Generation X \u201999 Annual/Generation X #60, 1999/2000)", 
-                "third Penance rejoined Generation X (Generation X #58, 1999)", 
-                "opposed vampiric headmaster, defeated him, returned to Massachusetts Academy (Generation X #61-62, 2000)", 
-                "began romance with Everett (Generation X #67, 2000)", 
-                "Everett killed in explosion (Generation X #70, 2000)", 
-                "with Generation X, investigated House of Corrections (Generation X #64-66, 2000)", 
-                "with Jubilee, vs train hijackers (Generation X #72, 2001)", 
-                "Generation X disbanded, Academy closed (Generation X #75, 2001)", 
-                "with X-Corps (Uncanny X-Men #403, 2002)", 
-                "alongside X-Men, vs rogue X-Corps members (Uncanny X-Men #406, 2002)", 
-                "X-Corps restructured as X-Corporation, vs Weapon XII (New X-Men #128-130, 2002)", 
-                "alongside X-Men & Juggernaut, vs Black Tom Cassidy (Uncanny X-Men #410-412, 2002)", 
-                "revealed to have retained mutant nature after \u201cM-Day\u201d (X-Men: The 198 Files, 2006)", 
-                "with X-Factor Investigations, saved depowered Rictor, convinced him to join (X-Factor #2, 2006)"
-            ], 
-            "speed": 3, 
-            "strength": 4, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": [
+        "Formerly Penance", 
+        "Penny"
+    ], 
+    "citizenship": [
+        "Bosnia", 
+        "Algeria", 
+        "and France"
+    ], 
+    "content": "", 
+    "durability": 5, 
+    "education": "Studies at Massachusetts Academy and DeLaCorte\u2019s Boarding School", 
+    "energy": 1, 
+    "eyes": "(As Penance) Blue; (as M) Brown\n", 
+    "fighting": 4, 
+    "firstappearance": "(Twins as Monet) Uncanny X-Men #316 (1994); (Monet as Penance) Generation X #1 (1994); (as Monet) Generation X #40 (1998); (twins as Penance) Generation X #40 (1998); (third Penance) Generation X #57 (1999)\n", 
+    "groupaffiliation": [
+        "X-Factor Investigations", 
+        "formerly X-Men", 
+        "X-Corporation", 
+        "X-Corps", 
+        "Generation X"
+    ], 
+    "hair": "(As Penance) Red; (as M) Black\n", 
+    "height": 67, 
+    "id": "M_(Monet_St._Croix)", 
+    "identity": "Secret", 
+    "intelligence": 5, 
+    "knownrelatives": "Cartier St. Croix (father), unidentified mother (deceased), Marius St. Croix (Emplate, brother), Claudette St. Croix (sister), Nicole St. Croix (sister), Penance/Hollow (unknown relationship)", 
+    "occupation": [
+        "Adventurer", 
+        "private investigator", 
+        "former student"
+    ], 
+    "origin": [
+        "Generation X #24 (1997)", 
+        "Generation X #40 (1998)"
+    ], 
+    "placeofbirth": [
+        "Sarajevo", 
+        "Bosnia"
+    ], 
+    "powers": "M's abilities include superhuman strength and speed, telepathy, flight, nigh-invulnerability, acute night vision, heightened hearing, and the ability to perceive mutants' auras. Her body's injuries heal at an accelerated rate. Her former Penance form was diamond-hard and super-dense, with clawed hands and feet and razor-sharp skin and hair.", 
+    "realname": "Monet Yvette Clarisse Maria Therese St. Croix", 
+    "significantissues": [
+        "Twins as Monet captured by Phalanx, rescued by X-Men (Uncanny X-Men #316-317/X-Men #36-37, 1994)", 
+        "twins joined Generation X, Monet as Penance taken to Academy by Gateway (Generation X #1, 1994)", 
+        "vs Generation X, calmed by Chamber (Generation X #2-3, 1994-1995)", 
+        "with Generation X, investigated disappearance of Cassidy Keep (Generation X #8-9, 1995)", 
+        "suffered relapse, slipped into coma (Generation X \u201995 Annual, 1995)", 
+        "recovered, telepathically probed by Emma (Generation X #12, 1996)", 
+        "with Generation X, captured by and subsequently opposed Emplate (Generation X #13-14, 1996)", 
+        "with Generation X, opposed D\u2019Spayre (Generation X \u201997 Annual, 1997)", 
+        "aided headmasters in opposing Black Tom (Generation X #25, 1997)", 
+        "with headmasters, searched for teammates during Operation: Zero Tolerance (Generation X #26-31, 1997)", 
+        "twins\u2019 true identities revealed (Generation X #31, 1997)", 
+        "twins briefly merged with Emplate, learned of Monet\u2019s fate (Generation X #34-39, 1998)", 
+        "Monet's transformation into Penance revealed and reversed, twins became Penance (Generation X #40, 1998)", 
+        "briefly lost telepathy (Generation X #42-45, 1998)", 
+        "full name & nationality revealed (Generation X #46, 1998)", 
+        "with Generation X, alongside Forge, vs Paradox (Generation X #47, 1999)", 
+        "began flirting with Everett, with Generation X, alongside X-Man, vs Gene Nation (Generation X #50/X-Man #50, 1999)", 
+        "with Generation X, trapped by Adrienne Frost, freed by Emma (Generation X #55-56, 1999)", 
+        "with Generation X, vs Emplate, twins freed from Penance form, Penance still sentient (Generation X #57, 1999)", 
+        "withdrawn from Massachusetts Academy, first kissed Everett, enrolled in private Swiss school (Generation X #58/Generation X \u201999 Annual/Generation X #60, 1999/2000)", 
+        "third Penance rejoined Generation X (Generation X #58, 1999)", 
+        "opposed vampiric headmaster, defeated him, returned to Massachusetts Academy (Generation X #61-62, 2000)", 
+        "began romance with Everett (Generation X #67, 2000)", 
+        "Everett killed in explosion (Generation X #70, 2000)", 
+        "with Generation X, investigated House of Corrections (Generation X #64-66, 2000)", 
+        "with Jubilee, vs train hijackers (Generation X #72, 2001)", 
+        "Generation X disbanded, Academy closed (Generation X #75, 2001)", 
+        "with X-Corps (Uncanny X-Men #403, 2002)", 
+        "alongside X-Men, vs rogue X-Corps members (Uncanny X-Men #406, 2002)", 
+        "X-Corps restructured as X-Corporation, vs Weapon XII (New X-Men #128-130, 2002)", 
+        "alongside X-Men & Juggernaut, vs Black Tom Cassidy (Uncanny X-Men #410-412, 2002)", 
+        "revealed to have retained mutant nature after \u201cM-Day\u201d (X-Men: The 198 Files, 2006)", 
+        "with X-Factor Investigations, saved depowered Rictor, convinced him to join (X-Factor #2, 2006)"
+    ], 
+    "speed": 3, 
+    "strength": 4, 
+    "universe": "Marvel Universe"
 }

@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Unrevealed", 
-            "citizenship": "Kree", 
-            "content": "Wraith was interrogated by Ronan who had been converted into the Phalanx super soldier known as the \"Select.\" Wraith eventually managed to escaped the Phalanx science lab, and he freed Praxagora and the Super Skrull in the process. The three of them escaped the Accuser known as Ronan. Together they destroyed a Phalanx battle cruiser, which happened to be attacking the ship of Ra-Veen. After a brief debate, Ra-Venn convinced the three warriors that they all would benefit, if they joined forces and battled the Phalanx together.", 
-            "durability": 1, 
-            "education": "Military training brilliant combat strategist, and a background in aviation.", 
-            "energy": 1, 
-            "eyes": "Red\n", 
-            "fighting": 1, 
-            "firstappearance": "Annihilation: Conquest Wraith #1 (2007)\n", 
-            "groupaffiliation": [
-                "New Inhuman Elite (second in command): Former", 
-                "leader of an unnamed band of rebels", 
-                "allied with Ronan"
-            ], 
-            "hair": "Red\n", 
-            "id": "Ra-Venn", 
-            "identity": "Not known to the inhabitants of Earth", 
-            "intelligence": 1, 
-            "knownrelatives": "Unrevealed", 
-            "occupation": [
-                "Rebel Soldier", 
-                "starship navigator"
-            ], 
-            "origin": "Unknown", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Ra-Venn is a blue skinned Kree, and possesses powers common to those of her race, superhuman strength and durability, this is due to their planet's higher gravity. It is unknown if she has any other hidden strengths.", 
-            "realname": "Ra-Veen", 
-            "significantissues": [
-                "Wraith seeks out Ra-Venn and her Rebels but he is captured in Phalanx invasion of their hidden base (Annihilation Conquest: Wraith #1 2007)", 
-                "The Phalanx boarding party breaches Ra-Venn\u2019s stronghold as she tries to avoid being captured (Annihilation Conquest: Wraith #2 2007)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "Unrevealed", 
+    "citizenship": "Kree", 
+    "content": "Wraith was interrogated by Ronan who had been converted into the Phalanx super soldier known as the \"Select.\" Wraith eventually managed to escaped the Phalanx science lab, and he freed Praxagora and the Super Skrull in the process. The three of them escaped the Accuser known as Ronan. Together they destroyed a Phalanx battle cruiser, which happened to be attacking the ship of Ra-Veen. After a brief debate, Ra-Venn convinced the three warriors that they all would benefit, if they joined forces and battled the Phalanx together.", 
+    "durability": 1, 
+    "education": "Military training brilliant combat strategist, and a background in aviation.", 
+    "energy": 1, 
+    "eyes": "Red\n", 
+    "fighting": 1, 
+    "firstappearance": "Annihilation: Conquest Wraith #1 (2007)\n", 
+    "groupaffiliation": [
+        "New Inhuman Elite (second in command): Former", 
+        "leader of an unnamed band of rebels", 
+        "allied with Ronan"
+    ], 
+    "hair": "Red\n", 
+    "id": "Ra-Venn", 
+    "identity": "Not known to the inhabitants of Earth", 
+    "intelligence": 1, 
+    "knownrelatives": "Unrevealed", 
+    "occupation": [
+        "Rebel Soldier", 
+        "starship navigator"
+    ], 
+    "origin": "Unknown", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Ra-Venn is a blue skinned Kree, and possesses powers common to those of her race, superhuman strength and durability, this is due to their planet's higher gravity. It is unknown if she has any other hidden strengths.", 
+    "realname": "Ra-Veen", 
+    "significantissues": [
+        "Wraith seeks out Ra-Venn and her Rebels but he is captured in Phalanx invasion of their hidden base (Annihilation Conquest: Wraith #1 2007)", 
+        "The Phalanx boarding party breaches Ra-Venn\u2019s stronghold as she tries to avoid being captured (Annihilation Conquest: Wraith #2 2007)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

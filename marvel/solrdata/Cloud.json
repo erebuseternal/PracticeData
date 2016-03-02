@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Carol Faber", 
-                "Danny Milligan"
-            ], 
-            "citizenship": [
-                "None", 
-                "but presumed by the general public to be an American citizen. Cloud has no criminal record."
-            ], 
-            "content": "", 
-            "durability": 1, 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "DEFENDERS #123\n", 
-            "groupaffiliation": "Former member of The Defenders", 
-            "hair": "Blond\n", 
-            "height": 66, 
-            "id": "Cloud", 
-            "intelligence": 1, 
-            "knownrelatives": "The Stars", 
-            "occupation": [
-                "Nebula", 
-                "former adventurer"
-            ], 
-            "origin": "DEFENDERS #149-150", 
-            "placeofbirth": [
-                "An unidentified area of space", 
-                "presumably in the Milky Way Galaxy."
-            ], 
-            "powers": "Cloud, in her nebula forms, possesses great power, including manipulation of matter and energy on a planetary scales, instantaneous travel across space, and the ability to hold a breathable atmosphere in her form.   She can also shrink or expand her form as needed.   She possessed the ability to take on human form and memory.", 
-            "realname": "None", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 120
-        }
-    }
+    "aliases": [
+        "Carol Faber", 
+        "Danny Milligan"
+    ], 
+    "citizenship": [
+        "None", 
+        "but presumed by the general public to be an American citizen. Cloud has no criminal record."
+    ], 
+    "content": "", 
+    "durability": 1, 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "DEFENDERS #123\n", 
+    "groupaffiliation": "Former member of The Defenders", 
+    "hair": "Blond\n", 
+    "height": 66, 
+    "id": "Cloud", 
+    "intelligence": 1, 
+    "knownrelatives": "The Stars", 
+    "occupation": [
+        "Nebula", 
+        "former adventurer"
+    ], 
+    "origin": "DEFENDERS #149-150", 
+    "placeofbirth": [
+        "An unidentified area of space", 
+        "presumably in the Milky Way Galaxy."
+    ], 
+    "powers": "Cloud, in her nebula forms, possesses great power, including manipulation of matter and energy on a planetary scales, instantaneous travel across space, and the ability to hold a breathable atmosphere in her form.   She can also shrink or expand her form as needed.   She possessed the ability to take on human form and memory.", 
+    "realname": "None", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 120
 }

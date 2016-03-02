@@ -1,35 +1,31 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "USA", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "World War Hulk: Gamma Corps #1 (2007)\n", 
-            "groupaffiliation": "Gamma Corps", 
-            "hair": "Black\n", 
-            "id": "Grey", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Glenn Talbot (brother, deceased), unidentified mother", 
-            "occupation": "Soldier", 
-            "origin": "World War Hulk: Gamma Corps #4 (2007)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "Grey has superhuman strength enabling him to lift 100 tons and appears able to control his transformations at will. It can be assumed he possesses super human endurance and durability since his powers come directly from a sample of Hulk's blood.", 
-            "realname": "Brian Talbot", 
-            "significantissues": [
-                "Grey killed Flux (World War Hulk: Gamma Corps #1, 2007)", 
-                "Grey snapped the Hulk's neck (World War Hulk: Gamma Corps #3, 2007)", 
-                "Grey's origin, caused the downfall of General Ryker only to take the Gamma Corps in a new direction (World War Hulk: Gamma Corps #4, 2007)", 
-                "went from fugitive to Norman Osborn's bounty hunter (Dark Reign: Made Men #1, 2009)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "USA", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "World War Hulk: Gamma Corps #1 (2007)\n", 
+    "groupaffiliation": "Gamma Corps", 
+    "hair": "Black\n", 
+    "id": "Grey", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Glenn Talbot (brother, deceased), unidentified mother", 
+    "occupation": "Soldier", 
+    "origin": "World War Hulk: Gamma Corps #4 (2007)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "Grey has superhuman strength enabling him to lift 100 tons and appears able to control his transformations at will. It can be assumed he possesses super human endurance and durability since his powers come directly from a sample of Hulk's blood.", 
+    "realname": "Brian Talbot", 
+    "significantissues": [
+        "Grey killed Flux (World War Hulk: Gamma Corps #1, 2007)", 
+        "Grey snapped the Hulk's neck (World War Hulk: Gamma Corps #3, 2007)", 
+        "Grey's origin, caused the downfall of General Ryker only to take the Gamma Corps in a new direction (World War Hulk: Gamma Corps #4, 2007)", 
+        "went from fugitive to Norman Osborn's bounty hunter (Dark Reign: Made Men #1, 2009)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

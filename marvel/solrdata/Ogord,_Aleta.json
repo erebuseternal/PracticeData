@@ -1,48 +1,44 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Light Giver", 
-                "Starhawk", 
-                "the One Who Knows"
-            ], 
-            "citizenship": [
-                "Planet Arcturus IV", 
-                "Reality-691"
-            ], 
-            "content": "The two Ogord children continued their sibling rivalry well into their adulthood, alongside reluctant Aleta, Stakar sought destiny in ruins of the Forbidden City, where he entered the temple of the malevolent Hawk God. There he discovered the Hawk God in his inert statue form. It was in this place that Stakar merged with Aleta through Hawk God\u2019s power, and the two siblings became the composite being known as Starhawk. Stakar built a brain-wave helmet from components found in temple. He had hoped to obtain knowledge of ancients, Aleta converted to disembodied consciousness fused with Hawk God statue after she triggered helmet. Intoxicated by her new found abilities the power-mad Aleta wrecked an Arcturian military air fleet. Stakar realized Aleta needed his wisdom to control Hawk God's power, thus the two siblings were fused together by a nuclear explosion.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Defenders # 27, (1975)\n", 
-            "groupaffiliation": [
-                "Formerly Avengers (honorary member in the 616 Reality)", 
-                "Guardians of the Galaxy"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 60, 
-            "id": "Ogord,_Aleta", 
-            "identity": "The general populace of Earth is unaware of Aleta's existences", 
-            "intelligence": 1, 
-            "knownrelatives": "Ogord (father,deceased), Salaan (mother, deceased), Major Victory (fianc\u00e9), Stakar (ex-husband and adoptive brother), Tara, Sita and John (children, all deceased)", 
-            "occupation": "Adventurer", 
-            "origin": [
-                "Marvel Presents #9-11 (1977)", 
-                "Guardians of the Galaxy #7", 
-                "45", 
-                "49-50 & 61-62 (1990", 
-                "1994 & 1995)"
-            ], 
-            "placeofbirth": "Arcturus IV", 
-            "powers": "As a member of the Arcturan race, Aleta possessed superhuman strength, stamina, durability, agility and reflexes, an extended lifespan, and immunity to most diseases. She also possessed the ability to manipulate into a tangible state, in doing so should use the as weapons, such a swords and shields or powerful energy blast. Aleta often used the light as flying discs, although as Starhawk she possessed the power of flight without the flying discs.", 
-            "realname": "Aleta Ogord", 
-            "significantissues": "See Handbook Bibliography", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Earth-691", 
-            "weight": 119
-        }
-    }
+    "aliases": [
+        "Light Giver", 
+        "Starhawk", 
+        "the One Who Knows"
+    ], 
+    "citizenship": [
+        "Planet Arcturus IV", 
+        "Reality-691"
+    ], 
+    "content": "The two Ogord children continued their sibling rivalry well into their adulthood, alongside reluctant Aleta, Stakar sought destiny in ruins of the Forbidden City, where he entered the temple of the malevolent Hawk God. There he discovered the Hawk God in his inert statue form. It was in this place that Stakar merged with Aleta through Hawk God\u2019s power, and the two siblings became the composite being known as Starhawk. Stakar built a brain-wave helmet from components found in temple. He had hoped to obtain knowledge of ancients, Aleta converted to disembodied consciousness fused with Hawk God statue after she triggered helmet. Intoxicated by her new found abilities the power-mad Aleta wrecked an Arcturian military air fleet. Stakar realized Aleta needed his wisdom to control Hawk God's power, thus the two siblings were fused together by a nuclear explosion.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Defenders # 27, (1975)\n", 
+    "groupaffiliation": [
+        "Formerly Avengers (honorary member in the 616 Reality)", 
+        "Guardians of the Galaxy"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 60, 
+    "id": "Ogord,_Aleta", 
+    "identity": "The general populace of Earth is unaware of Aleta's existences", 
+    "intelligence": 1, 
+    "knownrelatives": "Ogord (father,deceased), Salaan (mother, deceased), Major Victory (fianc\u00e9), Stakar (ex-husband and adoptive brother), Tara, Sita and John (children, all deceased)", 
+    "occupation": "Adventurer", 
+    "origin": [
+        "Marvel Presents #9-11 (1977)", 
+        "Guardians of the Galaxy #7", 
+        "45", 
+        "49-50 & 61-62 (1990", 
+        "1994 & 1995)"
+    ], 
+    "placeofbirth": "Arcturus IV", 
+    "powers": "As a member of the Arcturan race, Aleta possessed superhuman strength, stamina, durability, agility and reflexes, an extended lifespan, and immunity to most diseases. She also possessed the ability to manipulate into a tangible state, in doing so should use the as weapons, such a swords and shields or powerful energy blast. Aleta often used the light as flying discs, although as Starhawk she possessed the power of flight without the flying discs.", 
+    "realname": "Aleta Ogord", 
+    "significantissues": "See Handbook Bibliography", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Earth-691", 
+    "weight": 119
 }

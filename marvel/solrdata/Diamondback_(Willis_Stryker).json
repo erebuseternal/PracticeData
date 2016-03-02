@@ -1,41 +1,37 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A. with criminal record", 
-            "content": "", 
-            "durability": 2, 
-            "education": "High School (unfinished)", 
-            "energy": 1, 
-            "eyes": "Brown\n", 
-            "fighting": 5, 
-            "firstappearance": "Luke Cage, Hero for Hire#1 (1972)\n", 
-            "groupaffiliation": [
-                "Syndicate", 
-                "formerly Bloods"
-            ], 
-            "hair": "Black\n", 
-            "height": 76, 
-            "id": "Diamondback_(Willis_Stryker)", 
-            "identity": "Known to the authorities", 
-            "intelligence": 2, 
-            "knownrelatives": "None", 
-            "occupation": "Criminal", 
-            "origin": [
-                "Luke Cage", 
-                "Hero for Hire#1-2 (1972)"
-            ], 
-            "placeofbirth": [
-                "Harlem", 
-                "New York"
-            ], 
-            "powers": "None", 
-            "realname": "Willis Stryker", 
-            "significantissues": "Grew up with Carl Lucas, joined gangs with him, became love rivals, framed Lucas, became crimelord known as Diamondback, Lucas returned as Luke Cage, confronted by Cage, killed by own exploding knife (Luke Cage, Hero for Hire#1-2, 1972)", 
-            "speed": 2, 
-            "strength": 2, 
-            "universe": "Marvel Universe", 
-            "weight": 200
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A. with criminal record", 
+    "content": "", 
+    "durability": 2, 
+    "education": "High School (unfinished)", 
+    "energy": 1, 
+    "eyes": "Brown\n", 
+    "fighting": 5, 
+    "firstappearance": "Luke Cage, Hero for Hire#1 (1972)\n", 
+    "groupaffiliation": [
+        "Syndicate", 
+        "formerly Bloods"
+    ], 
+    "hair": "Black\n", 
+    "height": 76, 
+    "id": "Diamondback_(Willis_Stryker)", 
+    "identity": "Known to the authorities", 
+    "intelligence": 2, 
+    "knownrelatives": "None", 
+    "occupation": "Criminal", 
+    "origin": [
+        "Luke Cage", 
+        "Hero for Hire#1-2 (1972)"
+    ], 
+    "placeofbirth": [
+        "Harlem", 
+        "New York"
+    ], 
+    "powers": "None", 
+    "realname": "Willis Stryker", 
+    "significantissues": "Grew up with Carl Lucas, joined gangs with him, became love rivals, framed Lucas, became crimelord known as Diamondback, Lucas returned as Luke Cage, confronted by Cage, killed by own exploding knife (Luke Cage, Hero for Hire#1-2, 1972)", 
+    "speed": 2, 
+    "strength": 2, 
+    "universe": "Marvel Universe", 
+    "weight": 200
 }

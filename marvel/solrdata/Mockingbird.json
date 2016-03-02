@@ -1,63 +1,59 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "the Huntress", 
-                "Agent 19", 
-                "Roberta Morse", 
-                "once posed as Shooting Star"
-            ], 
-            "citizenship": "United States of America", 
-            "content": "Months later, during a time traveling adventure in 1876, Mockingbird was abducted, drugged and abused by the crazed vigilante called the Phantom Rider (Lincoln Slade), who attempted to force her to become his bride. Regaining her senses, Mockingbird fought the Rider to a cliff\u2019s edge and allowed him to fall to his death. After the West Coast Avengers returned to their home era, Mockingbird kept the nature of the Phantom Rider\u2019s death a secret. However, the Rider\u2019s ghost soon appeared and told the Avengers that she had been instrumental in his death, and had essentially murdered him. Distraught that an Avenger (especially his wife) had allowed a man to die, Hawkeye became estranged from his wife, and Mockingbird re-entered into government service. She participated in Operation: Vigilance, a program to provide protection from any potential threat from the Vision, only to rebel once she discovered the program's full agenda. Helping the Avengers to rescue the Vision, she was gradually reconciled with Hawkeye, though their relationship never fully recovered. Together they helped train the Great Lakes Avengers and Mockingbird became good friends with Ashley Crawford.", 
-            "durability": 1, 
-            "education": "PhD in biology", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Astonishing Tales #6 (1971)\n", 
-            "groupaffiliation": [
-                "Avengers", 
-                "formerly West Coast Avengers", 
-                "Great Lakes Avengers", 
-                "Legion of the Unliving", 
-                "S.H.I.E.L.D."
-            ], 
-            "hair": "Blonde\n", 
-            "height": 69, 
-            "id": "Mockingbird", 
-            "identity": "Secret", 
-            "intelligence": 1, 
-            "knownrelatives": "Clint Barton (Hawkeye, ex-husband)", 
-            "occupation": [
-                "Adventurer", 
-                "formerly private investigator", 
-                "covert government agent", 
-                "agent of S.H.I.E.L.D.", 
-                "biologist"
-            ], 
-            "origin": [
-                "Marvel Super Action #1 (1977)", 
-                "Hawkeye #2 (1983)"
-            ], 
-            "placeofbirth": [
-                "San Diego", 
-                "California"
-            ], 
-            "powers": "None", 
-            "realname": "Barbara \u201cBobbi\u201d Morse Barton", 
-            "significantissues": [
-                "First worked with Ka-Zar on behalf of S.H.I.E.L.D. (Astonishing Tales #6-8, #10-11, 1971-1972)", 
-                "teamed with Hawkeye against Crossfire and others, eloped with Hawkeye (Hawkeye #1-4, 1983)", 
-                "helped found West Coast Avengers (West Coast Avengers #1, 1984)", 
-                "time-traveled to 1876 with Avengers, drugged by Phantom Rider, sought revenge, allowed him to fall to his death (West Coast Avengers #18-23, 1987)", 
-                "apparently slain by Mephisto (West Coast Avengers #100, 1993)", 
-                "returns from Skrull homeworld (Secret Invasion #8)", 
-                "found the World Counter-terrorism Agency (New Avengers: Reunion #1-4)"
-            ], 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 135
-        }
-    }
+    "aliases": [
+        "the Huntress", 
+        "Agent 19", 
+        "Roberta Morse", 
+        "once posed as Shooting Star"
+    ], 
+    "citizenship": "United States of America", 
+    "content": "Months later, during a time traveling adventure in 1876, Mockingbird was abducted, drugged and abused by the crazed vigilante called the Phantom Rider (Lincoln Slade), who attempted to force her to become his bride. Regaining her senses, Mockingbird fought the Rider to a cliff\u2019s edge and allowed him to fall to his death. After the West Coast Avengers returned to their home era, Mockingbird kept the nature of the Phantom Rider\u2019s death a secret. However, the Rider\u2019s ghost soon appeared and told the Avengers that she had been instrumental in his death, and had essentially murdered him. Distraught that an Avenger (especially his wife) had allowed a man to die, Hawkeye became estranged from his wife, and Mockingbird re-entered into government service. She participated in Operation: Vigilance, a program to provide protection from any potential threat from the Vision, only to rebel once she discovered the program's full agenda. Helping the Avengers to rescue the Vision, she was gradually reconciled with Hawkeye, though their relationship never fully recovered. Together they helped train the Great Lakes Avengers and Mockingbird became good friends with Ashley Crawford.", 
+    "durability": 1, 
+    "education": "PhD in biology", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Astonishing Tales #6 (1971)\n", 
+    "groupaffiliation": [
+        "Avengers", 
+        "formerly West Coast Avengers", 
+        "Great Lakes Avengers", 
+        "Legion of the Unliving", 
+        "S.H.I.E.L.D."
+    ], 
+    "hair": "Blonde\n", 
+    "height": 69, 
+    "id": "Mockingbird", 
+    "identity": "Secret", 
+    "intelligence": 1, 
+    "knownrelatives": "Clint Barton (Hawkeye, ex-husband)", 
+    "occupation": [
+        "Adventurer", 
+        "formerly private investigator", 
+        "covert government agent", 
+        "agent of S.H.I.E.L.D.", 
+        "biologist"
+    ], 
+    "origin": [
+        "Marvel Super Action #1 (1977)", 
+        "Hawkeye #2 (1983)"
+    ], 
+    "placeofbirth": [
+        "San Diego", 
+        "California"
+    ], 
+    "powers": "None", 
+    "realname": "Barbara \u201cBobbi\u201d Morse Barton", 
+    "significantissues": [
+        "First worked with Ka-Zar on behalf of S.H.I.E.L.D. (Astonishing Tales #6-8, #10-11, 1971-1972)", 
+        "teamed with Hawkeye against Crossfire and others, eloped with Hawkeye (Hawkeye #1-4, 1983)", 
+        "helped found West Coast Avengers (West Coast Avengers #1, 1984)", 
+        "time-traveled to 1876 with Avengers, drugged by Phantom Rider, sought revenge, allowed him to fall to his death (West Coast Avengers #18-23, 1987)", 
+        "apparently slain by Mephisto (West Coast Avengers #100, 1993)", 
+        "returns from Skrull homeworld (Secret Invasion #8)", 
+        "found the World Counter-terrorism Agency (New Avengers: Reunion #1-4)"
+    ], 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 135
 }

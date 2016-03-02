@@ -1,36 +1,32 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "Bandit", 
-            "citizenship": "U.S.A.", 
-            "content": "Bandit soon became romantically involved with Silhouette.  She vanished when the New Warriors were scattered through time in a conflict between the immortal Sphinx and his reincarnated lover, Meryet Karim. Confronting the Warriors' support staff, Bandit agreed to lead other Warrior associates in search of the team, assembling a substitute Warriors roster. Teleported to Egypt by the alien power of Powerpax, they fought both the Sphinx and Karim. Then, upon the original team's return, they joined them in an all-out assault before the Sphinx and Karim merged into a composite being and vanished into the past.Angered by their relationship, Thrasher parted ways with Silhouette and Bandit, on worse terms than before. Bandit's own grudge was hardly resolved, and he sold information stolen from Thrasher's company, the Taylor Foundation, to competitors. When Silhouette discovered a former enemy, ex-drug dealer Scorch, was now doing business with Thrasher, she and Bandit disrupted a meeting and attacked both men.  Bandit had no real interest in the affair but gladly participated in anything to drive Thrasher and Silhouette further apart.", 
-            "durability": 3, 
-            "education": "Unrevealed", 
-            "energy": 5, 
-            "eyes": "Brown\n", 
-            "fighting": 6, 
-            "firstappearance": "Night Thrasher #3 (1993)\n", 
-            "groupaffiliation": "Avengers Resistence", 
-            "hair": "Black\n", 
-            "height": 76, 
-            "id": "Bandit", 
-            "identity": "Secret", 
-            "intelligence": 2, 
-            "knownrelatives": "Daryl Taylor (father, deceased), unidentified mother (deceased), Dwayne Taylor (Night Thrasher, half-brother, deceased)", 
-            "occupation": [
-                "Criminal", 
-                "adventurer"
-            ], 
-            "placeofbirth": [
-                "Chicago", 
-                "Illinois"
-            ], 
-            "powers": "Bandit generates electricity and channels it through other objects, such as the grappling hooks he launches from a specialized crossbow; the hooks penetrate his opponent's skin, and then open beneath it.. He uses throwing stars and other weapons as needed. Bandit is an accomplished marksman, acrobat, and hand-to-hand combatant.", 
-            "realname": "Donyell Taylor", 
-            "speed": 2, 
-            "strength": 3, 
-            "universe": "Marvel Universe", 
-            "weight": 300
-        }
-    }
+    "aliases": "Bandit", 
+    "citizenship": "U.S.A.", 
+    "content": "Bandit soon became romantically involved with Silhouette.  She vanished when the New Warriors were scattered through time in a conflict between the immortal Sphinx and his reincarnated lover, Meryet Karim. Confronting the Warriors' support staff, Bandit agreed to lead other Warrior associates in search of the team, assembling a substitute Warriors roster. Teleported to Egypt by the alien power of Powerpax, they fought both the Sphinx and Karim. Then, upon the original team's return, they joined them in an all-out assault before the Sphinx and Karim merged into a composite being and vanished into the past.Angered by their relationship, Thrasher parted ways with Silhouette and Bandit, on worse terms than before. Bandit's own grudge was hardly resolved, and he sold information stolen from Thrasher's company, the Taylor Foundation, to competitors. When Silhouette discovered a former enemy, ex-drug dealer Scorch, was now doing business with Thrasher, she and Bandit disrupted a meeting and attacked both men.  Bandit had no real interest in the affair but gladly participated in anything to drive Thrasher and Silhouette further apart.", 
+    "durability": 3, 
+    "education": "Unrevealed", 
+    "energy": 5, 
+    "eyes": "Brown\n", 
+    "fighting": 6, 
+    "firstappearance": "Night Thrasher #3 (1993)\n", 
+    "groupaffiliation": "Avengers Resistence", 
+    "hair": "Black\n", 
+    "height": 76, 
+    "id": "Bandit", 
+    "identity": "Secret", 
+    "intelligence": 2, 
+    "knownrelatives": "Daryl Taylor (father, deceased), unidentified mother (deceased), Dwayne Taylor (Night Thrasher, half-brother, deceased)", 
+    "occupation": [
+        "Criminal", 
+        "adventurer"
+    ], 
+    "placeofbirth": [
+        "Chicago", 
+        "Illinois"
+    ], 
+    "powers": "Bandit generates electricity and channels it through other objects, such as the grappling hooks he launches from a specialized crossbow; the hooks penetrate his opponent's skin, and then open beneath it.. He uses throwing stars and other weapons as needed. Bandit is an accomplished marksman, acrobat, and hand-to-hand combatant.", 
+    "realname": "Donyell Taylor", 
+    "speed": 2, 
+    "strength": 3, 
+    "universe": "Marvel Universe", 
+    "weight": 300
 }

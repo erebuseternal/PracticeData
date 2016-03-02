@@ -1,49 +1,45 @@
 {
-    "add": {
-        "doc": {
-            "aliases": [
-                "Jake Fury", 
-                "Jacques LaPoint", 
-                "Count Julio Scarlotti", 
-                "Nick Fury"
-            ], 
-            "citizenship": "U.S.A.", 
-            "content": "These successes led to Jake\u2019s envious resentment of his brother, especially since Jake never entered the WWII, opposed to the U.S. involvement. However, when visiting his family on leave, Jake was captured by Nick\u2019s enemy, the Nazi Colonel Klave. Nick rescued him, of course, but was captured himself. Jake helped the other Howling Commandos, who were also in New York, ultimately defeat Colonel Klave, and Nick and Jake reconciled, with Jacob following his brother into service.Unfortunately, Jake came to regret his decision, finding life in the army unpleasant and the war hardening him.  He again began to resent his brother, which eventually festered into deep-seated hatred.At some point, Jake Fury became a criminal leader and was invited to join other such criminals in forming the original Zodiac as Scorpio. Jake Fury used various cover identities as well, including that of racing car champion Count Julio Scarlotti. He also became the first man on Earth to hold the weapon called the Zodiac Key. The Key originated in another dimension, one whose existence depended on the intense conflict between the forces of good and evil and in which neither side entirely and permanently defeats the other. The Key was sent to Earth by the Brotherhood, believing that the struggle between good and evil there was more intense than in their own world, and the Key appeared to Jacob Fury, drawn to him by his great potential for doing evil, motivated by his intense hatred of his brother and of the society and governmental system that Nick Fury worked to protect.Scorpio first set about to assassinate Nick Fury, who had since become as Public Director of S.H.I.E.L.D. and was considered a threat to the Zodiac. After Scorpio had failed twice in assassination attempts against his brother, Nick Fury came face-to-face with Scorpio at a S.H.I.E.L.D. base in Las Vegas, Nevada. The two men battled one another, but Nick Fury remained unaware of Scorpio's true identity. Escaping, Scorpio climbed aboard his hovering skycraft, while a gun battle between two criminals took place nearby. Wounded, one of the gunmen, Mitch Hackett, accidentally fired at the aircraft, hitting its engines, and causing the aircraft to crash. Scorpio seemingly died in the explosion.But in actuality, the Zodiac Key, which was sentient, caused Jacob Fury's body to reform nearby. To spare Jacob the shock of knowing he had died and been resurrected, the Key implanted in his mind the belief that someone else had been the first Scorpio and had perished, and that Jacob had watched the explosion from nearby.Subsequently, Scorpio attacked and captured Nick Fury and then disguised himself as Nick. Scorpio then substituted the real Nick Fury for a Life Model Decoy that was about to undergo testing by S.H.I.E.L.D. to determine if it could survive various potential death traps. Scorpio, himself disguised as Nick Fury, watched the supposed LMD go through the harrowing tests. But when Nick Fury survived, Scorpio attempted to kill him before it was discovered who the supposed LMD really was. Scorpio and Nick Fury fought each other but the conflict was stopped short by the arrival of S.H.I.E.L.D. agents. Scorpio fled, removing the face mask that he had used to impersonate Nick. Knowing that the Nick Fury imposter was Scorpio, the real Fury pursued him and recognized him as Jake. But then Scorpio plunged out a window as four S.H.I.E.L.D. agents fired bullets at him. Scorpio was once again believed to have died, but no body was found in the river below.When Nick Fury continued to investigate his brother, he found the Zodiac Key at Jacob's hideout before Jacob himself could return there. Using the Key and Jake's Scorpio costume, Nick impersonated Scorpio to infiltrate the Zodiac. In the guise of Scorpio, Fury captured the Avengers and summoned the rest of the Zodiac to the Avengers Mansion, planning to free the Avengers and have them help him capture the other eleven members of the Zodiac. Unfortunately, the plan failed, although neither Fury nor the Avengers were seriously harmed, and the Zodiac escaped, with Aries taking possession of the Zodiac Key.Jacob Fury himself remained in hiding, allowing S.H.I.E.L.D. to believe him dead. When he discovered the Zodiac Key in a pawnshop, however, he bought it and again assumed the role of Scorpio. (This time, he did not rejoin Zodiac, as his place in Zodiac was taken by a new Scorpio, Jacques LaPoint.) Jake used the Key as an energy source for his \"Theater of Genetics,\" a laboratory where he created eleven LMDs to serve as members of his own, new Zodiac organization. He again tried to confront his brother, intent on killing him, but he and his Zodiac was defeated by the Defenders and their ally, Moon Knight. Jacob Fury, engulfed by despair at the failure of his plans, committed suicide by shooting himself. Nick Fury came to the scene and found his brother's corpse.", 
-            "durability": 1, 
-            "education": "Unrevealed; military training", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "(Jacob Fury) Sgt. Fury and his Howling Commandos #68; (Scorpio) Nick Fury, Agent of SHIELD #1\n", 
-            "groupaffiliation": [
-                "Zodiac (Cartel)", 
-                "leader of the Zodiac (LMDs)"
-            ], 
-            "hair": "Brown\n", 
-            "height": 0, 
-            "id": "Scorpio_(Jacob_Fury)", 
-            "identity": [
-                "Secret", 
-                "known to S.H.I.E.L.D."
-            ], 
-            "intelligence": 1, 
-            "knownrelatives": "Jack Fury (father, deceased), Katherine Fury (mother, presumed deceased), Nicholas \"Nick\" Fury (brother), Dawn Fury (sister), Mikel Fury (Scorpio, nephew), Rex Fury (alleged ancestor, deceased)", 
-            "occupation": [
-                "Criminal", 
-                "criminal leader", 
-                "(formerly) soldier"
-            ], 
-            "placeofbirth": [
-                "Hell\u2019s Kitchen", 
-                "New York City", 
-                "New York"
-            ], 
-            "powers": "When in possession of the Zodiac Key, his physical vitality was increased, keeping his strength and endurance in their prime.", 
-            "realname": "Jacob Fury", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 185
-        }
-    }
+    "aliases": [
+        "Jake Fury", 
+        "Jacques LaPoint", 
+        "Count Julio Scarlotti", 
+        "Nick Fury"
+    ], 
+    "citizenship": "U.S.A.", 
+    "content": "These successes led to Jake\u2019s envious resentment of his brother, especially since Jake never entered the WWII, opposed to the U.S. involvement. However, when visiting his family on leave, Jake was captured by Nick\u2019s enemy, the Nazi Colonel Klave. Nick rescued him, of course, but was captured himself. Jake helped the other Howling Commandos, who were also in New York, ultimately defeat Colonel Klave, and Nick and Jake reconciled, with Jacob following his brother into service.Unfortunately, Jake came to regret his decision, finding life in the army unpleasant and the war hardening him.  He again began to resent his brother, which eventually festered into deep-seated hatred.At some point, Jake Fury became a criminal leader and was invited to join other such criminals in forming the original Zodiac as Scorpio. Jake Fury used various cover identities as well, including that of racing car champion Count Julio Scarlotti. He also became the first man on Earth to hold the weapon called the Zodiac Key. The Key originated in another dimension, one whose existence depended on the intense conflict between the forces of good and evil and in which neither side entirely and permanently defeats the other. The Key was sent to Earth by the Brotherhood, believing that the struggle between good and evil there was more intense than in their own world, and the Key appeared to Jacob Fury, drawn to him by his great potential for doing evil, motivated by his intense hatred of his brother and of the society and governmental system that Nick Fury worked to protect.Scorpio first set about to assassinate Nick Fury, who had since become as Public Director of S.H.I.E.L.D. and was considered a threat to the Zodiac. After Scorpio had failed twice in assassination attempts against his brother, Nick Fury came face-to-face with Scorpio at a S.H.I.E.L.D. base in Las Vegas, Nevada. The two men battled one another, but Nick Fury remained unaware of Scorpio's true identity. Escaping, Scorpio climbed aboard his hovering skycraft, while a gun battle between two criminals took place nearby. Wounded, one of the gunmen, Mitch Hackett, accidentally fired at the aircraft, hitting its engines, and causing the aircraft to crash. Scorpio seemingly died in the explosion.But in actuality, the Zodiac Key, which was sentient, caused Jacob Fury's body to reform nearby. To spare Jacob the shock of knowing he had died and been resurrected, the Key implanted in his mind the belief that someone else had been the first Scorpio and had perished, and that Jacob had watched the explosion from nearby.Subsequently, Scorpio attacked and captured Nick Fury and then disguised himself as Nick. Scorpio then substituted the real Nick Fury for a Life Model Decoy that was about to undergo testing by S.H.I.E.L.D. to determine if it could survive various potential death traps. Scorpio, himself disguised as Nick Fury, watched the supposed LMD go through the harrowing tests. But when Nick Fury survived, Scorpio attempted to kill him before it was discovered who the supposed LMD really was. Scorpio and Nick Fury fought each other but the conflict was stopped short by the arrival of S.H.I.E.L.D. agents. Scorpio fled, removing the face mask that he had used to impersonate Nick. Knowing that the Nick Fury imposter was Scorpio, the real Fury pursued him and recognized him as Jake. But then Scorpio plunged out a window as four S.H.I.E.L.D. agents fired bullets at him. Scorpio was once again believed to have died, but no body was found in the river below.When Nick Fury continued to investigate his brother, he found the Zodiac Key at Jacob's hideout before Jacob himself could return there. Using the Key and Jake's Scorpio costume, Nick impersonated Scorpio to infiltrate the Zodiac. In the guise of Scorpio, Fury captured the Avengers and summoned the rest of the Zodiac to the Avengers Mansion, planning to free the Avengers and have them help him capture the other eleven members of the Zodiac. Unfortunately, the plan failed, although neither Fury nor the Avengers were seriously harmed, and the Zodiac escaped, with Aries taking possession of the Zodiac Key.Jacob Fury himself remained in hiding, allowing S.H.I.E.L.D. to believe him dead. When he discovered the Zodiac Key in a pawnshop, however, he bought it and again assumed the role of Scorpio. (This time, he did not rejoin Zodiac, as his place in Zodiac was taken by a new Scorpio, Jacques LaPoint.) Jake used the Key as an energy source for his \"Theater of Genetics,\" a laboratory where he created eleven LMDs to serve as members of his own, new Zodiac organization. He again tried to confront his brother, intent on killing him, but he and his Zodiac was defeated by the Defenders and their ally, Moon Knight. Jacob Fury, engulfed by despair at the failure of his plans, committed suicide by shooting himself. Nick Fury came to the scene and found his brother's corpse.", 
+    "durability": 1, 
+    "education": "Unrevealed; military training", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "(Jacob Fury) Sgt. Fury and his Howling Commandos #68; (Scorpio) Nick Fury, Agent of SHIELD #1\n", 
+    "groupaffiliation": [
+        "Zodiac (Cartel)", 
+        "leader of the Zodiac (LMDs)"
+    ], 
+    "hair": "Brown\n", 
+    "height": 0, 
+    "id": "Scorpio_(Jacob_Fury)", 
+    "identity": [
+        "Secret", 
+        "known to S.H.I.E.L.D."
+    ], 
+    "intelligence": 1, 
+    "knownrelatives": "Jack Fury (father, deceased), Katherine Fury (mother, presumed deceased), Nicholas \"Nick\" Fury (brother), Dawn Fury (sister), Mikel Fury (Scorpio, nephew), Rex Fury (alleged ancestor, deceased)", 
+    "occupation": [
+        "Criminal", 
+        "criminal leader", 
+        "(formerly) soldier"
+    ], 
+    "placeofbirth": [
+        "Hell\u2019s Kitchen", 
+        "New York City", 
+        "New York"
+    ], 
+    "powers": "When in possession of the Zodiac Key, his physical vitality was increased, keeping his strength and endurance in their prime.", 
+    "realname": "Jacob Fury", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 185
 }

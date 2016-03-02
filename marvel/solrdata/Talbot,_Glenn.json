@@ -1,40 +1,36 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "U.S.A.", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Military academy graduate", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Tales to Astonish #61 (1964)\n", 
-            "groupaffiliation": [
-                "US military", 
-                "formerly US Air Force Mobile Combat Force One (Hulkbusters)", 
-                "Operation: Hulk"
-            ], 
-            "hair": "Brown\n", 
-            "height": 73, 
-            "id": "Talbot,_Glenn", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Betty Ross Banner (Ex-Wife), Brian Talbot (brother)", 
-            "occupation": [
-                "Colonel", 
-                "US Air Force", 
-                "former commanding officer of Gamma Base", 
-                "security chief of Project: Greenskin and Los Alamos Missile Base (\"Desert Base\")"
-            ], 
-            "placeofbirth": "Unrevealed", 
-            "powers": "None", 
-            "realname": "Glenn Talbot", 
-            "significantissues": "Deceased (Incredible Hulk #260)", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 215
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "U.S.A.", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Military academy graduate", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Tales to Astonish #61 (1964)\n", 
+    "groupaffiliation": [
+        "US military", 
+        "formerly US Air Force Mobile Combat Force One (Hulkbusters)", 
+        "Operation: Hulk"
+    ], 
+    "hair": "Brown\n", 
+    "height": 73, 
+    "id": "Talbot,_Glenn", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Betty Ross Banner (Ex-Wife), Brian Talbot (brother)", 
+    "occupation": [
+        "Colonel", 
+        "US Air Force", 
+        "former commanding officer of Gamma Base", 
+        "security chief of Project: Greenskin and Los Alamos Missile Base (\"Desert Base\")"
+    ], 
+    "placeofbirth": "Unrevealed", 
+    "powers": "None", 
+    "realname": "Glenn Talbot", 
+    "significantissues": "Deceased (Incredible Hulk #260)", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 215
 }

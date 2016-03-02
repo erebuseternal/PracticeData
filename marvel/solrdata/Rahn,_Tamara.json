@@ -1,44 +1,40 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "\"Tammie\"", 
-            "citizenship": [
-                "Laab", 
-                "Atlantis"
-            ], 
-            "content": "While she was away from the planet of Laab, her people were conquered by the Fomalhauti race. The Fomalhauti forced them and the Haab into servitude. Several of the survivors came to be utilized by Xlyym, a member of the marauding Starblasters. In an attempt to destroy the planet of Earth, Xlyym sent the Haab to install two large thrusters on the Earth's oceans floor. His plan was to tear the planet in half, as a distraction for the Starblasters. His actions were witnessed by the Inhuman Triton, and the Atlantean Remora. Xlyym dispatched the Banari and Haab to attack Triton, while Remora set out after Tamara, to inform her that her people were on Earth. Tamara arrived with Tiger Shark, and aided the Banari against Triton, who was finally defeated by the Haab Zun.  Tamara along with the Sub-Mariner, Tiger Shark, Stingray, the Thing, and Invisible Woman set out to destroy Xlyym's destructive device, and found it guarded by the Sisterhood and the Haab within Challenger Deep. They deployed a bomb to destroy it. The bomb was put in place by the Haab Zun, who took the entire Sisterhood with him.", 
-            "durability": 1, 
-            "education": "College degree (Laab educational equivalent)", 
-            "energy": 1, 
-            "eyes": "Red (varies)\n", 
-            "fighting": 1, 
-            "firstappearance": "Sub-Mariner #58 (1973)\n", 
-            "groupaffiliation": [
-                "At'la'tique", 
-                "formerly Deep Six", 
-                "Sisterhood"
-            ], 
-            "hair": "Blonde\n", 
-            "height": 64, 
-            "id": "Rahn,_Tamara", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Evereh Rahn (Prime Brother/Fraternus Prime, husband, deceased), Trieste Rahn (co-wife, deceased)", 
-            "occupation": [
-                "Double agent", 
-                "terrorist leader", 
-                "former adventurer", 
-                "co-ruler", 
-                "warrior", 
-                "geologist"
-            ], 
-            "placeofbirth": "Unknown location on the aquatic planet of Laab", 
-            "powers": "Superhuman strength and durability, peak human speed and agility (in water) Superhuman strength (stronger than on land), water speed, stamina, agility and reflexes, besides the ability to survive underwater for indefinite periods, but not out of water for more than a few minutes", 
-            "realname": "Tamara Rahn", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe", 
-            "weight": 245
-        }
-    }
+    "aliases": "\"Tammie\"", 
+    "citizenship": [
+        "Laab", 
+        "Atlantis"
+    ], 
+    "content": "While she was away from the planet of Laab, her people were conquered by the Fomalhauti race. The Fomalhauti forced them and the Haab into servitude. Several of the survivors came to be utilized by Xlyym, a member of the marauding Starblasters. In an attempt to destroy the planet of Earth, Xlyym sent the Haab to install two large thrusters on the Earth's oceans floor. His plan was to tear the planet in half, as a distraction for the Starblasters. His actions were witnessed by the Inhuman Triton, and the Atlantean Remora. Xlyym dispatched the Banari and Haab to attack Triton, while Remora set out after Tamara, to inform her that her people were on Earth. Tamara arrived with Tiger Shark, and aided the Banari against Triton, who was finally defeated by the Haab Zun.  Tamara along with the Sub-Mariner, Tiger Shark, Stingray, the Thing, and Invisible Woman set out to destroy Xlyym's destructive device, and found it guarded by the Sisterhood and the Haab within Challenger Deep. They deployed a bomb to destroy it. The bomb was put in place by the Haab Zun, who took the entire Sisterhood with him.", 
+    "durability": 1, 
+    "education": "College degree (Laab educational equivalent)", 
+    "energy": 1, 
+    "eyes": "Red (varies)\n", 
+    "fighting": 1, 
+    "firstappearance": "Sub-Mariner #58 (1973)\n", 
+    "groupaffiliation": [
+        "At'la'tique", 
+        "formerly Deep Six", 
+        "Sisterhood"
+    ], 
+    "hair": "Blonde\n", 
+    "height": 64, 
+    "id": "Rahn,_Tamara", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Evereh Rahn (Prime Brother/Fraternus Prime, husband, deceased), Trieste Rahn (co-wife, deceased)", 
+    "occupation": [
+        "Double agent", 
+        "terrorist leader", 
+        "former adventurer", 
+        "co-ruler", 
+        "warrior", 
+        "geologist"
+    ], 
+    "placeofbirth": "Unknown location on the aquatic planet of Laab", 
+    "powers": "Superhuman strength and durability, peak human speed and agility (in water) Superhuman strength (stronger than on land), water speed, stamina, agility and reflexes, besides the ability to survive underwater for indefinite periods, but not out of water for more than a few minutes", 
+    "realname": "Tamara Rahn", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe", 
+    "weight": 245
 }

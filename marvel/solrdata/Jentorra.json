@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Citizen of the planet K'ai", 
-            "content": "", 
-            "durability": 1, 
-            "education": "Unrevealed, tutored by the Triad of Sorcerers", 
-            "energy": 1, 
-            "eyes": "Green\n", 
-            "fighting": 1, 
-            "firstappearance": "Realm of Kings:Son of Hulk #1 (2010)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Blonde\n", 
-            "id": "Jentorra", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Jarella (aunt), Visis (cousin)", 
-            "occupation": "Apprentice sorcerer", 
-            "placeofbirth": "The planet K'ai", 
-            "realname": "Jentorra", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Citizen of the planet K'ai", 
+    "content": "", 
+    "durability": 1, 
+    "education": "Unrevealed, tutored by the Triad of Sorcerers", 
+    "energy": 1, 
+    "eyes": "Green\n", 
+    "fighting": 1, 
+    "firstappearance": "Realm of Kings:Son of Hulk #1 (2010)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Blonde\n", 
+    "id": "Jentorra", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Jarella (aunt), Visis (cousin)", 
+    "occupation": "Apprentice sorcerer", 
+    "placeofbirth": "The planet K'ai", 
+    "realname": "Jentorra", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }

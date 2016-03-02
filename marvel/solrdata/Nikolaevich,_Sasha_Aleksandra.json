@@ -1,27 +1,23 @@
 {
-    "add": {
-        "doc": {
-            "aliases": "None", 
-            "citizenship": "Unrevealed", 
-            "content": "Sasha and Ana' attempt to kill Spider-Man in New York City failed, due to the interference of Daredevil and the savage Vermin. Disappointed an remorseful Ana returned to her mother with the badly beaten Vermin. Not willing to concede their plans of revenge, Sasha sought the aid of of Sergei's half-brother Dmitri Kravinoff, better known as the Chameleon. Sasha captured Cassandra Web a psychic and former ally of Spider-Man, as well as Mattie Franklin, the former Spider-Women.", 
-            "durability": 1, 
-            "education": "Unrevealed", 
-            "energy": 1, 
-            "eyes": "Blue\n", 
-            "fighting": 1, 
-            "firstappearance": "Amazing Spider-Man #567 (2009)\n", 
-            "groupaffiliation": "None", 
-            "hair": "Black\n", 
-            "id": "Nikolaevich,_Sasha_Aleksandra", 
-            "identity": "No dual identity", 
-            "intelligence": 1, 
-            "knownrelatives": "Sergei Kravinoff (husband, deceased), Ana (daughter)", 
-            "placeofbirth": "Unrevealed", 
-            "powers": "It is unknown if Sasha possesses any superhuman strength or abnormal powers.", 
-            "realname": "Sasha Aleksandra Nikolaevich", 
-            "speed": 1, 
-            "strength": 1, 
-            "universe": "Marvel Universe"
-        }
-    }
+    "aliases": "None", 
+    "citizenship": "Unrevealed", 
+    "content": "Sasha and Ana' attempt to kill Spider-Man in New York City failed, due to the interference of Daredevil and the savage Vermin. Disappointed an remorseful Ana returned to her mother with the badly beaten Vermin. Not willing to concede their plans of revenge, Sasha sought the aid of of Sergei's half-brother Dmitri Kravinoff, better known as the Chameleon. Sasha captured Cassandra Web a psychic and former ally of Spider-Man, as well as Mattie Franklin, the former Spider-Women.", 
+    "durability": 1, 
+    "education": "Unrevealed", 
+    "energy": 1, 
+    "eyes": "Blue\n", 
+    "fighting": 1, 
+    "firstappearance": "Amazing Spider-Man #567 (2009)\n", 
+    "groupaffiliation": "None", 
+    "hair": "Black\n", 
+    "id": "Nikolaevich,_Sasha_Aleksandra", 
+    "identity": "No dual identity", 
+    "intelligence": 1, 
+    "knownrelatives": "Sergei Kravinoff (husband, deceased), Ana (daughter)", 
+    "placeofbirth": "Unrevealed", 
+    "powers": "It is unknown if Sasha possesses any superhuman strength or abnormal powers.", 
+    "realname": "Sasha Aleksandra Nikolaevich", 
+    "speed": 1, 
+    "strength": 1, 
+    "universe": "Marvel Universe"
 }
