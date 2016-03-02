@@ -28,7 +28,7 @@ while soup:
         document = {"doc" : beaten}
         export = {"add" : document}
         export = json.dumps(export, sort_keys=True, indent=4)
-        file = open('solrdata/' + id, 'w')
+        file = open('solrdata/' + id + '.json', 'w')
         file.write(str(export))
     except:
         print('YIKES! Real Name was missing, didn\'t include')
