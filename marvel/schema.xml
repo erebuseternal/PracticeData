@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<schema name="marvel" version="1.5">
+  <!-- Our field types -->
+  <fieldType name="text" class="solr.TextField" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  
+  <fieldType name="long" class="solr.TrieLongField" precisionStep="0" positionIncrementGap="0"/>
+  <fieldType name="int" class="solr.TrieIntField" precisionStep="0" positionIncrementGap="0"/>
+  <fieldType name="string" class="solr.StrField" sortMissingLast="true" positionIncrementGap="0"/>
+
+  <!-- Our fields -->
+  <field name="aliases" type="text" indexed="true" stored="true" multiValued="true"/>
+  <field name="citizenship" type="text" indexed="true" stored="true" multiValued="true"/>
+  <field name="content" type="text" indexed="true" stored="true" />
+  <field name="durability" type="int" indexed="true" stored="true" />
+  <field name="education" type="text" indexed="true" stored="true" />
+  <field name="energy" type="int" indexed="true" stored="true" />
+  <field name="eyes" type="text" indexed="true" stored="true" />
+  <field name="fighting" type="int" indexed="true" stored="true" />
+  <field name="firstappearance" type="text" indexed="true" stored="true" />
+  <field name="groupaffiliation" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="hair" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="height" type="int" indexed="true" stored="true" />
+  <field name="id" type="string" indexed="true" stored="true" />
+  <field name="identity" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="intelligence" type="int" indexed="true" stored="true" />
+  <field name="knownrelatives" type="text" indexed="true" stored="true" />
+  <field name="occupation" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="origin" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="placeofbirth" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="powers" type="text" indexed="true" stored="true" />
+  <field name="realname" type="text" indexed="true" stored="true" />
+  <field name="significantissues" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="speed" type="int" indexed="true" stored="true" />
+  <field name="strength" type="int" indexed="true" stored="true" />
+  <field name="universe" type="text" indexed="true" stored="true" multiValued="true" />
+  <field name="weight" type="int" indexed="true" stored="true" />
+  
+  
+  <!-- now we set the key -->
+  <uniqueKey>id</uniqueKey>
+
+  <!-- this has to be added for the update log to work. I added the default value -->
+  <field name="_version_" type="long" indexed="true" stored="true" default="1"/>
+
+
+</schema>
